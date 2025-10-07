@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  quran-scraper:
+    build: .
+    container_name: quran-scraper
+    volumes:
+      - ./out:/app/out  # Mount the output directory
+    environment:
+      - NODE_ENV=production
