@@ -1,0 +1,50 @@
+001_00	Ina rantsuwa da iskõkin da ake sakõwa jẽre, sunã bin jũna.
+002_00	Sa'an nan, su zamã iskõki mãsu ƙarfi suna kaɗãwa da ƙarfi.
+003_00	Kuma, mãsu watsa rahama wãtsãwa.
+004_00	sa'an nan, da ãyõyi mãsu rarrabe gaskiya da ƙarya rarrabẽwa.
+005_00	Sa'an nan da malã'iku mãsu jẽfa tunãtarwa ga Manzanni.
+006_00	Domin yanke hamzari ko dõmin gargadi.
+007_00	Lalle ne, abin da ake yi muku wa'adi da shi tabbas mai aukuwa ne
+008_00	To, idan taurãri aka shãfe haskensu.
+009_00	Kuma, idan sama aka tsãge ta.
+010_00	Kuma, idan duwãtsu aka nike su.
+011_00	Kuma, idan manzanni aka ƙayyade lõkacin tãra su.
+012_00	Domin babbar rãnar da aka yi wa ajali.
+013_00	Domin rãnar rarrabẽwa.
+014_00	Kuma, me ya sanar da kai rãnar rarrabẽwa?
+015_00	Bone yã tabbata a rãnar nan, ga mãsu ƙaryatãwa!
+016_00	Ashe, ba Mu halakar da (mãsu ƙaryatãw) na farko ba.
+017_00	Sa'an nan, kuma zã Mu biyar musu da na ƙarshe?
+018_00	Haka nan, Muke aikatãwa da mãsu yin laifi.
+019_00	Bone yã tabbata a rãnar nan ga mãsu ƙaryatãwa!
+020_00	Ashe, ba Mu halitta ku daga wani ruwa wulakantacce ba.
+021_00	Sa'an nan Muka sanya shi a cikin wani wurin natsuwa amintacce.
+022_00	Zuwa ga wani gwargwadon mudda sananna.
+023_00	Sa'an nan, Muka nũna iyãwarMu? Madalla da Mu, Mãsu nũna iyãwa.
+024_00	Bone ya tabbata a rãnar nan ga mãsu ƙaryatãwa!
+025_00	Ashe, ba Mu sanya ƙasa matattarã ba.
+026_00	Ga rãyayyu da matattu,
+027_00	Kuma, Muka sanya, a cikinta, kafaffun duwãtsu maɗaukaka, kuma Muka shayar da ku ruwa mai dãɗi?
+028_00	Bone ya tabbata, a rãnar nan, ga mãsu ƙaryatãwa!
+029_00	Ku tafi zuwa ga abin da kuka kasance kuna ƙaryatãwa game da shi!
+030_00	Ku tafi zuwa ga wata inuwa mai rassa uku.
+031_00	Ita ba inuwar ba, kuma ba ta wadãtarwa daga harshen wuta.
+032_00	Lalle ne, ita, tanã jifã da tartsatsi kamar sõraye.
+033_00	Kamar dai su raƙumma ne baƙãƙe.
+034_00	Bone ya tabbata, a rãnar nan, ga mãsu ƙaryatãwa!
+035_00	Wannan, yini ne da bã zã su iya yin magana ba.
+036_00	Bã zã a yi musu izni ba, balle su kãwo hanzari.
+037_00	Bone ya tabbata, a rãnar nan, ga mãsu ƙaryatãwa!
+038_00	Wannan rãnar rarrabẽwa ce, Mun tattara ku tare da mutãnen farko.
+039_00	To, idan akwai wata dabara gare ku, sai ku yi ma Ni ita.
+040_00	Bone ya tabbata, a rãnar nan, ga mãsu ƙaryatãwa!
+041_00	Lalle ne, mãsu taƙawa suna a cikin inuwõwi da marẽmari.
+042_00	Da wasu 'ya'yan itãce irin waɗanda suke marmari.
+043_00	(A ce musu) "Ku ci ku sha cikin ni'ima sabõda abin da kuka kasance kuna aikatãwa."
+044_00	Lalle ne, Mũ haka Muke sãka wa mãsu kyautatãwa.
+045_00	Bone ya tabbata, a rãnar nan, ga mãsu ƙaryatãwa!
+046_00	(Ana ce musu) "Ku ci ku ji ɗan dãdi kaɗan, lalle ne dai ku mãsu laifi ne."
+047_00	Bone ya tabbata, a rãnar nan, ga mãsu ƙaryatãwa!
+048_00	Kuma, idan an ce musu: "Ku yi rukũ'i; bã zã su yi rukũ'in (salla) ba."
+049_00	Bone ya tabbata, a rãnar nan, ga mãsu ƙaryatãwa!
+050_00	To, da wane lãbãri (Littãfi), waninsa (Alƙur'ãni) zã su yi ĩmãni

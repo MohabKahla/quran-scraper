@@ -1,0 +1,5 @@
+001_00	Kwani hukuona jinsi Mola wako Mlezi alivyo watenda wale wenye tembo?
+002_00	Kwani hakujaalia vitimbi vyao kuharibika?
+003_00	Na akawapelekea ndege makundi kwa makundi,
+004_00	Wakiwatupia mawe ya udongo wa Motoni,
+005_00	Akawafanya kama majani yaliyo liwa!

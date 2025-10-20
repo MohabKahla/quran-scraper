@@ -1,0 +1,5 @@
+001_00	Siehst du nicht, wie dein Herr mit den Leuten des Elefanten verfuhr?
+002_00	Ließ Er nicht ihre List verlorengehen
+003_00	und sandte gegen sie Vögel in aufeinanderfolgenden Schwärmen,
+004_00	die sie mit Steinen aus gebranntem Lehm bewarfen,
+005_00	und sie so wie abgefressene Halme machte?

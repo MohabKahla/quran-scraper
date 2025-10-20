@@ -1,0 +1,11 @@
+001_00	Ina rantsuwa da dawãki mãsu gudu suna fitar da kũkan ciki.
+002_00	Mãsu ƙyasta wuta (da kõfatansu a kan duwatsu) ƙyastawa.
+003_00	Sa'an nan mãsu yin hari a lokacin asuba.
+004_00	Sai su motsar da ƙũra game da shi.
+005_00	Sai su shiga, game da ita (ƙũrar), a tsakãnin jama'ar maƙiya.
+006_00	Lalle ne mutum mai tsananin butulci ne ga Ubangijinsa.
+007_00	Lalle ne shi mai shaida ne a kan laifinsa dl haka.
+008_00	Kuma 1alle ne ga dũkiya shi mai tsananin so ne.
+009_00	Shin, bã ya da sanin lõkacin da aka tõne abin da yake cikin kaburbura.
+010_00	Aka bayyana abin da ke cikin zukata.
+011_00	Lalle ne Ubangijinsu, game da su a ranar nan Mai ƙididdigewa ne?

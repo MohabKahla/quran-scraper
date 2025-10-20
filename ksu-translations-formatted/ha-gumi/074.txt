@@ -1,0 +1,59 @@
+001_00	Yã wanda ya lulluɓa da mayãfi.
+002_00	Ka tãshi dõmin ka yi gargaɗi
+003_00	Kuma Ubangijinka, sai ka girmama Shi,
+004_00	Kuma tutãfinka, sai ka tsarkake su,
+005_00	Kuma gumãka, sai ka ƙaurace musu.
+006_00	Kada ka yi kyauta kana nẽman ƙãri
+007_00	Kuma sabõda Ubangijinka? Sai ka yi haƙure
+008_00	To, idan aka yi bũsa a cikin ƙaho.
+009_00	To, wannan, a rãnar nan, yini ne mai wuya
+010_00	A kan kãfirai, bã mai sauƙi ba ne.
+011_00	Ka bar Ni da wanda Na halitta, yana shi kaɗai,
+012_00	Kuma Na sanya masa dũkiya shimfiɗaɗɗiya
+013_00	Da ɗiyã halartattu,
+014_00	Kuma Na shimfiɗa? masa kõme shimfiɗãwa.
+015_00	Sa'an nan, yanã kwaɗayin in yi masa ƙãri!
+016_00	Faufau! Lalle ne, shĩ yã kasance, ga ãyõyinMu, mai tsaurin kai.
+017_00	Zã Ni kallafa masa wahala mai hauhawa.
+018_00	Lalle ne, Shi, yã yi tunãni, kuma yã ƙaddara (abin da zai faɗã game da Alƙur'ãni)
+019_00	Sabõda haka, aka la'ane shi, kamar yadda ya ƙaddara.
+020_00	Sa'an nan, aka la'ane shi kamar yadda ya ƙaddara.
+021_00	Sa'an nan, ya yi tunãni
+022_00	Sa'an nan, ya gintse huska? kuma ya yi murtuk.
+023_00	Sa'an nan, ya jũya bãya, kuma ya bunƙãsa,
+024_00	Sai ya ce: "Wannan abu dai bã kõme ba ne fãce wani sihiri, wanda aka ruwaito."
+025_00	"Wannan maganar mutum dai ce."
+026_00	Zã Ni ƙõna shi da Saƙar.
+027_00	Kuma mẽ ya sanar da kai abin da akẽ cẽwa Saƙar!
+028_00	Bã ta ragẽwa, kuma bã ta bari.
+029_00	Mai nãcẽwa ga jiki ce (da (ƙũna).
+030_00	A kanta akwai (matsara) gõma shã tara.
+031_00	Kuma ba Mu sanya ma'abũta wutã (wãto matsaranta) ba, fãce malã'iku, kuma ba Mu sanya adadinsu (gõma sha tara) ba, fãce dõmin fitina ga waɗanda suka kãfirta domin waɗanda
+031_01	aka bai wa littãfi su sãmi yaƙĩni kuma waɗanda suka yi ĩmãni su ƙãra ĩmãni, kuma waɗanda aka bai wa littãfi da mũminai bã zã su yi shakka ba,
+031_02	kuma domin wa ɗanda a cikin zukatansu akwai wata cuta da kãfirai su ce: "Mẽ Allah Yake nufi da wannan, ya kasance misãli?" Haka dai Allah ke ɓatar da
+031_03	wanda Ya so, kuma Ya shiryar da wanda ya so. Kuma bãbu wanda ya san mayãƙan Ubangijinka fãce Shi, kuma ita (wutar) ba ta kasance ba fãce wata tunãtarwa ce ga mutum.
+032_00	A'aha! Ina rantsuwa da watã.
+033_00	Da dare a lõkacin da ya jũyar da baya.
+034_00	Da sãfiya idan ta wãye.
+035_00	Ita (wutar) ɗayan manyan masĩfũ? ce.
+036_00	Mai gargaɗĩ ce ga mutum.
+037_00	Ga wanda ya so, daga cikinku, ya gabãta ko ya jinkirta.
+038_00	Kõwane rai ga abin da ya aikata jingina ce.
+039_00	Fãce mutãnen dãma.
+040_00	A cikin Aljanna suna tambayar jũna.
+041_00	Game da mãsu laifi.
+042_00	(Su ce musu) "Me ya shigar da ku a cikin Saƙar?"
+043_00	Suka ce: "Ba mu kasance munã a cikin mãsu salla ba."
+044_00	"Kuma ba mu kasance muna ciyar da matalautã ba."
+045_00	"Kuma mun kasance muna kũtsãwa tãre da mãsu kũtsãwa."
+046_00	"Mun kasance munã ƙaryata rãnar sãkamako."
+047_00	"Har gaskiya (wãto mutuwa) ta zo mana."
+048_00	Sabõda haka cẽton mãsu cẽto bã zai amfãne su ba.
+049_00	Haba! Me ya same su, suka zama mãsu bijirewa daga wa'azin gaskiya.
+050_00	Kamar dai sũ, jãkuna firgitattu ne.
+051_00	Sun gudu daga zãki.
+052_00	A'aha! Kõwãne mutum daga cikinsu yanã son a zo masa da takardu (da sũnansa) ana wãtsãwa
+053_00	A'aha! Kai dai, bã su jin tsõron Lãhira.
+054_00	A'aha! Lalle ne, shi (Alƙur'ãni) tunãtarwa ce.
+055_00	Dõmin wanda ya so, ya tuna.
+056_00	Kuma bã zã su tuna ba fãce idan Allah Ya so, Shi ne Ya cancanta a bi Shi da taƙawa kuma Ya cancanta ga Ya yi gãfara.

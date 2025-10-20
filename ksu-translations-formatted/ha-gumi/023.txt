@@ -1,0 +1,124 @@
+001_00	Lalle ne, Mũminai sun sãmi babban rabõ.
+002_00	Waɗanda suke a cikin sallarsu mãsu tawãli'u ne.
+003_00	Kuma waɗanda suke, sũdaga barin yasassar magana, mãsu kau da kai ne.
+004_00	Kuma waɗanda suke ga zakka mãsu aikatãwa ne.
+005_00	Kuma waɗanda suke ga farjõjinsu mãsu tsarẽwa ne.
+006_00	Fãce a kan mãtan aurensu, kõ kuwa abin da hannayen dãmansu suka mallaka to lalle sũ bã waɗanda ake zargi, ba, ne.
+007_00	Sabõda haka wanda ya nẽmi abin da ke bãyan wancan, to, waɗancan sũ ne mãsu ƙẽtarẽwar haddi.
+008_00	Kuma waɗanda suke, sũga amãnõninsu da alkawarinsu mãsu tsarẽwa ne.
+009_00	Kuma da waɗanda suke, sũ a kan sallõlinsu sunã tsarẽwa.
+010_00	Waɗannan, sũ ne magãda.
+011_00	Waɗanda suke gãdõn (Aljannar) Firdausi, su a cikinta madawwama ne.
+012_00	Kuma lalle ne, haƙĩƙa, Mun halitta mutum daga wani tsantsa daga lãka.
+013_00	Sa'an nan kuma Muka sanya shi, ɗigon maniyyi a cikin matabbata natsattsiya.
+014_00	Sa'an nan kuma Muka halitta shi gudan jini, sa'an nan Muka halitta gudan jinin tsõka, sa'an nan Muka halitta tsõkar ta zama ƙasũsuwa, sa'an nan Muka tufãtar da ƙasũsuwan da wani nãma sa'an nan kuma Muka ƙãga shi wata halitta dabam.
+014_01	Sabõda haka albarkun Allah sun bayyana, Shi ne Mafi kyaun mãsu halittawa.
+015_00	Sa'an nan kuma ku, bãyan wannan, lalle ne masu mutuwa ne.
+016_00	Sa'an nan kuma lalle ne kũ a Rãnar ¡iyãma, za a iãyar da ku,
+017_00	Kuma lalle ne haƙĩƙa Mun halitta, a samanku, hanyõyi bakwai, kuma ba Mu kasance, daga barin halittar, Mãsu shagala ba.
+018_00	Muka saukar da ruwa daga sama bisa gwargwado, sa'an nan Muka zaunar da shi a cikin ƙasa alhãli, lalle ne Mũ, a kan tafiyar da shi, Mãsu iyãwa ne.
+019_00	Sai Muka ƙãga muku, game da shi (ruwan), gõnaki daga daĩnai da inabõbi, kunã da, a cikinsu, 'ya'yan itãcen marmari mãsu yawa, kuma daga gare su kuke ci.
+020_00	Da wata itãciya, tanã fita daga dũtsin Sainã'a, tanã tsira da man shãfãwa, da man miya dõmin masu cĩ.
+021_00	Kuma lalle ne kunã da abin lũra a cikin dabbõbin ni'imõmi Munã shãyar da ku daga abin da yake a cikinsu, kuma kunã da a cikinsu abũbuwan amfãni mãsu yawa, kuma daga gare su kuke cĩ
+022_00	Kuma a kansu da a kan jirgin ruwa ake ɗaukar ku.
+023_00	Kuma lalle ne haƙĩƙa Mun aika Nũhu zuwa ga mutãnensa, sai ya ce: "Yã mutãnẽna! Ku bauta wa Allah. Bã ku da wani abin bautãwa waninsa. Shin, to, bã za ku yi taƙawa ba?"
+024_00	Sai mashãwarta waɗanda suka kãfirta daga mutãnensa, suka ce: "Wannan ba kõwa ba ne, fãce mutum misãlinku, yanã nufin ya ɗaukaka a kanku.
+024_01	Dã Allah Yã so, lalle ne dã Yã saukar da Malã'iku, Ba muji (kõme) ba, game da wannan, a cikin ubanninmu na farko."
+025_00	"Shi bai zamo kõwa ba fãce wani namiji ne, a gare shi akwai hauka, sai ku yi jinkiri da shi har wani lõkaci."
+026_00	Ya ce: "Ya Ubangijĩna! Ka taimakeni sabõda sun ƙaryatani."
+027_00	Sai Muka yi wahayi zuwa gare shi.
+027_01	"Ka sana'anta jirgin bisa ga idonMu, da wahayinMu. To, idan umuminMu ya jẽ, kuma tandã ta ɓuɓɓuga da ruwa, to, ka shigar a cikinta daga kõme, ma'aura biyu, da iyãlanka, sai wanda Magana ta gabãta a kansa, daga gare su, kuma kada ka rõƙẽ Ni (sabõda wani) a cikin waɗanda suka yi zãlunci, lalle ne sũ waɗanda ake nutsarwa ne.
+028_00	"Sa'an nan idan ka daidaitu kai da waɗanda ke tãre da kai a kan jirgin, sai ka ce: "Gõdiya ta tabbata ga Allah wanda Ya tsĩrar damu daga mutãne azzãlumai."
+029_00	"Kuma ka ce: 'Ya Ubangijĩna! Ka saukar da ni, saukarwa mai albarka. Kuma Kai ne Mafi alhẽrin mãsu saukarwa.'"
+030_00	Lalle ne a cikin wancan akwai ãyõyi, ko da yake Mun kasance, haƙẽƙa' Mãsu jarrabãwa.
+031_00	Sa'an nan kuma Muka ƙãga wani ƙarni na waɗansu dabam daga bãyansu.
+032_00	Sai Muka aika a cikinsu Manzo daga gare su. "Ku bauta wa Allah. Bã ku da wani abin bautãwa, sai Shi. Shin to, bã zã ku yi taƙawa ba?"
+033_00	Mashãwarta daga mutãnensa, waɗanda suka kãfirta kuma suka ƙaryata game da haɗuwa da Lãhira, kuma Muka ni'imtar da su a cikin rãyuwar dũniya, suka ce: "Wannan
+033_01	bã kõwa ba fãce wani mutum ne kamarku, yanã cĩ daga abin da kuke cĩ daga gare shi, kuma yanã shã daga abin da kuke shã."
+034_00	"Kuma lalle ne idan kun yi ɗã' a ga mutum misãlinku, lalle ne, a lõkacin nan, haƙĩƙa, kũ mãsu hasãra ne."
+035_00	"Shin, yanã yi muku wa'adin (cẽwa) lalle kũ, idan kun mutu kuma kuka kasance turɓãya da ɓasũsuwa lalle ne kũ waɗanda ake fitarwa ne?"
+036_00	"Faufau faufau ga abin da ake yi muku wa'adi da shi."
+037_00	"Rãyuwa ba ta zama ba fãce rãyuwarmu ta dũniya, munã mutuwa kuma munã rãyuwa, kuma ba mu zama waɗanda ake tãyarwa ba."
+038_00	"Bai zama kõwa ba fãce namiji, ya ƙirƙira ƙarya ga Allah, kuma ba mu zama, sabõda shi, mãsu ĩmãni ba."
+039_00	Ya ce: "Ya Ubangijĩna! Ka taimake ni sabõda sun ƙaryatã ni."
+040_00	Ya ce: "Daga abu kaɗan, lalle ne zã su wãyi gari sunã mãsu nadãma."
+041_00	Sai tsãwa ta kãma su da gaskiya, sai Muka sanya su tunkuɓa. Sabõda haka nĩsa ya tabbataga mutãne azzãlumai!
+042_00	Sa'an kuma Muka ƙãga halittar wasu ƙarnõni dabam daga bayãnsu.
+043_00	Wata al'umma bã ta gabãtar ajalinta, kuma bã zã su jinkirta ba.
+044_00	Sa'an nan kuma Muka aika da ManzanninMu jẽre a kõda yaushe Manzon wata al'umma ya jẽ mata, sai su ƙaryata shi, sabõda haka Muka biyar da sãshensu ga sãshe, kuma Muka sanya su lãbãrun hĩra.
+044_01	To, nĩsa ya tabbata ga mutãne (waɗanda) bã su yin ĩmãni!
+045_00	Sa'an nan kuma Muka aika Mũsã da ɗan'uwansa Hãrũna, game da ãyõyinMu da, dalĩli bayyananne.
+046_00	Zuwa ga Fir'auna da majalisarsa, sai suka kangara, alhãli sun kasance mutãne ne marinjãya.
+047_00	Sai suka ce: "Shin, zã Mu yi ĩmãni sabõda wasu mutãne biyu misãlinmu, alhãli kuwa mutãnensu a gare mu, mãsu bauta ne."
+048_00	Sai suka ƙaryata su sabõda haka suka kasance halakakku.
+049_00	Kuma lalle ne, haƙĩƙa, Mun bai wa Mũsã littãfi tsammaninsu zã su shiryu.
+050_00	Kuma Mun sanya ¦an Maryama, shi da uwarsa wata ãyã Kuma Muka tattara su zuwa ga wani tsauni ma'abũcin natsuwa da marẽmari.
+051_00	Yã ku Manzanni! Ku ci daga abũbuwa mãsu dãɗi kuma ku aikata aikin ƙwarai. Lalle Nĩga abin da kuke aikatãwa, Masani ne.
+052_00	Kuma lalle ne, wannan al'ummarku ce, al'umma guda, kuma Nĩ, Ubangijinku ne, sai ku bĩ Ni da taƙawa.
+053_00	Sai (al'ummar) suka yanyanke al'amarinsu a tsakãninsu guntu-guntu, kõwace ƙungiya sunã mãsu farin ciki da abin da yake a gare su.
+054_00	To, ka bar su a cikin ɓatarsu har a wani lõkaci.
+055_00	Shin, sunã zaton cẽwa abin da Muke taimakon su da shi daga dũkiya da ɗiya,
+056_00	Munã yi musu gaggãwa ne a cikin alhẽrõri?
+057_00	Lalle ne waɗanda suke mãsu sauna sabo da tsõron Ubangijinsu,
+058_00	Da waɗanda suke, game da ãyõyin Ubangijinsu sunã ĩmãni,
+059_00	Da waɗanda suke game da Ubangijinsu bã su yin shirki,
+060_00	Da waɗanda ke bãyar da abin da suka bãyar, alhãli kuwa zukãtansu sunã tsõrace dõmin sunã kõmãwa zuwa ga Ubangijinsu,
+061_00	Waɗancan sunã gaggãwar tsẽre a cikin ayyukan alhẽri, alhãli kuwa sunã mãsu tsẽrẽwa zuwa gare su (ayyukan alhẽri).
+062_00	Kuma bã Mu kallafa wa rai fãce abin iyawarsa, kuma a wurinMu akwai wani Littãfi wanda yake magana da gakiya, kuma sũ bã a zãluntar su.
+063_00	Ã'a, zukãtansu sunã cikin jãhilci daga wannan (magana), kuma sunã da waɗansu ayyuka, baicin wancan, sũ a gare su, mãsu aikatãwa ne.
+064_00	Har idan Mun kãma mani'imtansu da azãba, sai gã su sunã hargõwa.
+065_00	Kada ku yi hargowa a yau, lalle ne kũ, daga gare Mu bã a taimakon ku.
+066_00	Lalle ne, ãyõyĩNa sun kasance anã karãtun su a kanku, sai kuka kasance, a kan dugãduganku, kunã kõmãwa bãya.
+067_00	Kunã mãsu girman kai gare shi (Annabi), da hĩrã kunã alfãsha.
+068_00	Shin fa, ba su yi ta'ammalin maganar (Alƙur'ãni) ba, kõ abin da bai jẽ wa ubanninsu na farko ba ne ya jẽ musu?
+069_00	Kõ ba su san Manzonsu ba ne dõmin haka suke mãsu musu a gare shi?
+070_00	Kõ sunã cẽwa, "Akwai hauka gare shi?" Ã'a, yã zo musu da gaskiya, alhãli kuwa mafi yawansu, ga gaskiya, mãsu ƙi ne.
+071_00	Kuma dã gaskiya (Alƙur'ãni) yã bi son zuciyoyinsu, haƙĩƙa dã sammai da ƙasa da wanda yake a cikinsu sun ɓãci. Ã'a, Mun tafo musu da ambaton (darajar) su, sa'an nan sũ daga barin ambaton su mãsu bijirẽwa ne, bijirẽwa.
+072_00	Kõ kanã tambayar su wani harãji ne (a kan iyar da Manzanci a gare su)? To, harãjin Ubangijinka ne mafi alhẽri kuma Shĩ ne Mafi alhẽrin mãsu ciyarwa.
+073_00	Kuma lalle ne kai haƙĩƙa kanã kiran su zuwa ga hanya madaidaiciya.
+074_00	Kuma lalle waɗanda ba su yi ĩmãni da Lãhira ba mãsu karkacẽwa daga hanya ne.
+075_00	Kuma dã Mun ji tausayinsu, kuma Muka kuranye musu abin da yake tãre da su na cũta, lalle ne dã sun yi zurfi a cikin ɓatarsu, sunã ɗimuwa.
+076_00	Kuma lalle ne haƙĩƙa Munã kãma su da azãba sai dai ba su saukar da kai ba, ga Ubangijinsu, kama bã su yin tawãli'u.
+077_00	Har idan Mun bũɗe, akansu, wata ƙõfa mai azãba mai tsanani sai gã su a cikinta sunã mãsu mugi.
+078_00	Kuma Shi ne Wanda Ya ƙãga halittar ji da gani da zukãta dominku. Kaɗan ƙwarai kuke gõdẽwa.
+079_00	Kuma Shĩ ne Ya halitta ku a cikin ƙasa, kuma zuwa gare Shi ake tãyar da ku.
+080_00	Kuma Shĩ ne Wanda Yake rãyarwa, kuma Yanã matarwa, kuma a gare Shi ne sãɓawar dare da yini take. Shin, to, bã zã ku hankalta ba?
+081_00	Ã'a, sun faɗi misãlin abin da na farko suka faɗa.
+082_00	Suka ce: "Shin idan mun mutu kuma muka kasance turɓaya da ƙasũsuwa shin lal1e ne mu haƙĩƙa waɗanda ake tãyarwa ne?
+083_00	"Lalle ne, haƙĩƙa, an yi mana wa'adi, mũ da ubanninmu ga wannan a gabãni, wannan abu bai zama kõme ba, fãce tãtsũniyõyin na farko."
+084_00	Ka ce: "Wane ne da mulkin ƙasa da wanda ke a cikinta, idan kun kasance kunã sani?"
+085_00	Zã su ce: "Ta Allah ne." Ka ce, "Shin, to, bã zã ku yi tunãni ba?"
+086_00	Ka ce: "Wãne ne Ubangijin sammai bakwai kuma Ubangijin Al'arshi mai girma?"
+087_00	Zã su ce: "Na Allah ne." Ka ce, "Shin, to, bã zã ku bĩ Shi da taƙawa ba?"
+088_00	Ka ce: "Wãne ne ga hannunsa mallakar kõwane abu take alhãli kuwa shi yanã tsarẽwar wani, kuma ba a tsare kõwa daga gare shi, idan kun kasance kunã sani?"
+089_00	Zã su ce: "Ga Allah yake." Ka ce: "To, yãya ake sihirce ku?"
+090_00	Ã'a, Mun zo musu da gaskiya, kuma lalle ne sũ, haƙĩƙa, maƙaryata ne.
+091_00	Allah bai riƙi wani abin haihuwa ba, kuma bãbu wani abin bautãwa tãre da Shi.
+091_01	Idan haka ne (akwai abin bautawa tare da Shi), lalle ne dã kõwane abin bautawar ya tafi da abin da ya halitta, kuma lalle ne, dã waɗansu sun rinjãya a kan waɗansu, tsarki ya tabbata ga Allah, daga abin da suke siffantãwa.
+092_00	Masanin ɓõye da bayyane. sa'an nan Ya ɗaukaka daga barin abin da suke yi na shirka.
+093_00	Ka ce: "Yã Ubangijina! Ko dai Ka nũna mini abin da ake yi musu wa'adi da shi."
+094_00	"Yã Ubangijina, to, kada Ka sanya ni a cikin mutãne azzãlumai."
+095_00	Kuma lalle ne Mũ haƙĩƙa Mãsu iyawa ne a kan Mu nũna maka abin da Muke yi musu wa'adi da shi.
+096_00	Ka tunkuɗe cũta da wadda take ita ce mafi kyau. Mũ neMafi sani game da abin da suke siffantãwa.
+097_00	Ka ce: "Yã Ubangijĩna, inã nẽman tsari da Kai daga fizge-fizgen Shaiɗãnu."
+098_00	"Kuma inã nẽman tsari da Kai, ya Ubangijĩna! Dõmin kada su halarto ni, "
+099_00	Har idan mutuwa ta jẽ wa ɗayansu, sai ya ce: "Yã Ubangijina, Ku mayar da ni (dũniya)."
+100_00	"Tsammãnina in aikata aiki na ƙwarai cikin abin da na bari." Kayya! Lalle ne ita kalma ce, shĩ ne mafaɗinta, alhãli kuwa a bãya gare su akwai wani shãmaki har rãnar da zã a tãyar da su.
+101_00	Sa'an nan idan an yi bũsa a cikin ƙaho, to, bãbu dangantakõki a tsakãninsu a rãnar nan kuma bã zã su tambayi jũnansu ba.
+102_00	To, wadanda sikẽlinsu ya yi nauyi, to, waɗannan sũ ne mãsu babban rabo.
+103_00	Kuma waɗanda sikẽlinsu ya yi sauƙi, to, waɗannan ne waɗanda suka yi hasãrar rãyukansu sunã madawwama a cikin Jahannama.
+104_00	Fuskokinsu sunã balbalar wuta, kuma su a cikinta mãsu yãgaggun leɓɓa daga haƙõra ne.
+105_00	"Shin, ayõyĩNa ba su kasance anã karanta su a kanku ba sai kuka kasance game da su kunã ƙaryatãwa?"
+106_00	Suka ce: "Yã Ubangijinmu, shaƙãwamiu ce ta rinjãya a kanmu, kuma mun kasance mutãne ɓatattu."
+107_00	"Yã Ubangjinmu! Ka fitar da mu daga gare ta, sa'an nan idan mun kõma, to, lalle ne, mũ ne mãsu zãlunci."
+108_00	Ya ce: "Ku tafi (da wulãkanci) a cikinta. Kada ku yi Mini magana."
+109_00	Lalle ne waɗansu ƙungiyoyi daga bãyiNa sun kasance sunã cẽwa, "Yã Ubangijinmu! Mun yi ĩmãni, sai Ka gãfarta mana, kuma Ka yi mana rahama, kuma Kai ne Mafi alhẽrin mãsu tausayi."
+110_00	Sai kuka riƙe su lẽburõri har suka mantar da ku ambatõNa kuma kun kasance, daga gare su kuke yin dãriya.
+111_00	Lalle ne Nĩ Inã sãka musu a yau, sabõda abin da suka yi wa haƙuri. Dõmin lalle ne sũ sũ ne mãsu sãmun babban rabo.
+112_00	Ya ce: "Nawa kuka zauna a cikin ƙasa na ƙidãyar shẽkaru?"
+113_00	Suka ce: "Mun zauna a yini ɗaya ko rabin yini, sai ka tambayi mãsu ƙidãyãwa."
+114_00	Ya ce: "Ba ku zauna ba fãce kaɗan, dã dai kun kasance kunã sani."
+115_00	"Shin, to, kun yi zaton cẽwa Mun halitta ku ne da wãsa kuma lalle ku, zuwa gare Mu, bã zã ku kõmo ba?"
+116_00	Allah Mamallaki gaskiya, Yã ɗaukaka. Bãbu abin bautãwa, fãce Shi. Shĩ ne Ubangijin Al'arshi, mai daraja.
+117_00	Kuma wanda ya kira, tãre da Allah, waɗansu abũbuwan bautãwa na dabam, bã yanã da wani dalĩli game da shĩ (kiran) ba, to hisãbinsa yanã wurin Ubangijinsa kawai. Lalle ne, kãfirai bã su cin nasara.
+118_00	Kuma ka ce: "Yã Ubangijina! Ka yi gãfara, Ka yi rahama, kuma Kai ne Mafi alhẽrin mãsu rahama."

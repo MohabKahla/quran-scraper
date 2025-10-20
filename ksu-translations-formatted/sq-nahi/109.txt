@@ -1,0 +1,6 @@
+001_00	Thuaj: “O ju mohues!
+002_00	Unë nuk do ta adhurojë atë, që po e adhuroni ju,
+003_00	e as ju nuk do ta adhuroni Atë që po e adhuroj unë;
+004_00	Unë nuk kam adhuruar atë që e keni adhuruar ju,
+005_00	por, edhe ju nuk e keni adhuruar Atë, që po e adhuroj unë.
+006_00	Ju keni besimin tuaj, e unë kam besimin tim!”

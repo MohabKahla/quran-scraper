@@ -1,0 +1,51 @@
+I Messaggeri
+001_00	Per le inviate in successione .
+002_00	per quelle che impetuose tempestano.
+003_00	per quelle che si diffondono ampie.
+004_00	per quelle che separano con esattezza
+005_00	e per quelle che lanciano un monito
+006_00	di scusa o di avvertimento.
+007_00	In verità quello che vi è stato promesso avverrà.
+008_00	quando le stelle perderanno la luce
+009_00	e si fenderà il cielo
+010_00	e le montagne saranno disperse
+011_00	e sarà indicato il momento ai Messaggeri !…
+012_00	A quale giorno saranno rinviati.
+013_00	Al Giorno della Decisione .
+014_00	Chi mai ti dirà cos'è il Giorno della Decisione.
+015_00	Guai, in quel Giorno, a coloro che tacciano di menzogna .
+016_00	Già non facemmo perire gli antichi.
+017_00	E non li facemmo seguire dagli ultimi.
+018_00	Così trattiamo i colpevoli.
+019_00	Guai, in quel Giorno, a coloro che tacciano di menzogna.
+020_00	Non vi creammo da un liquido vile .
+021_00	che depositammo in un sicuro ricettacolo
+022_00	per un tempo stabilito .
+023_00	Siamo Noi che lo stabiliamo. Siamo i migliori nello stabilire.
+024_00	Guai, in quel Giorno, a coloro che tacciano di menzogna.
+025_00	Non abbiamo fatto della terra un luogo di riunione
+026_00	dei vivi e dei morti.
+027_00	Non vi ponemmo alte montagne? Non vi demmo da bere un'acqua dolce .
+028_00	Guai, in quel Giorno, a coloro che tacciano di menzogna.
+029_00	«Andate verso quel che tacciavate di menzogna.
+030_00	Andate verso un'ombra di tre colonne
+031_00	che non ombreggia e non ripara dalla vampa
+032_00	che proietta scintille come tronchi.
+033_00	che sembrano invero lastre di rame».
+034_00	Guai, in quel Giorno, a quelli che tacciano di menzogna.
+035_00	Sarà il Giorno in cui non potranno parlare.
+036_00	e non sarà dato loro il permesso di scusarsi.
+037_00	Guai, in quel Giorno, a coloro che tacciano di menzogna.
+038_00	È il Giorno della Decisione, in cui riuniremo voi e gli antichi.
+039_00	Se possedete uno stratagemma, usatelo dunque contro di Me.
+040_00	Guai, in quel Giorno, a coloro che tacciano di menzogna.
+041_00	I timorati saranno tra ombre e sorgenti.
+042_00	e frutti che brameranno.
+043_00	«Mangiate e bevete in pace, per quello che avete fatto».
+044_00	Compensiamo così coloro che compiono il bene.
+045_00	Guai, in quel Giorno, a coloro che tacciano di menzogna.
+046_00	«Mangiate e godete un poco , voi che siete criminali».
+047_00	Guai, in quel Giorno, a coloro che tacciano di menzogna.
+048_00	Quando si dice loro: «Inchinatevi» , non si inchinano.
+049_00	Guai, in quel Giorno, a coloro che tacciano di menzogna.
+050_00	A quale discorso mai crederanno, dopo di ciò?

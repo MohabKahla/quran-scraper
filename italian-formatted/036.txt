@@ -1,0 +1,83 @@
+001_00	Yâ, Sîn.
+002_00	Per il saggio Corano.
+003_00	In verità tu sei uno degli inviati
+004_00	su una retta via.
+005_00	Rivelazione del Potente, il Misericordioso.
+006_00	affinché tu avverta un popolo i cui avi non sono stati avvertiti e che dunque sono incuranti.
+007_00	Già si è realizzato il Decreto contro la maggior parte di loro: non crederanno.
+008_00	Sì, porremo ai loro colli gioghi che saliranno fino al mento: saranno irrigiditi.
+009_00	E metteremo una barriera davanti a loro e una barriera dietro di loro, poi li avvilupperemo affinché non vedano niente.
+010_00	Che tu li avverta oppure no, per loro sarà la stessa cosa, non crederanno.
+011_00	In verità avvertirai solo colui che segue il Monito e teme il Compassionevole in ciò che è invisibile. Annunciagli il perdono e generosa ricompensa.
+012_00	In verità siamo Noi a ridare la vita ai morti, registriamo quello che hanno fatto e le conseguenze dei loro atti. Abbiamo enumerato tutte le cose in un Archetipo esplicito.
+013_00	Proponi loro la metafora degli abitanti della città quando vi giunsero gli inviati.
+014_00	Quando gliene inviammo due, essi li trattarono da bugiardi. Mandammo loro il rinforzo di un terzo. Dissero: «In verità siamo stati inviati a voi».
+015_00	Risposero: «Non siete altro che uomini come noi: il Compassionevole non ha rivelato nulla, non siete altro che dei bugiardi».
+016_00	Dissero: «Il nostro Signore sa che in verità siamo stati inviati a voi
+017_00	con il solo obbligo della comunicazione esplicita».
+018_00	Dissero: «Siete di malaugurio. Se non desistete vi lapideremo, e vi faremo subire un severo castigo».
+019_00	Risposero: «Il malaugurio è su di voi. quando siete esortati? Siete gente perversa».
+020_00	Da un estremo della città giunse correndo un uomo. Disse: «O popol mio, seguite gli inviati.
+021_00	seguite coloro che non vi chiedono alcuna ricompensa e che sono ben diretti.
+022_00	Perché mai non dovrei adorare Colui Che mi ha creato e al Quale sarete tutti ricondotti.
+023_00	Mi prenderò altre divinità all'infuori di Lui? Se il Compassionevole volesse del male per me, la loro intercessione non mi gioverebbe in alcunché, né saprebbero salvarmi.
+024_00	sarei allora nell'errore evidente.
+025_00	In verità credo nel vostro Signore, ascoltatemi dunque!».
+026_00	Gli fu detto: «Entra nel Paradiso». Disse: «Se la mia gente sapesse
+027_00	come mi ha perdonato il mio Signore e mi ha posto tra coloro che sono onorati!».
+028_00	Dopo di lui non facemmo scendere dal cielo nessuna armata. Non abbiamo voluto far scendere nulla sul suo popolo.
+029_00	Non ci fu altro che il Grido, uno solo e furono spenti.
+030_00	Oh, miseria sui servi ! Non giunge loro un messaggero che essi non scherniscano.
+031_00	Non hanno visto quante generazioni abbiamo fatto perire prima di loro? Esse non torneranno mai più.
+032_00	E saranno tutti quanti obbligati a presentarsi davanti a Noi.
+033_00	Ecco un segno per loro: la terra morta cui ridiamo la vita e dalla quale facciamo uscire il grano che mangiate.
+034_00	Abbiamo posto su di essa giardini di palmeti e vigne e vi abbiamo fatto sgorgare le fonti.
+035_00	affinché mangiassero i Suoi frutti e quel che le loro mani non hanno procurato. Non saranno riconoscenti.
+036_00	Gloria a Colui Che ha creato le specie di tutto quello che la terra fa crescere, di loro stessi e di ciò che neppure conoscono.
+037_00	E un segno per loro la notte che spogliamo del giorno ed allora sono nelle tenebre.
+038_00	E il sole che corre verso la sua dimora : questo è il Decreto dell'Eccelso, del Sapiente.
+039_00	E alla luna abbiamo assegnato le fasi, finché non diventa come una palma invecchiata.
+040_00	Non sta al sole raggiungere la luna e neppure alla notte sopravanzare il giorno. Ciascuno vaga nella sua orbita.
+041_00	E un segno per loro, che portammo la loro progenie su di un vascello stracarico.
+042_00	E per loro ne creammo di simili sui quali s'imbarcano.
+043_00	Se volessimo li annegheremmo, e allora non avrebbero alcun soccorso e non sarebbero salvati
+044_00	se non da una Nostra misericordia e come temporaneo godimento.
+045_00	Quando si dice loro: «Temete ciò che vi sta dinnanzi e quello che è dietro di voi, affinché possiate essere oggetto di misericordia» .
+046_00	non giunge loro un solo segno, tra i segni del loro Signore, senza che se ne distolgano.
+047_00	E quando si dice loro: «Siate generosi di ciò che Allah vi ha concesso», i miscredenti dicono ai credenti: «Dovremmo nutrire chi sarebbe nutrito da Allah, se Lui lo volesse? Siete in evidente errore».
+048_00	E dicono: «Quando questa promessa se siete veridici?».
+049_00	Non aspettano altro che un Grido, uno solo, che li afferrerà mentre saranno in piena polemica.
+050_00	E non potranno dunque fare testamento e neppure ritornare alle loro famiglie.
+051_00	Sarà soffiato nel Corno ed ecco che dalle tombe si precipiteranno verso il loro Signore
+052_00	dicendo: «Guai a noi! Chi ci ha destato dalle nostre tombe ! È quello che il Compassionevole aveva promesso: gli inviati avevano detto il vero».
+053_00	Sarà solo un Grido, uno solo, e tutti saranno condotti davanti a Noi.
+054_00	E in quel Giorno nessuno subirà un torto e non sarete compensati se non per quello che avrete fatto.
+055_00	In quel Giorno, i compagni del Paradiso avranno gioiosa occupazione.
+056_00	essi e le loro spose, distesi all'ombra su alti letti.
+057_00	Colà avranno frutta e tutto ciò che desidereranno.
+058_00	E «Pace» sarà il saluto da un Signore misericordioso.
+059_00	E: «Tenetevi in disparte in quel Giorno, o iniqui.
+060_00	O figli di Adamo, non vi ho forse comandato di non adorare Satana – in verità è un vostro nemico dichiarato –
+061_00	e di adorare Me? Questa è la retta via.
+062_00	Egli ha sviato molti di voi. Non comprendete dunque.
+063_00	Ecco l'Inferno che vi è stato promesso.
+064_00	Bruciate in esso quest'oggi, poiché siete stati miscredenti!».
+065_00	In quel Giorno sigilleremo le loro bocche, parleranno invece le loro mani e le loro gambe daranno testimonianza di quello che avranno fatto.
+066_00	E se volessimo, cancelleremmo i loro occhi e si precipiterebbero allora sul sentiero. Ma come potrebbero vedere.
+067_00	E se volessimo li pietrificheremmo sul posto e non saprebbero né avanzare né ritornare indietro.
+068_00	Noi incurviamo la statura di tutti coloro ai quali concediamo una lunga vita. Non capiscono ancora.
+069_00	Non gli abbiamo insegnato la poesia, non è cosa che gli si addice; questa non è che un Monito e un Corano chiarissimo.
+070_00	affinché avverta ogni vivente e si realizzi il Decreto contro i miscredenti.
+071_00	Non hanno visto che tra ciò che abbiamo creato per loro con le Nostre mani, c'è il bestiame che essi possiedono.
+072_00	Lo abbiamo sottomesso a loro: di alcuni fanno cavalcature e di altri si nutrono.
+073_00	e ne traggono benefici e bevanda. Non saranno dunque riconoscenti.
+074_00	Si prendono divinità all'infuori di Allah, nella speranza di essere soccorsi.
+075_00	Esse non potranno soccorrerli, saranno anzi un'armata schierata contro di loro.
+076_00	Non ti affliggano i loro discorsi. Noi ben conosciamo quello che celano e quello che palesano.
+077_00	Non vede l'uomo che lo abbiamo creato da una goccia di sperma? Ed eccolo in spudorata polemica.
+078_00	Ci propone un luogo comune e, dimentico della sua creazione, «Chi ridarà la vita ad ossa polverizzate?».
+079_00	Di': «Colui Che le ha create la prima volta ridarà loro la vita. Egli conosce perfettamente ogni creazione.
+080_00	Egli è Colui Che nell'albero verde ha posto per voi un fuoco con cui accendete.
+081_00	Colui Che ha creato i cieli e la terra non sarebbe capace di creare loro simili? Invece sì! Egli è il Creatore incessante, il Sapiente.
+082_00	Quando vuole una cosa, il Suo ordine consiste nel dire «Sii» ed essa è.
+083_00	Gloria a Colui nella Cui mano c'è la sovranità su ogni cosa, Colui al Quale - - sarete ricondotti.

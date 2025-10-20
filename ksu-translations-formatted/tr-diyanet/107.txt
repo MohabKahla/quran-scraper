@@ -1,0 +1,7 @@
+001_00	Dini yalan sayanı gördün mü?
+002_00	Öksüzü kakıştıran, yoksulu doyurmaya yanaşmayan kimse işte odur.
+003_00	Öksüzü kakıştıran, yoksulu doyurmaya yanaşmayan kimse işte odur.
+004_00	Vay o namaz kılanların haline ki:
+005_00	Onlar kıldıkları namazdan gafildirler.
+006_00	Onlar gösteriş yaparlar.
+007_00	Onlar basit şeyleri dahi vermezler.

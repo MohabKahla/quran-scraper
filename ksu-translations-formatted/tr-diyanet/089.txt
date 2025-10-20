@@ -1,0 +1,30 @@
+001_00	Tanyerinin ağarmasına and olsun;
+002_00	Zilhicce ayının ilk on gecesine and olsun;
+003_00	Herşeyin çiftine de, tekine de and olsun;
+004_00	Gelip geçen geceye and olsun ki, bunların her biri akıl sahibi için birer yemine değmez mi?
+005_00	Gelip geçen geceye and olsun ki, bunların her biri akıl sahibi için birer yemine değmez mi?
+006_00	Rabbinin, hiçbir memlekette benzeri ortaya konmayan sütunlara sahip İrem şehrinde oturan Ad milletine ne ettiğini görmedin mi?
+007_00	Rabbinin, hiçbir memlekette benzeri ortaya konmayan sütunlara sahip İrem şehrinde oturan Ad milletine ne ettiğini görmedin mi?
+008_00	Rabbinin, hiçbir memlekette benzeri ortaya konmayan sütunlara sahip İrem şehrinde oturan Ad milletine ne ettiğini görmedin mi?
+009_00	Vadide kayaları kesip yontan Semud milletine, memleketlerde aşırı giden, oralarda bozgunculuğu artıran, sarsılmaz bir saltanat sahibi Firavun'a Rabbinin ne ettiğini görmedin mi?
+010_00	Vadide kayaları kesip yontan Semud milletine, memleketlerde aşırı giden, oralarda bozgunculuğu artıran, sarsılmaz bir saltanat sahibi Firavun'a Rabbinin ne ettiğini görmedin mi?
+011_00	Vadide kayaları kesip yontan Semud milletine, memleketlerde aşırı giden, oralarda bozgunculuğu artıran, sarsılmaz bir saltanat sahibi Firavun'a Rabbinin ne ettiğini görmedin mi?
+012_00	Vadide kayaları kesip yontan Semud milletine, memleketlerde aşırı giden, oralarda bozgunculuğu artıran, sarsılmaz bir saltanat sahibi Firavun'a Rabbinin ne ettiğini görmedin mi?
+013_00	Rabbin onları azap kırbacından geçirmiştir.
+014_00	Doğrusu Rabbin hep gözetlemektedir.
+015_00	Rabbin denemek için bir insana iyilik edip, nimet verdiği zaman, o: "Rabbim beni şerefli kıldı" der.
+016_00	Ama onu sınamak için rızkını daraltıp bir ölçüye göre verdiği zaman: "Rabbim bana hor baktı" der.
+017_00	Hayır; yetime karşı cömert davranmıyorsunuz.
+018_00	Yoksulu yedirmek konusunda birbirinize özenmiyorsunuz.
+019_00	Size kalan mirası hak gözetmeden yiyorsunuz.
+020_00	Malı pek çok seviyorsunuz.
+021_00	Ama yer, çarpılıp paralandığı zaman;
+022_00	Melekler sıra sıra dizilip, Rabbinin buyruğu gelince,
+023_00	O gün, cehennem ortaya konur. O gün insan öğüt almaya çalışır ama artık öğütten ona ne?
+024_00	"Keşke bu hayatım için önceden bir şey yapsaymışım" der.
+025_00	O gün, hiç kimse, Allah'ın azabettiği gibi azabedemez.
+026_00	Hiç kimse O'nun vurduğu bağ gibisini bağlayamaz.
+027_00	Ey huzur içinde olan can!
+028_00	O, senden, sen de O'ndan hoşnut olarak Rabbine dön!
+029_00	Ey can! İyi kullarımın arasına gir.
+030_00	Cennetime gir.

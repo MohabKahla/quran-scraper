@@ -1,0 +1,60 @@
+001_00	¡Por los que levantan un torbellino!*
+002_00	¡Por las que son portadoras de una carga*.
+003_00	¡Por las que se deslizan con facilidad!*
+004_00	¡Por los que distribuyen un mandato!*
+005_00	Que lo que se os ha prometido es verdad.
+006_00	Y la Rendición de Cuentas tendrá lugar.
+007_00	¡Por el cielo de caminos hermosos!
+008_00	Que decís cosas contradictorias.
+009_00	Será apartado quien haya sido apartado*.
+010_00	¡Que mueran los embusteros!
+011_00	Esos que están inmersos en un abismo.
+012_00	Preguntarán: ¿Cuándo será el Día de la Retribución?
+013_00	El día en el que ellos serán puestos al Fuego.
+014_00	¡Gustad vuestro tormento! Esto es lo que pedíais con urgencia
+015_00	Los que hayan sido temerosos estarán en jardines y manantiales,
+016_00	recibiendo lo que su Señor les dé. Antes habían hecho el bien.
+017_00	Era poco lo que dormían de noche,
+018_00	y en el tiempo anterior al alba pedían perdón.
+019_00	Y de sus bienes, había una parte que era derecho del mendigo y del indigente.
+020_00	En la tierra hay signos para los que tienen certeza.
+021_00	Y en vosotros mismos. ¿Es que no vais a ver?
+022_00	Y en el cielo está vuestro sustento y lo que se os ha prometido.
+023_00	Y por el Señor del cielo y de la tierra que todo esto es tan cierto como que habláis.
+024_00	¿Ha llegado hasta ti el relato de los honorables huéspedes de Ibrahim,
+025_00	cuando se presentaron ante él y dijeron?: Paz.Contestó: Paz, gente desconocida
+026_00	Entonces se retiró a su familia y vino con un hermoso ternero.
+027_00	Lo acercó a ellos diciendo: ¿No vais a comer?
+028_00	Entonces sintió recelo de ellos. Dijeron: No temas.Y le anunciaron un niño sabio.
+029_00	Y apareció su mujer gritando y dándose palmadas en la cara, y dijo: ¿Una vieja estéril?
+030_00	Dijeron: Así lo ha dicho tu Señor, Él es el Sabio, el Conocedor.
+031_00	Dijo: ¿Y cuál es vuestra misión, enviados?
+032_00	Dijeron: Hemos sido enviados a una gente que hace el mal,
+033_00	para mandar contra ellos piedras de arcilla
+034_00	marcadas junto a tu Señor y destinadas a los que excedieron los límites*
+035_00	y para sacar de allí a los creyentes que haya.
+036_00	Aunque sólo hemos encontrado una casa de sometidos*.
+037_00	Y dejamos en ella un signo para los que temieran el castigo doloroso.
+038_00	Y Musa, cuando lo enviamos a Firaún con una prueba evidente.
+039_00	Pero éste, con lo que lo sostenía*, se desentendió y dijo: Es un mago o un poseso.
+040_00	Lo agarramos a él y a sus ejércitos arrojándolos al mar, y quedó reprobado.
+041_00	Y los Ad, cuando mandamos contra ellos el viento aciago.
+042_00	Nada de lo que alcanzó quedó sin estar marchito.
+043_00	Y los Zamud cuando se les dijo: Disfrutad hasta que se cumpla un tiempo fijado.
+044_00	Desobedecieron el mandato de su Señor y fueron fulminados mientras miraban.
+045_00	No pudieron levantarse y no tuvieron quien los auxiliara.
+046_00	Y antes, la gente de Nuh.Era una gente que se había desviado.
+047_00	Hemos edificado el cielo con solidez. Somos capaces.
+048_00	Y la tierra la hemos preparado para vivir en ella.¡Con qué excelencia la hemos extendido!
+049_00	Y hemos creado dos parejas de cada cosa para que tal vez reflexionarais.
+050_00	Así pues refugiaos en Allah, pues realmente yo soy, de Su parte, un claro advertidor para vosotros.
+051_00	Y no pongáis junto a Allah a otro dios pues realmente yo soy, de Su parte, un claro advertidor.
+052_00	Así es. No hubo mensajero de los venidos a los antepasados del que no dijeran: Es un mago o un poseso.
+053_00	¿Es que os lo habéis encomendado unos a otros?Pero no, sólo son una gente que va más allá de los limites.
+054_00	Apártate de ellos porque tú no serás reprochado.
+055_00	Y hazles recordar, porque llamar al recuerdo beneficia a los creyentes.
+056_00	Y no he creado a los genios y a los hombres sino para que Me adoren.
+057_00	No quiero de ellos provisión ni quiero que Me alimenten.
+058_00	Allah es Quien provee, el Dueño del poder, el Fuerte.
+059_00	Los que han sido injustos tendrán una suerte similar a la de sus compañeros. Que no Me apremien.
+060_00	Y ¡Ay! de los que se niegan a creer por ese día que se les ha prometido.

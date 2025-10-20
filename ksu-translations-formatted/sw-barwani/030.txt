@@ -1,0 +1,74 @@
+001_00	Alif Lam Mim (A. L. M.)
+002_00	Warumi wameshindwa,
+003_00	Katika nchi iliyo karibu. Nao baada ya kushindwa kwao watashinda
+004_00	Katika miaka michache. Amri ni ya Mwenyezi Mungu kabla yake na baada yake. Na siku hiyo Waumini watafurahi.
+005_00	Kwa nusura ya Mwenyezi Mungu humnusuru amtakaye. Naye ndiye Mwenye nguvu Mwenye kurehemu.
+006_00	Ni ahadi ya Mwenyezi Mungu. Mwenyezi Mungu havunji ahadi yake. Lakini watu wengi hawajui.
+007_00	Wanajua hali ya dhaahiri ya maisha ya dunia, na wameghafilika na Akhera.
+008_00	Je! Hawajifikirii nafsi zao?
+008_01	Mwenyezi Mungu hakuumba mbingu na ardhi na viliomo ndani yake ila kwa Haki na kwa muda maalumu. Na hakika watu wengi bila ya shaka ni wenye kukataa kuwa watakutana na Mola wao Mlezi.
+009_00	Je!
+009_01	Hawatembei katika ardhi wakaona ulivyo kuwa mwisho wa walio kuwa kabla yao?
+009_02	Nao walikuwa na nguvu zaidi kuliko wao, na wakaitimbua ardhi na wakaistawisha zaidi kuliko walivyo istawisha wao. Na Mitume wao wakawajia na dalili zilizo wazi. Basi hakuwa Mwenyezi Mungu ni mwenye kuwadhulumu, lakini walikuwa wakijidhulumu nafsi zao.
+010_00	Kisha ulikuwa mwisho wa walio fanya ubaya ni kuzikanusha Ishara za Mwenyezi Mungu, na wakawa wanazifanyia maskhara.
+011_00	Mwenyezi Mungu huanzisha uumbaji, tena akaurudisha mara ya pili, na kisha mtarejeshwa kwake.
+012_00	Na itapo simama Saa wakosefu watakata tamaa.
+013_00	Wala hawatakuwa na waombezi miongoni mwa walio kuwa wakiwashirikisha na Mungu; na wao wenyewe watawakataa hao washirikishwa wao.
+014_00	Na siku itapo simama Saa, siku hiyo watagawanyika.
+015_00	Ama walio amini na wakatenda mema watafurahishwa katika Bustani.
+016_00	Na ama walio kufuru na wakazikanusha Ishara zetu na mkutano wa Akhera, hao basi watahudhurishwa katika adhabu.
+017_00	Basi Subhanallah! Mtakaseni Mwenyezi Mungu jioni na asubuhi,
+018_00	Na sifa zote njema ni zake katika mbingu na ardhi, na alasiri na adhuhuri.
+019_00	Hukitoa kilicho hai kutokana na kilicho kufa, na hukitoa kilicho kufa kutokana na kilicho hai. Na huihuisha ardhi baada ya kufa kwake. Na kama hivyo ndivyo mtavyo fufuliwa.
+020_00	Na katika Ishara zake ni kuwa kakuumbeni kwa udongo. Kisha mmekuwa watu mlio tawanyika kote kote.
+021_00	Na katika Ishara zake ni kuwa amekuumbieni wake zenu kutokana na nafsi zenu ili mpate utulivu kwao.
+021_01	Naye amejaalia mapenzi na huruma baina yenu. Hakika katika haya bila ya shaka zipo Ishara kwa watu wanao fikiri.
+022_00	Na katika Ishara zake ni kuumba mbingu na ardhi, na kutafautiana ndimi zenu na rangi zenu. Hakika katika hayo zipo Ishara kwa wajuzi.
+023_00	Na katika Ishara zake ni kulala kwenu usiku na mchana, na kutafuta kwenu fadhila zake. Hakika katika haya bila ya shaka zipo Ishara kwa watu wanao sikia.
+024_00	Na katika Ishara zake hukuonyesheni umeme kwa kukutieni khofu na tamaa.
+024_01	Na hukuteremshieni maji kutoka mbinguni, na kwa hayo huifufua ardhi baada ya kufa kwake. Hakika katika hayo zipo Ishara kwa watu wanao zingatia.
+025_00	Na katika Ishara zake ni kuwa mbingu na ardhi zimesimama kwa amri yake. Kisha atakapo kuiteni mwito mmoja tu, hapo mtatoka kwenye ardhi.
+026_00	Na vyake Yeye vilivyo mbinguni na katika ardhi. Vyote vinamt'ii Yeye.
+027_00	Na Yeye ndiye anaye anzisha uumbaji, kisha ataurudisha mara nyengine. Na jambo hili ni jepesi zaidi kwake. Naye ndiye mwenye mfano bora katika mbingu na ardhi. Na Yeye ndiye Mwenye nguvu, Mwenye hikima.
+028_00	Amekupigieni mfano kutokana na nafsi zenu.
+028_01	Je!
+028_02	Katika hao iliyo wamiliki mikono yenu ya kulia mnao washirika katika hivyo tulivyo kuruzukuni, mkawa nyinyi katika hivyo ni sawasawa, mnawaogopa kama mnavyo ogopana wenyewe kwa wenyewe? Namna hivi tunazipambanua Aya zetu kwa watu wenye akili.
+029_00	Bali walio dhulumu wamefuata mapendo ya nafsi zao pasina kujua. Basi nani atamwongoa ambaye Mwenyezi Mungu amemuacha apotee? Wala hao hawatakuwa na wa kuwanusuru.
+030_00	Basi uelekeze uso wako sawasawa kwenye Dini - ndilo umbile la Mwenyezi Mungu alilo waumbia watu. Hapana mabadiliko katika uumbaji wa Mwenyezi Mungu.
+030_01	Hiyo ndiyo Dini iliyo nyooka sawa. Lakini watu wengi hawajui.
+031_00	Muwe wenye kutubia kwake, na mcheni Yeye, na shikeni Sala, na wala msiwe katika washirikina.
+032_00	Katika wale ambao kwamba wameigawanya dini yao, na wakawa makundi makundi, kila kikundi kinafurahia kilicho nacho.
+033_00	Yakiwapata watu madhara humwomba Mola wao Mlezi nao wametubu kwake. Kisha akiwaonjesha rehema itokayo kwake, mara kikundi miongoni mwao humshirikisha Mola wao Mlezi,
+034_00	Kwa kuyakataa tuliyo wapa. Basi stareheni. Mtakuja jua!
+035_00	Au tumewateremshia hoja ambayo kwayo ndio wanafanya ushirikina?
+036_00	Na watu tunapo waonjesha rehema huifurahia, na ukiwasibu uovu kwa iliyo yatanguliza mikono yao wenyewe, mara wanakata tamaa.
+037_00	Kwani hawaoni kwamba Mwenyezi Mungu humkunjulia riziki amtakaye na humdhikisha amtakaye? Hakika katika hayo zipo Ishara kwa watu wanao amini.
+038_00	Basi mpe jamaa haki yake, na masikini, na msafiri. Hayo ni kheri kwa watakao radhi ya Mwenyezi Mungu. Na hao ndio wenye kufanikiwa.
+039_00	Na mnacho kitoa kwa riba ili kiongezeke katika mali ya watu, basi hakiongezeki mbele ya Mwenyezi Mungu.
+039_01	Lakini mnacho kitoa kwa Zaka kwa kutaka radhi ya Mwenyezi Mungu, basi hao ndio watao zidishiwa.
+040_00	Mwenyezi Mungu ndiye aliye kuumbeni, kisha akakuruzukuni, kisha anakufisheni, na kisha anakufufueni. Je!
+040_01	Yupo yeyote katika hao mnao washirikisha na Mwenyezi Mungu afanyae lolote katika hayo? Yeye ametakasika, na ametukuka na hayo mnayo mshirikisha naye.
+041_00	Ufisadi umedhihiri bara na baharini kwa iliyo yafanya mikono ya watu, ili Mwenyezi Mungu awaonyeshe baadhi ya waliyo yatenda. Huenda wakarejea kwa kutubu.
+042_00	Sema: Safirini duniani muangalie ulikuwaje mwisho wa walio tangulia. Wengi wao walikuwa washirikina.
+043_00	Basi uelekeze uso wako kwenye Dini Iliyo Nyooka kabla ya kufika Siku hiyo isiyo zuilika, inayo toka kwa Mwenyezi Mungu. Siku hiyo watu watatengana.
+044_00	Anaye kufuru basi ukafiri wake utakuwa juu yake mwenyewe, na anaye tenda mema, basi wanazitengezea nafsi zao.
+045_00	Ili awalipe walio amini na wakatenda mema kutokana na fadhila yake. Hakika Yeye hawapendi makafiri.
+046_00	Na katika Ishara zake ni kuzituma pepo ziletazo bishara njema, na ili kukuonjesheni baadhi ya rehema zake, na ili majahazi yende kwa amri yake; na mtafute kutokana na fadhila yake, na ili mumshukuru.
+047_00	Na hakika tulikwisha watuma Mitume kwa kaumu zao, na wakawajia kwa hoja zilizo wazi.
+047_01	Tukawaadhibu wale walio fanya ukosefu. Na ilikuwa ni haki juu yetu kuwanusuru Waumini.
+048_00	Mwenyezi Mungu ndiye anaye zituma pepo zikayatimua mawingu, kisha akayatandaza mbinguni kama apendavyo.
+048_01	Na akayafanya mapande mapande, basi ukaiona mvua inatoka ndani yake. Anapo wafikishia awatakao katika waja wake, mara hao huwa na furaha.
+049_00	Na ingawa kabla ya kuteremshiwa walikuwa wenye kukata tamaa.
+050_00	Basi ziangalie athari za rehema ya Mwenyezi Mungu, jinsi anavyo ihuisha ardhi baada ya kufa kwake. Basi hakika huyo ndiye bila ya shaka Mwenye kuhuisha wafu. Na Yeye ni Muweza wa kila kitu.
+051_00	Na tunge utuma upepo na wakauona umekuwa rangi ya manjano, juu ya hayo wange endelea kukufuru.
+052_00	Kwani wewe hakika huwafanyi maiti wakasikia, wala viziwi wakasikia wito wakisha geuka kukupa mgongo.
+053_00	Wala wewe huwaongoi vipofu na upotovu wao. Huwasikilizishi ila wanao ziamini Aya zetu. Hao ndio Waislamu, walio nyenyekea.
+054_00	Mwenyezi Mungu ndiye aliye kuumbeni kutokana na udhaifu kisha akajaalia nguvu baada ya unyonge, kisha akajaalia baada ya nguvu unyonge tena na ukongwe.
+054_01	Anaumba atakavyo. Naye ndiye Mjuzi, Mwenye uweza.
+055_00	Na siku itapo simama Saa wakosefu wataapa kwamba hawakukaa duniani ila saa moja tu. Hivyo ndivyo walivyo kuwa wakipotozwa.
+056_00	Na walio pewa ilimu na Imani watasema: Hakika nyinyi mlikwisha kaa katika hukumu ya Mwenyezi Mungu mpaka Siku ya kufufuliwa.
+056_01	Basi hii ndiyo Siku ya kufufuliwa! Lakini nyinyi mlikuwa hamuijui.
+057_00	Basi Siku hiyo hautawafaa walio dhulumu udhuru wao, wala haitotakiwa toba yao.
+058_00	Na hakika tulikwisha wapigia watu kila mfano katika hii Qur'ani. Na ukiwaletea Ishara yoyote hapana shaka walio kufuru watasema: Nyinyi si chochote ila ni waongo.
+059_00	Hivi ndivyo Mwenyezi Mungu anavyo piga muhuri kwenye nyoyo za wasio jua.
+060_00	Basi subiri. Hakika ahadi ya Mwenyezi Mungu ni ya haki. Wala wasikupaparishe hao wasio kuwa na yakini.

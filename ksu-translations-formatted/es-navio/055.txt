@@ -1,0 +1,78 @@
+001_00	El Misericordioso,
+002_00	Ha enseñado el Corán,
+003_00	ha creado al hombre,
+004_00	le ha enseñado a hablar*.
+005_00	El sol y la luna discurren por dos órbitas precisas.
+006_00	Y el astro y el árbol se postran.
+007_00	Ha elevado el cielo y ha puesto la balanza
+008_00	para que no abusarais al pesar
+009_00	y cumplierais el peso con equidad sin menoscabo.
+010_00	Ha hecho la tierra para las criaturas
+011_00	En ella hay frutas y palmeras con brotes en espatas.
+012_00	Semillas, que se convertirán en paja y arrayanes.
+013_00	¿Qué dones de vuestro Señor podréis ambos* negar?
+014_00	Creó al hombre de barro seco cual cerámica
+015_00	y creó a los genios de puro fuego.
+016_00	¿Qué dones de vuestro Señor podréis ambos negar?
+017_00	Señor de los dos nacientes y de los dos ponientes.*
+018_00	¿Qué dones de vuestro Señor podréis ambos negar?
+019_00	Ha dejado que los dos mares se encuentren libremente.
+020_00	Entre ambos hay un espacio que no traspasan.
+021_00	¿Qué dones de vuestro Señor podréis ambos negar?
+022_00	De ambos se obtienen perlas y coral.
+023_00	¿Qué dones de vuestro Señor podréis ambos negar?
+024_00	Suyas son las naves cuyas velas se alzan en el mar como picos montañosos.
+025_00	¿Qué dones de vuestro Señor podréis ambos negar?
+026_00	Todo cuanto en ella* hay, es perecedero.
+027_00	Pero la faz de tu Señor, Dueño de Majestad y Honor, permanece.
+028_00	¿Qué dones de vuestro Señor podréis ambos negar?
+029_00	A Él le piden todos los que están en los cielos y en la tierra.Cada día, Él está en algún asunto.*
+030_00	¿Qué dones de vuestro Señor podréis ambos negar?
+031_00	Nos encargaremos de vosotros, los dos que tenéis la responsabilidad*
+032_00	¿Qué dones de vuestro Señor podréis ambos negar?
+033_00	¡Genios y hombres juntos!Si podéis saliros de los confines del cielo y de la tierra, hacedlo... Pero no tendréis salida si no es con un poder.
+034_00	¿Qué dones de vuestro Señor podréis ambos negar?
+035_00	Se mandará contra vosotros una llamarada de fuego y cobre fundido y no os podréis auxiliar unos a otros.
+036_00	¿Qué dones de vuestro Señor podréis ambos negar?
+037_00	Cuando el cielo se raje y sea como el cuero rojo.
+038_00	¿Qué dones de vuestro Señor podréis ambos negar?
+039_00	Ese día a ningún genio ni hombre habrá que preguntarle por sus faltas.
+040_00	¿Qué dones de vuestro Señor podréis ambos negar?
+041_00	Los malhechores serán reconocidos por sus marcas y agarrados por el pelo y los pies.
+042_00	¿Qué dones de vuestro Señor podréis ambos negar?
+043_00	Este es Yahannam cuya existencia negaban los malhechores.
+044_00	Irán y volverán entre su fuego y un agua hirviendo.
+045_00	¿Qué dones de vuestro Señor podréis ambos negar?
+046_00	Y quien haya temido la comparecencia ante su Señor, tendrá dos jardines.
+047_00	¿Qué dones de vuestro Señor podréis ambos negar?
+048_00	De gran frondosidad.
+049_00	¿Qué dones de vuestro Señor podréis ambos negar?
+050_00	En ellos habrá dos manantiales surtiendo.
+051_00	¿Qué dones de vuestro Señor podréis ambos negar?
+052_00	En ellos habrá dos parejas de cada fruto.
+053_00	¿Qué dones de vuestro Señor podréis ambos negar?
+054_00	Estarán recostados en divanes tapizados de brocado.Los frutos de ambos jardines estarán al alcance de la mano.
+055_00	¿Qué dones de vuestro Señor podréis ambos negar?
+056_00	Allí habrá unas de mirada recatada a las que antes de ellos no habrá tocado hombre ni genio.
+057_00	¿Qué dones de vuestro Señor podréis ambos negar?
+058_00	Parecerán rubíes y coral.
+059_00	¿Qué dones de vuestro Señor podréis ambos negar?
+060_00	¿No es el bien la recompensa del bien*?
+061_00	¿Qué dones de vuestro Señor podréis ambos negar?
+062_00	Y además de ésos habrá dos jardines más.
+063_00	¿Qué dones de vuestro Señor podréis ambos negar?
+064_00	Tupidos.
+065_00	¿Qué dones de vuestro Señor podréis ambos negar?
+066_00	En ellos habrá dos fuentes manando.
+067_00	¿Qué dones de vuestro Señor podréis ambos negar?
+068_00	En ellos habrá frutas, palmeras y granados.
+069_00	¿Qué dones de vuestro Señor podréis ambos negar?
+070_00	Habrá unas, elegidas y hermosas.
+071_00	¿Qué dones de vuestro Señor podréis ambos negar?
+072_00	De ojos hermosísimos; resguardadas en tiendas.
+073_00	¿Qué dones de vuestro Señor podréis ambos negar?
+074_00	Antes de ellos ningún hombre ni genio las habrá tocado.
+075_00	¿Qué dones de vuestro Señor podréis ambos negar?
+076_00	Estarán recostados sobre verdes cojines y hermosos lechos.
+077_00	¿Qué dones de vuestro Señor podréis ambos negar?
+078_00	¡Bendito sea el nombre de tu Señor, Dueño de la Majestad y del Honor!

@@ -1,0 +1,41 @@
+L'Annuncio
+001_00	Su cosa si interrogano a vicenda.
+002_00	Sul grande Annuncio.
+003_00	a proposito del quale sono discordi.
+004_00	No, presto sapranno.
+005_00	Ancora no, presto sapranno.
+006_00	Non facemmo della terra una culla.
+007_00	delle montagne pioli.
+008_00	Vi abbiamo creato in coppie
+009_00	e facciamo del vostro sonno un riposo.
+010_00	della notte un indumento.
+011_00	e del giorno un mezzo per le incombenze della vita.
+012_00	Costruimmo sopra di voi sette solidi
+013_00	e vi ponemmo una lampada ardente .
+014_00	facciamo scendere dalle nuvole un'acqua abbondante
+015_00	per suscitare grano e vegetazione
+016_00	e giardini lussureggianti.
+017_00	Invero il Giorno della Decisione è stabilito.
+018_00	Il Giorno in cui verrà soffiato nel Corno, accorrerete a frotte.
+019_00	sarà spalancato il cielo e porte .
+020_00	e le montagne saranno messe in marcia, diventando un miraggio.
+021_00	Invero l'Inferno è in agguato.
+022_00	asilo per i ribelli.
+023_00	Vi dimoreranno per generazioni .
+024_00	senza gustare né freschezza né bevanda.
+025_00	eccetto acqua bollente o liquido infetto.
+026_00	Giusto compenso.
+027_00	non si aspettavano il rendiconto.
+028_00	sfrontatamente tacciavano di menzogna i Nostri segni.
+029_00	mentre di ogni cosa abbiamo tenuto conto per iscritto.
+030_00	E allora gustate! A voi non accresceremo null'altro che il castigo.
+031_00	In verità avranno successo i timorati.
+032_00	giardini e vigne.
+033_00	fanciulle dai seni pieni e coetanee.
+034_00	calici traboccanti.
+035_00	Non udranno colà né vanità né menzogna.
+036_00	compenso del tuo Signore, dono adeguato
+037_00	da parte del Signore dei cieli e della terra e di ciò che vi è frammezzo, del Compassionevole, Cui non oseranno rivolgere la parola.
+038_00	Il Giorno in cui lo Spirito e gli angeli si ergeranno in schiere, nessuno oserà parlare, eccetto colui cui il Compassionevole l'avrà permesso e che dirà cose vere.
+039_00	Quel Giorno ineluttabilmente. Si rifugi quindi presso il suo Signore chi vuole.
+040_00	In verità vi abbiamo avvertito di un castigo imminente, il Giorno in cui l'uomo vedrà quello che le sue mani avranno preparato e dirà il miscredente: «Ahimè, fossi io polvere!».

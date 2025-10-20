@@ -1,0 +1,19 @@
+001_00	Soma kwa jina la Mola wako Mlezi aliye umba,
+002_00	Amemuumba binaadamu kwa tone la damu,
+003_00	Soma! Na Mola wako Mlezi ni Karimu kushinda wote!
+004_00	Ambaye amefundisha kwa kalamu.
+005_00	Kamfundisha mtu aliyo kuwa hayajui.
+006_00	Kwani! Hakika mtu bila ya shaka huwa jeuri
+007_00	Akijiona katajirika.
+008_00	Hakika kwa Mola wako Mlezi ndio marejeo.
+009_00	Umemwona yule anaye mkataza
+010_00	Mja anapo sali?
+011_00	Umeona kama yeye yuko juu ya uwongofu?
+012_00	Au anaamrisha uchamngu?
+013_00	Umeona kama yeye akikanusha na anarudi nyuma?
+014_00	Hajui ya kwamba Mwenyezi Mungu anaona?
+015_00	Kwani! Kama haachi, tutamkokota kwa shungi la nywele!
+016_00	Shungi la uwongo, lenye makosa!
+017_00	Basi na awaite wenzake!
+018_00	Nasi tutawaita Mazabania!
+019_00	Hasha! Usimt'ii! Nawe sujudu na ujongee!

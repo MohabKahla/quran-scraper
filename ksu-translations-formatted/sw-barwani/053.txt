@@ -1,0 +1,64 @@
+001_00	Naapa kwa nyota inapo tua,
+002_00	Mwenzenu huyu hakupotea, wala hakukosea.
+003_00	Wala hatamki kwa matamanio.
+004_00	Hayakuwa haya ila ni ufunuo ulio funuliwa;
+005_00	Amemfundisha aliye mwingi wa nguvu,
+006_00	Mwenye kutua, akatulia,
+007_00	Naye yuko juu kabisa upeo wa macho.
+008_00	Kisha akakaribia na akateremka.
+009_00	Akawa ni kama baina ya mipinde miwili, au karibu zaidi.
+010_00	Akamfunulia mja wake (Mwenyezi Mungu) alicho mfunulia.
+011_00	Moyo haukusema uwongo uliyo yaona.
+012_00	Je! Mnabishana naye kwa aliyo yaona?
+013_00	Na akamwona mara nyingine,
+014_00	Penye Mkunazi wa mwisho.
+015_00	Karibu yake ndiyo ipo Bustani inayo kaliwa.
+016_00	Kilipo ufunika huo Mkunazi hicho kilicho ufunuika.
+017_00	Jicho halikuhangaika wala halikuruka mpaka.
+018_00	Kwa yakini aliona katika Ishara kubwa kabisa za Mola wake Mlezi.
+019_00	Je! Mmemuona Lata na Uzza?
+020_00	Na Manaat, mwingine wa tatu?
+021_00	Je! Nyinyi mnao wana wanaume na Yeye ndio awe na wanawake?
+022_00	Huo ni mgawanyo wa dhulma!
+023_00	Hayo hayakuwa ila ni majina mliyo wapa nyinyi na baba zenu. Mwenyezi Mungu hakuleta uthibitisho wowote juu ya hayo.
+023_01	Hawafuati ila dhana tu na kipendacho nafsi. Na kwa yakini uwongofu ulikwisha wafikia kutoka kwa Mola wao Mlezi.
+024_00	Ati mtu anakipata kila anacho kitamani?
+025_00	Mwenyezi Mungu tu ndiye Mwenye dunia na Akhera.
+026_00	Na wako Malaika wangapi mbinguni, ambao uombezi wao hautafaa chochote isipo kuwa baada ya Mwenyezi Mungu kutoa idhini kwa amtakaye na kumridhia.
+027_00	Hakika wasio amini Akhera bila ya shaka wao ndio wanawaita Malaika kwa majina ya kike.
+028_00	Nao hawana ujuzi wowote kwa hayo isipo kuwa wanafuata dhana tu. Na dhana haisaidii chochote mbele ya haki.
+029_00	Basi mwachilie mbali anaye upa kisogo ukumbusho wetu, na wala hataki ila maisha ya dunia.
+030_00	Huo ndio mwisho wao wa ujuzi. Hakika Mola wako Mlezi ndiye anaye mjua zaidi mwenye kuipotea njia yake, na Yeye ndiye anaye mjua zaidi mwenye kuongoka.
+031_00	Ni vya Mwenyezi Mungu vyote viliomo mbinguni na viliomo katika ardhi, ili awalipe walio tenda ubaya kwa waliyo yatenda, na walio tenda mema awalipe mema.
+032_00	Ambao wanajiepusha na madhambi makuu na vitendo vichafu, isipo kuwa makosa khafifu. Hakika Mola wako Mlezi ni Mkunjufu wa maghfira, naye anakujueni sana tangu alipo kuumbeni kutoka kwenye ardhi, na mlipo kuwa mimba matumboni mwa mama zenu.
+032_01	Basi msijisifu usafi. Yeye anamjua sana mwenye kujikinga na maovu.
+033_00	Je! Umemwona yule aliye geuka?
+034_00	Na akatoa kidogo, kisha akajizuia?
+035_00	Je! Anayo huyo ilimu ya ghaibu, basi ndio anaona?
+036_00	Au hakuambiwa yaliyomo katika Vitabu vya Musa?
+037_00	Na vya Ibrahimu aliye timiza ahadi?
+038_00	Ya kwamba hakika nafsi iliyo beba madhambi haibebi madhambi ya mwengine?
+039_00	Na ya kwamba hatapata mtu ila aliyo yafanya mwenyewe?
+040_00	Na kwamba vitendo vyake vitaonekana?
+041_00	Kisha ndio atalipwa malipo yake kwa ukamilifu.
+042_00	Na kwamba kwao Mola wako Mlezi ndio mwisho.
+043_00	Na kwamba Yeye ndiye anaye leta kicheko na kilio.
+044_00	Na kwamba Yeye ndiye anaye fisha na kuhuisha.
+045_00	Na kwamba Yeye ndiye aliye umba jozi, dume na jike
+046_00	Kutokana na mbegu ya uzazi inapo miminwa.
+047_00	Na kwamba ni juu yake ufufuo mwengine.
+048_00	Na kwamba ni Yeye ndiye anaye tosheleza na kukinaisha.
+049_00	Na kwamba hakika Yeye ndiye Mola Mlezi wa nyota ya Shii'ra.
+050_00	Na kwamba Yeye ndiye aliye waangamiza A'di wa kwanza,
+051_00	Na Thamudi hakuwabakisha,
+052_00	Na kabla yao kaumu ya Nuhu. Na hao hakika walikuwa ni madhaalimu zaidi, na waovu zaidi;
+053_00	Na miji iliyo pinduliwa, ni Yeye aliye ipindua.
+054_00	Vikaifunika vilivyo funika.
+055_00	Basi neema gani ya Mola wako Mlezi unayo ifanyia shaka?
+056_00	Hili ni Onyo katika maonyo yale yale ya zamani.
+057_00	Kiyama kimekaribia!
+058_00	Hapana wa kukifichua isipo kuwa Mwenyezi Mungu.
+059_00	Je! Mnayastaajabia maneno haya?
+060_00	Na mnacheka, wala hamlii?
+061_00	Nanyi mmeghafilika?
+062_00	Basi msujudieni Mwenyezi Mungu, na mumuabudu.

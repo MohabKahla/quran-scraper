@@ -1,0 +1,11 @@
+001_00	Bei der Morgenhelle
+002_00	und der Nacht, wenn sie (alles) umhüllt!
+003_00	Dein Herr hat sich weder von dir verabschiedet noch haßt Er (dich).
+004_00	Und das Jenseits ist wahrlich besser für dich als das Diesseits.
+005_00	Und dein Herr wird dir wahrlich geben, und dann wirst du zufrieden sein.
+006_00	Hat Er dich nicht als Waise gefunden und (dir) dann Zuflucht verschafft
+007_00	und dich irregehend gefunden und dann rechtgeleitet
+008_00	und dich arm gefunden und dann reich gemacht?
+009_00	Was nun die Waise angeht, so unterjoche (sie) nicht,
+010_00	und was den Bettler angeht, so fahre (ihn) nicht an,
+011_00	und was die Gunst deines Herrn angeht, so erzähle (davon).

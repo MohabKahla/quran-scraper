@@ -1,0 +1,31 @@
+001_00	Hakika kilimpitia binaadamu kipindi katika zama ambacho kwamba hakuwa kitu kinacho tajwa.
+002_00	Hakika Sisi tumemuumba mtu kutokana na mbegu ya uhai iliyo changanyika, tumfanyie mtihani. Kwa hivyo tukamfanya mwenye kusikia, mwenye kuona.
+003_00	Hakika Sisi tumembainishia Njia. Ama ni mwenye kushukuru, au mwenye kukufuru.
+004_00	Hakika Sisi tumewaandalia makafiri minyororo na pingu na Moto mkali.
+005_00	Hakika watu wema watakunywa katika vinywaji vilivyo changanyika na kafuri,
+006_00	Ni chemchem watakao inywa waja wa Mwenyezi Mungu, wakiifanya imiminike kwa wingi.
+007_00	Wanatimiza ahadi, na wanaiogopa siku ambayo shari yake inaenea sana,
+008_00	Na huwalisha chakula, juu ya kukipenda kwake, masikini, na yatima, na wafungwa.
+009_00	Hakika sisi tunakulisheni kwa wajihi wa Mwenyezi Mungu. Hatutaki kwenu malipo wala shukrani.
+010_00	Hakika sisi tunaiogopa kwa Mola wetu Mlezi hiyo siku yenye shida na taabu.
+011_00	Basi Mwenyezi Mungu atawalinda na shari ya siku hiyo, na atawakutanisha na raha na furaha.
+012_00	Na atawajazi Bustani za Peponi na maguo ya hariri kwa vile walivyo subiri.
+013_00	Humo wataegemea juu ya viti vya enzi, hawataona humo jua kali wala baridi kali.
+014_00	Na vivuli vyake vitakuwa karibu yao, na mashada ya matunda yataning'inia mpaka chini.
+015_00	Na watapitishiwa vyombo vya fedha na vikombe vya vigae,
+016_00	Vya fedha safi kama kiyoo, wamevipima kwa vipimo.
+017_00	Na humo watanyweshwa kinywaji kilicho changanyika na tangawizi.
+018_00	Hiyo ni chemchem iliyo humo inaitwa Salsabil.
+019_00	Na watawazungukia kuwatumikia wavulana wasio pevuka, ukiwaona utawafikiri ni lulu zilizo tawanywa.
+020_00	Na utakapo yaona, utakuwa umeona neema na ufalme mkubwa.
+021_00	Juu yao zipo nguo za hariri laini za kijani kibichi, na hariri nzito ya at'ilasi. Na watavikwa vikuku vya fedha, na Mola wao Mlezi atawanywesha kinywaji safi kabisa.
+022_00	Hakika haya ni malipo yenu; na juhudi zenu zimekubaliwa.
+023_00	Hakika Sisi tumekuteremshia Qur'ani kidogo kidogo.
+024_00	Basi ngojea hukumu ya Mola wako Mlezi wala usimt'ii miongoni mwao mwenye dhambi au mwenye kufuru.
+025_00	Na likumbuke jina la Mola wako Mlezi asubuhi na jioni;
+026_00	Na usiku msujudie Yeye, na umtakase usiku, wakati mrefu.
+027_00	Kwa hakika watu hawa wanapenda maisha ya kidunia, na wanaiacha nyuma yao siku nzito.
+028_00	Sisi tumewaumba, na tukavitia nguvu viungo vyao. Na tukitaka tutawabadilisha mfano wao wawe badala yao.
+029_00	Hakika haya ni mawaidha; basi anaye taka atashika Njia ya kwenda kwa Mola wake Mlezi.
+030_00	Wala hamwezi kutaka ila atakapo Mwenyezi Mungu. Hakika Mwenyezi Mungu ni Mwenye ilimu, Mwenye hikima.
+031_00	Humuingiza amtakaye katika rehema yake. Na wenye kudhulumu amewawekea adhabu iliyo chungu.

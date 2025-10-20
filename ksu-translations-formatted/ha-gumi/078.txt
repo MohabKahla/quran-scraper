@@ -1,0 +1,40 @@
+001_00	A kan mẽ suke tambayar jũna?
+002_00	A kan muhimmin lãbãri mai girma (Alƙur'ãni)?
+003_00	Wanda suke sãɓa wa jũna a cikinsa?
+004_00	A'aha! Zã su sani.
+005_00	Kuma, a'aha! Zã su sani.
+006_00	Ashe, ba Mu sanya ƙasa shimfiɗa ba?
+007_00	Da duwãtsu turaku (ga riƙe ƙasa)?
+008_00	Kuma, Mun halitta ku mazã da mãtã?
+009_00	Kuma, Muka sanya barcinku hũtãwa?
+010_00	Kuma, Muka sanya dare (ya zama) sutura?
+011_00	Kuma, Muka sanya yini (yazama) lõkacin nẽman abinci?
+012_00	Kuma, Muka gina, a samanku, sammai bakwai mãsu ƙarfi?
+013_00	Kuma, Muka sanya fitila mai tsanin haske (rãnã)?
+014_00	Kuma, Muka saukar daga cikakkun girãgizai, ruwa mai yawan zuba?
+015_00	Dõmin, Mu fitar da ƙwaya da tsiri game da shi?
+016_00	Da itãcen lambuna mãsu lillibniya?
+017_00	Lalle ne, rãnar rarrabẽwa tã kasance abin ƙayyadẽ wa lõkaci.
+018_00	Rãnar da zã a yi bũsa a cikin ƙaho, sai ku zo, jama'a jama'a.
+019_00	Kuma, aka buɗe sama, sai ta kasance ƙõfõfi.
+020_00	Kuma, aka tafiyar da duwãtsu, sai suka kasance ƙũra.
+021_00	Lalle ne, Jahannama tã kasance madãkata.
+022_00	Ga mãsu ƙẽtare iyãkõki, tã zama makõma.
+023_00	Sunã, mãsu zama a cikinta, zãmunna.
+024_00	Bã su ɗanɗanãwar wani sanyi a cikinta, kuma bã su ɗanɗana abin sha.
+025_00	Fãce tafasasshen ruwa da ruɓaɓɓen jini.
+026_00	Sakamako mai dãcẽwa.
+027_00	Lalle ne, sũ, sun kasance bã su fãtar sauƙin wani hisãbi.
+028_00	Kuma, suka ƙaryata game da ãyõyinMu, ƙaryatãwa!
+029_00	Alhãli, kõwane abu Mun ƙididdigẽ shi, a rubũce.
+030_00	Sabõda haka, ku ɗanɗana domin haka, bã zã Mu ƙara muku kõme ba fãce azãba.
+031_00	Lalle ne, mãsu taƙawã nã da wani wurin sãmun babban rabo.
+032_00	Lambuna da inabõbi.
+033_00	Da cikakkun 'yammata, tsãrar jũna.
+034_00	Da hinjãlan giya cikakku.
+035_00	Bã su jin yãsassar magana, a cikinta, kuma bã su jin ƙaryatãwa.
+036_00	Dõmin sakamako daga Ubangijinka, kyautã mai yawa.
+037_00	Ubangijin sammai da ƙasa da abin da yake a tsakãninsu, Mai rahama, bã su da ikon yin wata magana daga gare Shi.
+038_00	Rãnar da Rũhi da malã'iku zã su tsaya a cikin safu, bã su magana, sai wanda Allah Ya yi masa izni, kuma ya faɗi abin da ke daidai.
+039_00	Wancan, shi ne yini na gaskiya; to wanda ya so, ya riƙa makõma zuwa ga Ubangijinsa.
+040_00	Lalle ne, Mũ, Mun yi muku gargaɗin azãba makusanciya, rãnar da mutum ke dũbi zuwa ga abin da hannãyensa suka aikata, kuma kafiri ya ce: "Kaitona, dã dai nã zama turɓãya!"

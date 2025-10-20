@@ -1,0 +1,19 @@
+001_00	Gök yarıldığı zaman,
+002_00	Yıldızlar dağılıp döküldüğü zaman,
+003_00	Denizler kaynaştığı zaman,
+004_00	Kabirlerin içi dışa çıktığı zaman,
+005_00	İnsanoğlu, ne yaptığını ve ne yapmadığını görür.
+006_00	Ey insanoğlu! Seni yaratıp sonra şekil veren, düzenleyen, mütenasip kılan, istediği şekilde seni terkip eden, çok cömert olan Rabbine karşı seni aldatan nedir?
+007_00	Ey insanoğlu! Seni yaratıp sonra şekil veren, düzenleyen, mütenasip kılan, istediği şekilde seni terkip eden, çok cömert olan Rabbine karşı seni aldatan nedir?
+008_00	Ey insanoğlu! Seni yaratıp sonra şekil veren, düzenleyen, mütenasip kılan, istediği şekilde seni terkip eden, çok cömert olan Rabbine karşı seni aldatan nedir?
+009_00	Hayır, hayır; doğrusu siz dini yalanlıyorsunuz.
+010_00	Oysa, yaptıklarınızı bilen değerli yazıcılar sizi gözetlemektedirler.
+011_00	Oysa, yaptıklarınızı bilen değerli yazıcılar sizi gözetlemektedirler.
+012_00	Oysa, yaptıklarınızı bilen değerli yazıcılar sizi gözetlemektedirler.
+013_00	İyiler şüphesiz nimet içindedirler.
+014_00	Allah'ın buyruğundan çıkanlar cehennemdedirler.
+015_00	Din Günü oraya girerler.
+016_00	Oradan bir daha ayrılamazlar.
+017_00	Din gününün ne olduğunu sen nereden bilirsin?
+018_00	Evet, din gününün ne olduğunu nereden bileceksin?
+019_00	O gün, kimsenin kimseye hiçbir fayda sağlamayacağı bir gündür. O gün buyruk, yalnız Allah'ındır.

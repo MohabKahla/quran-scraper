@@ -1,0 +1,78 @@
+001_00	Arrah'man, Mwingi wa Rehema
+002_00	Amefundisha Qur'ani.
+003_00	Amemuumba mwanaadamu,
+004_00	Akamfundisha kubaini.
+005_00	Jua na mwezi huenda kwa hisabu.
+006_00	Na mimea yenye kutambaa, na miti, inanyenyekea.
+007_00	Na mbingu ameziinua, na ameweka mizani,
+008_00	Ili msidhulumu katika mizani.
+009_00	Na wekeni mizani kwa haki, wala msipunje katika mizani.
+010_00	Na ardhi ameiweka kwa ajili ya viumbe.
+011_00	Humo yamo matunda na mitende yenye mafumba.
+012_00	Na nafaka zenye makapi, na rehani.
+013_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha
+014_00	Amemuumba mtu kwa udongo wa kinamo..
+015_00	Na akawaumba majini kwa ulimi wa moto.
+016_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha
+017_00	Mola Mlezi wa mashariki mbili na wa magharibi mbili.
+018_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+019_00	Anaziendesha bahari mbili zikutane;
+020_00	Baina yao kipo kizuizi, zisiingiliane.
+021_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+022_00	Katika hizo bahari mbili zinatoka lulu na marijani.
+023_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+024_00	Na ni vyake Yeye hivi viendavyo baharini vilivyo undwa kama vilima.
+025_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+026_00	Kila kilioko juu yake kitatoweka.
+027_00	Na atabakia Mwenyewe Mola wako Mlezi Mwenye utukufu na ukarimu.
+028_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+029_00	Vinamwomba Yeye vilivyomo katika mbingu na ardhi. Kila siku Yeye yumo katika mambo.
+030_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+031_00	Tutakuhisabuni enyi makundi mawili.
+032_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+033_00	Enyi makundi ya majini na watu! Mkiweza kupenya kwenye mbingu na ardhi, basi penyeni! Hamtapenya ila kwa kupewa madaraka.
+034_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+035_00	Mtapelekewa muwako wa moto na shaba; wala hamtashinda.
+036_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+037_00	Itakapo pasuka mbingu ikawa nyekundu kama mafuta.
+038_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+039_00	Siku hiyo hataulizwa dhambi zake mtu wala jini.
+040_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+041_00	Watajuulikana wakosefu kwa alama zao, basi watashikwa kwa nywele zao za utosini na kwa miguu.
+042_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+043_00	Hii ndiyo Jahannamu ambayo wakosefu wakiikanusha.
+044_00	Watakuwa wakizunguka baina ya hiyo na maji ya moto yanayo chemka.
+045_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+046_00	Na mwenye kuogopa kusimamishwa mbele ya Mola wake Mlezi atapata Bustani mbili.
+047_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+048_00	Bustani zenye matawi yaliyo tanda.
+049_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+050_00	Ndani yake zimo chemchem mbili zinazo pita.
+051_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+052_00	Humo katika kila matunda zimo namna mbili.
+053_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+054_00	Wawe wameegemea matandiko yenye bit'ana ya hariri nzito; na matunda ya Bustani hizo yapo karibu.
+055_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+056_00	Humo watakuwamo wanawake watulizao macho yao; hajawagusa mtu kabla yao wala jini.
+057_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+058_00	Kama kwamba wao ni yakuti na marijani.
+059_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha.
+060_00	Ati yaweza kuwa malipo ya ihsani ila ihsani?
+061_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+062_00	Na zaidi ya hizo zipo Bustani nyengine mbili.
+063_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+064_00	Za kijani kibivu.
+065_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+066_00	Na chemchem mbili zinazo furika.
+067_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+068_00	Imo humo miti ya matunda, na mitende na mikomamanga.
+069_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+070_00	Humo wamo wanawake wema wazuri.
+071_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+072_00	Wanawake wazuri wanao tawishwa katika makhema.
+073_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+074_00	Hajawagusa mtu wala jini kabla yao.
+075_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+076_00	Wameegemea juu ya matakia ya kijani na mazulia mazuri.
+077_00	Basi ni ipi katika neema za Mola wenu Mlezi mnayo ikanusha?
+078_00	Limetukuka jina la Mola wako Mlezi Mwenye utukufu na ukarimu.

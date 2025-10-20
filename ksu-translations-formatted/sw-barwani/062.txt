@@ -1,0 +1,14 @@
+001_00	Viliomo mbinguni na viliomo katika ardhi vinamtakasa Mwenyezi Mungu, Mfalme, Mtakatifu, Mwenye nguvu, Mwenye hikima.
+002_00	Yeye ndiye aliye mpeleka Mtume kwenye watu wasio jua kusoma, awasomee Aya zake na awatakase, na awafunze Kitabu na hikima, ijapo kuwa kabla ya haya walikuwa katika upotofu ulio dhaahiri.
+003_00	Na kwa wengine ambao bado hawajaungana nao. Na Yeye ndiye Mwenye nguvu, Mwenye hikima.
+004_00	Hiyo ni fadhila ya Mwenyezi Mungu anayo mpa amtakaye. Na Mwenyezi Mungu ni Mwenye fadhila kubwa.
+005_00	Mfano wa walio bebeshwa Taurati kisha wasiibebe, ni mfano wa punda anaye beba vitabu vikubwa vikubwa.
+005_01	Mfano muovu mno wa watu walio kadhibisha Ishara za Mwenyezi Mungu, na Mwenyezi Mungu hawaongoi watu madhaalimu.
+006_00	Sema: Enyi mlio Mayahudi! Ikiwa nyinyi mnadai kuwa ni vipenzi vya Mwenyezi Mungu pasipo kuwa watu wengine, basi yatamanini mauti, ikiwa mnasema kweli.
+007_00	Wala hawatayatamani kabisa, kwa sababu ya iliyo kwisha yatanguliza mikono yao. Na Mwenyezi Mungu anawajua walio dhulumu.
+008_00	Sema: Hayo mauti mnayo yakimbia, bila ya shaka yatakukuteni. Kisha mtarudishwa kwa Mwenye kuyajua yaliyo fichikana na yanayo onekana. Hapo atakwambieni mliyo kuwa mkiyatenda.
+009_00	Enyi mlio amini!
+009_01	Ikiadhiniwa Sala siku ya Ijumaa, nendeni upesi kwenye dhikri ya Mwenyezi Mungu, na wacheni biashara. Hayo ni bora kwenu, lau kama mnajua.
+010_00	Na itakapo kwisha Sala, tawanyikeni katika nchi mtafute fadhila za Mwenyezi Mungu, na mkumbukeni Mwenyezi Mungu kwa wingi ili mpate kufanikiwa.
+011_00	Na wanapo iona biashara au pumbao wanayakimbilia hayo na wakakuacha umesimama.
+011_01	Sema: Yaliyoko kwa Mwenyezi Mungu ni bora kuliko pumbao na biashara. Na Mwenyezi Mungu ni Mbora wa watoa riziki.

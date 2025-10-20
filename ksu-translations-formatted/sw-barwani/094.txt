@@ -1,0 +1,8 @@
+001_00	Hatukukunjulia kifua chako?
+002_00	Na tukakuondolea mzigo wako,
+003_00	Ulio vunja mgongo wako?
+004_00	Na tukakunyanyulia utajo wako?
+005_00	Basi kwa hakika pamoja na uzito upo wepesi,
+006_00	Hakika pamoja na uzito upo wepesi.
+007_00	Na ukipata faragha, fanya juhudi.
+008_00	Na Mola wako Mlezi ndio mshughulikie.

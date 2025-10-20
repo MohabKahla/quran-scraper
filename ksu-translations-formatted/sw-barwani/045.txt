@@ -1,0 +1,39 @@
+001_00	H'a Mim
+002_00	Uteremsho wa Kitabu umetoka kwa Mwenyezi Mungu, Mwenye nguvu, Mwenye hikima.
+003_00	Hakika katika mbingu na ardhi ziko Ishara kwa Waumini.
+004_00	Na katika umbo lenu na katika wanyama alio watawanya zimo Ishara kwa watu wenye yakini.
+005_00	Na kupishana usiku na mchana, na riziki anayo iteremsha Mwenyezi Mungu kutoka mbinguni, na kwayo akaifufua ardhi baada ya kufa kwake, na mabadiliko ya upepo, ni Ishara kwa watu wenye akili.
+006_00	Hizi Aya za Mwenyezi Mungu tunakusomea kwa haki; basi hadithi gani watakayo iamini baada ya Mwenyezi Mungu na Aya zake?
+007_00	Ole wake kila mzushi mwenye dhambi!
+008_00	Anaye sikia Aya za Mwenyezi Mungu akisomewa, kisha anashikilia yale yale aliyo katazwa, na anajivuna, kama kwamba hakuzisikia. Basi mbashirie adhabu chungu!
+009_00	Na anapo kijua kitu kidogo katika Aya zetu hukifanyia mzaha. Watu hao ndio watakao kuwa na adhabu ya kufedhehesha.
+010_00	Na nyuma yao ipo Jahannamu. Na walio yachuma hayatawafaa hata kidogo, wala walinzi walio washika badala ya Mwenyezi Mungu. Na watapata adhabu kubwa.
+011_00	Huu ni uwongofu. Na wale wale walio zikataa Ishara za Mola wao Mlezi watapata adhabu inayo tokana na ghadhabu iliyo chungu.
+012_00	Mwenyezi Mungu ndiye aliye ifanya bahari ikutumikieni, ili humo zipite marikebu kwa amri yake, na ili mtafute fadhila yake, na mpate kushukuru.
+013_00	Na amefanya vikutumikieni vilivyomo mbinguni na vilivyomo katika ardhi, vyote vimetoka kwake. Hakika katika hayo zimo Ishara kwa watu wanao fikiri.
+014_00	Waambie walio amini wawasamehe wale wasio zitaraji siku za Mwenyezi Mungu, ili awalipe kwa waliyo kuwa wakiyachuma.
+015_00	Mwenye kutenda mema basi ni kwa ajili ya nafsi yake, na mwenye kutenda uovu ni juu yake mwenyewe. Kisha mtarudishwa kwa Mola wenu Mlezi.
+016_00	Na hakika tuliwapa Wana wa Israili Kitabu na hukumu na Unabii, na tukawaruzuku vitu vizuri vizuri, na tukawafadhilisha kuliko walimwengu wote.
+017_00	Na tukawapa maelezo wazi ya amri.
+017_01	Basi hawakukhitalifiana ila baada ya kuwajia ujuzi, kwa ajili ya uhasidi uliyo kuwa baina yao. Hakika Mola wako Mlezi atahukumu baina yao Siku ya Kiyama katika mambo waliyo kuwa wakikhitalifiana.
+018_00	Kisha tukakuweka wewe juu ya Njia ya haya mambo, basi ifuate, wala usifuate matamanio ya wasio jua kitu.
+019_00	Kwa hakika hao hawatakufaa kitu mbele ya Mwenyezi Mungu. Na hakika wenye kudhulumu ni marafiki wao kwa wao. Na Mwenyezi Mungu ni rafiki wa wamchao.
+020_00	Hizi ni dalili zilizo wazi kwa watu wote, na ni uwongofu, na rehema kwa watu wanao yakinisha.
+021_00	Je! Wanadhani wanao tenda maovu kuwa tutawafanya kama walio amini, na wakatenda mema, sawa sawa uhai wao na kufa kwao? Ni hukumu mbaya wanayo ihukumu!
+022_00	Na Mwenyezi Mungu ameziumba mbingu na ardhi kwa haki, na ili kila nafsi ilipwe yale iliyo yachuma. Nao hawatadhulumiwa.
+023_00	Je! Umemwona aliye fanya matamanio yake kuwa ndiye mungu wake, na Mwenyezi Mungu akamwacha apotee pamoja na kuwa ana ujuzi, na akapiga muhuri juu ya masikio yake, na moyo wake, na akambandika vitanga machoni mwake?
+023_01	Basi nani atamwongoa huyo baada ya Mwenyezi Mungu? Hamkumbuki?
+024_00	Na walisema: Hapana ila huu uhai wetu wa duniani - twafa na twaishi, na hapana kinacho tuhiliki isipo kuwa dahari. Lakini wao hawana ilimu ya hayo, ila wao wanadhani tu.
+025_00	Na wakisomewa Aya zetu zilizo wazi hawana hoja ila kusema: Waleteni baba zetu, ikiwa nyinyi ni wasemao kweli.
+026_00	Sema: Mwenyezi Mungu anakuhuisheni, kisha anakufisheni, kisha anakukusanyeni Siku ya Kiyama isiyo na shaka. Lakini watu wengi hawajui.
+027_00	Na Mwenyezi Mungu ndiye Mwenye ufalme wa mbingu na ardhi. Na siku itapo simama Saa ya Kiyama, siku hiyo wataangamia wenye kushikamana na upotovu.
+028_00	Na utauona kila umma umepiga magoti, na kila umma utaitwa kwenda soma kitabu chake: Leo mtalipwa mliyo kuwa mkiyatenda.
+029_00	Hichi kitabu chetu kinasema juu yenu kwa haki. Hakika Sisi tulikuwa tukiyaandika mliyo kuwa mkiyatenda.
+030_00	Ama walio amini na wakatenda mema, Mola wao Mlezi atawatia katika rehema yake. Huko ndiko kufuzu kulio wazi.
+031_00	Na ama walio kufuru, wataambiwa: Kwani hamkuwa mkisomewa Aya zangu nanyi mkapanda kichwa, na mkawa watu wakosefu?
+032_00	Na ikisemwa: Hakika ahadi ya Mwenyezi Mungu ni kweli, na Saa haina shaka, nyinyi mkisema: Hatuijui hiyo Saa, tunadhania dhana tu, wala hatuna yakini.
+033_00	Basi ubaya wa waliyo yatenda utawadhihirikia, na yatawazunguka waliyo yafanyia maskhara.
+034_00	Na itasemwa: Leo tunakusahauni kama nyinyi mlivyo sahau mkutano wa siku yenu hii; na mahali penu ni Motoni, wala hamna wa kukunusuruni.
+035_00	Hayo ni kwa sababu nyinyi mlizifanyia mzaha Aya za Mwenyezi Mungu; na maisha ya dunia yakakudanganyeni. Basi leo hawatatolewa humo wala hao hawatakubaliwa udhuru wao.
+036_00	Basi sifa njema zote ni za Mwenyezi Mungu, Mola Mlezi wa mbingu, na Mola Mlezi wa ardhi, na Mola Mlezi wa walimwengu wote.
+037_00	Na ukubwa ni wake Yeye tu, mbinguni na katika ardhi, naye ni Mwenye nguvu, Mwenye hikima.

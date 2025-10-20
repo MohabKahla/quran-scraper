@@ -1,0 +1,7 @@
+001_00	Shin, ka ga wanda ke ƙaryatãwa game da sakamako?
+002_00	To, wannan shi ne ke tunkue marãya (daga haƙƙinsa).
+003_00	Kuma bã ya kwaaitarwa bisa bãyar da abinci ga matalauci.
+004_00	To, bone yã tabbata ga masallata.
+005_00	Waɗanda suke masu shagala daga sallarsu.
+006_00	Waɗanda suke yin riya (ga ayyukansu)
+007_00	Kuma suna hana taimako.

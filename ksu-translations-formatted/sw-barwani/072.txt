@@ -1,0 +1,28 @@
+001_00	Sema: Imefunuliwa kwangu ya kuwa kundi moja la majini lilisikiliza, na likasema: Hakika sisi tumeisikia Qur'ani ya ajabu!
+002_00	Inaongoza kwenye uwongofu, kwa hivyo tumeiamini, wala hatutamshirikisha yeyote na Mola wetu Mlezi.
+003_00	Na kwa hakika utukufu wa Mola wetu Mlezi umetukuka kabisa; hana mke wala mwana.
+004_00	Na kwa hakika wapumbavu miongoni mwetu walikuwa wakisema uwongo ulio pindukia mipaka juu ya Mwenyezi Mungu.
+005_00	Nasi tulidhani kuwa watu na majini hawamzulii uwongo Mwenyezi Mungu.
+006_00	Na hakika walikuwako wanaume katika watu walio kuwa wakitafuta kujikinga kwa wanaume wa kijini; kwa hivyo wakawazidisha madhambi.
+007_00	Na kwa hakika wao walidhani, kama mlivyo dhani nyinyi, ya kuwa Mwenyezi Mungu hatamleta Mtume.
+008_00	Nasi tulizigusa mbingu, na tukaziona zimejaa walinzi wenye nguvu na vimondo.
+009_00	Na hakika tulikuwa tukikaa humo katika baadhi ya makao ili kusikiliza; lakini sasa anaye taka kusikiliza atakuta kimondo kinamvizia!
+010_00	Nasi hatujui kama wanatakiwa shari wale wanao kaa kwenye ardhi au Mola wao Mlezi anawatakia uwongofu.
+011_00	Na hakika katika sisi wamo walio wema, na wengine wetu ni kinyume na hivyo. Tumekuwa njia mbali mbali.
+012_00	Nasi tulijua kuwa hatutomshinda Mwenyezi Mungu duniani, wala hatuwezi kumponyoka kwa kukimbia.
+013_00	Nasi tulipo usikia uwongofu tuliuamini. Basi mwenye kumuamini Mola wake Mlezi basi haogopi kupunjwa wala kudhulumiwa.
+014_00	Na hakika wamo katika sisi Waislamu, na wamo kati yetu wanao acha haki. Basi walio silimu, hao ndio walio tafuta uwongofu.
+015_00	Na ama wanao acha haki, hao watakuwa kuni za Jahannamu.
+016_00	Na lau kama wangeli simama sawasawa juu ya njia tungeli wanywesha maji kwa wingi,
+017_00	Ili tuwajaribu kwa hayo. Na anaye puuza kumkumbuka Mola wake Mlezi atamsukuma kwenye adhabu ngumu.
+018_00	Na hakika misikiti ni ya Mwenyezi Mungu, basi msimuabudu yeyote pamoja na Mwenyezi Mungu.
+019_00	Na hakika Mja wa Mwenyezi Mungu alipo simama kumwomba, wao walikuwa karibu kumzonga!
+020_00	Sema: Hakika mimi namwomba Mola wangu Mlezi, wala simshirikishi Yeye na yeyote.
+021_00	Sema: Mimi sina mamlaka ya kukudhuruni wala kukuongozeni.
+022_00	Sema: Hakika hapana yeyote awezae kunilinda na Mwenyezi Mungu, wala sitapata pa kukimbilia isipo kuwa kwake Yeye tu.
+023_00	Ila nifikishe Ujumbe utokao kwa Mwenyezi Mungu na risala zake. Na wenye kumuasi Mwenyezi Mungu na Mtume wake, basi hakika hao watapata Moto wa Jahannamu wadumu humo milele.
+024_00	Hata watakapo yaona wanayo ahidiwa, ndipo watakapo jua ni nani mwenye msaidizi dhaifu, na mchache wa idadi.
+025_00	Sema: Sijui kama yapo karibu hayo mnayo ahidiwa, au Mola wangu Mlezi atayawekea muda mrefu.
+026_00	Yeye ndiye Mwenye kujua ya siri, wala hamdhihirishii yeyote siri yake,
+027_00	Isipo kuwa Mtume wake aliye mridhia. Naye huyo humwekea walinzi mbele yake na nyuma yake.
+028_00	Ili Yeye ajue kwamba wao wamefikisha ujumbe wa Mola wao Mlezi, na Yeye anayajua vyema yote walio nayo, na amedhibiti idadi ya kila kitu.

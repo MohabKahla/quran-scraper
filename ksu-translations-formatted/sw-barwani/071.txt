@@ -1,0 +1,28 @@
+001_00	Hakika Sisi tulimtuma Nuh'u kwa watu wake: Uwaonye kaumu yako kabla ya kuwafikia adhabu chungu.
+002_00	Akasema: Enyi watu wangu! Kwa hakika mimi ni mwonyaji wa dhaahiri kwenu,
+003_00	Ya kwamba mumuabudu Mwenyezi Mungu, na mumche Yeye, na mumt'ii.
+004_00	Atakughufirieni madhambi yenu, na atakuakhirisheni mpaka muda ulio wekwa. Hakika muda wa Mwenyezi Mungu utapo fika haucheleweshwi. Laiti mngejua!
+005_00	Akasema: Ee Mola wangu Mlezi! Hakika mimi nimewaita watu wangu usiku na mchana,
+006_00	Lakini wito wangu haukuwazidisha ila kukimbia.
+007_00	Na hakika mimi kila nilipo waita ili upate kuwaghufiria, walijiziba masikio yao kwa vidole vyao, na wakajigubika nguo zao, na wakakamia, na wakatakabari vikubwa mno!
+008_00	Tena niliwaita kwa uwazi,
+009_00	Kisha nikawatangazia kwa kelele, tena nikasema nao kwa siri.
+010_00	Nikasema: Ombeni msamaha kwa Mola wenu Mlezi; hakika Yeye ni Mwingi wa kusamehe.
+011_00	Atakuleteeni mvua inyeshe mfululizo.
+012_00	Na atakupeni mali na wana, na atakupeni mabustani na atakufanyieni mito.
+013_00	Mna nini hamweki heshima ya Mwenyezi Mungu?
+014_00	Na hali Yeye kakuumbeni daraja baada ya daraja?
+015_00	Kwani hamwoni jinsi Mwenyezi Mungu alivyo ziumba mbingu saba kwa matabaka?
+016_00	Na akaufanya mwezi ndani yake uwe nuru, na akalifanya jua kuwa taa?
+017_00	Na Mwenyezi Mungu amekuotesheni katika ardhi kama mimea.
+018_00	Kisha atakurudsheni humo na atakutoeni tena.
+019_00	Na Mwenyezi Mungu amekukunjulieni ardhi kama busati.
+020_00	Ili mtembee humo katika njia zilizo pana.
+021_00	Nuh'u akasema: Mola wangu Mlezi! Hakika hao wameniasi, na wamemfuata yule ambaye mali yake na wanawe hawakumzidishia ila khasara.
+022_00	Na wakapanga vitimbi vikubwa.
+023_00	Na wakasema: Msiwaache miungu yenu, wala msimwache Wadda wala Suwaa' wala Yaghutha, wala Yau'qa, wala Nasra.
+024_00	Na hao walikwisha wapoteza wengi, wala usiwazidishie walio dhulumu ila kupotea.
+025_00	Basi kwa ajili ya makosa yao waligharikishwa wakaingizwa Motoni, wala hawakuwapata wa kuwanusuru badala ya Mwenyezi Mungu.
+026_00	Na Nuh'u akasema: Mola wangu Mlezi! Usimwache juu ya ardhi mkaazi wake yeyote katika makafiri!
+027_00	Hakika ukiwaacha watawapoteza waja wako, wala wao hawatazaa ila waovu makafiri.
+028_00	Mola wangu Mlezi! Nighufirie mimi na wazazi wangu, na kila aliye ingia nyumbani mwangu kuwa ni mwenye kuamini, na Waumini wote wanaume, na Waumini wanawake. Na wala usiwazidishie walio dhulumu ila kupotea.

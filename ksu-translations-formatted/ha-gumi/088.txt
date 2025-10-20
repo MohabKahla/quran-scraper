@@ -1,0 +1,26 @@
+001_00	Lalle ne labãrin (¡iyãma) mai rufe mutãne da tsoronta yã zo maka?
+002_00	Wasu huskõki a rãnar nan ƙasƙantattu ne.
+003_00	Mãsu aikin wahala ne, mãsu gajiya.
+004_00	Zã su shiga wata wuta mai zãfi.
+005_00	Ana shãyar da su daga wani marmaro mai zãfin ruwa.
+006_00	Ba su da wani abinci fãce dai daga danyi.
+007_00	Bã ya sanya ƙiba, kuma bã zai wadãtar daga yunwa ba.
+008_00	Wasu huskõki a rãnar nan mãsu ni'ima ne.
+009_00	Game da aikinsu, masu yarda ne.
+010_00	(Suna) a cikin Aljanna maɗaukakiya.
+011_00	Bã zã su ji yãsassar magana ba, a cikinta.
+012_00	A cikinta akwai marmaro mai gudãna.
+013_00	A cikinta akwai gadãje maɗaukaka.
+014_00	Da kõfuna ar'aje.
+015_00	Da filõli jẽre,
+016_00	Da katifu shimfiɗe.
+017_00	Ashe to bã zã su dũbãwa ba ga rãƙumã yadda aka halitta su?
+018_00	Da zuwa ga sama yadda aka ɗaukaka ta?
+019_00	Da zuwa ga duwãtsu yadda aka kafa su?
+020_00	Da zuwa ga ƙasa yadda aka shimfiɗã ta?
+021_00	sabõda haka, ka yi wa'azi, kai mai yin wa'azi ne kawai.
+022_00	Ba ka zama mai ĩkon tanƙwasãwa a kansu ba.
+023_00	Fãce dai duk wanda ya jũya bãya, kuma ya kãfirta.
+024_00	To, Allah zai yi masa azãba, azãbar nan da take mafi girma.
+025_00	Lalle ne, zuwa gare Mu kõmõwarsu take.
+026_00	Sa'an nan lalle ne aikinMu ne Mu yi musu hisãbi.

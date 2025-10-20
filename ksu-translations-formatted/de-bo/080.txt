@@ -1,0 +1,42 @@
+001_00	Er blickte düster und kehrte sich ab,
+002_00	weil der Blinde zu ihm kam.
+003_00	Was läßt dich wissen, vielleicht läutert er sich
+004_00	oder bedenkt, so daß ihm die Ermahnung nützt.
+005_00	Was nun jemanden angeht, der sich für unbedürftig hält,
+006_00	so widmest du dich ihm,
+007_00	obgleich es dich nicht zu kümmern hat, daß er sich nicht läutern will.
+008_00	Was aber jemanden angeht, der zu dir geeilt kommt
+009_00	und dabei gottesfürchtig ist,
+010_00	von dem läßt du dich ablenken.
+011_00	Keineswegs! Gewiß, es ist eine Erinnerung.
+012_00	Wer nun will, gedenkt seiner.
+013_00	(Er steht) auf in Ehren gehaltenen Blättern,
+014_00	erhöhten und rein gehaltenen,
+015_00	durch die Hände von Entsandten,
+016_00	edlen, frommen.
+017_00	Tod dem Menschen, wie undankbar er ist!
+018_00	Woraus hat Er ihn erschaffen?
+019_00	Aus einem Samentropfen hat Er ihn erschaffen und ihm dabei sein Maß festgesetzt.
+020_00	Den Weg hierauf macht Er ihm leicht.
+021_00	Hierauf läßt Er ihn sterben und bringt ihn dann ins Grab.
+022_00	Hierauf, wenn Er will, läßt Er ihn auferstehen.
+023_00	Keineswegs! Er hat noch nicht ausgeführt, was Er ihm befohlen hat.
+024_00	So schaue der Mensch doch auf seine Nahrung:
+025_00	Wir gießen ja Güsse von Wasser,
+026_00	hierauf spalten Wir die Erde in Spalten auf
+027_00	und lassen dann auf ihr Korn wachsen
+028_00	und Rebstöcke und Grünzeug
+029_00	und Ölbäume und Palmen
+030_00	und Gärten mit dicken Bäumen
+031_00	und Früchte und Futter,
+032_00	als Nießbrauch für euch und für euer Vieh.
+033_00	Wenn dann der betäubende (Schrei) kommt,
+034_00	am Tag, da der Mensch flieht vor seinem Bruder
+035_00	und seiner Mutter und seinem Vater
+036_00	und seiner Gefährtin und seinen Söhnen
+037_00	jedermann von ihnen wird an jenem Tag eine Angelegenheit haben, die ihn beschäftigt.
+038_00	(Die einen) Gesichter werden an jenem Tag erstrahlen,
+039_00	lachen und sich freuen.
+040_00	Und auf (den anderen) Gesichtern wird an jenem Tag Staub sein.
+041_00	und sie werden von Dunkelheit bedeckt sein.
+042_00	Das sind die Ungläubigen und Sittenlosen.

@@ -1,0 +1,26 @@
+001_00	Her şeyi kaplayacak kıyametin haberi sana gelmedi mi?
+002_00	O gün bir takım yüzler zillete bürünmüştür.
+003_00	Zor işler altında bitkin düşmüştür.
+004_00	Yakıcı ateşe yaslanırlar.
+005_00	Kızgın bir kaynaktan içirilirler.
+006_00	Semirtmeyen, açlığı gidermeyen kötü kokulu (kuru) bir dikenden başka yiyecekleri yoktur.
+007_00	Semirtmeyen, açlığı gidermeyen kötü kokulu (kuru) bir dikenden başka yiyecekleri yoktur.
+008_00	İnanmış olanların yüzleri, o gün, pırıl pırıldır.
+009_00	Yaptıklarından hoşnuddurlar.
+010_00	Yüksek bir cennettedirler.
+011_00	Orada boş söz işitmezler.
+012_00	Orada akan kaynak vardır.
+013_00	Orada, yükseltilmiş tahtlar vardır.
+014_00	Yerleştirilmiş kaseler,
+015_00	Sıra sıra yastıklar,
+016_00	Serilmiş, yumuşak tüylü halılar vardır.
+017_00	Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı?
+018_00	Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı?
+019_00	Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı?
+020_00	Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı?
+021_00	Sen öğüt ver! Esasen sen sadece bir öğütçüsün.
+022_00	Sen, onlara zor kullanacak değilsin.
+023_00	Ama kim yüz çevirir, inkar ederse, Allah onu en büyük azaba uğratır.
+024_00	Ama kim yüz çevirir, inkar ederse, Allah onu en büyük azaba uğratır.
+025_00	Doğrusu onların dönüşü Bize'dir.
+026_00	Şüphesiz sonra hesaplarını görmek de Bize düşmektedir.

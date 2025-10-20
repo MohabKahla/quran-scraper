@@ -1,0 +1,5 @@
+001_00	¿No has visto lo que hizo tu Señor con los del elefante?
+002_00	¿Acaso no hizo que su estratagema fracasara,
+003_00	enviando contra ellos pájaros en sucesivas bandadas,
+004_00	que les arrojaban piedras de arcilla,*
+005_00	dejándolos como paja carcomida?

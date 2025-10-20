@@ -1,0 +1,7 @@
+001_00	Me emër të Allahut, Mëshirues dhe Përdëllimtar i Madh.
+002_00	Çdo lavdërim i përket Allahut (Perëndisë), Zotit të Gjithësisë
+003_00	Mëshirues dhe Përdëllimtar i Madh.
+004_00	Sunduesit të ditës së gjukimit.
+005_00	Vetëm Ty të adhurojmë dhe vetëm prej Teje ndihmë kërkojmë!
+006_00	Udhëzona në rrugë të drejtë.
+007_00	Në rrugën e atyre që u ke dhuruar mirësi. E jo në (rrugën) e atyre që kanë shkaktuar pezmin (Tënd), as në rrugën e atyre që janë të humbur!

@@ -1,0 +1,59 @@
+001_00	Hâ, Mîm.
+002_00	Pasha Librin e qartë!
+003_00	Na, me të vërtetë, e kemi shpallur (Kur’anin) në natë të shenjtë, dhe Ne, me të vërtetë, jemi paralajmërues.
+004_00	Në atë (natë) zgjidhet çdo punë e gjykueshme (e paluhatshme),
+005_00	me urdhërin Tonë! Na, me të vërtetë, kemi dërguar pejgamberë,
+006_00	mëshirë prej Zotit tënd, - me të vërtetë, Ai i dëgjon të gjitha dhe i di të gjitha,
+007_00	Zotit të qiejve dhe të Tokës dhe çka gjendet në mes tyre, nëse besoni me këmbëngulje.
+008_00	S’ka zot tjetër pos Atij. Jeta dhe vdekja janë vepër e Tij. Ai është Zoti juaj dhe Zoti i të parëve tuaj të lashtë!
+009_00	Por, at dyshojnë dhe argëtohen,
+010_00	andaj ti prite atë (ditë), kur nga qielli do të lëshohet tym i qartë,
+011_00	që do t’i mbulojë njerëzit, (e u thuhet atyre): “Ky është dënimi i dhembshëm!”
+012_00	(mohuesit) atëherë, do të thonë: “O Zoti ynë, lirona prej dënimit, na, me siguri do të besojmë!
+013_00	E, prej nga ata do të marrin këshilla, e madje u pat ardhur atyre Pejgamberi (me argumente) të qarta?
+014_00	E u shmangën prej tij dhe thanë: “(Ai është) i mësuar (prej tjetërkujt) – i çmendur (prej xhindëve)”.
+015_00	Na, do t’i lirojmë ata nga dënimi pak (kohë), por ju, me siguri, do të ktheheni (në mohim)”.
+016_00	(Kujtoju) ditën kur do t’i kapim ata, me një fuqi të madhe – Na, me të vërtetë, do t’i dënojmë.
+017_00	Me të vërtetë, Na qysh më parë e kemi vënë në sprovë popullin e Faraonit, e atyre u pat ardhur pejgamberi fisnik.
+018_00	(Duke u thënë): “Plotësoni ndaj meje atë që jeni të obliguar, o robërit e Perëndisë, sepse, unë jam për ju pejgamber i besuar;
+019_00	dhe mos u madhëroni (mos u ngritni) mbi Perëndinë; unë, me të vërtetë, po ju sjell (prej Tij) dokument të qartë,
+020_00	dhe unë mbështetem në Zotin tim dhe Zotin tuaj (për të më mbrojtur), që të mos më mbytni me gurë,
+021_00	e, nëse nuk më besoni, atëherë (bile) largohuni prej meje!
+022_00	(Nuk dëgjuan ata) dhe ai e thirri Zotin e tij: “Me të vërtetë, ky është popull mëkatarë!”
+023_00	(Perëndia, atij i tha): “Ec me robërit e Mi natën, meqë do t’ju ndjekin,
+024_00	dhe lëre ti detin e hapur, se ata, me të vërtetë, do të janë ushtri e fundosur”.
+025_00	E, sa e sa kopshtije e burime i lanë ata,
+026_00	ara të mbjella dhe pallate të mrekullueshme,
+027_00	dhuntitë, në të cilat kënaqeshin,
+028_00	(ajo ka qenë) kështu, dhe Ne u kemi dhënë trashëgim ato (dhuntitë e tyre) popullit tjetër –
+029_00	Nuk i vajtoi ata as qielli as Toka, nuk u lanë ata (për t’u dënuar në një kohë tjetër),
+030_00	e Na, me të vërtetë, i shpëtuam bijtë e Israelit nga dënimi poshtërues,
+031_00	prej Faraonit, - ai ishte mendjemadh, njeri që për keq kalonte çdo kufi –
+032_00	dhe, në të vërtetë, i kemi zgjedhur ata, duke i ditur (rrethanat e tyre) mbi popujt tjerë (të asaj kohe),
+033_00	dhe u kemi dhënë argumente, në të cilat ka sprova të qarta.
+034_00	E, këta (Kurejshit), në të vërtetë, thonin:
+035_00	“Ekziston vetëm vdekja jonë e parë, na nuk do të ringjallemi (më);
+036_00	na i sjellni pra (ringjallna) të parët tanë, nëse e thoni të vërtetën!”
+037_00	A janë këta më të mirë apo populli i Tubbas, apo ata para tyre (Tubbas)? – Ata, Na i kemi shkatërruar, meqë, me të vërtetë, ishin popull mëkatarë.
+038_00	Na, nuk i kemi krijuar qiejt dhe Tokën, as atë që gjendet në mes tyre, për t’u zbavitur (pa qëllim),
+039_00	Na i kemi krijur ato me qëllim të plotë, por shumica e tyre nuk e dinë.
+040_00	Me të vërtetë, Dita e dallimit (të së mirës nga e keqja), është e caktuar për të gjithë,
+041_00	Dita kur i afërmi nuk mund t’i ndihmojë asgjë të afërmit, as që atyre do t’u ndihmojë kush,
+042_00	pos ata që i ka mëshiruar Perëndia, sepse Ai, në të vërtetë, është i Plotëfuqishëm dhe Mëshirues.
+043_00	Me të vërtetë, druri i Zekkumit (një lloj druri tepër i idhët)
+044_00	do të jetë ushqim i mëkatarit,
+045_00	në barkun e tyre vëlon sikur xehja e shkrirë,
+046_00	ashtu si vëlon uji i nxehtë.
+047_00	(engjëjve u thuhet): “Rrëmbejeni atë dhe shpieni në mes të xhehennemit,
+048_00	e, pastaj, për dënim, hedhni mbi kokën e tyre ujë të vluar!”
+049_00	(I thuhet atij): “Shijoje, (dënimin), meqë ti je, “i fuqishëm” dhe “fisnik” (me hamendjen tënde),
+050_00	kjo është, me të vërtetë, ajo në të cilën keni dyshuar ju!”
+051_00	E, ata që i druajnë Perëndisë, me të vërtetë, do të jenë në vend të sigurt,
+052_00	në mes kopshtijeve dhe burimeve,
+053_00	të veshur me petka (rroba) mëndafshi të hollë dhe të trashë, duke ndejtur të ulur njëri karshi tjetrit.
+054_00	Kështu (do të jenë të shpërblyer), dhe Ne do t’i martojmë ata me hyri, sy bukur.
+055_00	Aty do të kërkojnë çfarë pemësh dëshirojnë, e do të kënaqen (duke qenë të sigurt);
+056_00	në to (xhennete), nuk do ta shijojnë vdekjen, pos vdekjes së parë (në këtë botë) dhe i ruan (Perëndia) prej dënimit të xhehennemit,
+057_00	kjo do të jetë dhutni prej Zotit tënd. Ky, me të vërtetë, do të jetë sukses i madh!
+058_00	Na, i kemi bërë të lehtë atë (Kur’anin për ta kuptuar) në gjuhën tënde, për t’u këshilluar ata,
+059_00	andaj prit ti (të shohësh çka do të bëhet me ta), por edhe ata presin (çka do të bëhet me ty)!

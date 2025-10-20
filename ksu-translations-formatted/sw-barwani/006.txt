@@ -1,0 +1,236 @@
+001_00	Sifa njema zote ni za Mwenyezi Mungu aliye umba mbingu na ardhi, na akafanya giza na mwangaza. Tena baada ya haya walio kufuru wanawafanya wengine sawa na Mola wao Mlezi.
+002_00	Yeye ndiye aliye kuumbeni kwa udongo, kisha akakuhukumieni ajali, na muda maalumu uko kwake tu. Tena baada ya haya nyinyi mnatia shaka.
+003_00	Na Yeye ndiye Mwenyezi Mungu mbinguni na ardhini. Anajua ya ndani yenu na ya nje yenu. Na anajua mnayo yachuma.
+004_00	Na haiwafikii hata ishara moja katika ishara za Mola wao Mlezi ila wao huwa wenye kuipa nyongo.
+005_00	Wameikanusha Haki ilipo wajia. Basi zitawajia khabari za yale waliyo kuwa wakiyakejeli.
+006_00	Jee, hawaoni vizazi vingapi tulivyo viangamiza kabla yao?
+006_01	Tuliwaweka katika nchi tusivyo kuwekeni nyinyi; tukawapelekea mvua nyingi na tukaifanya mito inapita chini yao. Mwishoe tukawaangamiza kwa madhambi yao; na tukaanzisha baada yao kizazi kingine.
+007_00	Na lau tungeli kuteremshia kitabu cha karatasi, wakakigusa kwa mikono yao, wangeli sema walio kufuru: Haya si chochote ila ni uchawi dhaahiri.
+008_00	Na wao husema: Mbona hakuteremshiwa Malaika? Na kama tungeli teremsha Malaika, basi bila ya shaka ingesha hukumiwa amri, tena hapo wasingeli pewa muhula.
+009_00	Na kama tungeli mfanya Malaika bila ya shaka tungeli mfanya kama binaadamu, na tungeli watilia matatizo yale wanayo yatatiza wao.
+010_00	Na hakika Mitume walio kabla yako walifanyiwa kejeli, lakini walio wafanyia kejeli wakaja kuzungukwa na yale yale waliyo kuwa wao wanayafanyia kejeli.
+011_00	Sema: Tembeeni ulimwenguni, kisha mtazame ulikuwaje mwisho wa wanao kanusha.
+012_00	Sema: Ni vya nani viliomo katika mbingu na katika ardhi? Sema: Ni vya Mwenyezi Mungu.
+012_01	Yeye amejilazimisha nafsi yake kurehemu. Hakika atakukusanyeni Siku ya Kiyama isiyo kuwa na shaka. Walio jikhasiri wenyewe hawaamini.
+013_00	Na ni vyake vilio tulia usiku na mchana. Naye ndiye Mwenye kusikia na Mwenye kujua.
+014_00	Sema: Je, nimchukue rafiki mlinzi asiye kuwa Mwenyezi Mungu, ambaye ndiye Muumba mbingu na ardhi, naye ndiye anaye lisha wala halishwi?
+014_01	Sema: Mimi nimeamrishwa niwe wa kwanza wa wenye kusilimu. Na wala kabisa usiwe miongoni wa washirikina.
+015_00	Sema: Mimi naogopa adhabu ya Siku kubwa hiyo ikiwa nitamuasi Mola wangu Mlezi.
+016_00	Siku hiyo yule atakaye epushwa nayo adhabu hiyo atakuwa Mwenyezi Mungu amemrehemu. Na huko ndiko kufuzu kulio wazi.
+017_00	Na ikiwa Mwenyezi Mungu akikugusisha madhara, basi hapana wa kukuondolea hayo ila Yeye. Na ikiwa akikugusisha kheri, basi Yeye ndiye Mwenye uweza wa kila kitu.
+018_00	Naye ndiye Mwenye nguvu juu ya waja wake, na ndiye Mwenye hikima na Mwenye khabari zote.
+019_00	Sema: Kitu gani ushahidi wake mkubwa kabisa? Sema: Mwenyezi Mungu. Yeye ndiye shahidi baina yangu na nyinyi.
+019_01	Na nimefunuliwa Qur'ani hii ili kwayo nikuonyeni nyinyi na kila inayo mfikia. Ati kweli nyinyi mnashuhudia kuwa pamoja na Mwenyezi Mungu wapo miungu wengine? Sema: Mimi sishuhudii hayo. Sema: Hakika Yeye ni Mungu mmoja tu, nami ni mbali na mnao washirikisha.
+020_00	Wale Tulio wapa Kitabu wanayajua haya kama wanavyo wajua watoto wao. Wale walio zikhasiri nafsi zao hawaamini.
+021_00	Na nani dhaalimu zaidi kuliko anaye mzulia uwongo Mwenyezi Mungu, na akazikanusha Ishara zake? Hakika madhaalimu hawafanikiwi.
+022_00	Siku tutapo wakusanya wote pamoja, kisha tuwaambie walio shirikisha: Wako wapi washirikishwa wenu mlio kuwa mnadai?
+023_00	Kisha hautakuwa udhuru wao ila ni kusema: Wallahi! Mola wetu Mlezi! Hatukuwa washirikina.
+024_00	Tazama jinsi wanavyo jisemea uwongo wenyewe. Na yamewapotea waliyo kuwa wakiyazua.
+025_00	Na wapo miongoni mwao wanao kusikiliza; na tumezitia pazia nyoyo zao wasije kuyafahamu.
+025_01	Na upo uziwi masikioni mwao, na wakiona kila Ishara hawaiamini. Hata wakikujia kwa kujadiliana nawe, wanasema walio kufuru: Hizi si chochote ila hadithi za watu wa kale.
+026_00	Nao huwazuia watu, na wao wenyewe wanajitenga nayo. Nao hawaangamizi ila nafsi zao tu, wala wao hawatambui.
+027_00	Na unge ona watakapo simamishwa kwenye Moto, wakawa wanasema: Laiti tungeli rudishwa, wala hatutakanusha tena Ishara za Mola wetu Mlezi, na tutakuwa miongoni wa Waumini.
+028_00	Bali yamewadhihirikia waliyo kuwa wakiyaficha zamani. Na kama wangeli rudishwa bila ya shaka wange yarejea yale yale waliyo katazwa. Na hakika hao ni waongo.
+029_00	Na walisema: Hakuna mengine ila maisha yetu haya ya duniani, wala sisi hatutafufuliwa.
+030_00	Na lau ungeli ona watavyo simamishwa mbele ya Mola wao Mlezi, akawaambia: Je, si kweli haya? Na wao watasema: Kwani? Tunaapa kwa Mola Mlezi wetu ni kweli. Yeye atasema: Basi onjeni adhabu kwa sababu ya vile mlivyo kuwa mnakataa.
+031_00	Hakika wamekhasirika walio kanusha kukutana na Mwenyezi Mungu, mpaka ilipo wajia Saa kwa ghafla, wakasema: Ole wetu kwa tuliyo yapuuza!
+031_01	Nao watabeba mizigo yao juu ya migongo yao.
+031_02	Ni maovu hayo wanayo yabeba.
+032_00	Na maisha ya dunia si chochte ila ni mchezo na pumbao tu. Na hakika nyumba ya Akhera ni bora zaidi kwa wanao mcha Mungu. Basi, je, hamtii akilini?
+033_00	Tunajua ya kwamba yanakuhuzunisha wanayo yasema. Basi hakika wao hawakukanushi wewe, lakini hao madhaalimu wanazikataa Ishara za Mwenyezi Mungu.
+034_00	Na hakika walikanushwa Mitume wa kabla yako. Nao wakavumilia kule kukanushwa, na kuudhiwa, mpaka ilipo wafikia nusura yetu.
+034_01	Na hapana wa kubadilisha maneno ya Mwenyezi Mungu. Na bila ya shaka zimekujia baadhi ya khabari za Mitume hao.
+035_00	Na ikiwa ni makubwa kwako huku kukataa kwao, basi kama unaweza kutafuta njia ya chini kwa chini ya ardhi, au ngazi kwendea mbinguni ili uwaletee Ishara -- Na lau kuwa Mwenyezi Mungu angependa angeli wakusanya kwenye uwongofu.
+035_01	Basi usiwe miongoni mwa wasio jua.
+036_00	Hakika wanao kubali ni wale wanao sikia. Na ama wafu Mwenyezi Mungu atawafufua, na kisha kwake Yeye ndio watarejeshwa.
+037_00	Na wamesema: Kwa nini hakuteremshiwa muujiza kutoka kwa Mola wake Mlezi? Sema: Hakika Mwenyezi Mungu ni Muweza wa kuteremsha muujiza. Lakini wengi wao hawajui.
+038_00	Na hapana mnyama katika ardhi, wala ndege anaye ruka kwa mbawa zake mbili, ila ni umma kama nyinyi.
+038_01	Hatukupuuza Kitabuni kitu chochote. Kisha kwa Mola wao Mlezi watakusanywa.
+039_00	Na walio kanusha Ishara zetu ni viziwi na mabubu waliomo gizani. Mwenyezi Mungu humwachia kupotea amtakaye, na humweka katika Njia iliyo nyooka amtakaye.
+040_00	Sema: Mwaonaje ikikujieni adhabu ya Mwenyezi Mungu, au ikakufikieni hiyo Saa - mtamwomba asiye kuwa Mwenyezi Mungu, ikiwa nyinyi ni wakweli?
+041_00	Bali Yeye ndiye mtakaye mwomba, naye atakuondoleeni mnacho mwombea akipenda. Na mtasahau hao mnao wafanya washirika wake.
+042_00	Na kwa yakini tulipeleka Mitume kwa kaumu zilizo kuwa kabla yako, kisha tukazitia katika dhiki na mashaka ili zipate kunyenyekea.
+043_00	Kwa nini wasinyenyekee ilipo wafika adhabu yetu? Lakini nyoyo zao zilikuwa ngumu, na Shet'ani akawapambia waliyo kuwa wakiyafanya.
+044_00	Basi walipo sahau walio kumbushwa tuliwafungulia milango ya kila kitu. Mpaka walipo furahia yale waliyo pewa tuliwashika kwa ghafla, na mara wakawa wenye kukata tamaa.
+045_00	Ikakatwa mizizi ya watu walio dhulumu - na wa kuhimidiwa ni Mwenyezi Mungu, Mola Mlezi wa viumbe vyote.
+046_00	Sema: Mwaonaje Mwenyezi Mungu akanyakua kusikia kwenu, na kuona kwenu, na akaziziba nyoyo zenu, ni mungu gani asiye kuwa Mwenyezi Mungu ataye kuleteeni hayo tena?
+046_01	Angalia vipi tunavyo zieleza Ishara, kisha wao wanapuuza.
+047_00	Sema: Mwaonaje, ikikufikieni adhabu ya Mwenyezi Mungu kwa ghafla, au kwa dhaahiri, jee wataangamizwa isipo kuwa walio dhulumu?
+048_00	Na hatuwatumi Mitume ila huwa ni wabashiri na waonyaji. Na wenye kuamini na wakatenda mema haitakuwa khofu juu yao, wala hawatahuzunika.
+049_00	Na walio kanusha Ishara zetu itawagusa adhabu kwa walivyo kuwa wakipotoka.
+050_00	Sema: Mimi sikwambiini kuwa ninazo khazina za Mwenyezi Mungu. Wala sijui mambo yaliyo fichikana. Wala sikwambiini kuwa mimi ni Malaika.
+050_01	Mimi sifuati ila yanayo funuliwa kwangu. Sema: Je, wanakuwa sawa, kipofu na mwenye kuona. Basi hamfikiri?
+051_00	Na waonye kwayo wanao ogopa kuwa watakusanywa kwa Mola wao Mlezi, hali kuwa hawana mlinzi wala mwombezi isipo kuwa Yeye, ili wapate kuchamngu.
+052_00	Wala usiwafukuze wanao mwomba Mola Mlezi wao asubuhi na jioni kwa kutaka radhi yake.
+052_01	Si juu yako hisabu yao hata kidogo, wala hisabu yako si juu yao hata kidogo, hata uwafukuze na uwe miongoni mwa wenye kudhulumu.
+053_00	Na hivi ndivyo tunavyo wajaribu wao kwa wao, ili waseme: Ni hao ndio Mwenyezi Mungu amewafadhilisha miongoni mwetu? Kwani Mwenyezi Mungu hawajui wanao shukuru?
+054_00	Na wanapo kujia wanao ziamini Ishara zetu waambie: Assalamu alaikum!
+054_01	Amani iwe juu yenu! Mola wenu Mlezi amejilazimisha rehema, ya kwamba atakaye fanya uovu miongoni mwenu kwa ujinga, kisha akatubu baada yake na akatengenea, basi hakika Yeye ni Mwenye maghfira na Mwenye kurehemu.
+055_00	Na ndio hivi tunavyo zieleza Ishara ili ibainike njia ya wakosefu.
+056_00	Sema: Mimi nimekatazwa kuwaabudu hao mnao waomba badala ya Mwenyezi Mungu. Sema: mimi sifuati matamanio yenu. Hivyo nitakuwa nimepotea, na sitakuwa miongoni mwa walio ongoka.
+057_00	Sema: Mimi nipo kwenye sharia iliyo wazi itokayo kwa Mola wangu Mlezi, nanyi mnaikanusha. Mimi sinacho hicho mnacho kihimiza.
+057_01	Hapana hukumu ila ya Mwenyezi Mungu. Yeye anasimulia yaliyo kweli; naye ni Mbora wa kuhukumu kuliko wote.
+058_00	Sema: Lau kuwa ninacho hicho mnacho kihimiza, ingeli kwisha katwa shauri baina yangu na nyinyi. Na Mwenyezi Mungu anawashinda wote kuwajua madhaalimu.
+059_00	Na ziko kwake funguo za ghaibu; hakuna azijuaye ila Yeye tu. Na Yeye anajua kilioko nchi kavu na baharini.
+059_01	Na halidondoki jani ila analijua. Wala punje katika giza la ardhi, wala kinyevu, wala kikavu ila kimo katika Kitabu kinacho bainisha.
+060_00	Naye ndiye anaye kufisheni usiku, na anakijua mlicho fanya mchana.
+060_01	Kisha Yeye hukufufueni humo mchana ili muda ulio wekwa utimizwe. Kisha kwake Yeye ndiyo marejeo yenu, na tena akwambieni mliyo kuwa mkiyafanya.
+061_00	Naye ndiye Mwenye nguvu za kushinda, aliye juu ya waja wake. Na hukupelekeeni waangalizi, mpaka mmoja wenu yakimjia mauti wajumbe wetu humfisha, nao hawafanyi taksiri.
+062_00	Kisha watarudishwa kwa Mwenyezi Mungu, Mola wao wa Haki. Hakika, hukumu ni yake. Naye ni Mwepesi kuliko wote wanao hisabu.
+063_00	Sema: Ni nani anaye kuokoeni katika giza la nchi kavu na baharini? Mnamwomba kwa unyenyekevu na kwa siri, mkisema: Kama akituokoa na haya bila ya shaka tutakuwa miongoni mwa wanao shukuru.
+064_00	Sema: Mwenyezi Mungu hukuokoeni kutoka hayo, na kutoka kila mashaka, na kisha nyinyi mnamshirikisha!
+065_00	Sema: Yeye ndiye Muweza wa kukuleteeni adhabu kutoka juu yenu au kutoka chini ya miguu yenu, au kukuleteeni fujo la mfarakano, na kuwaonjesha baadhi yenu jeuri ya wenzao.
+065_01	Tazama vipi tunavyo zieleza Aya ili wapate kufahamu.
+066_00	Na watu wako wameikanusha, nayo ni Haki. Sema: Mimi sikuwakilishwa juu yenu.
+067_00	Kila khabari ina kipindi chake. Nanyi mtakuja jua.
+068_00	Na unapo waona wanao ziingilia Aya zetu, basi jitenge nao mpaka waingilie mazungumzo mengine.
+068_01	Na kama Shet'ani akikusahaulisha, basi baada ya kutanabahi usikae pamoja na watu madhaalimu.
+069_00	Wala wamchao Mungu hawana jukumu lolote kwao, lakini ni kukumbusha, asaa wapate kujiepusha.
+070_00	Waachilie mbali walio ifanya dini yao ni mchezo na pumbao, na uhai wa dunia ukawaghuri.
+070_01	Nawe kumbusha kwayo, isije nafsi ikaangamizwa kwa sababu ya iliyo yachuma, nayo haina mlinzi wala mwombezi ila Mwenyezi Mungu.
+070_02	Na ingatoa kila fidia haitokubaliwa. Hao ndio walio angamizwa kwa sababu ya yale waliyo yachuma. Wao watapata kinywaji cha maji ya moto kabisa, na adhabu chungu.
+071_00	Sema: Je, tumuombe asiye kuwa Mwenyezi Mungu ambae hatufai wala hatudhuru, na turejee nyuma baada ya Mwenyezi Mungu kwisha tuhidi?
+071_01	Tuwe kama ambao mashet'ani wamempumbaza katika ardhi, amebabaika?
+071_02	Anao marafiki wanao mwita ende kwenye uwongofu, wakimwambia: Njoo kwetu! Sema: Hakika uwongofu wa Mwenyezi Mungu ndio Uwongofu. Nasi tumeamrishwa tusilimu kwa Mola Mlezi wa viumbe vyote,
+072_00	Na mshike Sala, na mcheni Yeye, na kwake Yeye ndiko mtako kusanywa.
+073_00	Naye ndiye aliye ziumba mbingu na ardhi kwa Haki. Na anaposema: Kuwa! Basi huwa.
+073_01	Kauli yake ni Haki. Na ufalme wote ni wake Siku litapo pulizwa barugumu, Mjuzi wa yaliyo fichikana na yanayo onekana. Naye ndiye Mwenye hikima na Mwenye khabari.
+074_00	Na pale Ibrahim alipo mwambia baba yake, Azar: Unayafanya masanamu kuwa ni miungu? Hakika mimi nakuona wewe na watu wako mmo katika opotofu ulio wazi.
+075_00	Na kadhaalika tulimwonyesha Ibrahim ufalme wa mbingu na ardhi, na ili awe miongoni mwa wenye yakini.
+076_00	Na ulipo muingilia usiku akiona nyota, akasema: Huyu ni Mola Mlezi wangu. Ilipo tua akasema: Siwapendi wanao tua.
+077_00	Alipo uona mwezi unachomoza alisema: Huyu ndiye Mola Mlezi wangu. Ulipotua akasema: Kama Mola Mlezi wangu hakuniongoa, nitakuwa katika kaumu walio potea.
+078_00	Na alipo liona jua linachomoza akasema: Huyu ndiye Mola Mlezi wangu. Huyu mkubwa kuliko wote. Lilipo tua, alisema: Enyi watu wangu! Mimi simo katika hayo mnayo fanyia ushirikina.
+079_00	Hakika mimi nimeuelekeza uso wangu sawa sawa kwa aliye ziumba mbingu na ardhi, wala mimi si miongoni mwa washirikina.
+080_00	Na watu wake wakamhoji. Akasema: Je, mnanihoji juu ya Mwenyezi Mungu, na hali Yeye ameniongoa?
+080_01	Wala siogopi hao mnao washirikisha naye, ila Mola wangu Mlezi akipenda kitu. Mola wangu Mlezi amekusanya ilimu ya kila kitu. Basi je, hamkumbuki?
+081_00	Na vipi nivikhofu hivyo mnavyo vishirikisha, hali nyinyi hamkhofu kuwa nyinyi mmemshirikisha Mwenyezi Mungu na kitu ambacho hakukiteremshia uthibitisho.
+081_01	Basi kundi gani katika mawili haya lina haki zaidi kupata amani, kama nyinyi mnajua?
+082_00	Wale ambao wameamini, na hawakuchanganya imani yao na dhulma - hao ndio watakao pata amani na wao ndio walio ongoka.
+083_00	Na hizo ndizo hoja zetu tulizo mpa Ibrahim kuhojiana na watu wake. Tunamnyanyua kwa vyeo tumtakaye. Hakika Mola Mlezi wako ni Mwenye hikima na Mwenye ujuzi.
+084_00	Na tukamtunukia (Ibrahim) Is-haq na Yaakub. Kila mmoja wao tulimwongoa.
+084_01	Na Nuhu tulimwongoa kabla. Na katika kizazi chake tulimwongoa Daud na Suleiman na Ayyub na Yusuf na Musa na Harun. Na hivi ndivyo tunavyo walipa wafanyao wema.
+085_00	Na Zakaria na Yahya na Isa na Ilyas. Wote walikuwa miongoni mwa watu wema.
+086_00	Na Ismail, na Al Yasaa, na Yunus, na Lut'. Na wote tuliwafadhilisha juu ya walimwengu wote.
+087_00	Na kutokana na baba zao, na vizazi vyao na ndugu zao. Na tukawateuwa na tukawaongoa kwenye Njia iliyo nyooka.
+088_00	Hiyo ni hidaya ya Mwenyezi Mungu. Kwa hiyo humhidi amtakaye katika waja wake. Na lau wangeli mshirikisha yangeli waharibikia waliyo kuwa wakiyatenda.
+089_00	Hao ndio tulio wapa Vitabu na hukumu na Unabii. Ikiwa hawa watayakataa hayo, basi tumekwisha yawakilisha kwa watu wasio yakataa.
+090_00	Hao ndio ambao Mwenyezi Mungu amewahidi. Basi fuata hidaya yao. Sema: Mimi sikuombeni ujira. Haya hayakuwa ila ni mawaidha kwa walimwengu wote.
+091_00	Na hawakumkadiria Mwenyezi Mungu kwa haki ya kadri yake, walipo sema: Mwenyezi Mungu hakumteremshia mwanaadamu chochote.
+091_01	Sema: Nani aliyo teremsha Kitabu alicho kuja nacho Musa, chenye nuru na uwongofu kwa watu, mlicho kifanya kurasa kurasa mkizionyesha, na mengi mkiyaficha.
+091_02	Na mkafunzwa mlio kuwa hamyajui nyinyi wala baba zenu? Sema: Mwenyezi Mungu. Kisha waache wacheze katika porojo lao.
+092_00	Na hiki ni Kitabu tulicho kiteremsha, kilicho barikiwa, chenye kuhakikisha yaliyo tangulia, na ili uuwonye Mama wa Miji na walio pembezoni mwake.
+092_01	Na wenye kuamini Akhera wanakiamini hichi, nao wanazihifadhi Sala zao.
+093_00	Nani dhaalimu mkubwa kuliko yule anaye mzuliya uwongo Mwenyezi Mungu, au anaye sema: Mimi nimeletewa wahyi; na hali hakuletewa wahyi wowote.
+093_01	Na yule anaye sema: Nitateremsha kama alivyo teremsha Mwenyezi Mungu.
+093_02	Na lau ungeli waona madhaalimu wanavyo kuwa katika mahangaiko ya mauti, na Malaika wamewanyooshea mikono wakiwambia: Zitoeni roho zenu! Leo mtalipwa adhabu ya fedheha kwa sababu ya mliyo kuwa mkiyasema juu ya Mwenyezi Mungu yasiyo ya haki, na mlivyo kuwa mkizifanyia kiburi Ishara zake.
+094_00	Nanyi mlitujia wapweke kama tulivyo kuumbeni mara ya kwanza.
+094_01	Na mkayaacha nyuma yenu yote tuliyo kupeni, na wala hatuwaoni hao waombezi wenu, ambao mlidai kuwa ni washirika wa Mwenyezi Mungu kwenu. Yamekatika makhusiano baina yenu, na yamekupoteeni mliyo kuwa mkidai.
+095_00	Hakika Mwenyezi Mungu ndiye mpasuaji mbegu na kokwa, zikachipua. Humtoa aliye hai kutoka maiti, naye ni mtoaji maiti kutokana na aliye hai. Huyo ndiye Mwenyezi Mungu. Basi vipi mnageuzwa?
+096_00	Ndiye anaye pambazua mwangaza wa asubuhi; na ameufanya usiku kwa mapumziko na utulivu, na jua na mwezi kwenda kwa hisabu. Hayo ndiyo makadirio ya Aliye tukuka Mwenye nguvu, Mwenye ujuzi.
+097_00	Na Yeye ndiye aliye kuwekeeni nyota ili mwongoke kwazo katika kiza cha bara na bahari. Hakika tumezichambua Ishara hizi kwa watu wanao jua.
+098_00	Na Yeye ndiye aliye kuzalisheni kutokana na nafsi moja. Pako pahali pa kutulia na pa kupita njia. Hakika tumezichambua Ishara hizi kwa watu wanao fahamu.
+099_00	Na Yeye ndiye anaye teremsha maji kutoka mbinguni; na kwayo tunatoa mimea ya kila kitu.
+099_01	Kutokana na baadhi yao tukatoa mimea ya majani, tukatoa ndani yake punje zilizo pandana; na kutokana na mitende yakatoka kwenye makole yake mashada yaliyo inama; na bustani za mizabibu na mizaituni, na makomamanga, yaliyo fanana na yasiyo fanana.
+099_02	Angalieni matunda yake yanapo zaa na yakawiva. Hakika katika hayo pana Ishara kwa watu wanao amini.
+100_00	Bado wamemfanyia Mwenyezi Mungu majini kuwa washirika wake, na hali Yeye ndiye aliye waumba. Na wakamzulia, bila ya ujuzi wowote, kuwa ana wana wa kiume na wa kike. Subhanahu, Ametakasika na ametukuka juu ya hayo wanayo mbandikiza nayo!
+101_00	Yeye ndiye Muumbaji wa mbingu na ardhi bila ya ruwaza. Itakuwaje awe na mwana naye hakuwa na mke? Naye ndiye aliye umba kila kitu. Naye ni Mwenye kujua kila kitu.
+102_00	Huyo ndiye Allah, Mwenyezi Mungu, Mola Mlezi wenu, hapana mungu ila Yeye, Muumba wa kila kitu. Basi muabuduni Yeye tu. Naye ni Mtegemewa wa kila kitu.
+103_00	Macho hayamfikilii bali Yeye anayafikilia macho. Naye ni Mjuzi, Mwenye khabari.
+104_00	Zimekwisha kukujieni hoja wazi kutoka kwa Mola wenu Mlezi. Basi anaye ona ni kwa faida yake mwenyewe, na anaye pofuka basi ni khasara yake. Nami si mtunzaji wenu.
+105_00	Na namna hivyo tunazisarifu Aya, na wao wakwambie: Umesoma. Na ili tuyabainishe kwa watu wanao jua.
+106_00	Fuata uliyo funuliwa kutoka kwa Mola wako Mlezi. Hapana mungu ila Yeye. Na jitenge na washirikina.
+107_00	Na lau Mwenyezi Mungu angeli penda, wasingeli shiriki. Na Sisi hatukukufanya wewe uwe mtunzaji wao. Wala wewe si mlinzi juu yao.
+108_00	Wala msiwatukane hao wanao waomba badala ya Mwenyezi Mungu, wasije na wao wakamtukana Mwenyezi Mungu kwa jeuri bila ya kujua.
+108_01	Namna hivyo tumewapambia kila umma vitendo vyao. Kisha marejeo yao yatakuwa kwa Mola wao Mlezi, naye atawaambia waliyo kuwa wakiyatenda.
+109_00	Na waliapa kwa Mwenyezi Mungu kwa ukomo wa viapo vyao, kuwa ikiwafikia Ishara wataiamini.
+109_01	Sema: Ishara ziko kwa Mwenyezi Mungu. Na nyinyi hamjui kuwa zitapo kuja hawato amini.
+110_00	Nasi twazigeuza nyoyo zao na macho yao. Kama walivyo kuwa hawakuamini mara ya kwanza, tunawaacha katika maasi yao wakitangatanga.
+111_00	NA LAU kuwa tungeli wateremshia Malaika, na maiti wakazungumza nao, na tukawakusanyia kila kitu mbele yao, bado wasingeli amini, ila Mwenyezi Mungu atake.
+111_01	Lakini wengi wao wamo ujingani.
+112_00	Na kadhaalika tumemfanyia kila Nabii maadui mashet'ani wa kiwatu, na kijini, wakifundishana wao kwa wao maneno ya kupamba-pamba, kwa udanganyifu.
+112_01	Na angeli penda Mola wako Mlezi wasingeli fanya hayo. Basi waache na wanayo yazua.
+113_00	Na ili nyoyo za wasio amini Akhera zielekee hayo, nao wayaridhie na wayachume wanayo yachuma.
+114_00	Je, nimtafute hakimu ghairi ya Mwenyezi Mungu, naye ndiye aliye kuteremshieni Kitabu kilicho elezwa waziwazi?
+114_01	Na hao tulio wapa Kitabu wanajua ya kwamba kimeteremshwa na Mola wako Mlezi kwa Haki. Basi usiwe katika wanao tia shaka.
+115_00	Na yametimia maneno ya Mola Mlezi wako kwa kweli na uadilifu. Hapana awezaye kuyabadilisha maneno yake. Na Yeye ndiye Mwenye kusikia na Mwenye kujua.
+116_00	Na ukiwat'ii wengi katika hawa waliomo duniani watakupoteza na Njia ya Mwenyezi Mungu. Hawa hawafuati ila dhana tu, na hawakuwa ila ni wenye kusema uwongo tu.
+117_00	Hakika Mola wako Mlezi ndiye Mjuzi kushinda wote kuwajua walio potea Njia yake, na ndiye Mjuzi kushinda wote kuwajua walio hidika.
+118_00	Basi kuleni katika walio somewa jina la Mwenyezi Mungu, ikiwa mnaziamini Aya zake.
+119_00	Na kwa nini msile katika walio somewa jina la Mwenyezi Mungu, naye amekwisha kubainishieni alivyo kuharimishieni, isipo kuwa vile mnavyo lazimishwa?
+119_01	Na hakika wengi wanapoteza kwa matamanio yao bila ya kuwa na ilimu. Hakika Mola wako Mlezi ndiye Mjuzi kushinda wote kuwajua wanao pindukia mipaka.
+120_00	Na acheni dhambi zilizo dhaahiri na zilizo fichikana. Hakika wanao chuma dhambi watalipwa kwa waliyo kuwa wakiyachuma.
+121_00	Wala msile katika wale wasio somewa jina la Mwenyezi Mungu. Kwani huo ni upotofu.
+121_01	Na kwa yakini mashet'ani wanawafunza marafiki zao kubishana nanyi. Na mkiwafuata basi hapana shaka nyinyi mtakuwa washirikina.
+122_00	Je, aliye kuwa maiti kisha tukamhuisha, na tukamjaalia nuru inakwenda naye mbele za watu, mfano wake ni kama aliyoko gizani akawa hata hawezi kutoka humo?
+122_01	Kama hivyo makafiri wamepambiwa waliyo kuwa wakiyafanya.
+123_00	Kadhaalika katika kila mji tumewajaalia wakubwa wa wakosefu wao wafanye vitimbi ndani yake. Na wala hawafanyii vitimbi isipo kuwa nafsi zao, nao hawatambui.
+124_00	Na inapo wajia Ishara, wao husema: Hatutoamini mpaka tupewe mfano wa walio pewa Mitume wa Mwenyezi Mungu.
+124_01	Mwenyezi Mungu ndiye Mjuzi kuliko wote kujua wapi anaweka ujumbe wake. Itawafikia hao walio kosa udhalili na adhabu kali kutoka kwa Mwenyezi Mungu kwa sababu ya vitimbi walivyo kuwa wakivifanya.
+125_00	Basi yule ambaye Mwenyezi Mungu anataka kumhidi humfungulia kifua chake kwa Uislamu.
+125_01	Na anaye taka apotee hukifanya kifua chake kina dhiki, kimebana, kama kwamba anapanda mbinguni. Namna hivi Mwenyezi Mungu anajaalia uchafu juu ya wasio amini.
+126_00	Na hii ndiyo Njia ya Mola wako Mlezi Iliyo nyooka. Tumezipambanua Aya kwa watu wanao kumbuka.
+127_00	Hao watapata nyumba ya salama kwa Mola Mlezi wao. Naye ndiye Rafiki Mlinzi wao kwa sababu ya waliyo kuwa wakiyatenda.
+128_00	Na ile Siku atapo wakusanya wote awaambie: Enyi makundi ya majini! Hakika nyinyi mmechukua wafuasi wengi katika wanaadamu.
+128_01	Na marafiki zao katika wanaadamu waseme: Mola Mlezi wetu! Tulinufaishana sisi na wao.
+128_02	Na tumefikia ukomo wetu ulio tuwekea. Basi Mwenyezi Mungu atasema: Moto ndio makaazi yenu, mtadumu humo, ila apendavyo Mwenyezi Mungu. Hakika Mola wako Mlezi ni Mwenye hikima, na Mwenye kujua.
+129_00	Ndio kama hivi tunawaelekeza madhaalimu wapendane wao kwa wao kwa sababu ya waliyo kuwa wakiyachuma.
+130_00	Enyi makundi ya majini na watu! Je, hawakukujieni Mitume kutokana na nyinyi wenyewe wakikubainishieni Aya zangu, na wakikuonyeni mkutano wa Siku yenu hii.
+130_01	Nao watasema: Tumeshuhudia juu ya nafsi zetu. Na yaliwadanganya maisha ya dunia. Nao watajishuhudia wenyewe ya kwamba walikuwa makafiri.
+131_00	Hayo ni kwa sababu ya kuwa Mola wako Mlezi hakuwa wa kuiangamiza miji kwa dhulma, hali wenyewe wameghafilika.
+132_00	Na wote wana daraja mbali mbali kutokana na yale waliyo yatenda. Na Mola wako Mlezi si mwenye kughafilika na yale wanayo yatenda.
+133_00	Na Mola wako Mlezi ndiye Mkwasi, Mwenye rehema. Akipenda atakuondoeni na awaweke wengine awapendao badala yenu, kama vile alivyo kutoeni kutokana na uzazi wa watu wengine.
+134_00	Bila ya shaka hayo mnayo ahidiwa yatafika tu, wala nyinyi hamtaweza kuyaepuka.
+135_00	Sema: Enyi watu wangu! Fanyeni muwezayo, na hakika mimi nafanya. Mtakuja jua nani atakuwa na makaazi mema mwishoni. Hakika madhaalimu hawatafanikiwa.
+136_00	Na wamemwekea sehemu Mwenyezi Mungu katika mimea na wanyama alio umba, nao husema: Hii ni sehemu ya Mwenyezi Mungu - kwa madai yao - na hii ni ya miungu tunao washirikisha.
+136_01	Basi vile walivyo wakusudia miungu yao havimfikii Mwenyezi Mungu, na vilivyo kuwa vya Mwenyezi Mungu huwafikia miungu yao. Ni uovu kabisa hayo wanayo yahukumu.
+137_00	Na kadhaalika hao washirika wao wamewapambia wengi katika washirikina kuwauwa watoto wao ili kuwaangamiza na kuwavurugia dini yao.
+137_01	Na lau kuwa Mwenyezi Mungu angeli penda wasinge fanya hayo. Basi waache na hayo wanayo yazua.
+138_00	Nao husema: Wanyama hawa na mimea hii ni mwiko. Hawatokula ila wale tuwapendao - kwa madai yao tu. Na wanyama hawa imeharimishwa migongo yao kupandwa.
+138_01	Na wanyama wengine hawalitaji jina la Mwenyezi Mungu juu yao. Wanamzulia uwongo tu Mwenyezi Mungu. Atawalipa kwa hayo wanayo mzulia.
+139_00	Na husema: Waliomo matumboni mwa wanyama hawa ni kwa ajili ya wanaume wetu tu, na wameharimishwa kwa wake zetu. Lakini ikiwa nyamafu basi wanashirikiana.
+139_01	Mwenyezi Mungu atawalipa kwa maelezo yao hayo. Hakika Yeye ni Mwenye hikima, Mwenye kujua.
+140_00	Hakika wamekhasirika wale ambao wamewauwa watoto wao kwa upumbavu pasipo kujua, na wakaharimisha alivyo waruzuku Mwenyezi Mungu kwa kumzulia Mwenyezi Mungu. Hakika wamepotea, wala hawakuwa wenye kuongoka.
+141_00	Na Yeye ndiye aliye ziumba bustani zenye kutambaa juu ya chanja, na zisio tambaa, na mitende, na mimea yenye matunda mbali mbali, na mizaituni na mikomamanga inayo fanana na isiyo fanana. Kuleni matunda yake inapo zaa, na toeni haki yake siku ya kuvunwa kwake.
+141_01	Wala msitumie kwa fujo. Hakika Yeye hawapendi watumiayo kwa fujo.
+142_00	Na katika wanyama amekujaalieni wenye kubeba mizigo na kutoa matandiko. Kuleni katika alivyo kuruzukuni Mwenyezi Mungu, wala msifuate nyayo za Shet'ani. Hakika yeye ni adui yenu dhaahiri.
+143_00	Amekuumbieni namna nane za wanyama: Wawili katika kondoo, na wawili katika mbuzi.
+143_01	Sema je, ameharimisha yote madume wawili au majike wawili, au waliomo matumboni mwa majike yote mawili? Niambieni kwa ilimu ikiwa nyinyi mnasema kweli.
+144_00	Na wawili katika ngamia, na wawili katika ng'ombe.
+144_01	Sema: Je, ameharimisha yote madume wawili au majike wawili, au waliomo matumboni mwa yote majike?
+144_02	Au, nyinyi mlikuwapo Mwenyezi Mungu alipo kuusieni haya? Basi ni nani dhaalimu mkubwa kuliko yule aliye mzulia Mwenyezi Mungu uwongo, kwa ajili ya kuwapoteza watu bila ya ilimu? Hakika Mwenyezi Mungu hawahidi watu madhaalimu.
+145_00	Sema: Sioni katika yale niliyo funuliwa mimi kitu kilicho harimishwa kwa mlaji kukila isipo kuwa kiwe ni nyamafu, au damu inayo mwagika, au nyama ya nguruwe, kwani hiyo ni uchafu; au kwa upotofu kimechinjwa kwa jina la asiye kuwa Mwenyezi Mungu.
+145_01	Lakini mwenye kushikwa na dharura, bila ya kutamani wala kupita mipaka, basi hakika Mola wako Mlezi ni Mwenye kusamehe, Mwenye kurehemu.
+146_00	Na wale walio fuata dini ya Kiyahudi tumewaharimishia kila mwenye kucha.
+146_01	Na katika ng'ombe na kondoo na mbuzi tumewaharimishia shahamu yao, isipo kuwa ile iliyo beba migongo yao au matumbo yao, au iliyo gandamana na mifupa.
+146_02	Tuliwalipa hivyo kwa sababu ya uasi wao. Na bila ya shaka Sisi ndio wasema kweli.
+147_00	Wakikukanusha basi wewe sema: Mola Mlezi wenu ni Mwenye rehema iliyo enea. Wala haizuiliki adhabu yake kwa watu wakhalifu.
+148_00	Watasema walio shirikisha: Lau kuwa Mwenyezi Mungu ange taka tusingeli shiriki sisi, wala baba zetu; wala tusingeli harimisha kitu chochote.
+148_01	Vivi hivi walikanusha walio kuwa kabla yao mpaka walipo onja adhabu yetu.
+148_02	Sema: Je, nyinyi mnayo ilimu mtutolee? Nyinyi hamfuati ila dhana. Wala hamsemi ila uwongo tu.
+149_00	Sema: Basi Mwenyezi Mungu ndiye Mwenye hoja ya kukata. Na kama angeli penda angeli kuhidini nyote.
+150_00	Sema: Leteni mashahidi wenu watao shuhudia kuwa Mwenyezi Mungu ameharimisha hawa.
+150_01	Basi wakishuhudia, wewe usishuhudie pamoja nao. Wala usifuate matamanio ya walio zikanusha Ishara zetu, wala hawaiamini Akhera, na ambao wanamlinganisha Mola Mlezi wao na wengine.
+151_00	Sema: Njooni nikusomeeni aliyo kuharimishieni Mola wenu Mlezi. Nayo ni kuwa, msimshirikishe Yeye na chochote.
+151_01	Na wazazi wenu wafanyieni wema. Wala msiwauwe watoto wenu kwa sababu ya umasikini.
+151_02	Sisi tunakuruzukuni nyinyi na wao. Wala msikaribie mambo machafu, yanayo onekana, na yanayo fichikana. Wala msiuwe nafsi ambayo Mwenyezi Mungu ameharimisha kuiuwa, ila ikiwa kwa haki. Hayo amekuusieni ili myatie akilini.
+152_00	Wala msiyakaribie mali ya yatima ila kwa njia ya wema kabisa, mpaka afikilie utu-uzima. Na timizeni vipimo na mizani kwa uadilifu.
+152_01	Sisi hatumkalifishi mtu ila kwa kadiri ya uwezo wake. Na msemapo semeni kwa uadilifu ingawa ni jamaa.
+152_02	Na ahadi ya Mwenyezi Mungu itekelezeni. Hayo amekuusieni ili mpate kukumbuka.
+153_00	Na kwa hakika hii ndiyo Njia yangu Iliyo Nyooka. Basi ifuateni, wala msifuate njia nyingine, zikakutengeni na Njia yake. Haya amekuusieni ili mpate kuchamngu.
+154_00	Tena tulimpa Musa Kitabu kwa kumtimizia (neema) aliye fanya wema, na kuwa ni maelezo ya kila kitu, na uwongofu na rehema, ili wapate kuamini mkutano wao na Mola wao Mlezi.
+155_00	Na hichi ni Kitabu tulicho kiteremsha, kilicho barikiwa. Basi kifuateni, na mchenimngu, ili mrehemewe.
+156_00	Msije mkasema: Hakika mataifa mawili kabla yetu yameteremshiwa Kitabu; na sisi tulikuwa hatuna khabari ya waliyo kuwa wakiyasoma.
+157_00	Au mkasema: Lau kuwa tumeteremshiwa sisi Kitabu tungeli kuwa waongofu zaidi kuliko wao. Basi imekufikieni bayana kutoka kwa Mola wenu Mlezi, na uwongofu, na rehema.
+157_01	Basi nani aliye dhaalimu mkubwa zaidi kuliko yule anaye kanusha Ishara za Mwenyezi Mungu, na akajitenga nazo? Tutawalipa wanao jitenga na Ishara zetu adhabu kali kabisa kwa sababu ya kujitenga kwao.
+158_00	Wanangoja jengine ila wawafikie Malaika, au awafikie Mola wako Mlezi, au zifike baadhi ya Ishara za Mola wako Mlezi?
+158_01	Siku zitakapo fika baadhi ya Ishara za Mola wako Mlezi, kuamini hapo hakutomfaa mtu kitu, ikiwa hakuwa ameamini kabla yake, au amefanya kheri katika Imani yake.
+158_02	Sema: Ngojeni, nasi pia tunangoja.
+159_00	Hakika walio igawa Dini yao na wakawa makundi makundi, huna ukhusiano nao wowote. Bila ya shaka shauri yao iko kwa Mwenyezi Mungu; kisha atawaambia yale waliyo kuwa wakiyatenda.
+160_00	Afanyae wema atalipwa mfano wake mara kumi. na afanyae ubaya hatalipwa ila sawa nao tu. Na wao hawatadhulumiwa.
+161_00	Sema: Kwa hakika mimi Mola wangu Mlezi ameniongoa kwenye Njia Iliyo Nyooka, Dini iliyo sawa kabisa, ambayo ndiyo mila ya Ibrahim aliye kuwa mwongofu, wala hakuwa miongoni mwa washirikina.
+162_00	Sema: Hakika Sala yangu, na ibada zangu, na uhai wangu, na kufa kwangu, ni kwa ajili ya Mwenyezi Mungu, Mola Mlezi wa viumbe vyote.
+163_00	Hana mshirika wake. Na hayo ndiyo niliyo amrishwa, na mimi ni wa kwanza wa Waislamu.
+164_00	Sema: Je nitafute Mola Mlezi asiye kuwa Mwenyezi Mungu, na hali Yeye ndiye Mola Mlezi wa kila kitu? Na kila nafsi haichumii ila nafsi yake.
+164_01	Na habebi mwenye kubeba mzigo wa mwenziwe. Kisha marejeo yenu ni kwa Mola wenu Mlezi, naye atakuambieni mliyo kuwa mkikhitalifiana.
+165_00	Naye ndiye aliye kufanyeni makhalifa wa duniani, na amewanyanyua baadhi yenu juu ya wengine daraja kubwa kubwa, ili akujaribuni kwa hayo aliyo kupeni.
+165_01	Hakika Mola Mlezi wako ni Mwepesi wa kuadhibu, na hakika Yeye ni Mwenye kusamehe, Mwenye kurehemu.

@@ -1,0 +1,22 @@
+001_00	Naapa kwa mbingu yenye Buruji!
+002_00	Na kwa siku iliyo ahidiwa!
+003_00	Na kwa shahidi na kinacho shuhudiwa!
+004_00	Wameangamizwa watu wa makhandaki
+005_00	Yenye moto wenye kuni nyingi,
+006_00	Walipo kuwa wamekaa hapo,
+007_00	Na wao ni mashahidi wa yale waliyo kuwa wakiwafanyia Waumini.
+008_00	Nao hawakuona baya lolote kwao ila kuwa wakimuamini Mwenyezi Mungu, Mwenye nguvu, Msifiwa,
+009_00	Ambaye anao ufalme wa mbingu na ardhi; na Mwenyezi Mungu ni shaahidi wa kila kitu.
+010_00	Hakika walio wafitini Waumini wanaume na Waumini wanawake, kisha hawakutubu, basi watapata adhabu ya Jahannamu na watapata adhabu ya kuungua.
+011_00	Hakika walio amini na wakatenda mema watapata Bustani zenye mito ipitayo kati yake. Huko ndiko kufuzu kukubwa.
+012_00	Hakika kutesa kwa Mola wako Mlezi ni kukali.
+013_00	Yeye ndiye anaye anzisha na ndiye anaye rejeza tena,
+014_00	Naye ni Mwenye kusamehe, Mwenye mapenzi,
+015_00	Mwenye Kiti cha Enzi, Mtukufu,
+016_00	Atendaye ayatakayo.
+017_00	Je! Zimekuwasilia khabari za majeshi?
+018_00	Ya Firauni na Thamudi?
+019_00	Lakini walio kufuru wamo katika kukadhibisha.
+020_00	Na Mwenyezi Mungu nyuma yao amewazunguka.
+021_00	Bali hii ni Qur'ani tukufu
+022_00	Katika Ubao Ulio Hifadhiwa.

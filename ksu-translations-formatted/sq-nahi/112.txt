@@ -1,0 +1,4 @@
+001_00	Thuaj: “Perëndia është Një!
+002_00	Perëndisë i drejtohen për çdo gjë!
+003_00	(Ai) nuk ka lindur prej ndokujt, as nuk ka lindur kë,
+004_00	dhe askush nuk i gjason Atij!”

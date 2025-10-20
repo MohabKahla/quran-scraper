@@ -1,0 +1,229 @@
+001_00	T'aa Siin Miim. (T'. S. M.)
+002_00	Hizi ni Aya za Kitabu kinacho bainisha.
+003_00	Huenda labda ukajikera nafsi yako kwa kuwa hawawi Waumini.
+004_00	Tunge penda tungeli wateremshia kutoka mbinguni Ishara zikanyenyekea shingo zao.
+005_00	Wala hauwafikii ukumbusho mpya kutoka kwa Arrahman ila wao hujitenga nao.
+006_00	Kwa yakini wamekanusha; kwa hivyo zitakuja wafikia khabari za yale waliyo kuwa wakiyafanyia mzaha.
+007_00	Je! Hawakuiona ardhi, mimea mingapi tumeiotesha humo, ya kila namna nzuri?
+008_00	Hakika katika haya zipo Ishara. Lakini wengi wao hawakuwa wenye kuamini.
+009_00	Na hakika Mola wako Mlezi ndiye Yeye Mwenye nguvu Mwenye kurehemu.
+010_00	Na Mola wako Mlezi, alipo mwita Musa, akamwambia: Fika kwa watu madhaalimu,
+011_00	Watu wa Firauni. Hawaogopi?
+012_00	Akasema: Hakika mimi nachelea wasinikanushe.
+013_00	Na kifua changu kina dhiki, na ulimi wangu haukunjuki vyema. Basi mtumie ujumbe Harun.
+014_00	Na wao wana kisasi juu yangu, kwa hivyo naogopa wasije kuniuwa.
+015_00	Akasema: Siyo hivyo kabisa! Nendeni na miujiza yetu. Hakika Sisi tu pamoja nanyi, tunasikiliza.
+016_00	Basi mfikieni Firauni na mwambieni: Hakika sisi ni Mitume wa Mola Mlezi wa walimwengu wote.
+017_00	Waachilie Wana wa Israili wende nasi.
+018_00	(Firauni) akasema: Sisi hatukukulea wewe utotoni, na ukakaa kwetu katika umri wako miaka mingi?
+019_00	Na ukatenda kitendo chako ulicho tenda, nawe ukawa miongoni mwa wasio na shukrani?
+020_00	(Musa) akasema: Nilitenda hayo hapo nilipo kuwa miongoni mwa wale walio potea.
+021_00	Basi nikakukimbieni nilipo kuogopeni, tena Mola wangu Mlezi akanitunukia hukumu, na akanijaalia niwe miongoni mwa Mitume.
+022_00	Na hiyo ndiyo neema ya kunisumbulia, na wewe umewatia utumwani Wana wa Israili?
+023_00	Firauni akasema: Na nani huyo Mola Mlezi wa walimwengu wote?
+024_00	Akasema: Ndiye Mola Mlezi wa mbingu na ardhi, na viliomo baina yao, ikiwa nyinyi ni wenye yakini.
+025_00	(Firauni) akawaambia walio mzunguka: Hamsikilizi?
+026_00	(Musa) akasema: Ndiye Mola wenu Mlezi, na Mola Mlezi wa baba zenu wa kwanza.
+027_00	(Firauni) akasema: Hakika huyu Mtume wenu aliye tumwa kwenu ni mwendawazimu.
+028_00	(Musa) akasema: Ndiye Mola Mlezi wa Mashariki na Magharibi na viliomo baina yao, ikiwa nyinyi mnatia akilini.
+029_00	(Firauni) akasema: Ukimfuata mungu mwengine asiye kuwa mimi, basi bila ya shaka nitakufunga gerezani.
+030_00	Akasema: Je! Ijapo kuwa nitakuletea kitu cha kubainisha wazi?
+031_00	Akasema: Kilete basi, kama wewe ni katika wasemao kweli.
+032_00	Basi akaitupa fimbo yake, mara ikawa nyoka wa kuonekana dhaahiri.
+033_00	Na akautoa mkono wake, na mara ukawa mweupe kwa watazamao.
+034_00	(Firauni) akawaambia waheshimiwa walio mzunguka: Hakika huyu ni mchawi mtaalamu.
+035_00	Anataka kukutoeni katika nchi yenu kwa uchawi wake. Basi mna shauri gani?
+036_00	Wakasema: Mpe muda yeye na nduguye na uwatume mijini wapigao mbiu ya mgambo.
+037_00	Wakuletee kila mchawi bingwa mtaalamu.
+038_00	Basi wakakusanywa wachawi wakati na siku maalumu.
+039_00	Na watu wakaambiwa: Je! Mtakusanyika?
+040_00	Huenda tutawafuata wachawi wakiwa wao ndio watakao shinda.
+041_00	Basi walipo kuja wachawi wakamwambia Firauni: Je! Tutapata ujira tukiwa sisi ndio tulio shinda?
+042_00	Naam! Na hakika mtakuwa katika watu wa mbele.
+043_00	Musa akwaambia: Tupeni mnavyo taka kutupa.
+044_00	Basi wakatupa kamba zao na fimbo zao, na wakasema: Kwa nguvu za Firauni hakika sisi hapana shaka ni wenye kushinda.
+045_00	Musa tena akatupa fimbo yake, nayo mara ikavimeza walivyo vizua.
+046_00	Hapo wachawi walipinduka wakasujudu.
+047_00	Wakasema: Tunamuamini Mola Mlezi wa walimwengu wote.
+048_00	Mola Mlezi wa Musa na Harun.
+049_00	(Firauni) akasema: Je! Mmemuamini kabla sijakuruhusuni? Bila ya shaka yeye basi ndiye mkubwa wenu aliye kufunzeni uchawi.
+049_01	Basi mtakuja jua! Nitakata mikono yenu na miguu yenu kwa kutafautisha. Na nitakubandikeni misalabani nyote.
+050_00	Wakasema: Haidhuru, kwani sisi ni wenye kurejea kwa Mola wetu Mlezi.
+051_00	Hakika sisi tunatumai Mola wetu Mlezi atatusamehe makosa yetu, kwa kuwa ndio wa kwanza wa kuamini.
+052_00	Na tulimuamrisha Musa kwa wahyi: Nenda na waja wangu wakati wa usiku. Kwa hakika mtafuatwa.
+053_00	Basi Firauni akawatuma mijini wapiga mbiu za mgambo.
+054_00	(Wakieneza): Hakika hawa ni kikundi kidogo.
+055_00	Nao wanatuudhi.
+056_00	Na sisi ni wengi, wenye kuchukua hadhari.
+057_00	Basi tukawatoa katika mabustani na chemchem,
+058_00	Na makhazina, na vyeo vya hishima,
+059_00	Kadhaalika; na tukawarithisha hayo Wana wa Israili.
+060_00	Basi wakawafuata lilipo chomoza jua.
+061_00	Na yalipo onana majeshi mawili haya, watu wa Musa wakasema: Hakika sisi bila ya shaka tumepatikana!
+062_00	(Musa) akasema: Hasha! Hakika yu pamoja nami Mola wangu Mlezi. Yeye ataniongoa!
+063_00	Tulimletea wahyi Musa tukamwambia: Piga bahari kwa fimbo yako. Basi ikatengana, na kila sehemu ikawa kama mlima mkubwa.
+064_00	Na tukawajongeza hapo wale wengine.
+065_00	Tukawaokoa Musa na walio kuwa pamoja naye wote.
+066_00	Kisha tukawazamisha hao wengine.
+067_00	Hakika bila ya shaka katika hayo ipo Ishara; lakini wengi wao si katika wenye kuamini.
+068_00	Na kwa hakika Mola wako Mlezi ndiye Mwenye nguvu Mwenye kurehemu.
+069_00	Na wasomee khabari za Ibrahim.
+070_00	Alipo mwambia baba yake na kaumu yake: Mnaabudu nini?
+071_00	Wakasema: Tunaabudu masanamu, daima tunayanyenyekea.
+072_00	Akasema: Je! Yanakusikieni mnapo yaita?
+073_00	Au yanakufaeni, au yanakudhuruni?
+074_00	Wakasema: Bali tumewakuta baba zetu wakifanya hivyo hivyo.
+075_00	Je! Mmewaona hawa mnao waabudu-
+076_00	Nyinyi na baba zenu wa zamani?
+077_00	Kwani hakika hao ni adui zangu, isipo kuwa Mola Mlezi wa walimwengu wote.
+078_00	Ambaye ndiye aliye niumba, na Yeye ndiye ananiongoa,
+079_00	Na ambaye ndiye ananilisha na kuninywesha.
+080_00	Na ninapo ugua ni Yeye ndiye anaye niponesha.
+081_00	Na ambaye atanifisha, na kisha atanihuisha.
+082_00	Na ambaye ndiye ninaye mtumai kunisamehe makosa yangu Siku ya Malipo.
+083_00	Mola wangu Mlezi! Nitunukie hukumu na uniunganishe na watendao mema.
+084_00	Na unijaalie nitajwe kwa wema na watu watakao kuja baadaye.
+085_00	Na unijaalie katika warithi wa Bustani za neema.
+086_00	Na umsamehe baba yangu, kwani hakika alikuwa miongoni mwa wapotovu.
+087_00	Wala usinihizi Siku watapo fufuliwa.
+088_00	Siku ambayo kwamba mali hayato faa kitu wala wana.
+089_00	Isipo kuwa mwenye kumjia Mwenyezi Mungu na moyo safi.
+090_00	Na Pepo itasogezwa kwa wachamngu.
+091_00	Na Jahannamu itadhihirishwa kwa wapotovu.
+092_00	Na wataambiwa: Wako wapi mlio kuwa mkiwaabudu
+093_00	Badala ya Mwenyezi Mungu? Je! Wanakusaidieni, au wanajisaidia wenyewe?
+094_00	Basi watavurumizwa humo wao na hao wakosefu,
+095_00	Na majeshi ya Ibilisi yote.
+096_00	Watasema, na hali ya kuwa wanazozana humo:
+097_00	Wallahi! Kwa yakini tulikuwa katika upotovu ulio dhaahiri,
+098_00	Tulipo kufanyeni ni sawa na Mola Mlezi wa walimwengu wote.
+099_00	Na hawakutupoteza ila wale wakosefu.
+100_00	Basi hatuna waombezi.
+101_00	Wala rafiki wa dhati.
+102_00	Laiti tungeli pata kurejea tena tungeli kuwa katika Waumini.
+103_00	Hakika katika haya ipo Ishara, lakini wengi wao hawakuwa wenye kuamini.
+104_00	Na hakika Mola wako Mlezi ndiye Mwenye nguvu Mwenye kurehemu.
+105_00	Kaumu ya Nuhu waliwakadhibisha Mitume.
+106_00	Alipo waambia ndugu yao, Nuhu: Je! Hamchimngu?
+107_00	Hakika mimi kwenu ni Mtume muaminifu.
+108_00	Basi Mcheni Mwenyezi Mungu, na nit'iini mimi.
+109_00	Na sikutakini juu yake ujira, kwani ujira wangu hauko ila kwa Mola Mlezi wa walimwengu wote.
+110_00	Basi Mcheni Mwenyezi Mungu, na nit'iini mimi.
+111_00	Wakasema: Je! Tukuamini wewe, hali wanao kufuata ni watu wa chini?
+112_00	Akasema: Nayajuaje waliyo kuwa wakiyafanya?
+113_00	Hisabu yao haiko ila kwa Mola wao Mlezi, laiti mngeli tambua!
+114_00	Wala mimi si wa kuwafukuza Waumini.
+115_00	Mimi si cho chote ila ni Mwonyaji wa dhaahiri shaahiri.
+116_00	Wakasema: Ikiwa huachi, ewe Nuhu, bila ya shaka utapigwa mawe.
+117_00	Akasema: Mola wangu Mlezi! Hakika watu wangu wamenikanusha.
+118_00	Basi hukumu baina yangu na wao kwa hukumu yako, na uniokoe mimi na walio pamoja nami, Waumini.
+119_00	Kwa hivyo tukamwokoa yeye na walio kuwa pamoja naye katika marikebu iliyo sheheni.
+120_00	Kisha tukawazamisha baadaye walio bakia.
+121_00	Hakika katika haya ipo Ishara, lakini si wengi wao walio kuwa Waumini.
+122_00	Na hakika Mola wako Mlezi ndiye Yeye Mwenye nguvu Mwenye kurehemu.
+123_00	Kina A'd waliwakanusha Mitume.
+124_00	Alipo waambia ndugu yao, Hud: Je! Hamchimngu?
+125_00	Hakika mimi kwenu ni Mtume muaminifu.
+126_00	Basi mcheni Mwenyezi Mungu, na nit'iini mimi.
+127_00	Wala sikutakeni juu yake ujira, kwani ujira wangu hauko ila kwa Mola Mlezi wa walimwengu wote.
+128_00	Je! Mnajenga juu ya kila mnyanyuko kumbusho la kufanyia upuuzi?
+129_00	Na mnajenga majengo ya fakhari kama kwamba mtaishi milele!
+130_00	Na mnapo tumia nguvu mnatumia nguvu kwa ujabari.
+131_00	Basi mcheni Mwenyezi Mungu, na nit'iini.
+132_00	Na mcheni aliye kupeni haya mnayo yajua.
+133_00	Amekupeni wanyama wa kufuga na wana.
+134_00	Na mabustani na chemchem.
+135_00	Hakika mimi ninakukhofieni adhabu ya Siku Kubwa.
+136_00	Wakasema: Ni mamoja kwetu, ukitupa mawaidha au hukuwa miongoni mwa watoao mawaidha.
+137_00	Haya si chochote ila ni mtindo wa watu wa tokea zamani.
+138_00	Wala sisi hatutaadhibiwa.
+139_00	Wakamkanusha; nasi tukawaangamiza. Hakika bila ya shaka katika haya ipo Ishara. Lakini hawakuwa wengi wao wenye kuamini.
+140_00	Na hakika Mola wako Mlezi ndiye Mwenye nguvu Mwenye kurehemu.
+141_00	Kina Thamud waliwakanusha Mitume.
+142_00	Alipo waambia ndugu yao Saleh: Je! Hamumchimngu?
+143_00	Hakika mimi kwenu ni Mtume muaminifu.
+144_00	Basi mcheni Mwenyezi Mungu, na nit'iini.
+145_00	Wala sikutakini ujira juu yake. Ujira wangu hauko ila kwa Mola Mlezi wa walimwengu wote.
+146_00	Je! Mtaachwa salama usalimina katika haya yaliyopo hapa?
+147_00	Katika mabustani, na chemchem?
+148_00	Na konde na mitende yenye makole yaliyo wiva.
+149_00	Na mnachonga milimani majumba kwa ustadi.
+150_00	Basi mcheni Mwenyezi Mungu, na nit'iini mimi.
+151_00	Wala msit'ii amri za walio pindukia mipaka,
+152_00	Ambao wanafanya ufisadi katika nchi, wala hawatengenezi.
+153_00	Wakasema: Hakika wewe ni miongoni mwa walio rogwa.
+154_00	Wewe si chochote ila ni mtu kama sisi. Basi lete Ishara ukiwa wewe ni miongoni mwa wasemao kweli.
+155_00	Akasema: Huyu ngamia jike; awe na zamu yake ya kunywa, na nyinyi muwe na zamu yenu ya kunywa katika siku maalumu.
+156_00	Wala msimguse kwa uwovu, isije ikakushikeni adhabu ya Siku Kubwa.
+157_00	Lakini wakamuuwa, na wakawa wenye kujuta.
+158_00	Basi ikawapata adhabu. Hakika katika hayo ipo Ishara. Lakini hawakuwa wengi wao wenye kuamini.
+159_00	Na hakika Mola wako Mlezi ndiye Mwenye nguvu Mwenye kurehemu.
+160_00	Watu wa Lut'i waliwakanusha Mitume.
+161_00	Alipo waambia ndugu yao, Lut'i: Je! Hamumchimngu?
+162_00	Hakika mimi kwenu ni Mtume muaminifu kwenu.
+163_00	Basi mcheni Mwenyezi Mungu na nit'iini mimi.
+164_00	Wala mimi sikutakini ujira juu yake; ujira wangu hauko ila kwa Mola Mlezi wa walimwengu wote.
+165_00	Je! Katika viumbe vyote mnawaingilia wanaume?
+166_00	Na mnaacha alicho kuumbieni Mola wenu Mlezi katika wake zenu? Ama kweli nyinyi ni watu mnao ruka mipaka!
+167_00	Wakasema: Ewe Lut'i! Usipo acha, hapana shaka utakuwa miongoni mwa wanao tolewa mji!
+168_00	Akasema: Hakika mimi ni katika wanao kichukia hichi kitendo chenu.
+169_00	Mola wangu Mlezi! Niokoe mimi na ahali zangu na haya wayatendayo.
+170_00	Basi tukamwokoa yeye na ahali zake wote,
+171_00	Isipo kuwa kikongwe katika walio kaa nyuma.
+172_00	Kisha tukawaangamiza wale wengine.
+173_00	Na tukawanyeshea mvua, basi ni ovu mno mvua ya waliyo onywa.
+174_00	Hakika katika hayo ipo Ishara. Na hawakuwa wengi wao wenye kuamini.
+175_00	Na hakika Mola wako Mlezi bila ya shaka ndiye Mwenye nguvu, Mwenye kurehemu.
+176_00	Watu wa Machakani waliwakanusha Mitume.
+177_00	Shuaibu alipo waambia: Je! Hamfanyi mkamchamngu?
+178_00	Hakika mimi kwenu ni Mtume muaminifu.
+179_00	Basi mcheni Mwenyezi Mungu, na nit'iini mimi.
+180_00	Wala sikutakini ujira juu yake. Ujira wangu hauko ila kwa Mola Mlezi wa walimwengu wote.
+181_00	Timizeni kipimo sawa sawa, wala msiwe katika wanao punja.
+182_00	Na pimeni kwa haki iliyo nyooka;
+183_00	Wala msiwapunje watu vitu vyao, wala msifanye jeuri kwa ufisadi.
+184_00	Na mcheni aliye kuumbeni nyinyi na vizazi vilivyo tangulia.
+185_00	Wakasema: Hakika wewe ni katika walio rogwa.
+186_00	Na wewe si chochote ila ni mtu tu kama sisi, na kwa yakini tunakuona wewe ni katika waongo.
+187_00	Hebu tuangushie vipande kutoka mbinguni ikiwa wewe ni miongoni mwa wasemao kweli.
+188_00	Akasema: Mola wangu Mlezi anajua zaidi mnayo yatenda.
+189_00	Basi walimkanusha, na ikawashika adhabu ya siku ya kivuli. Hakika hiyo ilikuwa adhabu ya siku kubwa.
+190_00	Hakika katika hayo ipo Ishara, lakini hawakuwa wengi wao wenye kuamini.
+191_00	Na hakika Mola wako Mlezi bila ya shaka ndiye Yeye Mwenye nguvu Mwenye kurehemu.
+192_00	Na bila ya shaka hii ni Uteremsho wa Mola Mlezi wa walimwengu wote.
+193_00	Ameuteremsha Roho muaminifu,
+194_00	Juu ya moyo wako, ili uwe katika Waonyaji,
+195_00	Kwa ulimi wa Kiarabu ulio wazi.
+196_00	Na hakika bila ya shaka haya yamo katika Vitabu vya kale.
+197_00	Je! Haikuwa kwao ni Ishara kwamba wanayajua haya wanazuoni wa Wana wa Israili?
+198_00	Na lau kuwa tungeli iteremsha juu ya mmoja wa wasio kuwa Waarabu,
+199_00	Na akawasomea, wasingeli kuwa wenye kuamini.
+200_00	Namna hivi tunaingiza katika nyoyo za wakosefu.
+201_00	Hawataiamini mpaka waione adhabu chungu.
+202_00	Basi itawafikia kwa ghafla, na hali hawana khabari.
+203_00	Na watasema: Je, tutapewa muhula?
+204_00	Basi, je, wanaihimiza adhabu yetu?
+205_00	Waonaje kama tukiwastarehesha kwa miaka,
+206_00	Kisha yakawafikia waliyo kuwa wakiahidiwa,
+207_00	Yatawafaa nini yale waliyo stareheshewa?
+208_00	Wala hatukuangamiza mji wo wote ila ulikuwa na waonyaji -
+209_00	Kuwa ni ukumbusho. Wala Sisi hatukuwa wenye kudhulumu.
+210_00	Wala Mashet'ani hawakuteremka nayo,
+211_00	Wala haitakiwi kwao, na wala hawawezi.
+212_00	Hakika hao wametengwa na kusikia.
+213_00	Basi usimwombe mungu mwingine pamoja na Mwenyezi Mungu ukawa miongoni mwa watakao adhibiwa.
+214_00	Na uwaonye jamaa zako walio karibu nawe.
+215_00	Na watwae kwa upole wanao kufuata miongoni mwa Waumini.
+216_00	Na ikiwa watakuasi basi sema: Mimi najitenga mbali na hayo mnayo yatenda.
+217_00	Na umtegemee Mtukufu Mwenye nguvu Mwenye kurehemu.
+218_00	Ambaye anakuona unapo simama,
+219_00	Na mageuko yako kati ya wanao sujudu.
+220_00	Hakika Yeye ndiye Mwenye kusikia Mwenye kujua.
+221_00	Je! Nikwambieni nani wanawashukia Mashet'ani?
+222_00	Wanamshukia kila mzushi mkubwa mwingi wa dhambi.
+223_00	Wanawapelekea yale wanayo yasikia; na wengi wao ni waongo.
+224_00	Na watungaji mashairi ni wapotofu ndio wanawafuata.
+225_00	Je! Huwaoni kwamba wao wanatangatanga katika kila bonde?
+226_00	Na kwamba wao husema wasiyo yatenda?
+227_00	Isipo kuwa wale walio amini, na wakatenda mema, na wakamkumbuka Mwenyezi Mungu kwa wingi, na wakajitetea wanapo dhulumiwa.
+227_01	Na wanao dhulumu watakuja jua mgeuko gani watakao geuka.

@@ -1,0 +1,25 @@
+001_00	Itapo chanika mbingu,
+002_00	Na ikamsikiliza Mola wake Mlezi, na ikapasiwa kumsikiliza,
+003_00	Na ardhi itakapo tanuliwa,
+004_00	Na kuvitoa vilivyo kuwa ndani yake, ikawa tupu,
+005_00	Na ikamsikiliza Mola wake Mlezi, na ikapasiwa kumsikiliza,
+006_00	Ewe mtu! Hakika wewe unajikusuru kwa juhudi kumwendea Mola wako Mlezi, basi utamkuta.
+007_00	Ama atakaye pewa daftari lake kwa mkono wa kulia,
+008_00	Basi huyo atahisabiwa hisabu nyepesi,
+009_00	Na arudi kwa ahali zake na furaha.
+010_00	Na ama atakaye pewa daftari lake kwa nyuma ya mgongo wake,
+011_00	Basi huyo ataomba kuteketea.
+012_00	Na ataingia Motoni.
+013_00	Hakika alikuwa furahani kati ya jamaa zake.
+014_00	Huyo hakika alidhani kuwa hatarejea tena.
+015_00	Kwani? Hakika Mola wake Mlezi alikuwa akimwona!
+016_00	Basi ninaapa kwa wekundu wa jua linapo kuchwa,
+017_00	Na kwa usiku na unavyo vikusanya,
+018_00	Na kwa mwezi unapo pevuka,
+019_00	Lazima mtapanda t'abaka kwa t'abaka!
+020_00	Basi wana nini hawaamini?
+021_00	Na wanapo somewa Qur'ani hawasujudu?
+022_00	Bali walio kufuru wanakanusha tu.
+023_00	Na Mwenyezi Mungu anajua wanayo yadhamiria.
+024_00	Basi wabashirie adhabu chungu!
+025_00	Isipo kuwa wale walio amini na wakatenda mema; hao watakuwa na ujira usio malizika.

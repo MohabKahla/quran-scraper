@@ -1,0 +1,17 @@
+001_00	Tako mi neba i Danice!
+002_00	A znaš li ti šta je Danica?
+003_00	Zvijezda blistava!
+004_00	Nema čovjeka nad kojim neko ne bdije.
+005_00	Nek čovjek pogleda od čega je stvoren!
+006_00	Stvoren je od tekućine koja se izbaci,
+007_00	koja između kičme i grudi izlazi,
+008_00	i On je, zaista, kadar da ga ponovo stvori
+009_00	onoga Dana kada budu ispitivane savjesti,
+010_00	kada čovjek ni snage ni branioca neće imati.
+011_00	I tako mi neba puna kiše
+012_00	i Zemlje koja se otvara da rastinje nikne,
+013_00	Kur'an je, doista, govor koji rastavlja istinu od neistine,
+014_00	lakrdija nikakva on nije!
+015_00	Oni se služe spletkama,
+016_00	a Ja ih uništavam –
+017_00	zato nevjernicima još vremena dadni, još koji trenutak ih ostavi.

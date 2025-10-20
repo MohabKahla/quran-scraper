@@ -1,0 +1,11 @@
+001_00	Mai ƙwanƙwasar (zukata da tsõro)!
+002_00	Mẽnẽ ne mai ƙwanƙwasa?
+003_00	Kuma me ya sanar da kai abin da ake ce wa mai ƙwanƙwasa?
+004_00	Rãnar da mutãne za su kasance kamar 'ya'yan fari mãsu wãtsuwa.
+005_00	Kuma duwãtsu su kasance kamar gãshin sũfin da aka saɓe.
+006_00	To, amma wanda ma'aunansa suka yi nauyi.
+007_00	To, shi yana a cikin wata rayuwa yardadda.
+008_00	Kuma amma wanda ma'aunansa suka yi sauƙi (bãbu nauyi).
+009_00	To, uwarsa Hãwiya ce.
+010_00	Kuma me ya sanar da kai mece ce ita?
+011_00	Wata wuta ce mai zafi.

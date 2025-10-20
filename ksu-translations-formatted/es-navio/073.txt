@@ -1,0 +1,24 @@
+001_00	¡Oh tú que te envuelves en el manto!*
+002_00	¡Permanece rezando por la noche a excepción de un poco!
+003_00	La mitad o algo menos,
+004_00	o algo más. Y recita el Corán pausadamente.
+005_00	Realmente vamos a depositar en ti palabras de peso.
+006_00	Y en el seno de la noche hay mayor quietud y es más certera la dicción.
+007_00	Durante el día llevas a cabo una larga actividad.
+008_00	Recuerda el nombre de tu Señor y concéntrate de lleno en Él.
+009_00	El Señor del oriente y del occidente, no hay dios sino Él; tomadlo como Protector.
+010_00	Ten paciencia con lo que dicen y aléjate de ellos con delicadeza*.
+011_00	Y déjame con los que niegan la verdad, ésos que gozan de bienestar. Dales un poco de plazo.
+012_00	Cierto es que junto a Nos hay cadenas y un fuego inflamado,
+013_00	un alimento que se atraganta y un doloroso castigo.
+014_00	El día en que la tierra y las montañas se estremezcan y sean como arena esparcida.
+015_00	Os hemos enviado un mensajero que es testigo sobre vosotros, al igual que a Firaún le enviamos otro mensajero.
+016_00	Firaún desobedeció al mensajero y lo agarramos con un fuerte castigo.
+017_00	¿Y cómo habríais de tener temor, si os habéis negado a creer, del día en que los recién nacidos encanecerán?
+018_00	Por su causa el cielo se partirá y Su promesa será un hecho.
+019_00	Realmente esto es un recuerdo; quien quiera, que tome un camino hacia su Señor.
+020_00	Tu Señor sabe que permaneces por la noche rezando durante algo menos de dos tercios o durante la mitad o un tercio, así como una parte de los
+020_01	que están contigo.Allah, que mide la noche y el día, sabe que no podréis ser constantes en ello y se ha vuelto a vosotros con indulgencia, así pues
+020_02	recitad del Corán lo que os sea fácil.Él sabe que entre vosotros hay enfermos, que algunos viajan por la tierra buscando el favor de Allah y que otros
+020_03	luchan en el camino de Allah, de modo que recitad de él lo que os sea fácil, estableced el salat, entregad el zakat y hacedle a Allah un
+020_04	generoso préstamo.El bien que adelantéis en vuestro favor lo encontraréis junto a Allah. Eso es mejor y posee más recompensa.Y pedid perdón a Allah, realmente Allah es Perdonador y Compasivo.*

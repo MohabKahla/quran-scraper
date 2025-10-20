@@ -1,0 +1,11 @@
+001_00	Das Verhängnis!
+002_00	Was ist das Verhängnis?
+003_00	Und was läßt dich wissen, was das Verhängnis ist?
+004_00	Am Tag, da die Menschen wie flatternde Motten sein werden
+005_00	und die Berge wie zerflockte gefärbte Wolle sein werden.
+006_00	Was nun jemanden angeht, dessen Waagschalen schwer sind,
+007_00	so wird er in einem zufriedenen Leben sein.
+008_00	Was aber jemanden angeht, dessen Waagschalen leicht sind,
+009_00	dessen Mutter wird ein Abgrund sein.
+010_00	Und was läßt dich wissen, was das ist?
+011_00	Ein sehr heißes Feuer.

@@ -1,0 +1,229 @@
+001_00	Tâ, Sîn, Mîm.
+002_00	Questi sono i versetti del Libro chiarissimo.
+003_00	Forse, ti affliggi perché essi non sono credenti:
+004_00	se volessimo, faremmo scendere su di loro un segno dal cielo, di fronte al quale piegherebbero il capo.
+005_00	Non giunge loro alcun nuovo Monito del Compassionevole, senza che se ne allontanino.
+006_00	Lo hanno tacciato di menzogna. Ben presto avranno notizie di ciò che scherniscono.
+007_00	Non hanno visto quante nobili specie abbiamo fatto germogliare sulla terra?
+008_00	Questo è davvero un segno, ma la maggior parte di loro non crede.
+009_00	Sì, il tuo Signore è l'Eccelso, il Misericordioso.
+010_00	[Ricorda] quando il tuo Signore chiamò Mosè: “Recati presso il popolo degli oppressori,
+011_00	presso il popolo di Faraone: non avranno timore di [Me]?”.
+012_00	Disse: “Signore, invero temo che mi trattino da bugiardo.
+013_00	È oppresso il mio petto e la mia lingua legata. Manda Aronne piuttosto.
+014_00	Di fronte a loro io sono in colpa. Temo che mi uccidano”.
+015_00	Disse: “Invece no, andate entrambi con i Nostri segni. Noi saremo con voi e ascolteremo.
+016_00	Andate da Faraone e ditegli: " Noi siamo gli inviati del Signore dei mondi,
+017_00	affinché tu lasci partire con noi i Figli di Israele ".
+018_00	Rispose: “Non ti abbiamo forse allevato presso di noi quando eri bambino, non sei forse rimasto con noi molti anni della tua vita?
+019_00	Poi hai commesso l'atto di cui ti macchiasti e fosti un ingrato”.
+020_00	Disse: “Ho fatto ciò quando ancora ero uno degli smarriti.
+021_00	Sono fuggito da voi perché ho avuto paura di voi. [Ora] il mio Signore mi ha dato il discernimento e ha fatto di me uno dei [Suoi] Messaggeri.
+022_00	Mi vuoi forse rinfacciare questo favore, mentre schiavizzi i Figli di Israele?”.
+023_00	Disse Faraone: “E chi è questo Signore dei mondi?”.
+024_00	Rispose: “Il Signore dei cieli e della terra e di ciò che vi è tra essi. Se solo poteste esserne convinti!”.
+025_00	Disse [Faraone] a quelli che lo attorniavano: “Non avete sentito?”.
+026_00	Disse [Mosè]: “È il vostro Signore, il Signore dei vostri antenati più lontani!”.
+027_00	Disse [Faraone]: “Davvero il messaggero che vi è stato inviato è un folle”.
+028_00	Disse [Mosè]: “[È] il Signore dell'Oriente e dell'Occidente, e di ciò che vi è frammezzo, se solo lo capiste”.
+029_00	Disse: “Se prenderai un dio dall'infuori di me, certamente farò di te un prigioniero”.
+030_00	Rispose [Mosè]: “Anche se ti portassi una prova evidente?”.
+031_00	Disse: “Portala dunque, se sei fra i veritieri”.
+032_00	Gettò il suo bastone, ed ecco che [divenne] palesemente un serpente.
+033_00	Trasse la sua mano, ed essa [apparve] bianca a coloro che guardavano.
+034_00	Disse [Faraone] ai notabili che lo attorniavano: “È davvero un mago sapiente,
+035_00	vuole cacciarvi dalla vostra terra con la sua magia. Ebbene, che cosa deliberate?”.
+036_00	Dissero: “Rimanda lui e suo fratello e invia messi nelle città,
+037_00	affinché ti conducano ogni grande mago sapiente”.
+038_00	Si riunirono i maghi per l'incontro, nel giorno stabilito.
+039_00	E si disse al popolo: “Vi riunirete in massa,
+040_00	così da poter seguire i maghi, se saranno vincitori!”.
+041_00	Poi, quando i maghi furono convenuti dissero a Faraone: “Davvero avremo una ricompensa se saremo vincitori?”.
+042_00	Rispose: “Sì, e in tal caso sarete tra i favoriti”.
+043_00	Mosè disse loro: “Gettate quello che avete da gettare”.
+044_00	Gettarono le loro corde e i loro bastoni e dissero: “Per la maestà di Faraone, saremo noi i vincitori!”.
+045_00	Gettò Mosè il suo bastone ed esso inghiottì i loro artifici.
+046_00	Allora i maghi si gettarono in prosternazione,
+047_00	dicendo: “Crediamo nel Signore dei mondi,
+048_00	il Signore di Mosè e di Aronne”.
+049_00	Disse [Faraone]: “Crederete in Lui prima che io ve lo permetta?
+049_01	In verità, è lui il vostro gran maestro, colui che vi ha insegnato la magia! Presto imparerete [a vostre spese]: vi farò tagliare mani e piedi alternati e vi farò crocifiggere tutti quanti”.
+050_00	Risposero: “Non sarà un male: al nostro Signore faremo ritorno.
+051_00	Bramiamo che il nostro Signore perdoni i nostri peccati, per essere stati i primi a credere”.
+052_00	E rivelammo a Mosè: “Fa' partire i Miei servi nottetempo. Certamente sarete inseguiti”.
+053_00	Faraone mandò messi in tutte le città:
+054_00	[perché dicessero:] “Invero, sono un gruppo esiguo,
+055_00	e ci hanno irritato,
+056_00	mentre noi siamo ben vigili”.
+057_00	Facemmo sì che abbandonassero giardini e fonti,
+058_00	tesori e graziose dimore.
+059_00	Così fu, e [tutto] demmo in eredità ai Figli di Israele.
+060_00	Al levarsi del sole li inseguirono.
+061_00	Quando le due schiere si avvistarono, i compagni di Mosè dissero: “Saremo raggiunti!”.
+062_00	Disse [Mosè]: “Giammai, il mio Signore è con me e mi guiderà”.
+063_00	Rivelammo a Mosè: “Colpisci il mare con il tuo bastone”. Subito si aprì e ogni parte [dell'acqua] fu come una montagna enorme.
+064_00	Facemmo avvicinare gli altri,
+065_00	e salvammo Mosè e tutti coloro che erano con lui,
+066_00	mentre annegammo gli altri.
+067_00	In verità, in ciò vi è un segno! Ma la maggior parte di loro non crede.
+068_00	In verità, il tuo Signore è l'Eccelso, il Misericordioso.
+069_00	E recita loro la storia di Abramo,
+070_00	quando disse a suo padre e al suo popolo: “Cosa adorate?”.
+071_00	Risposero: “Adoriamo gli idoli e resteremo fedeli a loro”.
+072_00	Disse [Abramo]: “Vi ascoltano, quando li invocate?
+073_00	Vi giovano o vi recano danno?”.
+074_00	Risposero: “No, ma trovammo i nostri avi che facevano così!”.
+075_00	Disse: “Avete ben riflettuto su ciò che avete adorato,
+076_00	sia voi che i vostri lontani antenati?
+077_00	Essi sono tutti miei nemici, eccetto il Signore dei mondi,
+078_00	Colui Che mi ha creato e mi guida,
+079_00	Colui Che mi nutre e mi dà da bere,
+080_00	Colui Che, quando sono malato, mi guarisce,
+081_00	Colui Che mi farà morire e mi ridarà la vita;
+082_00	ed è da Lui che bramo il perdono delle mie colpe, nel Giorno del Giudizio.
+083_00	Signore, dammi discernimento e annoverami tra i giusti,
+084_00	concedimi la stima sincera dei posteri.
+085_00	Fa’ che sia uno degli eredi del Giardino delle Delizie,
+086_00	e perdona a mio padre: davvero è stato uno degli sviati.
+087_00	E non coprirmi di abominio nel Giorno in cui [gli uomini] saranno resuscitati,
+088_00	il Giorno in cui non gioveranno né ricchezze, né progenie,
+089_00	eccetto per colui che verrà ad Allah con cuore puro”.
+090_00	Il Giardino sarà alla portata dei timorati
+091_00	e la Fornace apparirà per i traviati,
+092_00	e verrà detto loro: “Dove sono coloro che adoravate
+093_00	all'infuori di Allah? Vi sono d'aiuto o sono d'aiuto a loro stessi?”.
+094_00	Vi saranno gettati, loro e i traviati,
+095_00	e tutte le schiere di Iblis.
+096_00	Diranno, disputando tra loro:
+097_00	“Per Allah, certamente eravamo in errore evidente,
+098_00	quando vi considerammo uguali al Signore dei mondi!
+099_00	Coloro che ci hanno sviato non sono altro che iniqui:
+100_00	per noi non ci sono intercessori,
+101_00	e neppure un amico cordiale.
+102_00	Se solo ci fosse [possibile] un ritorno, saremmo allora tra i credenti”.
+103_00	Questo è davvero un segno, ma la maggior parte di loro non crede.
+104_00	In verità, il tuo Signore è l'Eccelso, il Misericordioso!
+105_00	Il popolo di Noè tacciò di menzogna gli inviati.
+106_00	[Ricorda] quando il loro fratello Noè disse loro: “Non sarete dunque timorati?
+107_00	Invero sono per voi un messaggero degno di fede!
+108_00	Temete Allah e obbeditemi.
+109_00	Non vi chiedo ricompensa alcuna, ché la mia ricompensa è presso il Signore dei mondi.
+110_00	Temete Allah e obbeditemi”.
+111_00	Risposero: “Dovremmo credere in te, nonostante che siano i più miserabili [di noi] a seguirti?”.
+112_00	Disse [Noè]: “Io non conosco il loro operato.
+113_00	Il giudizio su di loro spetta al mio Signore. Se solo ne foste consapevoli!
+114_00	Non sarò certo io a respingere i credenti.
+115_00	Io non sono altro che un nunzio esplicito”.
+116_00	Dissero: “O Noè, se non smetti sarai certamente lapidato”.
+117_00	Disse: “O Signor mio, la mia gente mi tratta da bugiardo.
+118_00	Apri una via tra me e loro, e salva me e i credenti che sono con me”.
+119_00	Salvammo lui, e quelli che erano insieme con lui sull'Arca stracolma.
+120_00	Gli altri li annegammo.
+121_00	Ecco certamente un segno, tuttavia la maggior parte di loro non crede.
+122_00	In verità, il tuo Signore è l'Eccelso, il Misericordioso!
+123_00	Gli Âd smentirono gli inviati.
+124_00	[Ricorda] quando il loro fratello Hûd, disse loro: “Non sarete dunque timorati?
+125_00	Invero sono per voi un messaggero degno di fede!
+126_00	Temete Allah e obbeditemi.
+127_00	Non vi chiedo ricompensa alcuna, ché la mia ricompensa è presso il Signore dei mondi.
+128_00	Eleverete un edificio su ogni collina, [solo] per futilità?
+129_00	E costruirete fortezze, come se doveste vivervi in perpetuo?
+130_00	E quando colpirete, lo farete come tiranni?
+131_00	Temete Allah e obbeditemi,
+132_00	e temete Colui che vi ha provvisto di ciò che ben sapete:
+133_00	vi ha provvisto di bestiame e di progenie,
+134_00	di giardini e fonti.
+135_00	Invero, temo per voi il castigo di un Giorno terribile”.
+136_00	Dissero: “Che tu ci ammonisca o non lo faccia, per noi è la stessa cosa.
+137_00	Questi nostri costumi non sono che quelli degli antichi:
+138_00	[pertanto] non saremo certo puniti”.
+139_00	Lo trattarono da bugiardo e Noi li facemmo perire. Questo è certo un segno, ma la maggior parte di loro non crede.
+140_00	In verità il tuo Signore è l'Eccelso, il Misericordioso!
+141_00	I Thamûd accusarono di menzogna gli inviati.
+142_00	Quando il loro fratello Sâlih disse loro: “Non sarete dunque timorati?
+143_00	Invero, sono per voi un messaggero degno di fede!
+144_00	Temete Allah e obbeditemi.
+145_00	Non vi chiedo ricompensa alcuna, ché la mia ricompensa è presso il Signore dei mondi.
+146_00	Siete sicuri di poter essere sempre qui al sicuro,
+147_00	tra giardini e fonti,
+148_00	tra messi e palmeti dalle spate stracariche,
+149_00	a scavare con maestria case nelle montagne?
+150_00	Temete Allah e obbeditemi.
+151_00	Non obbedite ai comandi degli empi,
+152_00	che spargono la corruzione sulla terra, senza mai emendarsi”.
+153_00	Dissero: “Tu non sei altro che uno stregato!
+154_00	Sei un uomo come noi. Dacci un segno, se sei veridico”.
+155_00	Disse: “Questa è una cammella: berrà e voi berrete nei giorni stabiliti.
+156_00	Non fatele alcun male o vi colpirà il castigo di un Giorno tremendo”.
+157_00	Le tagliarono i garretti, ma ebbero a pentirsene!
+158_00	Li colpì il castigo. Ecco certo un segno! Ma la maggior parte di loro non crede.
+159_00	In verità il tuo Signore è l'Eccelso, il Misericordioso!
+160_00	Il popolo di Lot accusò di menzogna gli inviati.
+161_00	Quando il loro fratello Lot, disse loro: “Non sarete dunque timorati [di Allah]?
+162_00	Invero, sono per voi un messaggero degno di fede.
+163_00	Temete Allah e obbeditemi.
+164_00	Non vi chiedo ricompensa alcuna, ché la mia ricompensa è presso il Signore dei mondi.
+165_00	Tra tutte le creature bramerete i maschi,
+166_00	lasciando da parte le spose che il vostro Signore ha creato per voi? Ma voi siete un popolo di trasgressori!”.
+167_00	Dissero: “Se non la smetti, certamente sarai scacciato”.
+168_00	Disse: “Io aborrisco il vostro comportamento.
+169_00	Signore, preserva me e la mia famiglia dalle loro azioni”.
+170_00	Noi lo salvammo insieme con tutta la sua famiglia,
+171_00	a parte una vecchia che restò indietro.
+172_00	Quindi annientammo tutti gli altri:
+173_00	facemmo scendere su di loro una pioggia, una pioggia orribile su coloro che erano stati [invano] avvertiti.
+174_00	Questo è certo un segno! Ma la maggior parte di loro non crede.
+175_00	In verità il tuo Signore è l'Eccelso, il Misericordioso!
+176_00	Il popolo di al-Aykah accusò di menzogna gli inviati.
+177_00	Quando Shu'ayb disse loro: “Non sarete dunque timorati [di Allah]?
+178_00	Invero sono per voi un messaggero degno di fede!
+179_00	Temete Allah e obbeditemi.
+180_00	Non vi chiedo ricompensa alcuna, ché la mia ricompensa è presso il Signore dei mondi.
+181_00	Colmate la misura e non siate fraudolenti,
+182_00	e pesate con giusta bilancia.
+183_00	Non date agli uomini meno di quel che spetta loro e non corrompete la terra portandovi disordine.
+184_00	Temete Colui che ha creato voi e le generazioni antiche”.
+185_00	Dissero: “Davvero tu sei uno stregato,
+186_00	e non sei che un uomo come noi; davvero pensiamo che tu sia un bugiardo.
+187_00	Fai cadere su di noi dei pezzi di cielo, se sei veridico!”.
+188_00	Disse: “Il mio Signore ben conosce quello che fate”.
+189_00	Lo trattarono da bugiardo. Li colpì allora il castigo del Giorno dell'Ombra. In verità, fu il castigo di un Giorno terribile.
+190_00	Questo è certo un segno! Ma la maggior parte di loro non crede.
+191_00	In verità, il tuo Signore è l'Eccelso, il Misericordioso!
+192_00	In verità, esso è davvero ciò che il Signore dei mondi ha rivelato,
+193_00	è sceso con esso lo Spirito fedele,
+194_00	sul cuore tuo, affinché tu fossi un ammonitore
+195_00	in lingua araba esplicita.
+196_00	E già era nelle scritture degli antichi.
+197_00	Non è un segno, per loro, che lo riconoscano i sapienti dei Figli di Israele?
+198_00	Se lo avessimo rivelato ad un non arabo,
+199_00	e questi lo avesse recitato loro, non vi avrebbero creduto.
+200_00	In tal modo lo facemmo entrare nel cuore dei miscredenti:
+201_00	ma non crederanno in esso prima di aver visto il castigo doloroso,
+202_00	che giungerà loro all'improvviso, senza che se ne accorgano.
+203_00	Diranno allora: “Ci sarà concesso un rinvio?”.
+204_00	È il Nostro castigo che vogliono affrettare?
+205_00	Non vedi che, se concedessimo loro di godere per anni,
+206_00	e quindi giungesse loro ciò di cui furono minacciati,
+207_00	non gioverebbe loro quel che hanno goduto.
+208_00	Nessuna città distruggemmo senza che avesse avuto ammonitori,
+209_00	che la avvertissero - ché Noi non siamo ingiusti.
+210_00	Non sono i diavoli che l' hanno fatto scendere:
+211_00	ché Esso non si addice loro, e neppure avrebbero potuto [produrlo],
+212_00	poiché invero sono esclusi dall'ascolto.
+213_00	Non invocare assieme ad Allah un'altra divinità, ché saresti tra i dannati.
+214_00	Danne l'annuncio ai tuoi parenti più stretti.
+215_00	e sii benevolo con i credenti che ti seguono.
+216_00	Se poi ti disobbediscono allora di': “In verità, sconfesso quello che fate!”.
+217_00	E confida nell'Eccelso, nel Misericordioso,
+218_00	che ti vede quando ti alzi [per l'orazione],
+219_00	e [vede] i tuoi movimenti tra coloro che si prosternano.
+220_00	In verità Egli è Colui che tutto ascolta e conosce.
+221_00	[Volete che]vi indichi quelli sui quali scendono i diavoli?
+222_00	Scendono su ogni mentitore peccaminoso.
+223_00	Tendono l'orecchio, ma la maggior parte di loro sono bugiardi.
+224_00	E quanto ai poeti, sono i traviati che li seguono...
+225_00	Non vedi come errano in ogni valle,
+226_00	e dicono cose che non fanno?
+227_00	Eccetto coloro che credono, compiono il bene e spesso ricordano Allah, e che si difendono quando sono vittime di un'ingiustizia.
+227_01	Gli ingiusti vedranno, ben presto, il destino verso il quale si avviano.

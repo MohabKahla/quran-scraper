@@ -1,0 +1,8 @@
+001_00	Inã rantsuwa da Attinu da Azzaitũn.
+002_00	Da Dũr Sĩnĩna.
+003_00	Da wannan gari amintacce.
+004_00	Lalle ne, Mun halitta mutum a cikin mafi kyawon tsayuwa.
+005_00	Sa'an nan, Muka mayar da shi mafi ƙasƙantar masu rauni
+006_00	Face waɗanda suka yi imani, kuma suka aikata ayyukan ƙwarai, saboda haka suna da sakamako wanda bã ya yankewa.
+007_00	To, bãyan haka mẽ ya sanya ka ka ƙaryata sakamako (wanda za a yi a bãyan Tãshin ¡iyãma)?
+008_00	Ashe Allah bã Shi ne Mafi mãsu hukunci kyãwon hukunci ba?

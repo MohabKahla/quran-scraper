@@ -1,0 +1,50 @@
+001_00	Bij de met goedheid uitgezondenen.
+002_00	Bij de met spoed voortspoedenden.
+003_00	En bij de verspreid verspreidenden.
+004_00	Bij de scheidend scheidenden.
+005_00	Bij de doorgevenden van de Vermaning.
+006_00	Als een afwijzing van verontschuldigingen of als een waarschuwing.
+007_00	Voorwaar, wat jullie is aangezegd, zal zeker gebeuren.
+008_00	Wanneer dan de sterren gedoofd worden.
+009_00	En wanneer de hemel gespleten wordt.
+010_00	En wanneer de bergen verpulverd worden.
+011_00	En wanneer voor de Boodschappers de tijd vastgesteld is.
+012_00	(Er wordt gezegd:) "Tot welke dag is er uitstel gegeven?"
+013_00	Tot de Dag van de Beoordeling.
+014_00	En wat doet jullie weten wat Dag van de Beoordeling is?
+015_00	Wee die Dag de loochenaars!
+016_00	Hebben Wij de vroegeren niet vernietigd?
+017_00	Waarna Wij hen deden opvolgen door de lateren?
+018_00	Zo behandelen Wij de misdadigers.
+019_00	Wee die Dag de loochenaars!
+020_00	Hebben Wij jullie niet uit een onaanzienlijk water geschapen?
+021_00	Toen plaatsten Wij het in een beschermende rustplaats.
+022_00	Tot een bekend tijdstip.
+023_00	Wij beschikten (erover) en Wij zijn de beste Beschikkers.
+024_00	Wee die Dag de loochenaars!
+025_00	Hebben Wij de aarde niet tot een plaats ven verzameling gemaakt?
+026_00	Zowel voor levenden en doden?
+027_00	En Wij plaatsten daarop stevige bergen en Wij schonken jullie helder water.
+028_00	Wee die Dag de loochenaars!
+029_00	Gaat naar dat wat jullie plachten to loochenen!
+030_00	Gaat naar een schaduw (van rook) die drie kolommen heeft.
+031_00	Die geen schaduw geeft en die niet baat tegen het vlammende Vuur.
+032_00	Zij (de Hel) werpt vonken als kastelen.
+033_00	Alsof zij gele kamelen waren.
+034_00	Wee die Dag de loochenaars!
+035_00	Dit is een Dag waarop zij niet spreken.
+036_00	En er wordt hun niet toegestaan zich te verontschuldigen.
+037_00	Wee die Dag de loochenaars!
+038_00	Dit is de Dag van de Beoordeling, Wij verzamelen jullie en de vroegeren.
+039_00	Als jullie dan een list hebben, voert die dan uit.
+040_00	Wee die Dag de loochenaars!
+041_00	Voorwaar, de Moettaqôen verkeren in schaduwen en bij bronnen.
+042_00	En er zijn vruchten die zij wensen.
+043_00	(Er wordt gezegd:) "Eet en drinkt smakelijk voor wat jullie plachten te verrichten."
+044_00	Voorwaar, zo belonen Wij de weldoeners.
+045_00	Wee die Dag de loochenaars!
+046_00	Eet en geniet even: voorwaar, jullie zijn misdadigers.
+047_00	Wee die Dag de loochenaars!
+048_00	En wanneer er tot hen gezegd wordt: "Buigt jullie (in de shalât)," dan buigen zij niet.
+049_00	Wee die Dag de loochenaars!
+050_00	In welk Woord na hem (de Koran) zullen zij dan geloven?

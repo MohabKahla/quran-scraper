@@ -1,0 +1,11 @@
+001_00	La conmoción.
+002_00	¿Y qué es la conmoción?
+003_00	¿Y cómo hacerte saber qué es la conmoción?
+004_00	Es el día en que los hombres estarán como polillas dispersas.
+005_00	Y las montañas como lana cardada.
+006_00	Entonces, aquel cuyas acciones tengan peso en la Balanza,
+007_00	estará en una vida satisfactoria.
+008_00	Pero aquel cuyas acciones sean ligeras en la Balanza,
+009_00	tendrá por madre a un abismo.
+010_00	¿Y qué te hará entender lo que eso es?
+011_00	Es un fuego abrasador.

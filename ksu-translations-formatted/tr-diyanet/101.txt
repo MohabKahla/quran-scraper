@@ -1,0 +1,11 @@
+001_00	Gürültü koparacak olan
+002_00	Nedir o gürültü koparacak olan?
+003_00	O gürültü koparacak olanın ne olduğunu sen bilir misin?
+004_00	O gün insanlar, ateş etrafında çırpınıp dökülen pervaneye dönecekler.
+005_00	Dağlar, atılmış renkli yüne benzeyecekler.
+006_00	Ama tartıları ağır gelen kimse hoş bir hayat içinde olacaktır.
+007_00	Ama tartıları ağır gelen kimse hoş bir hayat içinde olacaktır.
+008_00	Tartıları hafif gelenler ise,
+009_00	Onların yeri bir çukurdur.
+010_00	O çukurun ne olduğunu sen bilir misin?
+011_00	O, kızgın bir ateştir.

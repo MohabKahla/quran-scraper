@@ -1,0 +1,50 @@
+001_00	Inã rantsuwa da ¦ũr (Dũtsen Mũsã).
+002_00	Da wani littãfi rubũtacce.
+003_00	A cikin wata takardar fãta shimfiɗaɗɗa.
+004_00	Da Gidan da aka rãyar da shi (da ibãda).
+005_00	Da rufin nan da aka ɗaukaka.
+006_00	Da tẽkun nan da aka cika (da ruwa).
+007_00	Lalle, azãbar Ubangijinka, haƙĩƙa, mai aukuwa ce.
+008_00	Bã ta da mai tunkuɗẽwa.
+009_00	Rãnar da samã ke yin mõtsi tanã kai kãwo.
+010_00	Kuma duwãtsu nã tafiya sunã shũɗẽwa.
+011_00	To, bone yã tabbata a rãnar nan ga mãsu ƙaryatãwa.
+012_00	Waɗanda suke a cikin kududdufi sunã wãsã.
+013_00	Rãnar da zã a tunkuɗa su zuwa wutar Jahannama, tunkuɗãwa.
+014_00	(A ce musu): "Wannan ita ce wutar da kuka kasance kunã ƙaryatãwa game da ita."
+015_00	"To, shin wannan sihiri ne kõ kuwa kũ ne bã ku gani?"
+016_00	"Ku shigẽ ta. To, ku yi haƙuri ko kuma kada ku yi haƙuri, dai dai ne a kanku, kawai anã yi muku sakamakon abin da kuka kasance kunã aikatãwa."
+017_00	Lalle, mãsu taƙawa, sunã a cikin gidãjen Aljanna da wata ni'ima.
+018_00	Sunã mãsu jin dãɗi da abin da Ubangijinsu Ya ba su, kuma Ubangijinsu Ya tsãre musu azãbar Jahĩm.
+019_00	(A ce musu): "Ku ci, ku sha, da ni'ima, dõmin abin da kuka kasance kunã aikatãwa."
+020_00	Sunã kishingiɗe a kan karagu waɗanda ke cikin sahu, kuma Muka aurar da su waɗansu mãtã mãsu farin idãnu, mãsu girmansu.
+021_00	Kuma waɗanda suka yi ĩmãni kuma zũriyarsu suka bĩ su ga ĩmãnin, Mun riskar da zũriyarsu da su, alhãli
+021_01	kuwa bã da Mun rage musu kõme ba daga aikinsu, kõwane mutum jingina ne ga abin da ya sana'anta.
+022_00	Kuma Muka yalwata musu 'ya'yan itãce da nãma irin wanda suke marmari.
+023_00	Sunã mĩƙa wa jũnansu a cikinta hinjãlan giya, wadda bãbu yãsassar magana a cikinta, kuma bãbu jin nauyin zunubi.
+024_00	Kuma waɗansu samãri nã gẽwayãwa a kansu, kamar dai sũ lu'ulu'u ne wanda ke kulle.
+025_00	Waɗansunsu suka fuskanta zuwa ga waɗansu, sunã tambayar jũna.
+026_00	Suka ce: "Lalle mũ mun kasance a gabãnin wannan (a dũniya) a cikin iyãlanmu munã jin tsõro."
+027_00	"To, Allah Yã yi mana kyautar falala, kuma Yã tsare mana azãbar iskar zãfi."
+028_00	"Lalle mũ mun kasance, a gãbanin haka, munã kiran sa. Lalle Shĩ, Shĩ ne Mai kyautatãwa, Mai rahama."
+029_00	To, ka tunãtar kai fa sabõda ni'imar Ubangjinka, bã bõka kake ba, kuma bã mahaukaci ba.
+030_00	Shin zã su ce: "Mawãƙi ne, munã jiran, masĩfun mutuwa game da shĩ"?
+031_00	Ka ce: "Ku yi jira, domin nĩ ma lalle inã a cikin mãsu jira tãre da ku."
+032_00	Shin, hankulansu ne ke umarin su da wannan, kõ kuwa sũ wasu mutãne ne mãsu ƙetare haddi?
+033_00	Shin, cẽwa suke yi: "Shi ne ke ƙãga faɗarsa"? Ã'a ba su dai yi ĩmãni ba.
+034_00	Sai su zõ da wani lãbãri mai misãlinsa idan sun kasance sũmãsu gaskiya ne.
+035_00	Shin, an halitta su ne bã daga kõme ba, kõ kuwa sũ ne mãsu yin halitta?
+036_00	Shin, sun halitta sammai da ƙasa ne? Ã'a ba su dai yi ĩmãnin yaƙĩni ba.
+037_00	Shin, taskõkin Ubangijinka, sunã a wurinsu ne? Kõ kuwa sũ ne mãsu rinjãya?
+038_00	Shin, sunã da wani tsãni ne wanda suke (hawa sunã) saurãron (lãbãrin samã) a cikinsa? Sai mai saurarõnsu ya zo da wani dalĩli bayyananne.
+039_00	Shin, Yanã da 'ya'ya mãtã ne kuma kũ, kunã da ɗiya maza ne?
+040_00	Shin, kanã tambayar su wata ijãra ne, sabõda haka suka zama mãsu jin nauyin biyan tãrar?
+041_00	Shin, a wurinsu akwai ilmin gaibi, sabõda haka sunã rubũtãwa?
+042_00	Shin, sunã nufin wani kaidi ne? To, waɗanda suka kãfirta sũ ne waɗanda ake yi wa kaidi.
+043_00	Shin, sunã da wani abin bautãwa ne wanda bã Allah ba? Tsarki ya tabbata ga Allah daga abin da suke yi na shirki!
+044_00	Kuma idan sun ga wani ɓaɓɓake daga samã yãnã fãɗuwa, sai su ce wani girgije ne, mai hauhawar jũna.
+045_00	To, ka bar su, sai sun haɗu da yinin nan da za a sũmar da su a cikinsa.
+046_00	Rãnar da kaidinsu bã ya wadãtar masu da kõme, kuma bã a taimakon su.
+047_00	Kuma lalle, waɗannan da suka yi zãluncin, sunã da azãba (a nan dũniya) banda waccan, kuma mafi yawansu ba su sani ba.
+048_00	Sai ka yi hakuri da hukuncin Ubangijinka, lalle kai fa kanã idãnunMu, kuma ka tsarkake Ubangijinka da (tasbĩhi) game da gõde Masa a lõkacin da kake tãshi tsaye (dõmin salla kõ wani abu).
+049_00	Kuma daga dare, sai ka tsarkake Shi (da tasbĩhin) dalõkacin jũyãwar taurãri.

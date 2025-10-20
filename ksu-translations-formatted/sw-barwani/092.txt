@@ -1,0 +1,21 @@
+001_00	Naapa kwa usiku unapo funika!
+002_00	Na mchana unapo dhihiri!
+003_00	Na kwa Aliye umba dume na jike!
+004_00	Hakika juhudi zenu bila ya shaka ni mbali mbali.
+005_00	Ama mwenye kutoa na akamchamngu,
+006_00	Na akaliwafiki lilio jema,
+007_00	Tutamsahilishia yawe mepesi.
+008_00	Na ama mwenye kufanya ubakhili, na asiwe na haja ya wenzake,
+009_00	Na akakanusha lilio jema,
+010_00	Tutamsahilishia yawe mazito!
+011_00	Na mali yake yatamfaa nini atapo kuwa anadidimia?
+012_00	Hakika ni juu yetu kuonyesha uwongofu.
+013_00	Na hakika ni yetu Sisi Akhera na dunia.
+014_00	Basi nakuonyeni na Moto unao waka!
+015_00	Hatauingia ila mwovu kabisa!
+016_00	Anaye kadhibisha na kupa mgongo.
+017_00	Na mchamngu ataepushwa nao,
+018_00	Ambaye hutoa mali yake kwa ajili ya kujitakasa.
+019_00	Na wala si kwa kuwa yupo yeyote aliye mfanyia hisani ndio anamlipa.
+020_00	Ila ni kutaka radhi ya Mola wake Mlezi aliye juu kabisa.
+021_00	Naye atakuja ridhika!

@@ -1,0 +1,55 @@
+001_00	Sã'a ta yi kusa, kuma wata ya tsãge.
+002_00	Kuma idan sun ga wata ãyã, sai su juya baya su ce: "Sihiri ne mai dõgẽwa!"
+003_00	Kuma suka ƙaryata, kuma suka bi son zũciyarsu, alhãli kuwa kõwane al'amari (wanda suke son su tũre daga Annabi) an tabbatar da shi.
+004_00	Kuma lalle, abin da yake akwai tsãwatarwa a cikinsa na lãbãraiya zo musu.
+005_00	Hikima cikakka! Sai dai abũbuwan gargaɗi bã su amfãni.
+006_00	Sabõda haka, ka bar su! Rãnar da mai kiran zai yi kira zuwa ga wani abu abin ƙyama.
+007_00	¡asƙantattu ga idanunsu zã su fito daga kaburburansu, kamar dai sũ fãri ne waɗandasuka wãtse.
+008_00	Sunã gaggãwar tafiya zuwa ga mai kiran, kãfirai na cẽwa, "Wannan yini ne mai wuya!"
+009_00	Mutãnen Nũhu sun ƙaryata, a gabãninsu, sai suka ƙaryata BawanMu, kuma suka ce: "Shi mahaukaci ne." Kuma aka tsãwace shi.
+010_00	Sabõda haka, ya kira Ubangijinsa (ya ce), "Lalle nĩ, an rinjãye ni, sai Ka yi taimako."
+011_00	Sai Muka bũɗe kõfõfin sama da ruwa mai zuba.
+012_00	Kuma Muka ɓuɓɓugar da ƙasã ta zama idãnun ruwa, daɗa ruwa ya haɗu a kan wani umurni da aka riga aka ƙaddara shi.
+013_00	Kuma Muka ɗauke Nũhu a kan (jirgi) na alluna da ƙũsõshi.
+014_00	Tanã gudãna, a kan idãnunMu, dõmin sakamako ga wanda aka yi wa kãfircin.
+015_00	Kuma lalle, Mun bar ta ta zama ãyã. To, Shin, akwai mai tunãni
+016_00	To, yãyã azãbãTa take da gargaɗiNa?
+017_00	Kuma lalle ne, haƙĩkƙa, Mun sauƙaƙe Alƙur'ãni, dõmin tunãwa. To, shin, akwai mai tunãwa?
+018_00	Ãdãwa sun ƙaryata, to, yãya azãbãTa take, da gargaɗiNa?
+019_00	Lalle Mũ, Mun aika da iska mai tsananin sauti a kansu, a cikin wani yinin nahĩsa mai dõgẽwa.
+020_00	Tanã fizgar mutãne kamar dai sũ kututturan dabĩno tumɓukakku ne.
+021_00	To, yãya azãbãTa take da gargaɗiNa?
+022_00	Kuma lalle ne, haƙiƙa Mun sauƙaƙe Alƙur'ani, dõmin tunãwa. To, shin, akwai mai tunãwa?
+023_00	Samũdãwa sun ƙaryata game da gargaɗin.
+024_00	Sai suka ce: "Wani mutum daga cikinmu, shi kaɗai, wai mu bĩ shi! Lalle mũ a lõkacin, haƙĩƙa mun shiga wata ɓata da haukã.
+025_00	"Shin, an jẽfa masa Manzancin ne, a tsakãninmu? Ã'a, shĩ dai gawurtaccen maƙaryaci ne mai girman kai!"
+026_00	Zã su sani a gõbe, wãne ne gawurtaccen mai ƙaryar, mai girman kan?
+027_00	Lalle Mũ, mãsu aikãwa da rãƙumar ne, ta zame musu fitina, sai ka tsare su da kallo, kuma ka yi haƙuri.
+028_00	Kuma ka bã su lãbãri cẽwa ruwa rababbe ne a tsakãninsu (da rãƙumar), kõwane sha, mai shi yanã halartar sa.
+029_00	Sai suka kira abokinsu, sai ya karɓa, sa'an nan ya sõke ta,
+030_00	To, yãya azãbaTa take da gargaɗiNa?
+031_00	Lalle Mũ, Mun aika tsãwa guda a kansu, sai suka kasance kamar yãyin mai shinge.
+032_00	Kuma lalle ne, haƙĩƙa, Mun sauƙaƙe Alƙur'ani, dõmin tunãwa. To, shin, akwai mai tunãwa?
+033_00	Mutãnen Lũɗu sun ƙaryata, game da gargaɗi.
+034_00	Lalle Mun aika iskar tsakuwa a kansu, fãce mabiyan Lũɗu, Mun tsirar da su a lõkacin asuba.
+035_00	Sabõda wata ni'ima ta daga gare Mu. Kamar haka Muke sãka wa wanda ya gõde.
+036_00	Kuma lalle, haƙĩƙa, ya yi musu gargaɗin damƙarMu, sai suka yi musu game da gargaɗin.
+037_00	Kuma lalle haƙĩƙa, su, sun nẽme shi ta wajen bãƙinsa, sai Muka shãfe idãnunsu. "To, ku ɗanɗani azãbaTa da gargaɗĩNa."
+038_00	Kuma lalle, haƙĩƙa, wata azãba matabbaciya tã wãye musu gari da yãƙi, tun da sãfe.
+039_00	To, ku ɗanɗani azãbãTa da gargaɗĩNa.
+040_00	Kuma lalle ne, haƙĩƙa, Mun sauƙaƙe Alƙur, ani dõmin tunãwa. To, shin, akwai mai tunãwa?
+041_00	Kuma lalle, haƙĩƙa, gargaɗin ya jẽ wa mabiyan Fir'auna.
+042_00	Sun ƙaryata game da ãyõyinMu, dukansu sai Muka kãma su, irin kãmun Mabuwãyi, Mai ĩkon yi.
+043_00	Shin, kãfiranku ne mafi alhẽri daga waɗancan, ko kuwa kunã da wata barã'a a cikin littattafai?
+044_00	Kõ zã su ce: "Mũ duka mãsu haɗa ƙarfi ne dõmin cin nasara?"
+045_00	Zã a karya tãron, kuma su jũya bãya dõmin gudu.
+046_00	Ã'a, Sã'a ita cẽ lõkacin wa'adinsu, kuma Sã'ar tã fi tsananin masĩfa, kuma ta fiɗãci.
+047_00	Lalle ne, mãsu laifi sunã a cikin ɓata da hauka.
+048_00	Rãnar da zã a jã su a cikin wuta a kan fuskõkinsu. "Ku ɗanɗani shãfar wutar Saƙar."
+049_00	Lalle Mũ, kõwane irin abu Mun halitta shi a kan tsãri.
+050_00	Kuma umurninMu bai zamo ba fãce da kalma ɗaya, kamar walƙãwar ido.
+051_00	Kuma lalle ne haƙĩƙa, Mun halaka irin gayyarku. To, shin, akwai mai tunãni?
+052_00	Kuma kõwane abu, da suka aikata shi, yanã a cikin littattafai.
+053_00	Kuma dukkan ƙarami da babba, rubutacce ne.
+054_00	Lalle mãsu taƙawa sunã a cikin gidãjen Aljanna da kõguna.
+055_00	A cikin mazaunin gaskiya, wurin Mai ikon yi, Mai iya zartaswa.

@@ -1,0 +1,11 @@
+001_00	Hari Kiamat,
+002_00	apakah hari Kiamat itu?
+003_00	Tahukah kamu apakah hari Kiamat itu?
+004_00	Pada hari itu manusia adalah seperti anai-anai yang bertebaran,
+005_00	dan gunung-gunung adalah seperti bulu yang dihambur-hamburkan.
+006_00	Dan adapun orang-orang yang berat timbangan (kebaikan)nya,
+007_00	maka dia berada dalam kehidupan yang memuaskan.
+008_00	Dan adapun orang-orang yang ringan timbangan (kebaikan)nya,
+009_00	maka tempat kembalinya adalah neraka Hawiyah.
+010_00	Tahukah kamu apakah neraka Hawiyah itu?
+011_00	(Yaitu) api yang sangat panas.
