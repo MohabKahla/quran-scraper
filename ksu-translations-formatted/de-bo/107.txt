@@ -1,7 +1,0 @@
-001_00	Siehst du (nicht) denjenigen, der das Gericht für Lüge erklärt?
-002_00	Das ist derjenige, der die Waise zurückstößt
-003_00	und nicht zur Speisung des Armen anhält.
-004_00	Wehe nun den Betenden,
-005_00	denjenigen, die auf ihre Gebete nicht achten,
-006_00	denjenigen, die dabei (nur) gesehen werden wollen;
-007_00	und die Hilfeleistung verweigern!

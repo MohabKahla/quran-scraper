@@ -1,0 +1,111 @@
+RESTORATION REPORT
+================================================================================
+
+
+ha-gumi - Chapter 002 - Verse 150
+  Type: truncated
+  Similarity: 99.0%
+  Missing content: ,
+
+
+ha-gumi - Chapter 002 - Verse 220
+  Type: truncated
+  Similarity: 71.3%
+  Missing content: kuma Allah Yana sanin mai ɓãtãwa daga mai kyautatãwa.  dã
+
+
+ha-gumi - Chapter 002 - Verse 260
+  Type: truncated
+  Similarity: 99.5%
+  Missing content: "
+
+
+ha-gumi - Chapter 003 - Verse 036
+  Type: truncated
+  Similarity: 98.6%
+  Missing content: "
+
+
+ha-gumi - Chapter 004 - Verse 127
+  Type: truncated
+  Similarity: 90.8%
+  Missing content: Kuma abin da kuka aikata daga alhẽri, to, lalle ne, Allah Yã kasance Masani a gare shi.
+
+
+ha-gumi - Chapter 004 - Verse 128
+  Type: truncated
+  Similarity: 88.1%
+  Missing content: an halartar wa rayũka yin rõwa. Kuma
+
+
+ha-gumi - Chapter 005 - Verse 005
+  Type: truncated
+  Similarity: 99.3%
+  Missing content: in
+
+
+ha-gumi - Chapter 006 - Verse 112
+  Type: truncated
+  Similarity: 99.4%
+  Missing content: ,
+
+
+ha-gumi - Chapter 007 - Verse 134
+  Type: truncated
+  Similarity: 72.5%
+  Missing content: Ka rõƙa mana Ubangijinka, sabõda abin da Ya yi alkwari a wurinka, lalle ne idan ka kau da azãbar daga barinmu, haƙĩƙa Munã ĩmãni sabõda kai, kuma munã sakin Banĩ Isrã'ila tĩre da kai.
+
+
+ha-gumi - Chapter 007 - Verse 157
+  Type: truncated
+  Similarity: 55.8%
+  Missing content: "
+
+
+ha-gumi - Chapter 012 - Verse 065
+  Type: truncated
+  Similarity: 77.1%
+  Missing content: Wannan hajjarmu ce an mayar mana da ita, kuma mu nẽmo wa iyalinmu abinci, kuma mu kiyãye ɗan'uwanmu, kuma mu ƙãra awon kãyan rãƙumi guda, wancan awo ne mai sauki.
+
+
+ha-gumi - Chapter 023 - Verse 033
+  Type: truncated
+  Similarity: 99.5%
+  Missing content: ,
+
+
+ha-gumi - Chapter 024 - Verse 033
+  Type: truncated
+  Similarity: 94.1%
+  Missing content: kuma ku bã su wani abu daga dũkiyar Allah wannan da Ya bã ku
+
+
+ha-gumi - Chapter 027 - Verse 040
+  Type: truncated
+  Similarity: 86.8%
+  Missing content: Kuma wanda ya gõde, to, yanã gõdẽwa ne dõmin kansa, kuma wanda ya kãfirta, to, lalle Ubangijina Wadãtacce ne, Karĩmi.
+
+
+ha-gumi - Chapter 031 - Verse 016
+  Type: truncated
+  Similarity: 91.4%
+  Missing content: Lalle Allah Mai tausasãwa ne, Masani
+
+
+ha-gumi - Chapter 033 - Verse 035
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: ,
+
+
+ha-gumi - Chapter 035 - Verse 010
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: Kuma waɗanda ke yin mãkircin mũnanan ayyuka, sunã da wata azãba mai tsanani, kuma mãkircin waɗannan yanã yin tasgaro
+
+
+ha-gumi - Chapter 040 - Verse 082
+  Type: truncated
+  Similarity: 99.4%
+  Missing content: '
+

@@ -1,0 +1,65 @@
+Logging to: logs/auto_fix_run_20251209_134437.log
+================================================================================
+================================================================================
+AUTOMATED FIX FOR ALL TRANSLATION ISSUES
+================================================================================
+Started: 2025-12-09 13:44:37
+Mode: Contamination only
+================================================================================
+
+================================================================================
+STEP 1: REMOVING ARABIC CONTAMINATION FROM SOURCE FILES
+================================================================================
+Started: 2025-12-09 13:44:37
+
+Creating backup at: backups/20251209_134437
+
+================================================================================
+STEP 1 COMPLETE - 2025-12-09 13:44:38
+================================================================================
+Removed/cleaned: 0 contaminated verses
+Translations affected: 0
+
+Backup location: backups/20251209_134437
+
+Skipping alignment fixes (--no-alignment)
+
+================================================================================
+STEP 3: VALIDATING FIXES
+================================================================================
+Started: 2025-12-09 13:44:38
+
+Running contamination check...
+
+Total contaminated verses: 0
+
+Running alignment failure analysis...
+Total failures across all translations: 973
+Translation                 Failures   % of Total
+   - Translations: de-bo, es-navio, ku-asan, ml-abdulhameed, ms-basmeih, nl-siregar, pr-tagi, pt-elhayek
+
+================================================================================
+STEP 3 COMPLETE - 2025-12-09 13:44:39
+================================================================================
+
+================================================================================
+FINAL REPORT
+================================================================================
+
+Detailed report saved to: logs/auto_fix_report_20251209_134439.txt
+
+Fix complete! Next steps:
+  1. Review logs/auto_fix_report_*.txt
+  2. Check logs/failures-*-FIXED.json for alignment improvements
+  3. Run: git diff to see all changes
+  4. Commit fixes if satisfied
+
+================================================================================
+ALL FIXES COMPLETE
+================================================================================
+Started:  2025-12-09 13:44:37
+Finished: 2025-12-09 13:44:39
+Duration: 0:00:02.414182
+
+Full log saved to: logs/auto_fix_run_20251209_134437.log
+================================================================================

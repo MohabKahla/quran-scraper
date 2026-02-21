@@ -1,8 +1,0 @@
-001_00	HAR VI inte öppnat ditt bröst
-002_00	och lyft av bördan
-003_00	som tyngde din rygg?
-004_00	Och lagt ditt namn i var mans mun?
-005_00	På prövningen följer lättnad!
-006_00	[Ja,] på prövningen följer lättnad!
-007_00	Stå upp, när du har fullgjort [din uppgift],
-008_00	och vänd dig med hela ditt hjärta [i bön] till din Herre.

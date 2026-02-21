@@ -1,0 +1,193 @@
+================================================================================
+VALIDATION REPORT: it-piccardo
+================================================================================
+
+Total mismatches: 23
+
+By severity:
+  Critical (<80%):  0
+  Moderate (80-95%): 0
+  Minor (95-99%):   0
+  Trivial (>99%):   23
+
+================================================================================
+ISSUES BY CHAPTER
+================================================================================
+
+
+Chapter 004: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 163 - Similarity: 99.8%
+  Original (238 chars):
+    In verità ti abbiamo dato la rivelazione come la demmo a Noè e ai Profeti dopo di lui. E abbiamo dat...
+  Formatted (239 chars):
+    In verità ti abbiamo dato la rivelazione come la demmo a Noè e ai Profeti dopo di lui. E abbiamo dat...
+
+Chapter 005: 5 issues
+--------------------------------------------------------------------------------
+
+Verse 005 - Similarity: 99.8%
+  Original (426 chars):
+    “Oggi vi sono permesse le cose buone e vi è lecito anche il cibo di coloro ai quali è stata data la ...
+  Formatted (428 chars):
+    “Oggi vi sono permesse le cose buone e vi è lecito anche il cibo di coloro ai quali è stata data la ...
+
+Verse 041 - Similarity: 99.7%
+  Original (506 chars):
+    O Messaggero, non ti affliggere per quelli che ricadono nella miscredenza, dopo che le loro bocche h...
+  Formatted (509 chars):
+    O Messaggero, non ti affliggere per quelli che ricadono nella miscredenza, dopo che le loro bocche h...
+
+Verse 082 - Similarity: 99.8%
+  Original (273 chars):
+    Troverai che i più acerrimi nemici dei credenti sono i giudei e i politeisti e troverai che i più pr...
+  Formatted (274 chars):
+    Troverai che i più acerrimi nemici dei credenti sono i giudei e i politeisti e troverai che i più pr...
+
+Verse 106 - Similarity: 99.7%
+  Original (438 chars):
+    O voi che credete, se state per morire e fate testamento, prendete come testimoni due uomini integri...
+  Formatted (441 chars):
+    O voi che credete, se state per morire e fate testamento, prendete come testimoni due uomini integri...
+
+Verse 112 - Similarity: 99.7%
+  Original (191 chars):
+    Quando gli apostoli dissero: “O Gesù, figlio di Maria, è possibile che il tuo Signore faccia scender...
+  Formatted (192 chars):
+    Quando gli apostoli dissero: “O Gesù, figlio di Maria, è possibile che il tuo Signore faccia sc ende...
+
+Chapter 007: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 157 - Similarity: 99.9%
+  Original (440 chars):
+    a coloro che seguono il Messaggero, il Profeta illetterato che trovano chiaramente menzionato nella ...
+  Formatted (441 chars):
+    a coloro che seguono il Messaggero, il Profeta illetterato che trovano chiaramente menzionato nella ...
+
+Verse 161 - Similarity: 99.8%
+  Original (216 chars):
+    E quando fu detto loro: “Abitate questa città e mangiate a vostro piacere, ma dite: Perdono", ed ent...
+  Formatted (217 chars):
+    E quando fu detto loro: “Abitate questa città e mangiate a vostro piacere, ma dite: Perdono", ed ent...
+
+Verse 179 - Similarity: 99.5%
+  Original (217 chars):
+    In verità creammo molti dei dèmoni e molti degli uomini per l'Inferno: hanno cuori che non comprendo...
+  Formatted (219 chars):
+    In verità creammo molti dei dèmoni e molti degli uomini per l'Inferno: h anno cuori che non comprend...
+
+Chapter 009: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 080 - Similarity: 99.8%
+  Original (236 chars):
+    Che tu chieda perdono per loro o che tu non lo chieda, [è la stessa cosa], anche se chiedessi settan...
+  Formatted (237 chars):
+    Che tu chieda perdono per loro o che tu non lo chieda, [è la stessa cosa], anche se chiedessi settan...
+
+Verse 114 - Similarity: 99.8%
+  Original (240 chars):
+    Abramo chiese perdono in favore di suo padre, soltanto a causa di una promessa che gli aveva fatto; ...
+  Formatted (241 chars):
+    Abramo chiese perdono in favore di suo padre, soltanto a causa di una promessa che gli aveva fatto; ...
+
+Verse 120 - Similarity: 99.9%
+  Original (466 chars):
+    È indegno per gli abitanti di Medina e per i beduini che vivono nei dintorni, non seguire il Messagg...
+  Formatted (467 chars):
+    È indegno per gli abitanti di Medina e per i beduini che vivono nei dintorni, non seguire il Messagg...
+
+Chapter 013: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 017 - Similarity: 100.0%
+  Original (1002 chars):
+    Fa scendere l'acqua dal cielo, e le valli si inondano secondo la loro capienza, e la corrente traspo...
+  Formatted (1003 chars):
+    Fa scendere l'acqua dal cielo, e le valli si inondano secondo la loro capienza, e la corrente traspo...
+
+Verse 025 - Similarity: 99.8%
+  Original (206 chars):
+    Coloro che infrangono il patto di Allah dopo averlo accettato, spezzano ciò che Allah ha ordinato di...
+  Formatted (207 chars):
+    Coloro che infrangono il patto di Allah dopo averlo accettato, spezzano ciò che Allah ha ordinato di...
+
+Chapter 022: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 005 - Similarity: 99.9%
+  Original (596 chars):
+    O uomini, se dubitate della Resurrezione, sappiate che vi creammo da polvere e poi da sperma e poi d...
+  Formatted (597 chars):
+    O uomini, se dubitate della Resurrezione, sappiate che vi creammo da polvere e poi da sperma e poi d...
+
+Chapter 024: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 061 - Similarity: 99.9%
+  Original (611 chars):
+    Non ci sarà colpa per il cieco, né per lo storpio, né per il malato, né per voi stessi, se mangerete...
+  Formatted (612 chars):
+    Non ci sarà colpa per il cieco, né per lo storpio, né per il malato, né per voi stessi, se mangerete...
+
+Chapter 034: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 037 - Similarity: 99.8%
+  Original (232 chars):
+    I vostri beni e i vostri figli non vi potranno avvicinare a Noi, eccetto per chi crede e compie il b...
+  Formatted (233 chars):
+    I vostri beni e i vostri figli non vi potranno avvicinare a Noi, eccetto per chi crede e compie il b...
+
+Verse 046 - Similarity: 99.8%
+  Original (214 chars):
+    Di': “Ad una sola [cosa] vi esorto: state ritti per Allah, a coppie o singolarmente e riflettete: no...
+  Formatted (215 chars):
+    Di': “Ad una sola [cosa] vi esorto: state ritti per Allah, a coppie o singolarmente e riflettete: no...
+
+Chapter 041: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 037 - Similarity: 99.7%
+  Original (191 chars):
+    La notte e il giorno, il sole e la luna sono fra i Suoi segni: non prosternatevi davanti al sole o d...
+  Formatted (192 chars):
+    La notte e il giorno, il sole e la luna sono fra i Suoi segni: non prosternatevi davanti al sol e o ...
+
+Chapter 048: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 99.7%
+  Original (193 chars):
+    Egli è Colui Che ha fatto scendere la Pace nel cuore dei credenti, affinché possano accrescere la lo...
+  Formatted (194 chars):
+    Egli è Colui Che ha fatto scendere la Pace nel cuore dei credenti, affinché possano accrescere l a l...
+
+Chapter 058: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 008 - Similarity: 99.8%
+  Original (214 chars):
+    Non hai visto coloro ai quali sono stati vietati i conciliaboli? Hanno ricominciato [a fare] quel ch...
+  Formatted (215 chars):
+    Non hai visto coloro ai quali sono stati vietati i conciliaboli? Hanno ricominciato [a fare] quel ch...
+
+Chapter 066: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.8%
+  Original (259 chars):
+    O credenti, preservate voi stessi e le vostre famiglie, da un fuoco il cui combustibile saranno uomi...
+  Formatted (260 chars):
+    O credenti, preservate voi stessi e le vostre famiglie, da un fuoco il cui combustibile saranno uomi...
+
+Chapter 074: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 031 - Similarity: 99.8%
+  Original (495 chars):
+    Non ponemmo che angeli a guardia del fuoco, fissando il loro numero solo per tentare i miscredenti a...
+  Formatted (497 chars):
+    Non ponemmo che angeli a guardia del fuoco, fissando il loro numero solo per tentare i miscredenti a...

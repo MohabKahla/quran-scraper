@@ -1,8 +1,0 @@
-001_00	Non ti abbiamo forse aperto il petto [alla fede]?
-002_00	E non ti abbiamo sbarazzato del fardello
-003_00	che gravava sulle tue spalle?
-004_00	[Non abbiamo] innalzato la tua fama?
-005_00	In verità per ogni difficoltà c'è una facilità.
-006_00	Sì, per ogni difficoltà c'è una facilità.
-007_00	Appena ne hai il tempo, mettiti dunque ritto,
-008_00	e aspira al tuo Signore.

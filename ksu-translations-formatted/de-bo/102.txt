@@ -1,8 +1,0 @@
-001_00	Die Vermehrung lenkt euch ab,
-002_00	bis ihr die Friedhöfe besucht.
-003_00	Keineswegs! Ihr werdet (es noch) erfahren.
-004_00	Abermals: Keineswegs! Ihr werdet (es noch) erfahren.
-005_00	Keineswegs! Wenn ihr es nur mit dem Wissen der Gewißheit wüßtet!
-006_00	Ihr werdet ganz gewiß den Höllenbrand sehen.
-007_00	Abermals: Ihr werdet ihn mit dem Auge der Gewißheit sehen.
-008_00	Hierauf werdet ihr an jenem Tag ganz gewiß nach der Wonne gefragt werden.

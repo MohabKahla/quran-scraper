@@ -1,8 +1,0 @@
-001_00	Jullie gaan op in de wedijver om meer.
-002_00	Totdat jullie in de graven terechtkomen.
-003_00	Nee, jullie zullen het weten.
-004_00	Nogmaals, nee! Jullie zullen het weten.
-005_00	Nee! Als jullie het maar met zekere kennis zouden weten!
-006_00	Jullie zullen zeker de Hel zien.
-007_00	Nogmaals, jullie zullen haar met een zeker oog zien.
-008_00	Dan zullen jullie op die Dag ondervraagd worden over de genietingen.

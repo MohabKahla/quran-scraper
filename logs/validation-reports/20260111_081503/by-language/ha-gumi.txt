@@ -1,0 +1,961 @@
+================================================================================
+VALIDATION REPORT: ha-gumi
+================================================================================
+
+Total mismatches: 152
+
+By severity:
+  Critical (<80%):  9
+  Moderate (80-95%): 1
+  Minor (95-99%):   0
+  Trivial (>99%):   142
+
+================================================================================
+ISSUES BY CHAPTER
+================================================================================
+
+
+Chapter 002: 18 issues
+--------------------------------------------------------------------------------
+
+Verse 030 - Similarity: 99.8%
+  Original (301 chars):
+    Kuma a lõkacin da Ubangijinka Ya ce ga malã'iku: "Lalle ne, Ni Mai sanya wani halĩfa ne a cikin ƙasa...
+  Formatted (302 chars):
+    Kuma a lõkacin da Ubangijinka Ya ce ga malã'iku: "Lalle ne, Ni Mai sanya wani halĩfa ne a cikin ƙasa...
+
+Verse 033 - Similarity: 99.8%
+  Original (245 chars):
+    Ya ce: "Yã Ãdam! Ka gaya musu sũnãyensu." To, a lokacin da ya gaya musu sũnãyensu, (Allah) Ya ce: "A...
+  Formatted (246 chars):
+    Ya ce: "Yã Ãdam! Ka gaya musu sũnãyensu. " To, a lokacin da ya gaya musu sũnãyensu, (Allah) Ya ce: "...
+
+Verse 076 - Similarity: 99.8%
+  Original (261 chars):
+    Kuma idan sun haɗu da waɗanda suka yi ĩmãni sukan ce: "Mun yi ĩmãni," kuma idan sãshensu ya wõfinta ...
+  Formatted (262 chars):
+    Kuma idan sun haɗu da waɗanda suka yi ĩmãni sukan ce: "Mun yi ĩmãni," kuma idan sãshensu ya wõfinta ...
+
+Verse 080 - Similarity: 99.8%
+  Original (225 chars):
+    Kuma suka ce: "Wuta bã zã ta shãfe mu ba, fãce, 'yan kwãnuka ƙidãyayyu."Ka ce: "Ashe kun riƙi wani a...
+  Formatted (226 chars):
+    Kuma suka ce: "Wuta bã zã ta shãfe mu ba, fãce, 'yan kwãnuka ƙidãyayyu."Ka ce: "Ashe kun riƙi wani a...
+
+Verse 083 - Similarity: 99.9%
+  Original (333 chars):
+    Kuma a lõkacin da Muka karɓi alkawarin Bani-Isrã'ĩla: "Kada ku bauta wa kõwa fãce Allah, kuma ga mah...
+  Formatted (334 chars):
+    Kuma a lõkacin da Muka karɓi alkawarin Bani-Isrã'ĩla: "Kada ku bauta wa kõwa fãce Allah, kuma ga mah...
+
+Verse 126 - Similarity: 99.8%
+  Original (323 chars):
+    Kuma a lõkacin da lbrãhĩm ya ce: "Yã Ubangijĩna! Ka sanya wannan gari amintacce, Ka azurta mutãnensa...
+  Formatted (324 chars):
+    Kuma a lõkacin da lbrãhĩm ya ce: "Yã Ubangijĩna! Ka sanya wannan gari amintacce, Ka azurta mutãnensa...
+
+Verse 133 - Similarity: 99.8%
+  Original (287 chars):
+    Ko kun kasance halarce a lõkacin da mutuwa ta halarci Ya'aƙũbu, a lõkacin da ya ce wa ɗiyansa: "Mẽne...
+  Formatted (288 chars):
+    Ko kun kasance halarce a lõkacin da mutuwa ta halarci Ya'aƙũbu, a lõkacin da ya ce wa ɗiyansa: "Mẽne...
+
+Verse 136 - Similarity: 99.8%
+  Original (321 chars):
+    Ku ce: "Mun yi ĩmãni da Allah, da abin da aka saukar zuwa gare mu, da abin da aka saukar zuwa ga Ibr...
+  Formatted (322 chars):
+    Ku ce: "Mun yi ĩmãni da Allah, da abin da aka saukar zuwa gare mu, da abin da aka saukar zuwa ga Ibr...
+
+Verse 159 - Similarity: 99.8%
+  Original (224 chars):
+    Lalle ne waɗanda suke ɓõyẽwar abin da Allah Ya saukar da ga hujjõji bayyanannu, da shiriya, daga bãy...
+  Formatted (225 chars):
+    Lalle ne waɗanda suke ɓõyẽwar abin da Allah Ya saukar da ga hujjõji bayyanannu, da shiriya, daga bãy...
+
+Verse 164 - Similarity: 99.8%
+  Original (404 chars):
+    Lalle ne, a cikin halittar sammai da ƙasa, da sãɓãwar dare da yini, da jirãge wadaɗnda suke gudana a...
+  Formatted (406 chars):
+    Lalle ne, a cikin halittar sammai da ƙasa, da sãɓãwar dare da yini, da jirãge wadaɗnda suke gudana a...
+
+  ... and 8 more issues in this chapter
+
+Chapter 003: 9 issues
+--------------------------------------------------------------------------------
+
+Verse 013 - Similarity: 99.5%
+  Original (302 chars):
+    "Lalle ne wata ãyã tã kasance a gare ku a cikin ƙungiyõyi biyu da suka haɗu; ƙungiya guda tana yãƙi ...
+  Formatted (303 chars):
+    Lalle ne wata ãyã tã kasance a gare ku a cikin ƙungiyõyi biyu da suka haɗu; ƙungiya guda tana yãƙi a...
+
+Verse 026 - Similarity: 99.8%
+  Original (256 chars):
+    Ka ce: "Yã Allah Mamallakin mulki, Kanã bayar da mulki ga wanda Kake so, Kanã zãre mulki daga wanda ...
+  Formatted (257 chars):
+    Ka ce: "Yã Allah Mamallakin mulki, Kanã bayar da mulki ga wanda Kake so, Kanã zãre mulki daga wanda ...
+
+Verse 073 - Similarity: 99.5%
+  Original (328 chars):
+    "Kada ku yi ĩmãni fãce da wanda ya bi addininku." Ka ce: "Lalle ne, shiriya ita ce shiriyar Allah. (...
+  Formatted (329 chars):
+    Kada ku yi ĩmãni fãce da wanda ya bi addininku." Ka ce: "Lalle ne, shiriya ita ce shiriyar Allah. (K...
+
+Verse 079 - Similarity: 67.6%
+  Original (288 chars):
+    Ba ya yiwuwa ga wani mutum, Allah Ya bã shi Littãfi da hukunci da Annabci, sa'an nan kuma ya ce wa m...
+  Formatted (147 chars):
+    Ba ya yiwuwa ga wani mutum, Allah Ya bã shi Littãfi da hukunci da Annabci, sa'an nan kuma ya ce wa m...
+
+Verse 091 - Similarity: 99.8%
+  Original (219 chars):
+    Lalle ne wanɗanda suka kãfirta, kuma suka mutu alhãli kuwa suna kãfirai to bã zã a karɓi cike da ƙas...
+  Formatted (220 chars):
+    Lalle ne wanɗanda suka kãfirta, kuma suka mutu alhãli kuwa suna kãfirai to bã zã a karɓi cike da ƙas...
+
+Verse 154 - Similarity: 99.8%
+  Original (809 chars):
+    Sa'an nan kuma (Allah) Ya saukar da wani aminci a gare ku daga bãyan baƙin cikin; gyangyaɗi yanã ruf...
+  Formatted (813 chars):
+    Sa'an nan kuma (Allah) Ya saukar da wani aminci a gare ku daga bãyan baƙin cikin; gyangyaɗi yanã ruf...
+
+Verse 164 - Similarity: 99.8%
+  Original (276 chars):
+    Lalle ne haƙĩƙa Allah Yã yi babbar falala a kan mũminai, dõmin Yã aika a cikinsu, Manzo daga ainihin...
+  Formatted (277 chars):
+    Lalle ne haƙĩƙa Allah Yã yi babbar falala a kan mũminai, dõmin Yã aika a cikinsu, Manzo daga ainihin...
+
+Verse 181 - Similarity: 99.8%
+  Original (222 chars):
+    Lalle ne, haƙĩƙa Allah Yã ji maganar waɗanda suka ce: "Lalle ne, Allah faƙĩri ne, mũ ne wadãtattu." ...
+  Formatted (223 chars):
+    Lalle ne, haƙĩƙa Allah Yã ji maganar waɗanda suka ce: "Lalle ne, Allah faƙĩri ne, mũ ne wadãtattu." ...
+
+Verse 183 - Similarity: 99.8%
+  Original (306 chars):
+    Waɗanda suka ce: "Lalle ne Allah Yã yi alkawari zuwa gare mu, kada mu yi ĩmãni sabõda wani Manzo sai...
+  Formatted (307 chars):
+    Waɗanda suka ce: "Lalle ne Allah Yã yi alkawari zuwa gare mu, kada mu yi ĩmãni sabõda wani Manzo sai...
+
+Chapter 004: 12 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.8%
+  Original (229 chars):
+    Maza suna da rabo daga abin da iyãye biyu da mafi kusantar dangi suka bari, kuma mãtã suna da rabo d...
+  Formatted (230 chars):
+    Maza suna da rabo daga abin da iyãye biyu da mafi kusantar dangi suka bari, kuma mãtã suna da rabo d...
+
+Verse 017 - Similarity: 99.8%
+  Original (200 chars):
+    Abar da take tũba kawai ga Allah, ita ce ga waɗanda suke aikatãwar mugun aiki da jãhilci sa'an nan s...
+  Formatted (201 chars):
+    Abar da take tũba kawai ga Allah, ita ce ga waɗanda suke aikatãwar mugun aiki da jãhilci sa'an nan s...
+
+Verse 018 - Similarity: 99.8%
+  Original (246 chars):
+    Bã tũba ba ce ga waɗanda suke aikatãwar mũnanan ayyuka har idan mutuwa ta halarci ɗayansu ya ce: "La...
+  Formatted (247 chars):
+    Bã tũba ba ce ga waɗanda suke aikatãwar mũnanan ayyuka har idan mutuwa ta halarci ɗayansu ya ce: "La...
+
+Verse 023 - Similarity: 99.9%
+  Original (551 chars):
+    An haramta muku uwãyenku, da 'yã'yanku, da 'yan'uwanku mãtã, da goggonninku, da innoninku, da 'yã'ya...
+  Formatted (552 chars):
+    An haramta muku uwãyenku, da 'yã'yanku, da 'yan'uwanku mãtã, da goggonninku, da innoninku, da 'yã'ya...
+
+Verse 036 - Similarity: 99.9%
+  Original (339 chars):
+    Kuma ku bauta wa Allah kuma kada ku haɗa wani da Shi, kuma ga mahaifa ku yi kyautatãwa, kuma ga ma'a...
+  Formatted (340 chars):
+    Kuma ku bauta wa Allah kuma kada ku haɗa wani da Shi, kuma ga mahaifa ku yi kyautatãwa, kuma ga ma'a...
+
+Verse 046 - Similarity: 99.9%
+  Original (507 chars):
+    Daga waɗanda suka tũba (Yahũdu), akwai wasu sunã karkatar da magana daga wurãrenta suna cẽwa: "Munji...
+  Formatted (506 chars):
+    Daga waɗanda suka tũba (Yahũdu), akwai wasu sunã karkatar da magana daga wurãrenta suna cẽwa: "Munji...
+
+Verse 057 - Similarity: 99.8%
+  Original (281 chars):
+    Kuma waɗanda suka yiĩmãni, kuma suka aikata ayyuka na ƙwarai, zã Mu shigar da su gidãjen Aljanna, (w...
+  Formatted (282 chars):
+    Kuma waɗanda suka yiĩmãni, kuma suka aikata ayyuka na ƙwarai, zã Mu shigar da su gidãjen Aljanna, (w...
+
+Verse 060 - Similarity: 99.8%
+  Original (292 chars):
+    Shin, ba ka gani ba, zuwa ga waɗanda suke riyãwar cẽwa sunã ĩmãni da abin da aka saukar zuwa gare ka...
+  Formatted (293 chars):
+    Shin, ba ka gani ba, zuwa ga waɗanda suke riyãwar cẽwa sunã ĩmãni da abin da aka saukar zuwa gare ka...
+
+Verse 127 - Similarity: 99.9%
+  Original (444 chars):
+    Sunã yi maka fatawa a cikin sha'anin mãtã. Ka ce: "Allah Yanã bayyana fatawarku a cikin sha'aninsu, ...
+  Formatted (445 chars):
+    Sunã yi maka fatawa a cikin sha'anin mãtã. Ka ce: "Allah Yanã bayyana fatawarku a cikin sha'aninsu, ...
+
+Verse 141 - Similarity: 99.9%
+  Original (364 chars):
+    Waɗanda suke jiran dãko game da ku; har idan wata nasara daga Allah ta kasance a gare ku, sai su ce:...
+  Formatted (365 chars):
+    Waɗanda suke jiran dãko game da ku; har idan wata nasara daga Allah ta kasance a gare ku, sai su ce:...
+
+  ... and 2 more issues in this chapter
+
+Chapter 005: 7 issues
+--------------------------------------------------------------------------------
+
+Verse 005 - Similarity: 99.9%
+  Original (443 chars):
+    A yau an halatta muku abũbuwa mãsu dãɗi kuma abincin waɗanda aka bai wa Littãfi halal ne a gare ku, ...
+  Formatted (444 chars):
+    A yau an halatta muku abũbuwa mãsu dãɗi kuma abincin waɗanda aka bai wa Littãfi halal ne a gare ku, ...
+
+Verse 007 - Similarity: 99.8%
+  Original (205 chars):
+    Kuma ku tuna ni'imar Allah akanku da alkawarinku wanda Ya ɗaure ku da shi, a lõkacin da kuka ce: "Mu...
+  Formatted (206 chars):
+    Kuma ku tuna ni'imar Allah akanku da alkawarinku wanda Ya ɗaure ku da shi, a lõkacin da kuka ce: "Mu...
+
+Verse 012 - Similarity: 99.8%
+  Original (535 chars):
+    Kuma lalle Allah Yã riƙi alkawarin Banĩ lsrã' ĩla kuma Muka ayyana wakilai gõma shã biyu daga gare s...
+  Formatted (537 chars):
+    Kuma lalle Allah Yã riƙi alkawarin Banĩ lsrã' ĩla kuma Muka ayyana wakilai gõma shã biyu daga gare s...
+
+Verse 097 - Similarity: 99.8%
+  Original (239 chars):
+    Allah Ya sanya Ka'aba ¦aki Tsararre, ma'aunin addini ga mutane, kuma Yã sanya watã Mai alfarma da ha...
+  Formatted (240 chars):
+    Allah Ya sanya Ka'aba ¦aki Tsararre, ma'aunin addini ga mutane, kuma Yã sanya watã Mai alfarma da ha...
+
+Verse 103 - Similarity: 99.7%
+  Original (181 chars):
+    Kuma Allah bai sanya wata bahĩra ba, kuma haka sã'iba, kuma haka wasĩla, kuma haka hãmi, amma waɗand...
+  Formatted (182 chars):
+    Kuma Allah bai sanya wata bahĩra ba, kuma haka sã'iba, kuma haka wasĩla, kuma haka hãmi, a mma waɗan...
+
+Verse 110 - Similarity: 99.8%
+  Original (733 chars):
+    A lõkacin da Allah Ya ce: "Yã Ĩsã ɗan Maryama! Ka tuna ni'ima Ta a kanka, kuma a kan mahaifiyarka, a...
+  Formatted (736 chars):
+    A lõkacin da Allah Ya ce: "Yã Ĩsã ɗan Maryama! Ka tuna ni'ima Ta a kanka, kuma a kan mahaifiyarka, a...
+
+Verse 117 - Similarity: 99.5%
+  Original (291 chars):
+    "Ban faɗa musu ba fãce abin da Ka umurce ni da shi; watau: 'Ku bauta wa Allah Ubangijina kuma Ubangi...
+  Formatted (292 chars):
+    Ban faɗa musu ba fãce abin da Ka umurce ni da shi; watau: 'Ku bauta wa Allah Ubangijina kuma Ubangij...
+
+Chapter 006: 8 issues
+--------------------------------------------------------------------------------
+
+Verse 046 - Similarity: 99.8%
+  Original (225 chars):
+    Ka ce: "Shin, kun gani, idan Allah Ya riƙe jinku, da gannanku, kuma Ya sanya hãtimi a kan zukãtanku,...
+  Formatted (226 chars):
+    Ka ce: "Shin, kun gani, idan Allah Ya riƙe jinku, da gannanku, kuma Ya sanya hãtimi a kan zukãtanku,...
+
+Verse 050 - Similarity: 99.8%
+  Original (253 chars):
+    Ka ce: "Ba zan ce muku, a wurina akwai taskõkin Allah ba. Kuma ba ni sanin gaibi, kuma ba ni gaya mu...
+  Formatted (254 chars):
+    Ka ce: "Ba zan ce muku, a wurina akwai taskõkin Allah ba. Kuma ba ni sanin gaibi, kuma ba ni gaya mu...
+
+Verse 059 - Similarity: 99.8%
+  Original (292 chars):
+    Kuma a wurinSa mabũdan gaibi suke, babu wanda yake sanin su fãce Shi, kuma Yanã sanin abin da ke a c...
+  Formatted (293 chars):
+    Kuma a wurinSa mabũdan gaibi suke, babu wanda yake sanin su fãce Shi, kuma Yanã sanin abin da ke a c...
+
+Verse 065 - Similarity: 99.8%
+  Original (245 chars):
+    Ka ce: "Shĩ ne Mai ĩko a kan Ya aika da wata azãba a kanku daga bisanku, kõ kuwa daga ƙarƙashin ƙafã...
+  Formatted (246 chars):
+    Ka ce: "Shĩ ne Mai ĩko a kan Ya aika da wata azãba a kanku daga bisanku, kõ kuwa daga ƙarƙashin ƙafã...
+
+Verse 080 - Similarity: 99.8%
+  Original (278 chars):
+    Kuma mutãnensa suka yi musu da shi. Ya ce: "Shin kunã musu da ni a cikin sha'anin Allah, alhãli kuwa...
+  Formatted (279 chars):
+    Kuma mutãnensa suka yi musu da shi. Ya ce: "Shin kunã musu da ni a cikin sha'anin Allah, alhãli kuwa...
+
+Verse 081 - Similarity: 99.4%
+  Original (265 chars):
+    "Kuma yãyã nake jin tsõron abin da kuka yi shirki da shi, kuma ba ku tsõron cẽwa lalle ne kũ, kun yi...
+  Formatted (266 chars):
+    Kuma yãyã nake jin tsõron abin da kuka yi shirki da shi, kuma ba ku tsõron cẽwa lalle ne kũ, kun yi ...
+
+Verse 146 - Similarity: 99.7%
+  Original (293 chars):
+    Kuma a kan waɗanda suka tũba (Yahũdu) Mun haramta dukan mai akaifa, kuma daga shãnu da bisãshe Mun h...
+  Formatted (295 chars):
+    Kuma a kan waɗanda suka tũba (Yahũdu) Mun haramta dukan mai akaifa, kuma daga shãnu da bisãshe Mu n ...
+
+Verse 165 - Similarity: 2.3%
+  Original (256 chars):
+    "Kuma Shĩ ne wanda Ya sanya ku mãsu maye wa jũnaga ƙasa. Kuma Ya ɗaukaka sãshenku bisa ga sãshe da d...
+  Formatted (257 chars):
+    Kuma Shĩ ne wanda Ya sanya ku mãsu maye wa jũnaga ƙasa. Kuma Ya ɗaukaka sãshenku bisa ga sãshe da da...
+
+Chapter 007: 16 issues
+--------------------------------------------------------------------------------
+
+Verse 046 - Similarity: 99.8%
+  Original (217 chars):
+    Kuma a tsakãninsu akwai wani shãmaki, kuma a kan A'arãf akwai wasu maza sunã sanin kõwa da alãmarsu;...
+  Formatted (218 chars):
+    Kuma a tsakãninsu akwai wani shãmaki, kuma a kan A'arãf akwai wasu maza sunã sanin kõwa da alãmarsu;...
+
+Verse 051 - Similarity: 99.8%
+  Original (217 chars):
+    "Waɗanda suka riƙi addininsu abin shagala da wãsa, kuma rãyuwar dũniya ta rũɗe su." To, a yau Munã m...
+  Formatted (218 chars):
+    "Waɗanda suka riƙi addininsu abin shagala da wãsa, kuma rãyuwar dũniya ta rũɗe su." To, a yau Munã m...
+
+Verse 053 - Similarity: 99.7%
+  Original (392 chars):
+    Shin, sunã jira, fãce fassararsa, a rãnar da fassararsa take zuwa, waɗanda saka manta da Shi daga ga...
+  Formatted (394 chars):
+    Shin, sunã jira, fãce fassararsa, a rãnar da fassararsa take zuwa, waɗanda saka manta da Shi daga ga...
+
+Verse 069 - Similarity: 99.5%
+  Original (305 chars):
+    "Shin, kuma kun yi mãmãki cẽwa ambato daga Ubangijinku ya zo muku a kan wani namiji daga gare ku, dõ...
+  Formatted (306 chars):
+    Shin, kuma kun yi mãmãki cẽwa ambato daga Ubangijinku ya zo muku a kan wani namiji daga gare ku, dõm...
+
+Verse 071 - Similarity: 99.8%
+  Original (262 chars):
+    Ya ce: "Haƙĩƙa azãba da fushi sun auku a kanku daga Ubangijinku! Shin, kunã jãyayya da ni a cikin wa...
+  Formatted (263 chars):
+    Ya ce: "Haƙĩƙa azãba da fushi sun auku a kanku daga Ubangijinku! Shin, kunã jãyayya da ni a cikin wa...
+
+Verse 074 - Similarity: 99.8%
+  Original (268 chars):
+    "Kuma ku tuna a lõkacin da Ya sanyã ku mamaya daga bãyan Ãdãwa kuma Ya zaunar da ku a cikin ƙasa, ku...
+  Formatted (269 chars):
+    "Kuma ku tuna a lõkacin da Ya sanyã ku mamaya daga bãyan Ãdãwa kuma Ya zaunar da ku a cikin ƙasa, ku...
+
+Verse 075 - Similarity: 99.8%
+  Original (244 chars):
+    Mashawarta waɗanda suka yi girman kai daga mutanensa suka ce ga waɗanda aka raunanar, ga waɗanda suk...
+  Formatted (245 chars):
+    Mashawarta waɗanda suka yi girman kai daga mutanensa suka ce ga waɗanda aka raunanar, ga waɗanda suk...
+
+Verse 127 - Similarity: 99.8%
+  Original (255 chars):
+    Kuma mashawarta daga mutãnen Fir'auna suka ce: "Shin, zã ka bar Mũsã da mutãnensa dõmin su yi ɓarna ...
+  Formatted (256 chars):
+    Kuma mashawarta daga mutãnen Fir'auna suka ce: "Shin, zã ka bar Mũsã da mutãnensa dõmin su yi ɓarna ...
+
+Verse 129 - Similarity: 99.8%
+  Original (219 chars):
+    Suka ce: "An cũtar da mu daga gabãnin ka zõ mana, kuma daga bãyan da kã zõ mana." Ya ce: "Akwai tsam...
+  Formatted (220 chars):
+    Suka ce: "An cũtar da mu daga gabãnin ka zõ mana, kuma daga bãyan da kã zõ mana." Ya ce: "Akwai tsam...
+
+Verse 157 - Similarity: 99.5%
+  Original (111 chars):
+    "Waɗanda suke sunã bin Manzo, Annabi, Ummiyyi wanda suke sãmun sa rubũce a wurinsu, a cikin Attaura ...
+  Formatted (110 chars):
+    Waɗanda suke sunã bin Manzo, Annabi, Ummiyyi wanda suke sãmun sa rubũce a wurinsu, a cikin Attaura d...
+
+  ... and 6 more issues in this chapter
+
+Chapter 008: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 048 - Similarity: 99.9%
+  Original (348 chars):
+    Kuma a lõkacin da Shaiɗan ya ƙawãce musu ayyukansu, kuma ya ce: "Bãbu marinjayi a gareku a yau daga ...
+  Formatted (349 chars):
+    Kuma a lõkacin da Shaiɗan ya ƙawãce musu ayyukansu, kuma ya ce: "Bãbu marinjayi a gareku a yau daga ...
+
+Verse 060 - Similarity: 99.8%
+  Original (328 chars):
+    Kuma ku yi tattali, dõminsu, abin da kuka sãmi ĩkon yi na wani ƙarfi, kuma da ajiye dawaki, kunã tso...
+  Formatted (329 chars):
+    Kuma ku yi tattali, dõminsu, abin da kuka sãmi ĩkon yi na wani ƙarfi, kuma da ajiye dawaki, kunã tso...
+
+Chapter 009: 6 issues
+--------------------------------------------------------------------------------
+
+Verse 024 - Similarity: 99.9%
+  Original (369 chars):
+    Ka ce: "Idan ubanninku da ɗiyanku da 'yan'uwanku da mãtanku da danginku da dũkiyõyi, waɗanda kuka yi...
+  Formatted (370 chars):
+    Ka ce: "Idan ubanninku da ɗiyanku da 'yan'uwanku da mãtanku da danginku da dũkiyõyi, waɗanda kuka yi...
+
+Verse 025 - Similarity: 99.8%
+  Original (247 chars):
+    Lalle ne, haƙĩƙa, Allah Yã taimake ku a cikin wurãre mãsu yawa, da Rãnar Hunainu, a lõkacin da yawan...
+  Formatted (248 chars):
+    Lalle ne, haƙĩƙa, Allah Yã taimake ku a cikin wurãre mãsu yawa, da Rãnar Hunainu, a lõkacin da yawan...
+
+Verse 042 - Similarity: 99.8%
+  Original (305 chars):
+    Dã yã kasance wata siffar dũniya ce: makusanciya, da tafiya matsakaiciya, dã sun bĩ ka, kuma amma fa...
+  Formatted (306 chars):
+    Dã yã kasance wata siffar dũniya ce: makusanciya, da tafiya matsakaiciya, dã sun bĩ ka, kuma amma fa...
+
+Verse 052 - Similarity: 99.8%
+  Original (233 chars):
+    Ka ce: "Shin, kunã dãko ne da mu? Fãce dai da ɗayan abũbuwan biyu mãsu kyau, alhãli kuwa mũ, munã dã...
+  Formatted (234 chars):
+    Ka ce: "Shin, kunã dãko ne da mu? Fãce dai da ɗayan abũbuwan biyu mãsu kyau, alhãli kuwa mũ, munã dã...
+
+Verse 061 - Similarity: 99.6%
+  Original (278 chars):
+    Kuma daga cikinsu akwai waɗanda suke cũtar Annabi, kuma sunã cẽwa "Shi kunne ne." Ka ce: "Kunnen alh...
+  Formatted (280 chars):
+    Kuma daga cikinsu akwai waɗanda suke cũtar Annabi, kuma sunã cẽwa "Shi kunne ne." Ka ce: "Ku nnen al...
+
+Verse 081 - Similarity: 99.8%
+  Original (272 chars):
+    Waɗanda aka bari sun yi farin ciki da zamansu a bãyan Manzon Allah, kuma suka ƙi su yi jihãdi da dũk...
+  Formatted (273 chars):
+    Waɗanda aka bari sun yi farin ciki da zamansu a bãyan Manzon Allah, kuma suka ƙi su yi jihãdi da dũk...
+
+Chapter 010: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 002 - Similarity: 99.8%
+  Original (303 chars):
+    Shin, yã zama abin mãmaki ga mutãne dõmin Mun yi wahayi zuwa ga wani namiji daga gare su cẽwa, "Ka y...
+  Formatted (304 chars):
+    Shin, yã zama abin mãmaki ga mutãne dõmin Mun yi wahayi zuwa ga wani namiji daga gare su cẽwa, "Ka y...
+
+Verse 022 - Similarity: 99.8%
+  Original (439 chars):
+    Shĩ ne wanda Yake tafiyar da ku a cikin tudu da (kuma) tẽku, sai idan kun kasance a cikin jirãge, su...
+  Formatted (441 chars):
+    Shĩ ne wanda Yake tafiyar da ku a cikin tudu da (kuma) tẽku, sai idan kun kasance a cikin jirãge, su...
+
+Verse 028 - Similarity: 99.8%
+  Original (240 chars):
+    Kuma a rãnar da Muke tãra su gabã ɗaya, sa'an nan kuma Mu ce wa waɗanda suka yi shirki, "Ku kãma mat...
+  Formatted (241 chars):
+    Kuma a rãnar da Muke tãra su gabã ɗaya, sa'an nan kuma Mu ce wa waɗanda suka yi shirki, "Ku kãma mat...
+
+Verse 108 - Similarity: 99.8%
+  Original (204 chars):
+    Ka ce: "Yã ku mutãne! Lalle ne gaskiya, ta zo muku daga Ubangijinku. To, wanda ya shiryu, yã shiryu ...
+  Formatted (205 chars):
+    Ka ce: "Yã ku mutãne! Lalle ne gaskiya, ta zo muku daga Ubangijinku. To, wanda ya shiryu, yã shiryu ...
+
+Chapter 011: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 029 - Similarity: 99.4%
+  Original (238 chars):
+    "Kuma yã mutãnena! Bã zan tambaye ku wata dũkiya ba akansa, ijãrata ba ta zama ba, fãce daga Allah, ...
+  Formatted (239 chars):
+    Kuma yã mutãnena! Bã zan tambaye ku wata dũkiya ba akansa, ijãrata ba ta zama ba, fãce daga Allah, k...
+
+Verse 031 - Similarity: 99.5%
+  Original (312 chars):
+    "Kuma bã ni ce muku a wurĩna taskõkin Allah suke kuma bã inã sanin gaibi ba ne. Kuma ba inã cẽwa ni ...
+  Formatted (313 chars):
+    Kuma bã ni ce muku a wurĩna taskõkin Allah suke kuma bã inã sanin gaibi ba ne. Kuma ba inã cẽwa ni M...
+
+Chapter 012: 8 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.4%
+  Original (268 chars):
+    "Kuma kãmar wancan ne, Ubangijinka Yake zãɓen ka, kuma Ya sanar da kai daga fassarar lãbãrai, kuma y...
+  Formatted (269 chars):
+    Kuma kãmar wancan ne, Ubangijinka Yake zãɓen ka, kuma Ya sanar da kai daga fassarar lãbãrai, kuma ya...
+
+Verse 021 - Similarity: 99.8%
+  Original (324 chars):
+    Kuma wanda ya saye shi daga Masar ya ce wa mãtarsa, "Ki girmama mazauninsa, akwai tsammãnin ya amfãn...
+  Formatted (325 chars):
+    Kuma wanda ya saye shi daga Masar ya ce wa mãtarsa, "Ki girmama mazauninsa, akwai tsammãnin ya amfãn...
+
+Verse 038 - Similarity: 99.3%
+  Original (200 chars):
+    "Kuma na bi addinin iyayẽna, Ibrãhĩm da Is'hãka da Yãƙũba. Bã ya yiwuwa a gare mu mu yi shirka da Al...
+  Formatted (201 chars):
+    Kuma na bi addinin iyayẽna, Ibrãhĩm da Is'hãka da Yãƙũba. Bã ya yiwuwa a gare mu mu yi shirka da All...
+
+Verse 040 - Similarity: 14.0%
+  Original (286 chars):
+    "Ba ku bauta wa kõme, baicinSa, fãce waɗansu sũnãye waɗanda kuka ambace su, kũ da ubanninku. Allah b...
+  Formatted (287 chars):
+    Ba ku bauta wa kõme, baicinSa, fãce waɗansu sũnãye waɗanda kuka ambace su, kũ da ubanninku. Allah ba...
+
+Verse 041 - Similarity: 99.3%
+  Original (207 chars):
+    "Yã abõkaina biyu, na kurkuku! Amma ɗayanku, to, zai shãyar da uban gidansa giya, kuma gudan, to, zã...
+  Formatted (208 chars):
+    Yã abõkaina biyu, na kurkuku! Amma ɗayanku, to, zai shãyar da uban gidansa giya, kuma gudan, to, zã ...
+
+Verse 050 - Similarity: 99.4%
+  Original (256 chars):
+    Kuma sarkin ya ce: "Ku zo mini da shi." To, a lõkacin da manzo ya je masa (Yũsufu), ya ce: "Ka kõma ...
+  Formatted (257 chars):
+    Kuma sarkin ya ce: "Ku zo mini da shi." To, a lõkacin da manzo ya je masa (Yũsufu), ya ce: "Ka kõma ...
+
+Verse 066 - Similarity: 99.8%
+  Original (228 chars):
+    Ya ce: "Bã zan sake shi tãre da kũ ba, sai kun kawo mini alkawarinku baga Allah, haƙĩƙa, kunã dawo m...
+  Formatted (229 chars):
+    Ya ce: "Bã zan sake shi tãre da kũ ba, sai kun kawo mini alkawarinku baga Allah, haƙĩƙa, kunã dawo m...
+
+Verse 101 - Similarity: 99.3%
+  Original (216 chars):
+    "Yã Ubangijina lalle ne Kã bã ni daga mulki, kuma Kã sanar da ni daga fassarar lãbaru. Ya Mahaliccin...
+  Formatted (217 chars):
+    Yã Ubangijina lalle ne Kã bã ni daga mulki, kuma Kã sanar da ni daga fassarar lãbaru. Ya Mahaliccin ...
+
+Chapter 014: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.8%
+  Original (274 chars):
+    Kuma a lõkacin da Mũsã yace wa mutãnensa, "Ku tuna ni'imar Allah a kanku a lõkacin da Ya tsĩrar da k...
+  Formatted (275 chars):
+    Kuma a lõkacin da Mũsã yace wa mutãnensa, "Ku tuna ni'imar Allah a kanku a lõkacin da Ya tsĩrar da k...
+
+Verse 010 - Similarity: 99.9%
+  Original (349 chars):
+    Manzanninsu suka ce "Ashe, akwai shakka a cikin (sha'anin) Allah, Mai ƙãga halittar sammai da ƙasa Y...
+  Formatted (350 chars):
+    Manzanninsu suka ce "Ashe, akwai shakka a cikin (sha'anin) Allah, Mai ƙãga halittar sammai da ƙasa Y...
+
+Verse 032 - Similarity: 99.8%
+  Original (235 chars):
+    Allah ne wanda Ya halicci sammai da ƙasa kuma Ya saukar da ruwa daga sama, sa'an nan Ya fitar game d...
+  Formatted (236 chars):
+    Allah ne wanda Ya halicci sammai da ƙasa kuma Ya saukar da ruwa daga sama, sa'an nan Ya fitar game d...
+
+Verse 037 - Similarity: 99.5%
+  Original (290 chars):
+    "Yã Ubangijinmu! Lalle ne ni, na zaunar da zuriyata ga rãfi wanda ba ma'abũcin shũka ba, a wurin ¦ãk...
+  Formatted (291 chars):
+    Yã Ubangijinmu! Lalle ne ni, na zaunar da zuriyata ga rãfi wanda ba ma'abũcin shũka ba, a wurin ¦ãki...
+
+Chapter 016: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 089 - Similarity: 99.8%
+  Original (276 chars):
+    Kuma a rãnar da Muke tãyar da shaidu a cikin kõwace al'umma a kansu daga kãwunansu, kuma Muka zo da ...
+  Formatted (277 chars):
+    Kuma a rãnar da Muke tãyar da shaidu a cikin kõwace al'umma a kansu daga kãwunansu, kuma Muka zo da ...
+
+Chapter 017: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 046 - Similarity: 99.8%
+  Original (204 chars):
+    Kuma Mu sanya marufai a kan zukãtansu dõmin kada su fahimce shi, da, wani nauyi a cikin kunnuwansu, ...
+  Formatted (205 chars):
+    Kuma Mu sanya marufai a kan zukãtansu dõmin kada su fahimce shi, da, wani nauyi a cikin kunnuwansu, ...
+
+Verse 051 - Similarity: 99.8%
+  Original (272 chars):
+    "Kõ kuwa wata halitta daga abin da yake da girma a cikin ƙirazanku." To zã su ce "Wãne ne zai mayar ...
+  Formatted (273 chars):
+    "Kõ kuwa wata halitta daga abin da yake da girma a cikin ƙirazanku." To zã su ce "Wãne ne zai mayar ...
+
+Verse 064 - Similarity: 99.4%
+  Original (258 chars):
+    "Kuma ka rikitar da wanda ka sãmi ĩko a kansa, daga gare su, da sautinka, kuma ka yi hari a kansu da...
+  Formatted (259 chars):
+    Kuma ka rikitar da wanda ka sãmi ĩko a kansa, daga gare su, da sautinka, kuma ka yi hari a kansu da ...
+
+Verse 093 - Similarity: 99.4%
+  Original (258 chars):
+    "Kõ kuwa wani gida na zĩnãriya ya kasance a gare ka, kõ kuwa ka tãka a cikin sama. Kuma bã zã mu yi ...
+  Formatted (259 chars):
+    Kõ kuwa wani gida na zĩnãriya ya kasance a gare ka, kõ kuwa ka tãka a cikin sama. Kuma bã zã mu yi ĩ...
+
+Chapter 018: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 049 - Similarity: 84.0%
+  Original (297 chars):
+    Kuma aka aza littãfin ayyuka, sai ka ga mãsu laifi sunã mãsu jin tsõro daga abin da ke cikinsa, kuma...
+  Formatted (215 chars):
+    Kuma aka aza littãfin ayyuka, sai ka ga mãsu laifi sunã mãsu jin tsõro daga abin da ke cikinsa, kuma...
+
+Verse 082 - Similarity: 17.0%
+  Original (388 chars):
+    "Kuma amma bangon, to, yã kasance na waɗansu yãra biyu ne, marãyu a cikin birnin, kuma akwai wata ta...
+  Formatted (389 chars):
+    Kuma amma bangon, to, yã kasance na waɗansu yãra biyu ne, marãyu a cikin birnin, kuma akwai wata tas...
+
+Chapter 019: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 075 - Similarity: 99.8%
+  Original (229 chars):
+    Ka ce: "Wanda ya kasance a cikin ɓata sai Mai rahama Ya yalwata masa yalwatãwa, har idan sun ga abin...
+  Formatted (230 chars):
+    Ka ce: "Wanda ya kasance a cikin ɓata sai Mai rahama Ya yalwata masa yalwatãwa, har idan sun ga abin...
+
+Chapter 020: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 047 - Similarity: 99.4%
+  Original (237 chars):
+    "Sai ku jẽ masa sa'an nan ku ce, Lalle mũ, Manzanni biyune na Ubangijinka, sai ka saki Banĩ Isrã'ĩla...
+  Formatted (238 chars):
+    Sai ku jẽ masa sa'an nan ku ce, Lalle mũ, Manzanni biyune na Ubangijinka, sai ka saki Banĩ Isrã'ĩla ...
+
+Verse 130 - Similarity: 99.8%
+  Original (217 chars):
+    Sai ka yi haƙuri a kan abin da suke cẽwa, kuma ka yi tasbĩhi da gõdẽ wa Ubangijinka a gabãnin fitõwa...
+  Formatted (218 chars):
+    Sai ka yi haƙuri a kan abin da suke cẽwa, kuma ka yi tasbĩhi da gõdẽ wa Ubangijinka a gabãnin fitõwa...
+
+Chapter 021: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 024 - Similarity: 99.8%
+  Original (232 chars):
+    Kõ sun riƙi waɗansu abũbuwan bautãwa baicinSa? Ka ce: "Ku kãwo hujjarku, wannan shi ne ambaton wanda...
+  Formatted (233 chars):
+    Kõ sun riƙi waɗansu abũbuwan bautãwa baicinSa? Ka ce: "Ku kãwo hujjarku, wannan shi ne ambaton wanda...
+
+Chapter 022: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 002 - Similarity: 99.8%
+  Original (233 chars):
+    A rãnar da kuke ganin ta dukan mai shãyar da mãma tanã shagala daga abin da ta shãyar, kuma dukan ma...
+  Formatted (234 chars):
+    A rãnar da kuke ganin ta dukan mai shãyar da mãma tanã shagala daga abin da ta shãyar, kuma dukan ma...
+
+Verse 025 - Similarity: 99.8%
+  Original (290 chars):
+    Lalle ne waɗanda suka kãfirta kuma suka taushe (mutãne) daga hanyar Allah da masallaci mai alfarma w...
+  Formatted (291 chars):
+    Lalle ne waɗanda suka kãfirta kuma suka taushe (mutãne) daga hanyar Allah da masallaci mai alfarma w...
+
+Verse 028 - Similarity: 99.3%
+  Original (222 chars):
+    "Dõmin su halarci abũbuwan amfãni a gare su, kuma su ambãci sunan Allah a cikin 'yan kwãnuka sanannu...
+  Formatted (223 chars):
+    Dõmin su halarci abũbuwan amfãni a gare su, kuma su ambãci sunan Allah a cikin 'yan kwãnuka sanannu ...
+
+Verse 073 - Similarity: 46.1%
+  Original (290 chars):
+    "Ya ku mutãne! An buga wani misãli, sai ku saurãra zuwa gare shi. Lalle ne waɗanda kuke kira baicin ...
+  Formatted (291 chars):
+    Ya ku mutãne! An buga wani misãli, sai ku saurãra zuwa gare shi. Lalle ne waɗanda kuke kira baicin A...
+
+Chapter 023: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 033 - Similarity: 99.8%
+  Original (278 chars):
+    Mashãwarta daga mutãnensa, waɗanda suka kãfirta kuma suka ƙaryata game da haɗuwa da Lãhira, kuma Muk...
+  Formatted (279 chars):
+    Mashãwarta daga mutãnensa, waɗanda suka kãfirta kuma suka ƙaryata game da haɗuwa da Lãhira, kuma Muk...
+
+Chapter 024: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 035 - Similarity: 99.8%
+  Original (469 chars):
+    Allah ne Hasken sammai da ƙasa, misãlin HaskenSa, kamar tãgã, a cikinta akwai fitila, fitilar a ciki...
+  Formatted (471 chars):
+    Allah ne Hasken sammai da ƙasa, misãlin HaskenSa, kamar tãgã, a cikinta akwai fitila, fitilar a ciki...
+
+Verse 041 - Similarity: 99.8%
+  Original (220 chars):
+    Shin, ba ka gani ba (cẽwa) lalle ne Allah, Wanda yake a cikin sammai da ƙasa sunã yi Masa tasbĩhi, k...
+  Formatted (221 chars):
+    Shin, ba ka gani ba (cẽwa) lalle ne Allah, Wanda yake a cikin sammai da ƙasa sunã yi Masa tasbĩhi, k...
+
+Verse 061 - Similarity: 99.7%
+  Original (680 chars):
+    Bãbu laifi a kan makãho, kuma bãbu laifi a kan gurgu, kuma bãbu laifi a kan majiyyaci, kuma bãbu lai...
+  Formatted (684 chars):
+    Bãbu laifi a kan makãho, kuma bãbu laifi a kan gurgu, kuma bãbu laifi a kan majiyyaci, kuma bãbu lai...
+
+Chapter 027: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 019 - Similarity: 73.5%
+  Original (291 chars):
+    Sai ya yi murmushi yanã mai dãriya daga maganarta, kuma ya ce, "Yã Ubangijĩna! Ka cũsa mini in gõde ...
+  Formatted (169 chars):
+    Sai ya yi murmushi yanã mai dãriya daga maganarta, kuma ya ce, "Yã Ubangijĩna! Ka cũsa mini in gõde ...
+
+Verse 040 - Similarity: 99.9%
+  Original (400 chars):
+    Wanda yake a wurinsa akwai wani ilmi daga Littafin ya ce: "Ni inã zo maka da shi a gabãnin ƙyaftãwar...
+  Formatted (401 chars):
+    Wanda yake a wurinsa akwai wani ilmi daga Littafin ya ce: "Ni inã zo maka da shi a gabãnin ƙyaftãwar...
+
+Chapter 028: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 025 - Similarity: 71.0%
+  Original (249 chars):
+    Sai ɗayansu ta je masa, tanã tafiya a kan jin kunya, ta ce, "Ubãna yanã kiran ka, dõmin ya sãka maka...
+  Formatted (137 chars):
+    Sai ɗayansu ta je masa, tanã tafiya a kan jin kunya, ta ce, "Ubãna yanã kiran ka, dõmin ya sãka maka...
+
+Verse 032 - Similarity: 99.5%
+  Original (284 chars):
+    "Ka shigar da hannunka a cikin wuyan rĩgarka, ya fita fari, ba da wata cũta ba, kuma ka haɗa hannuwa...
+  Formatted (285 chars):
+    Ka shigar da hannunka a cikin wuyan rĩgarka, ya fita fari, ba da wata cũta ba, kuma ka haɗa hannuwan...
+
+Verse 076 - Similarity: 99.8%
+  Original (259 chars):
+    Lalle ne ¡ãrũna ya kasance daga mutãnen Mũsã, sai ya fita daga tsãrinsu alhãli Mun bã shi taskõkin a...
+  Formatted (260 chars):
+    Lalle ne ¡ãrũna ya kasance daga mutãnen Mũsã, sai ya fita daga tsãrinsu alhãli Mun bã shi taskõkin a...
+
+Verse 082 - Similarity: 99.8%
+  Original (262 chars):
+    Kuma waɗanda suka yi bũrin matsayinsa a jiya suka wãyi gari sunã cẽwa, "Wai! Allah Yanã shimfiɗa arz...
+  Formatted (263 chars):
+    Kuma waɗanda suka yi bũrin matsayinsa a jiya suka wãyi gari sunã cẽwa, "Wai! Allah Yanã shimfiɗa arz...
+
+Chapter 029: 5 issues
+--------------------------------------------------------------------------------
+
+Verse 010 - Similarity: 99.8%
+  Original (330 chars):
+    Kuma daga cikin mutãne akwai mai cẽwa, 'Mun yi ĩmãni da Allah" sa'an nan idan aka cũce shi wajen aik...
+  Formatted (331 chars):
+    Kuma daga cikin mutãne akwai mai cẽwa, 'Mun yi ĩmãni da Allah" sa'an nan idan aka cũce shi wajen aik...
+
+Verse 017 - Similarity: 99.5%
+  Original (280 chars):
+    "Abin da dai kuke bautãwa, baiein Allah, gumaka ne, kuma kun ƙirƙira ƙarya. Lalle waɗannan da kuke b...
+  Formatted (281 chars):
+    Abin da dai kuke bautãwa, baiein Allah, gumaka ne, kuma kun ƙirƙira ƙarya. Lalle waɗannan da kuke ba...
+
+Verse 029 - Similarity: 99.4%
+  Original (235 chars):
+    "Ashe, lalle kũ kunã je wa maza, kuma ku yi fashin hanya kuma ku je, a cikin majalisarku da abin da ...
+  Formatted (236 chars):
+    Ashe, lalle kũ kunã je wa maza, kuma ku yi fashin hanya kuma ku je, a cikin majalisarku da abin da b...
+
+Verse 046 - Similarity: 99.8%
+  Original (289 chars):
+    Kada ku yi jayayya da mazowa Littãfi sai fa da magana wadda ta fi kyau, sai fa waɗanda suka yi zãlun...
+  Formatted (290 chars):
+    Kada ku yi jayayya da mazowa Littãfi sai fa da magana wadda ta fi kyau, sai fa waɗanda suka yi zãlun...
+
+Verse 052 - Similarity: 99.7%
+  Original (193 chars):
+    Ka ce: "Allah Yã isa shaida a tsakãnĩna da tsakãnĩnku Yanã sane da abin da ke a cikin sammai da ƙasã...
+  Formatted (194 chars):
+    Ka ce: "Allah Yã isa shaida a tsakãnĩna da tsakãnĩnku Yanã sane da abin da ke a cikin sammai da ƙasã...
+
+Chapter 030: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 054 - Similarity: 99.8%
+  Original (212 chars):
+    Allah ne Ya halitta ku daga rauni, sa'an nan Ya sanya wani ƙarfi a bayan wani rauni, sa'an nan Ya sa...
+  Formatted (213 chars):
+    Allah ne Ya halitta ku daga rauni, sa'an nan Ya sanya wani ƙarfi a bayan wani rauni, sa'an nan Ya sa...
+
+Chapter 031: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 021 - Similarity: 99.7%
+  Original (175 chars):
+    Kuma idan aka ce musu, "Ku bi abin da Allah ya saukar," sai su ce: "Ã'a, munã bin abin da muka sãmi ...
+  Formatted (176 chars):
+    Kuma idan aka ce musu, "Ku bi abin da Allah ya saukar," sai su ce: "Ã'a, munã bin abin da muka sãmi ...
+
+Chapter 033: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 035 - Similarity: 99.9%
+  Original (512 chars):
+    Lalle, Musulmi maza da Musulmi mãtã da muminai maza da muminai mãtã, da mãsu tawãli'u maza da mãsu t...
+  Formatted (513 chars):
+    Lalle, Musulmi maza da Musulmi mãtã da muminai maza da muminai mãtã, da mãsu tawãli'u maza da mãsu t...
+
+Chapter 034: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 023 - Similarity: 99.3%
+  Original (224 chars):
+    "Kuma wani cẽto bã ya amfãni a wurinSa face fa ga wanda Ya yi izni a gare shi. Har a lõkacin da aka ...
+  Formatted (225 chars):
+    Kuma wani cẽto bã ya amfãni a wurinSa face fa ga wanda Ya yi izni a gare shi. Har a lõkacin da aka k...
+
+Verse 031 - Similarity: 99.9%
+  Original (373 chars):
+    Kuma waɗanda suka kãfirta suka ce: "Bã zã mu yi ĩmanida wannan Alƙur'ãni ba, kuma bã zã mu yi ĩmani ...
+  Formatted (374 chars):
+    Kuma waɗanda suka kãfirta suka ce: "Bã zã mu yi ĩmanida wannan Alƙur'ãni ba, kuma bã zã mu yi ĩmani ...
+
+Chapter 035: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 012 - Similarity: 99.8%
+  Original (332 chars):
+    Kuma kõguna biyu ba su daidaita: Wannan mai ruwan dãɗi, mai zãƙi, mai sauƙin haɗiya kuma wannan mai ...
+  Formatted (333 chars):
+    Kuma kõguna biyu ba su daidaita: Wannan mai ruwan dãɗi, mai zãƙi, mai sauƙin haɗiya kuma wannan mai ...
+
+Chapter 038: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 024 - Similarity: 99.7%
+  Original (387 chars):
+    (Dãwũda) ya ce: "Lalle, haƙiƙa ya zãlunce ka game da tambayar tunkiyarka zuwa ga tumakinsa. Kuma lal...
+  Formatted (389 chars):
+    (Dãwũda) ya ce: "Lalle, haƙiƙa ya zãlunce ka game da tambayar tunkiyarka zuwa ga tumakinsa. Kuma lal...
+
+Chapter 039: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 003 - Similarity: 99.7%
+  Original (331 chars):
+    To, addini tsarkakakke na Allah ne, kuma waɗanda suka riƙi waɗansu majibinta, bã Shi ba, (sunã cẽwa)...
+  Formatted (333 chars):
+    To, addini tsarkakakke na Allah ne, kuma waɗanda suka riƙi waɗansu majibinta, bã Shi ba, (sunã cẽwa)...
+
+Chapter 040: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 025 - Similarity: 99.8%
+  Original (204 chars):
+    Sa'an nan, a lõkacin da ya jẽ musu da gaskiya daga wurinMu, suka ce: "Ku kashe ɗiyan waɗanda suka yi...
+  Formatted (205 chars):
+    Sa'an nan, a lõkacin da ya jẽ musu da gaskiya daga wurinMu, suka ce: "Ku kashe ɗiyan waɗanda suka yi...
+
+Verse 034 - Similarity: 99.5%
+  Original (290 chars):
+    "Kuma lalle ne, haƙĩƙa, Yusufu ya zo muku daga gabãni, da hujjõji bayyanannu, ba ku gushe ba kunã a ...
+  Formatted (291 chars):
+    Kuma lalle ne, haƙĩƙa, Yusufu ya zo muku daga gabãni, da hujjõji bayyanannu, ba ku gushe ba kunã a c...
+
+Verse 040 - Similarity: 99.4%
+  Original (236 chars):
+    "Wanda ya aikata mummunan aiki to, ba za a sãka masa ba fãce da misãlinsa, kuma wanda ya aikata aiki...
+  Formatted (237 chars):
+    Wanda ya aikata mummunan aiki to, ba za a sãka masa ba fãce da misãlinsa, kuma wanda ya aikata aiki ...
+
+Chapter 041: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 014 - Similarity: 99.8%
+  Original (252 chars):
+    A lõkacin da Manzanninsu suka je musu daga gaba gare su kuma daga bãyansu, "Kada ku bauta wa kõwa fã...
+  Formatted (253 chars):
+    A lõkacin da Manzanninsu suka je musu daga gaba gare su kuma daga bãyansu, "Kada ku bauta wa kõwa fã...
+
+Verse 047 - Similarity: 69.2%
+  Original (306 chars):
+    Zuwa gare Shi ake mayar da sanin Sa'a. Kuma waɗansu 'yã'yan itãce bã su fita daga kwasfõfinsu, kuma ...
+  Formatted (162 chars):
+    Zuwa gare Shi ake mayar da sanin Sa'a. Kuma waɗansu 'yã'yan itãce bã su fita daga kwasfõfinsu, kuma ...
+
+Chapter 046: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 008 - Similarity: 99.5%
+  Original (277 chars):
+    Kõkuwã sunã cẽwa: "Yã ƙirƙira shi (Alƙur'ãni) ne?" Ka ce: "Idan na ƙirƙira shi ne, to bã ku mallaka ...
+  Formatted (278 chars):
+    Kõkuwã sunã cẽwa: "Yã ƙirƙira shi (Alƙur'ãni) ne?" Ka ce: "Idan na ƙirƙira shi ne, to bã ku mallaka ...
+
+Verse 010 - Similarity: 99.8%
+  Original (271 chars):
+    Ka ce: "Shin, kun gani, idan (Alƙur'ãni) ya kasance daga wurin Allah yake, kuma kuka kãfirta da shi,...
+  Formatted (272 chars):
+    Ka ce: "Shin, kun gani, idan (Alƙur'ãni) ya kasance daga wurin Allah yake, kuma kuka kãfirta da shi,...
+
+Verse 015 - Similarity: 99.9%
+  Original (530 chars):
+    Kuma Mun yi wasiyya ga mutum game da mahaifansa biyu da kyautatãwa, uwarsa tã yi cikinsa wahala, kum...
+  Formatted (529 chars):
+    Kuma Mun yi wasiyya ga mutum game da mahaifansa biyu da kyautatãwa, uwarsa tã yi cikinsa wahala, kum...
+
+Chapter 047: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 016 - Similarity: 99.8%
+  Original (242 chars):
+    Kuma daga cikinsu akwai wanda ke saurare zuwa gare ka, har idan sun fita daga wurinka, su ce wa waɗa...
+  Formatted (243 chars):
+    Kuma daga cikinsu akwai wanda ke saurare zuwa gare ka, har idan sun fita daga wurinka, su ce wa waɗa...
+
+Chapter 048: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.8%
+  Original (302 chars):
+    Kuma Ya yi azãba ga munãfikai maza da munãfikai mãtã da mushirikai maza da musbirikai mãtã, mãsu zat...
+  Formatted (303 chars):
+    Kuma Ya yi azãba ga munãfikai maza da munãfikai mãtã da mushirikai maza da musbirikai mãtã, mãsu zat...
+
+Verse 016 - Similarity: 99.8%
+  Original (298 chars):
+    Ka ce wa waɗanda aka bari daga ƙauyãwa: "Za a kira ku zuwa ga waɗansu mutãne mãsu tsananin yãƙi (dõm...
+  Formatted (299 chars):
+    Ka ce wa waɗanda aka bari daga ƙauyãwa: "Za a kira ku zuwa ga waɗansu mutãne mãsu tsananin yãƙi (dõm...
+
+Chapter 049: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 011 - Similarity: 99.7%
+  Original (450 chars):
+    "Yã ku waɗanda suka yi ĩmãni! Kada waɗansu mutãne su yi izgili game da waɗansu mutãne, mai yiwuwa ne...
+  Formatted (451 chars):
+    Yã ku waɗanda suka yi ĩmãni! Kada waɗansu mutãne su yi izgili game da waɗansu mutãne, mai yiwuwa ne ...
+
+Chapter 052: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 021 - Similarity: 99.7%
+  Original (197 chars):
+    Kuma waɗanda suka yi ĩmãni kuma zũriyarsu suka bĩ su ga ĩmãnin, Mun riskar da zũriyarsu da su, alhãl...
+  Formatted (198 chars):
+    Kuma waɗanda suka yi ĩmãni kuma zũriyarsu suka bĩ su ga ĩmãnin, Mun riskar da zũriyarsu da su, alh ã...
+
+Chapter 057: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 027 - Similarity: 99.8%
+  Original (448 chars):
+    Sa'an nan Muka biyar a bãyansu da ManzanninMu; kuma Muka biyar da ĩsã ɗan Maryama, kuma Muka ba shi ...
+  Formatted (450 chars):
+    Sa'an nan Muka biyar a bãyansu da ManzanninMu; kuma Muka biyar da ĩsã ɗan Maryama, kuma Muka ba shi ...
+
+Chapter 059: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 011 - Similarity: 99.9%
+  Original (353 chars):
+    Ashe, ba ka ga waɗanda suka yi munãfinci ba, sunã cẽwa ga 'yan'uwansu, waɗanda suka kãfirta daga Maz...
+  Formatted (354 chars):
+    Ashe, ba ka ga waɗanda suka yi munãfinci ba, sunã cẽwa ga 'yan'uwansu, waɗanda suka kãfirta daga Maz...
+
+Verse 023 - Similarity: 99.8%
+  Original (211 chars):
+    Shĩ ne Allah, wanda bãbu abin bautãwa fãce shi, Mai mulki, Mai tsarki, Aminci, Mai amintarwa, Mai Ts...
+  Formatted (212 chars):
+    Shĩ ne Allah, wanda bãbu abin bautãwa fãce shi, Mai mulki, Mai tsarki, Aminci, Mai amintarwa, Mai Ts...
+
+Chapter 060: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 99.9%
+  Original (538 chars):
+    Lalle abin kõyi mai kyau ya kasance a gare ku game da Ibrãhĩm da waɗanda ke tãre da shi a lõkacin da...
+  Formatted (537 chars):
+    Lalle abin kõyi mai kyau ya kasance a gare ku game da Ibrãhĩm da waɗanda ke tãre da shi a lõkacin da...
+
+Verse 010 - Similarity: 99.9%
+  Original (617 chars):
+    Yã kũ waɗanda suka yi ĩmãni! Idan mãtã mũminai suka zo muku, sunã mãsu hijira, to, ku jarraba su. Al...
+  Formatted (618 chars):
+    Yã kũ waɗanda suka yi ĩmãni! Idan mãtã mũminai suka zo muku, sunã mãsu hijira, to, ku jarraba su. Al...

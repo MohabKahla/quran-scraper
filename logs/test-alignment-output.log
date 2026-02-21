@@ -1,0 +1,1607 @@
+/Users/kahla/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Using OPENAI API
+API key source: command line argument
+Failures will be logged to: logs/test-alignment-ru-ku.json
+Finding verses with splits in ru-ku...
+Found 2349 verse parts with splits
+Processing 349 batches with max 2 retries per failure...
+
+Batch 1/349...
+  🔄 002_019: Retry 1/2...
+     Still failing: Words added: ['и', 'аллах', 'окружает', 'неверующих']
+  🔄 002_019: Retry 2/2...
+     Still failing: Words added: ['и', 'аллах', 'окружает', 'неверующих']
+  ❌ 002_019: Failed after 2 retries
+  ✅ 002_020: Validated and corrected
+  ✅ 002_022: Validated and corrected
+Batch 2/349...
+  ✅ 002_025: Validated and corrected
+  ✅ 002_026: Validated and corrected
+  ✅ 002_030: Validated and corrected
+Batch 3/349...
+  ✅ 002_033: Validated and corrected
+  ✅ 002_036: Validated and corrected
+  ✅ 002_049: Validated and corrected
+Batch 4/349...
+  ✅ 002_054: Validated and corrected
+  ✅ 002_057: Validated and corrected
+  ✅ 002_058: Validated and corrected
+Batch 5/349...
+  ✅ 002_060: Validated and corrected
+  ✅ 002_061: Validated and corrected
+  ✅ 002_062: Validated and corrected
+Batch 6/349...
+  ✅ 002_067: Validated and corrected
+  ✅ 002_071: Validated and corrected
+  ✅ 002_074: Validated and corrected
+Batch 7/349...
+  ✅ 002_076: Validated and corrected
+  ✅ 002_079: Validated and corrected
+  ✅ 002_080: Validated and corrected
+Batch 8/349...
+  ✅ 002_083: Validated and corrected
+  🔄 002_085: Retry 1/2...
+     Still failing: Words added: ['вы', 'и', 'и', 'в', 'в', 'что', 'что', 'что', 'же', 'будет', 'будет', 'с', 'теми', 'кто', 'делает', 'это', 'кроме', 'позора', 'жизни', 'этой', 'аллах', 'не', 'غافل', 'о', 'том', 'делаете']
+  🔄 002_085: Retry 2/2...
+     Still failing: Words added: ['и', 'в', 'что', 'что', 'же', 'будет', 'с', 'теми', 'кто', 'делает', 'это', 'кроме', 'позора', 'жизни', 'этой', 'аллах', 'не', 'غافل', 'о', 'том', 'делаете']
+  ❌ 002_085: Failed after 2 retries
+  ✅ 002_087: Validated and corrected
+Batch 9/349...
+  ✅ 002_089: Validated and corrected
+  ✅ 002_090: Validated and corrected
+  ✅ 002_091: Validated and corrected
+Batch 10/349...
+  ✅ 002_093: Validated and corrected
+  ✅ 002_096: Validated and corrected
+  ✅ 002_101: Validated and corrected
+Batch 11/349...
+  🔄 002_102: Retry 1/2...
+     Still failing: Words added: ['они', 'что', 'в', 'не', 'и', 'тому', 'знали', 'кто', 'это', 'купит', 'будет', 'никакой', 'доли', 'последней', 'жизни']
+  🔄 002_102: Retry 2/2...
+     Still failing: Words added: ['они', 'что', 'в', 'не', 'и', 'тому', 'знали', 'кто', 'купит', 'это', 'будет', 'никакой', 'доли', 'последней', 'жизни']
+  ❌ 002_102: Failed after 2 retries
+  ✅ 002_105: Validated and corrected
+  ✅ 002_109: Validated and corrected
+Batch 12/349...
+  ✅ 002_113: Validated and corrected
+  ✅ 002_114: Validated and corrected
+  ✅ 002_118: Validated and corrected
+Batch 13/349...
+  ✅ 002_120: Validated and corrected
+  ✅ 002_124: Validated and corrected
+  ✅ 002_125: Validated and corrected
+Batch 14/349...
+  ✅ 002_126: Validated and corrected
+  ✅ 002_133: Validated and corrected
+  ✅ 002_136: Validated and corrected
+Batch 15/349...
+  ✅ 002_140: Validated and corrected
+  ✅ 002_142: Validated and corrected
+  ✅ 002_143: Validated and corrected
+Batch 16/349...
+  ✅ 002_144: Validated and corrected
+  ✅ 002_145: Validated and corrected
+  ✅ 002_150: Validated and corrected
+Batch 17/349...
+  ✅ 002_151: Validated and corrected
+  ✅ 002_158: Validated and corrected
+  🔄 002_159: Retry 1/2...
+     Still failing: Words added: ['и', 'у', 'лáйка', 'я', 'я', 'лъанъ', 'лъанъ', 'имъ', 'имъ', 'аллахъ', 'алла', 'хъ']
+  🔄 002_159: Retry 2/2...
+     Still failing: Words added: ['и', 'у', 'лáйка', 'я', 'я', 'лъанъ', 'лъанъ', 'имъ', 'имъ', 'аллахъ', 'аллахъ']
+  ❌ 002_159: Failed after 2 retries
+Batch 18/349...
+  ✅ 002_164: Validated and corrected
+  ✅ 002_165: Validated and corrected
+  ✅ 002_167: Validated and corrected
+Batch 19/349...
+  ✅ 002_170: Validated and corrected
+  ✅ 002_173: Validated and corrected
+  ✅ 002_174: Validated and corrected
+Batch 20/349...
+  ✅ 002_177: Validated and corrected
+  ✅ 002_178: Validated and corrected
+  ✅ 002_184: Validated and corrected
+Batch 21/349...
+  ✅ 002_185: Validated and corrected
+  ✅ 002_187: Validated and corrected
+  ✅ 002_189: Validated and corrected
+Batch 22/349...
+  ✅ 002_191: Validated and corrected
+  ✅ 002_194: Validated and corrected
+  🔄 002_196: Retry 1/2...
+     Still failing: Words removed: ['и', 'аллаха', 'в', 'в', 'же', 'что', 'не', 'это', 'распространяется', 'на', 'тех', 'чья', 'семья', 'живет', 'заповедной', 'мечети', 'бойтесь', 'знайте', 'аллах', 'суров', 'наказании']
+  🔄 002_196: Retry 2/2...
+     Still failing: Words removed: ['и', 'аллаха', 'в', 'в', 'же', 'что', 'не', 'это', 'распространяется', 'на', 'тех', 'чья', 'семья', 'живет', 'заповедной', 'мечети', 'бойтесь', 'знайте', 'аллах', 'суров', 'наказании']
+  ❌ 002_196: Failed after 2 retries
+Batch 23/349...
+  ✅ 002_197: Validated and corrected
+  ✅ 002_198: Validated and corrected
+  ✅ 002_200: Validated and corrected
+Batch 24/349...
+  ✅ 002_203: Validated and corrected
+  ✅ 002_212: Validated and corrected
+  ✅ 002_213: Validated and corrected
+Batch 25/349...
+  ✅ 002_214: Validated and corrected
+  ✅ 002_215: Validated and corrected
+  ✅ 002_216: Validated and corrected
+Batch 26/349...
+  ✅ 002_217: Validated and corrected
+  ✅ 002_219: Validated and corrected
+  ✅ 002_220: Validated and corrected
+Batch 27/349...
+  ✅ 002_221: Validated and corrected
+  ✅ 002_222: Validated and corrected
+  ✅ 002_223: Validated and corrected
+Batch 28/349...
+  ✅ 002_228: Validated and corrected
+  ✅ 002_229: Validated and corrected
+  🔄 002_230: Retry 1/2...
+  ✅ 002_230: Retry successful!
+Batch 29/349...
+  ✅ 002_231: Validated and corrected
+  ✅ 002_232: Validated and corrected
+  ✅ 002_233: Validated and corrected
+Batch 30/349...
+  ✅ 002_234: Validated and corrected
+  ✅ 002_235: Validated and corrected
+  ✅ 002_236: Validated and corrected
+Batch 31/349...
+  ✅ 002_237: Validated and corrected
+  ✅ 002_240: Validated and corrected
+  ✅ 002_243: Validated and corrected
+Batch 32/349...
+  ⚠️  002_246: Repetition warning (non-blocking)
+  ✅ 002_246: Validated and corrected
+  ✅ 002_247: Validated and corrected
+  ✅ 002_248: Validated and corrected
+Batch 33/349...
+  ✅ 002_249: Validated and corrected
+  ✅ 002_251: Validated and corrected
+  ✅ 002_253: Validated and corrected
+Batch 34/349...
+  ✅ 002_254: Validated and corrected
+  ✅ 002_255: Validated and corrected
+  ✅ 002_256: Validated and corrected
+Batch 35/349...
+  ✅ 002_257: Validated and corrected
+  ✅ 002_258: Validated and corrected
+  ⚠️  002_259: Repetition warning (non-blocking)
+  ✅ 002_259: Validated and corrected
+Batch 36/349...
+  ✅ 002_260: Validated and corrected
+  ✅ 002_261: Validated and corrected
+  ✅ 002_262: Validated and corrected
+Batch 37/349...
+  ✅ 002_264: Validated and corrected
+  ✅ 002_265: Validated and corrected
+  ✅ 002_266: Validated and corrected
+Batch 38/349...
+  ✅ 002_267: Validated and corrected
+  ✅ 002_271: Validated and corrected
+  ✅ 002_272: Validated and corrected
+Batch 39/349...
+  ✅ 002_273: Validated and corrected
+  ✅ 002_275: Validated and corrected
+  ✅ 002_277: Validated and corrected
+Batch 40/349...
+  ✅ 002_282: Validated and corrected
+  ✅ 002_283: Validated and corrected
+  ✅ 002_284: Validated and corrected
+Batch 41/349...
+  ✅ 002_285: Validated and corrected
+  ⚠️  002_286: Repetition warning (non-blocking)
+  ✅ 002_286: Validated and corrected
+  ✅ 003_007: Validated and corrected
+Batch 42/349...
+  ✅ 003_013: Validated and corrected
+  ✅ 003_014: Validated and corrected
+  ✅ 003_015: Validated and corrected
+Batch 43/349...
+  🔄 003_019: Retry 1/2...
+  ✅ 003_019: Retry successful!
+  ✅ 003_020: Validated and corrected
+  ✅ 003_021: Validated and corrected
+Batch 44/349...
+  🔄 003_026: Retry 1/2...
+     Still failing: Words added: ['ты', 'и', 'на', 'все', 'способен']
+  🔄 003_026: Retry 2/2...
+     Still failing: Words added: ['ты', 'на', 'всё', 'способен']
+  ❌ 003_026: Failed after 2 retries
+  ✅ 003_027: Validated and corrected
+  ✅ 003_028: Validated and corrected
+Batch 45/349...
+  ✅ 003_030: Validated and corrected
+  ✅ 003_036: Validated and corrected
+  ✅ 003_037: Validated and corrected
+Batch 46/349...
+  ✅ 003_039: Validated and corrected
+  ✅ 003_045: Validated and corrected
+  ✅ 003_049: Validated and corrected
+Batch 47/349...
+  ✅ 003_050: Validated and corrected
+  ⚠️  003_052: Repetition warning (non-blocking)
+  ✅ 003_052: Validated and corrected
+  ✅ 003_055: Validated and corrected
+Batch 48/349...
+  ✅ 003_061: Validated and corrected
+  ✅ 003_064: Validated and corrected
+  ✅ 003_073: Validated and corrected
+Batch 49/349...
+  ✅ 003_075: Validated and corrected
+  ✅ 003_077: Validated and corrected
+  ✅ 003_078: Validated and corrected
+Batch 50/349...
+  ✅ 003_079: Validated and corrected
+  ✅ 003_081: Validated and corrected
+  ✅ 003_084: Validated and corrected
+Batch 51/349...
+  ✅ 003_091: Validated and corrected
+  ✅ 003_093: Validated and corrected
+  ✅ 003_097: Validated and corrected
+Batch 52/349...
+  ✅ 003_103: Validated and corrected
+  ✅ 003_110: Validated and corrected
+  🔄 003_112: Retry 1/2...
+  ✅ 003_112: Retry successful!
+Batch 53/349...
+  🔄 003_117: Retry 1/2...
+     Still failing: Words added: ['себе', 'но', 'сами', 'причиняют', 'вред']
+  🔄 003_117: Retry 2/2...
+     Still failing: Words added: ['но', 'сами', 'души', 'их', 'причиняют', 'вред']
+  ❌ 003_117: Failed after 2 retries
+  ✅ 003_118: Validated and corrected
+  ✅ 003_119: Validated and corrected
+Batch 54/349...
+  ✅ 003_120: Validated and corrected
+  ✅ 003_135: Validated and corrected
+  ✅ 003_140: Validated and corrected
+Batch 55/349...
+  ✅ 003_144: Validated and corrected
+  ✅ 003_145: Validated and corrected
+  ✅ 003_146: Validated and corrected
+Batch 56/349...
+  ✅ 003_152: Validated and corrected
+  ✅ 003_153: Validated and corrected
+  ⚠️  003_154: Repetition warning (non-blocking)
+  ✅ 003_154: Validated and corrected
+Batch 57/349...
+  ✅ 003_155: Validated and corrected
+  ✅ 003_156: Validated and corrected
+  ✅ 003_159: Validated and corrected
+Batch 58/349...
+  ✅ 003_164: Validated and corrected
+  ✅ 003_167: Validated and corrected
+  ✅ 003_176: Validated and corrected
+Batch 59/349...
+  ✅ 003_179: Validated and corrected
+  ✅ 003_180: Validated and corrected
+  ✅ 003_181: Validated and corrected
+Batch 60/349...
+  ✅ 003_183: Validated and corrected
+  ✅ 003_185: Validated and corrected
+  ✅ 003_186: Validated and corrected
+Batch 61/349...
+  ✅ 003_187: Validated and corrected
+  ✅ 003_188: Validated and corrected
+  ✅ 003_191: Validated and corrected
+Batch 62/349...
+  ⚠️  003_193: Repetition warning (non-blocking)
+  ✅ 003_193: Validated and corrected
+  ✅ 003_195: Validated and corrected
+  ✅ 003_198: Validated and corrected
+Batch 63/349...
+  ✅ 003_199: Validated and corrected
+  ✅ 004_001: Validated and corrected
+  ✅ 004_003: Validated and corrected
+Batch 64/349...
+  ✅ 004_006: Validated and corrected
+  ✅ 004_007: Validated and corrected
+  ✅ 004_011: Validated and corrected
+Batch 65/349...
+  ✅ 004_012: Validated and corrected
+  ✅ 004_015: Validated and corrected
+  ✅ 004_017: Validated and corrected
+Batch 66/349...
+  ✅ 004_018: Validated and corrected
+  ✅ 004_019: Validated and corrected
+  ✅ 004_023: Validated and corrected
+Batch 67/349...
+  ✅ 004_024: Validated and corrected
+  ✅ 004_025: Validated and corrected
+  🔄 004_029: Retry 1/2...
+  ✅ 004_029: Retry successful!
+Batch 68/349...
+  ✅ 004_032: Validated and corrected
+  ✅ 004_033: Validated and corrected
+  ✅ 004_034: Validated and corrected
+Batch 69/349...
+  ✅ 004_035: Validated and corrected
+  ✅ 004_036: Validated and corrected
+  ⚠️  004_043: Repetition warning (non-blocking)
+  ✅ 004_043: Validated and corrected
+Batch 70/349...
+  ✅ 004_046: Validated and corrected
+  ✅ 004_047: Validated and corrected
+  ✅ 004_051: Validated and corrected
+Batch 71/349...
+  ✅ 004_056: Validated and corrected
+  ✅ 004_057: Validated and corrected
+  ✅ 004_058: Validated and corrected
+Batch 72/349...
+  ✅ 004_059: Validated and corrected
+  ✅ 004_060: Validated and corrected
+  ✅ 004_064: Validated and corrected
+Batch 73/349...
+  ✅ 004_066: Validated and corrected
+  ✅ 004_069: Validated and corrected
+  ✅ 004_074: Validated and corrected
+Batch 74/349...
+  ✅ 004_075: Validated and corrected
+  ✅ 004_076: Validated and corrected
+  ✅ 004_077: Validated and corrected
+Batch 75/349...
+  ✅ 004_078: Validated and corrected
+  ✅ 004_081: Validated and corrected
+  ✅ 004_083: Validated and corrected
+Batch 76/349...
+  ✅ 004_084: Validated and corrected
+  ✅ 004_088: Validated and corrected
+  ✅ 004_089: Validated and corrected
+Batch 77/349...
+  ✅ 004_090: Validated and corrected
+  ✅ 004_091: Validated and corrected
+  ✅ 004_092: Validated and corrected
+Batch 78/349...
+  ✅ 004_094: Validated and corrected
+  ✅ 004_095: Validated and corrected
+  ✅ 004_097: Validated and corrected
+Batch 79/349...
+  ✅ 004_100: Validated and corrected
+  ✅ 004_101: Validated and corrected
+  ✅ 004_102: Validated and corrected
+Batch 80/349...
+  ✅ 004_103: Validated and corrected
+  ✅ 004_104: Validated and corrected
+  ✅ 004_113: Validated and corrected
+Batch 81/349...
+  ✅ 004_114: Validated and corrected
+  ✅ 004_115: Validated and corrected
+  ✅ 004_119: Validated and corrected
+Batch 82/349...
+  🔄 004_122: Retry 1/2...
+  ✅ 004_122: Retry successful!
+  ✅ 004_127: Validated and corrected
+  ✅ 004_128: Validated and corrected
+Batch 83/349...
+  ✅ 004_129: Validated and corrected
+  ✅ 004_131: Validated and corrected
+  🔄 004_135: Retry 1/2...
+  ✅ 004_135: Retry successful!
+Batch 84/349...
+  ✅ 004_136: Validated and corrected
+  ✅ 004_140: Validated and corrected
+  ⚠️  004_141: Repetition warning (non-blocking)
+  ✅ 004_141: Validated and corrected
+Batch 85/349...
+  ✅ 004_142: Validated and corrected
+  ✅ 004_146: Validated and corrected
+  ✅ 004_150: Validated and corrected
+Batch 86/349...
+  ⚠️  004_153: Repetition warning (non-blocking)
+  ✅ 004_153: Validated and corrected
+  ✅ 004_154: Validated and corrected
+  ✅ 004_155: Validated and corrected
+Batch 87/349...
+  ✅ 004_157: Validated and corrected
+  ✅ 004_162: Validated and corrected
+  ✅ 004_163: Validated and corrected
+Batch 88/349...
+  ✅ 004_170: Validated and corrected
+  ✅ 004_171: Validated and corrected
+  ✅ 004_172: Validated and corrected
+Batch 89/349...
+  ✅ 004_173: Validated and corrected
+  ✅ 004_176: Validated and corrected
+  🔄 005_001: Retry 1/2...
+     Still failing: Words added: ['инна', 'аллах', 'яхкуму', 'ма', 'юрид']
+  🔄 005_001: Retry 2/2...
+     Still failing: Words added: ['и', 'нна', 'аллах', 'яхкуму', 'ма', 'юрид']
+  ❌ 005_001: Failed after 2 retries
+Batch 90/349...
+  ✅ 005_002: Validated and corrected
+  🔄 005_003: Retry 1/2...
+     Still failing: Words removed: ['то', 'не', 'если', 'на', 'на', 'а', 'это', 'же', 'к', 'кто', 'либо', 'будет', 'вынужден', 'пойти', 'употребление', 'запрещенных', 'продуктов', 'от', 'голода', 'из', 'склонности', 'греху', 'ведь', 'аллах', 'прощающий', 'милосердный']
+  🔄 005_003: Retry 2/2...
+     Still failing: Words removed: ['то', 'не', 'если', 'на', 'на', 'а', 'это', 'же', 'к', 'кто', 'либо', 'будет', 'вынужден', 'пойти', 'употребление', 'запрещенных', 'продуктов', 'от', 'голода', 'из', 'склонности', 'греху', 'ведь', 'аллах', 'прощающий', 'милосердный']
+  ❌ 005_003: Failed after 2 retries
+  ✅ 005_004: Validated and corrected
+Batch 91/349...
+  ⚠️  005_005: Repetition warning (non-blocking)
+  ✅ 005_005: Validated and corrected
+  🔄 006_006: Retry 1/2...
+  🔄 006_006: Retry 2/2...
+  ❌ 006_006: Failed after 2 retries
+  🔄 007_007: Retry 1/2...
+  🔄 007_007: Retry 2/2...
+  ❌ 007_007: Failed after 2 retries
+Batch 92/349...
+  ✅ 005_008: Validated and corrected
+  ✅ 005_011: Validated and corrected
+  ✅ 005_012: Validated and corrected
+Batch 93/349...
+  ✅ 005_013: Validated and corrected
+  ✅ 005_014: Validated and corrected
+  ✅ 005_015: Validated and corrected
+Batch 94/349...
+  ✅ 005_017: Validated and corrected
+  ✅ 005_018: Validated and corrected
+  ✅ 005_019: Validated and corrected
+Batch 95/349...
+  ✅ 005_020: Validated and corrected
+  ✅ 005_023: Validated and corrected
+  ✅ 005_027: Validated and corrected
+Batch 96/349...
+  ✅ 005_031: Validated and corrected
+  ✅ 005_032: Validated and corrected
+  ✅ 005_033: Validated and corrected
+Batch 97/349...
+  ✅ 005_036: Validated and corrected
+  ✅ 005_041: Validated and corrected
+  ✅ 005_042: Validated and corrected
+Batch 98/349...
+  ✅ 005_044: Validated and corrected
+  ✅ 005_045: Validated and corrected
+  ✅ 005_046: Validated and corrected
+Batch 99/349...
+  ✅ 005_048: Validated and corrected
+  ✅ 005_049: Validated and corrected
+  ✅ 005_051: Validated and corrected
+Batch 100/349...
+  ✅ 005_052: Validated and corrected
+  ✅ 005_054: Validated and corrected
+  ✅ 005_057: Validated and corrected
+Batch 101/349...
+  ✅ 005_060: Validated and corrected
+  ✅ 005_064: Validated and corrected
+  ✅ 005_066: Validated and corrected
+Batch 102/349...
+  ✅ 005_067: Validated and corrected
+  ✅ 005_068: Validated and corrected
+  ✅ 005_070: Validated and corrected
+Batch 103/349...
+  ✅ 005_072: Validated and corrected
+  ✅ 005_073: Validated and corrected
+  ✅ 005_075: Validated and corrected
+Batch 104/349...
+  ✅ 005_077: Validated and corrected
+  ✅ 005_082: Validated and corrected
+  ✅ 005_083: Validated and corrected
+Batch 105/349...
+  ✅ 005_089: Validated and corrected
+  ✅ 005_091: Validated and corrected
+  ✅ 005_093: Validated and corrected
+Batch 106/349...
+  ✅ 005_094: Validated and corrected
+  ✅ 005_095: Validated and corrected
+  ✅ 005_096: Validated and corrected
+Batch 107/349...
+  ✅ 005_097: Validated and corrected
+  ✅ 005_101: Validated and corrected
+  ✅ 005_103: Validated and corrected
+Batch 108/349...
+  ✅ 005_104: Validated and corrected
+  ✅ 005_105: Validated and corrected
+  ✅ 005_106: Validated and corrected
+Batch 109/349...
+  ✅ 005_107: Validated and corrected
+  ✅ 005_108: Validated and corrected
+  ✅ 005_110: Validated and corrected
+Batch 110/349...
+  ✅ 005_112: Validated and corrected
+  ✅ 005_114: Validated and corrected
+  ✅ 005_116: Validated and corrected
+Batch 111/349...
+  ✅ 005_117: Validated and corrected
+  ✅ 005_119: Validated and corrected
+  ✅ 006_006: Validated and corrected
+Batch 112/349...
+  🔄 006_012: Retry 1/2...
+     Still failing: Words added: ['те', 'которые', 'потеряли', 'свои', 'души', 'они', 'не', 'верят']
+  🔄 006_012: Retry 2/2...
+     Still failing: Words added: ['а', 'те', 'которые', 'потеряли', 'свои', 'души', 'они', 'не', 'верят']
+  ❌ 006_012: Failed after 2 retries
+  🔄 006_014: Retry 1/2...
+     Still failing: Words added: ['и', 'не', 'из', 'будь', 'многобожников']
+  🔄 006_014: Retry 2/2...
+     Still failing: Words added: ['и', 'не', 'из', 'будь', 'многобожников']
+  ❌ 006_014: Failed after 2 retries
+  ✅ 006_019: Validated and corrected
+Batch 113/349...
+  ✅ 006_025: Validated and corrected
+  ✅ 006_031: Validated and corrected
+  ✅ 006_034: Validated and corrected
+Batch 114/349...
+  ✅ 006_035: Validated and corrected
+  ✅ 006_038: Validated and corrected
+  ✅ 006_046: Validated and corrected
+Batch 115/349...
+  ✅ 006_050: Validated and corrected
+  ✅ 006_052: Validated and corrected
+  ✅ 006_054: Validated and corrected
+Batch 116/349...
+  ✅ 006_057: Validated and corrected
+  ✅ 006_059: Validated and corrected
+  ✅ 006_060: Validated and corrected
+Batch 117/349...
+  ✅ 006_065: Validated and corrected
+  ✅ 006_068: Validated and corrected
+  🔄 006_070: Retry 1/2...
+     Still failing: Words removed: ['и', 'себя', 'на', 'погибель', 'тем', 'что', 'что', 'они', 'они', 'обрекли', 'приобрели', 'им', 'уготованы', 'кипящее', 'питье', 'мучительные', 'страдания', 'за', 'то', 'были', 'неверующими']
+  🔄 006_070: Retry 2/2...
+     Still failing: Words removed: ['и', 'себя', 'на', 'погибель', 'тем', 'что', 'что', 'они', 'они', 'обрекли', 'приобрели', 'им', 'уготованы', 'кипящее', 'питье', 'мучительные', 'страдания', 'за', 'то', 'были', 'неверующими']
+  ❌ 006_070: Failed after 2 retries
+Batch 118/349...
+  ⚠️  006_071: Repetition warning (non-blocking)
+  ✅ 006_071: Validated and corrected
+  ✅ 006_073: Validated and corrected
+  ✅ 006_080: Validated and corrected
+Batch 119/349...
+  ✅ 006_081: Validated and corrected
+  🔄 006_084: Retry 1/2...
+  ✅ 006_084: Retry successful!
+  ✅ 006_091: Validated and corrected
+Batch 120/349...
+  ✅ 006_092: Validated and corrected
+  ✅ 006_093: Validated and corrected
+  ✅ 006_094: Validated and corrected
+Batch 121/349...
+  🔄 006_099: Retry 1/2...
+  ✅ 006_099: Retry successful!
+  ✅ 006_108: Validated and corrected
+  ✅ 006_109: Validated and corrected
+Batch 122/349...
+  ✅ 006_111: Validated and corrected
+  ✅ 006_112: Validated and corrected
+  ✅ 006_114: Validated and corrected
+Batch 123/349...
+  ✅ 006_119: Validated and corrected
+  ✅ 006_121: Validated and corrected
+  ✅ 006_122: Validated and corrected
+Batch 124/349...
+  ✅ 006_124: Validated and corrected
+  ✅ 006_125: Validated and corrected
+  ✅ 006_128: Validated and corrected
+Batch 125/349...
+  ✅ 006_130: Validated and corrected
+  ✅ 006_136: Validated and corrected
+  ✅ 006_137: Validated and corrected
+Batch 126/349...
+  ✅ 006_138: Validated and corrected
+  ✅ 006_139: Validated and corrected
+  ✅ 006_141: Validated and corrected
+Batch 127/349...
+  ✅ 006_143: Validated and corrected
+  ✅ 006_144: Validated and corrected
+  ✅ 006_145: Validated and corrected
+Batch 128/349...
+  ✅ 006_146: Validated and corrected
+  ✅ 006_148: Validated and corrected
+  ✅ 006_150: Validated and corrected
+Batch 129/349...
+  ✅ 006_151: Validated and corrected
+  ✅ 006_152: Validated and corrected
+  ✅ 006_157: Validated and corrected
+Batch 130/349...
+  ✅ 006_158: Validated and corrected
+  ✅ 006_164: Validated and corrected
+  ✅ 006_165: Validated and corrected
+Batch 131/349...
+  ✅ 007_020: Validated and corrected
+  ✅ 007_022: Validated and corrected
+  ✅ 007_026: Validated and corrected
+Batch 132/349...
+  ✅ 007_027: Validated and corrected
+  ✅ 007_028: Validated and corrected
+  ✅ 007_032: Validated and corrected
+Batch 133/349...
+  ✅ 007_033: Validated and corrected
+  ⚠️  007_037: Repetition warning (non-blocking)
+  ✅ 007_037: Validated and corrected
+  ✅ 007_038: Validated and corrected
+Batch 134/349...
+  ✅ 007_040: Validated and corrected
+  ✅ 007_043: Validated and corrected
+  ✅ 007_044: Validated and corrected
+Batch 135/349...
+  ✅ 007_046: Validated and corrected
+  ✅ 007_050: Validated and corrected
+  ✅ 007_051: Validated and corrected
+Batch 136/349...
+  ✅ 007_053: Validated and corrected
+  ✅ 007_054: Validated and corrected
+  ✅ 007_057: Validated and corrected
+Batch 137/349...
+  ✅ 007_069: Validated and corrected
+  ✅ 007_071: Validated and corrected
+  ✅ 007_073: Validated and corrected
+Batch 138/349...
+  ✅ 007_074: Validated and corrected
+  ⚠️  007_075: Repetition warning (non-blocking)
+  ✅ 007_075: Validated and corrected
+  ⚠️  007_085: Repetition warning (non-blocking)
+  ✅ 007_085: Validated and corrected
+Batch 139/349...
+  ✅ 007_086: Validated and corrected
+  ✅ 007_087: Validated and corrected
+  ✅ 007_088: Validated and corrected
+Batch 140/349...
+  ✅ 007_089: Validated and corrected
+  ✅ 007_101: Validated and corrected
+  ✅ 007_127: Validated and corrected
+Batch 141/349...
+  ✅ 007_129: Validated and corrected
+  ✅ 007_131: Validated and corrected
+  ✅ 007_134: Validated and corrected
+Batch 142/349...
+  ✅ 007_137: Validated and corrected
+  ✅ 007_138: Validated and corrected
+  ✅ 007_141: Validated and corrected
+Batch 143/349...
+  ✅ 007_142: Validated and corrected
+  ✅ 007_143: Validated and corrected
+  ✅ 007_145: Validated and corrected
+Batch 144/349...
+  ✅ 007_146: Validated and corrected
+  ✅ 007_148: Validated and corrected
+  ✅ 007_150: Validated and corrected
+Batch 145/349...
+  🔄 007_155: Retry 1/2...
+     Still failing: Words removed: ['из', 'и', 'же', 'ты', 'ты', 'нас', 'наш', 'покровитель', 'прости', 'помилуй', 'ибо', 'наилучший', 'прощающих']
+  🔄 007_155: Retry 2/2...
+     Still failing: Words removed: ['из', 'и', 'же', 'ты', 'ты', 'нас', 'наш', 'покровитель', 'прости', 'помилуй', 'ибо', 'наилучший', 'прощающих']
+  ❌ 007_155: Failed after 2 retries
+  ✅ 007_156: Validated and corrected
+  ✅ 007_157: Validated and corrected
+Batch 146/349...
+  ✅ 007_158: Validated and corrected
+  ✅ 007_160: Validated and corrected
+  ✅ 007_161: Validated and corrected
+Batch 147/349...
+  ✅ 007_163: Validated and corrected
+  ⚠️  007_164: Repetition warning (non-blocking)
+  ✅ 007_164: Validated and corrected
+  ✅ 007_167: Validated and corrected
+Batch 148/349...
+  ✅ 007_169: Validated and corrected
+  ✅ 007_172: Validated and corrected
+  ✅ 007_176: Validated and corrected
+Batch 149/349...
+  ✅ 007_179: Validated and corrected
+  ✅ 007_185: Validated and corrected
+  ✅ 007_187: Validated and corrected
+Batch 150/349...
+  ✅ 007_188: Validated and corrected
+  ✅ 007_189: Validated and corrected
+  ✅ 007_195: Validated and corrected
+Batch 151/349...
+  ⚠️  007_203: Repetition warning (non-blocking)
+  ✅ 007_203: Validated and corrected
+  ✅ 008_001: Validated and corrected
+  ✅ 008_007: Validated and corrected
+Batch 152/349...
+  ✅ 008_011: Validated and corrected
+  ✅ 008_012: Validated and corrected
+  ✅ 008_016: Validated and corrected
+Batch 153/349...
+  ✅ 008_017: Validated and corrected
+  ✅ 008_019: Validated and corrected
+  ✅ 008_024: Validated and corrected
+Batch 154/349...
+  ✅ 008_026: Validated and corrected
+  ✅ 008_034: Validated and corrected
+  ✅ 008_036: Validated and corrected
+Batch 155/349...
+  ✅ 008_041: Validated and corrected
+  ✅ 008_042: Validated and corrected
+  ✅ 008_043: Validated and corrected
+Batch 156/349...
+  ✅ 008_044: Validated and corrected
+  ⚠️  008_048: Repetition warning (non-blocking)
+  ✅ 008_048: Validated and corrected
+  ✅ 008_054: Validated and corrected
+Batch 157/349...
+  ✅ 008_060: Validated and corrected
+  ✅ 008_065: Validated and corrected
+  ✅ 008_066: Validated and corrected
+Batch 158/349...
+  ✅ 008_070: Validated and corrected
+  ✅ 008_072: Validated and corrected
+  ✅ 008_074: Validated and corrected
+Batch 159/349...
+  ✅ 008_075: Validated and corrected
+  ✅ 009_003: Validated and corrected
+  ✅ 009_004: Validated and corrected
+Batch 160/349...
+  ✅ 009_005: Validated and corrected
+  ✅ 009_007: Validated and corrected
+  ✅ 009_013: Validated and corrected
+Batch 161/349...
+  ✅ 009_016: Validated and corrected
+  ✅ 009_018: Validated and corrected
+  ✅ 009_019: Validated and corrected
+Batch 162/349...
+  ✅ 009_023: Validated and corrected
+  ✅ 009_024: Validated and corrected
+  ✅ 009_025: Validated and corrected
+Batch 163/349...
+  ✅ 009_028: Validated and corrected
+  ✅ 009_029: Validated and corrected
+  ✅ 009_030: Validated and corrected
+Batch 164/349...
+  ✅ 009_031: Validated and corrected
+  ✅ 009_034: Validated and corrected
+  ✅ 009_036: Validated and corrected
+Batch 165/349...
+  ✅ 009_037: Validated and corrected
+  ✅ 009_038: Validated and corrected
+  ✅ 009_040: Validated and corrected
+Batch 166/349...
+  ✅ 009_042: Validated and corrected
+  ✅ 009_052: Validated and corrected
+  ✅ 009_060: Validated and corrected
+Batch 167/349...
+  ✅ 009_061: Validated and corrected
+  ✅ 009_067: Validated and corrected
+  ✅ 009_069: Validated and corrected
+Batch 168/349...
+  ✅ 009_070: Validated and corrected
+  ✅ 009_071: Validated and corrected
+  ✅ 009_072: Validated and corrected
+Batch 169/349...
+  ✅ 009_074: Validated and corrected
+  ✅ 009_080: Validated and corrected
+  ✅ 009_081: Validated and corrected
+Batch 170/349...
+  ✅ 009_083: Validated and corrected
+  ✅ 009_091: Validated and corrected
+  ✅ 009_093: Validated and corrected
+Batch 171/349...
+  ✅ 009_094: Validated and corrected
+  ✅ 009_095: Validated and corrected
+  ✅ 009_099: Validated and corrected
+Batch 172/349...
+  ✅ 009_100: Validated and corrected
+  ✅ 009_101: Validated and corrected
+  ✅ 009_107: Validated and corrected
+Batch 173/349...
+  ✅ 009_108: Validated and corrected
+  ✅ 009_109: Validated and corrected
+  ✅ 009_111: Validated and corrected
+Batch 174/349...
+  ✅ 009_112: Validated and corrected
+  ✅ 009_114: Validated and corrected
+  ✅ 009_117: Validated and corrected
+Batch 175/349...
+  ✅ 009_118: Validated and corrected
+  ✅ 009_120: Validated and corrected
+  ✅ 009_122: Validated and corrected
+Batch 176/349...
+  🔄 002_010: Retry 1/2...
+  🔄 002_010: Retry 2/2...
+  ❌ 002_010: Failed after 2 retries
+  🔄 003_010: Retry 1/2...
+  🔄 003_010: Retry 2/2...
+  ❌ 003_010: Failed after 2 retries
+  🔄 004_010: Retry 1/2...
+  🔄 004_010: Retry 2/2...
+  ❌ 004_010: Failed after 2 retries
+Batch 177/349...
+  🔄 010_005: Retry 1/2...
+  ✅ 010_005: Retry successful!
+  ✅ 010_011: Validated and corrected
+  ✅ 010_012: Validated and corrected
+Batch 178/349...
+  ✅ 010_013: Validated and corrected
+  ✅ 010_015: Validated and corrected
+  ✅ 010_018: Validated and corrected
+Batch 179/349...
+  ✅ 010_021: Validated and corrected
+  ✅ 010_022: Validated and corrected
+  ✅ 010_023: Validated and corrected
+Batch 180/349...
+  ✅ 010_024: Validated and corrected
+  ✅ 010_027: Validated and corrected
+  ✅ 010_028: Validated and corrected
+Batch 181/349...
+  ✅ 010_031: Validated and corrected
+  ✅ 010_035: Validated and corrected
+  ✅ 010_045: Validated and corrected
+Batch 182/349...
+  🔄 010_049: Retry 1/2...
+  ✅ 010_049: Retry successful!
+  🔄 010_054: Retry 1/2...
+     Still failing: Words added: ['и', 'и', 'будет', 'решено', 'между', 'ними', 'с', 'справедливостью', 'им', 'не', 'будут', 'причинены', 'обиды']
+  🔄 010_054: Retry 2/2...
+  ✅ 010_054: Retry successful!
+  ✅ 010_061: Validated and corrected
+Batch 183/349...
+  ✅ 010_066: Validated and corrected
+  🔄 010_068: Retry 1/2...
+     Still failing: Words added: ['атекулун', 'ала', 'аллаха', 'ма', 'ла', 'та', 'ламун']
+  🔄 010_068: Retry 2/2...
+     Still failing: Words added: ['атекулун', 'ала', 'аллаха', 'ма', 'ла', 'та', 'ламун']
+  ❌ 010_068: Failed after 2 retries
+  🔄 010_071: Retry 1/2...
+     Still failing: Words added: ['ф', 'أ', 'أ', 'ج', 'م', 'م', 'م', 'م', 'م', 'ع', 'و', 'و', 'ا', 'ا', 'ا', 'ر', 'ر', 'ك', 'ك', 'ك', 'ك', 'ش', 'ء', 'ث', 'ل', 'ي', 'ن']
+  🔄 010_071: Retry 2/2...
+  ✅ 010_071: Retry successful!
+Batch 184/349...
+  ✅ 010_073: Validated and corrected
+  🔄 010_074: Retry 1/2...
+     Still failing: Words added: ['мы', 'таким', 'образом', 'запечатываем', 'сердца', 'нарушителей']
+  🔄 010_074: Retry 2/2...
+     Still failing: Words added: ['мы', 'таким', 'образом', 'запечатываем', 'сердца', 'нарушителей']
+  ❌ 010_074: Failed after 2 retries
+  ✅ 010_083: Validated and corrected
+Batch 185/349...
+  ✅ 010_088: Validated and corrected
+  ✅ 010_090: Validated and corrected
+  ✅ 010_093: Validated and corrected
+Batch 186/349...
+  ✅ 010_094: Validated and corrected
+  🔄 010_104: Retry 1/2...
+     Still failing: Words added: ['и', 'мне', 'велено', 'быть', 'из', 'числа', 'верующих']
+  🔄 010_104: Retry 2/2...
+     Still failing: Words added: ['и', 'мне', 'велено', 'быть', 'из', 'числа', 'верующих']
+  ❌ 010_104: Failed after 2 retries
+  ✅ 010_107: Validated and corrected
+Batch 187/349...
+  ✅ 010_108: Validated and corrected
+  ✅ 011_003: Validated and corrected
+  ✅ 011_005: Validated and corrected
+Batch 188/349...
+  ✅ 011_007: Validated and corrected
+  ✅ 011_008: Validated and corrected
+  ✅ 011_012: Validated and corrected
+Batch 189/349...
+  ✅ 011_017: Validated and corrected
+  ✅ 011_018: Validated and corrected
+  ✅ 011_020: Validated and corrected
+Batch 190/349...
+  ✅ 011_027: Validated and corrected
+  ✅ 011_029: Validated and corrected
+  ✅ 011_031: Validated and corrected
+Batch 191/349...
+  ✅ 011_040: Validated and corrected
+  ✅ 011_043: Validated and corrected
+  ✅ 011_057: Validated and corrected
+Batch 192/349...
+  ✅ 011_061: Validated and corrected
+  ✅ 011_062: Validated and corrected
+  ✅ 011_063: Validated and corrected
+Batch 193/349...
+  ✅ 011_078: Validated and corrected
+  ✅ 011_081: Validated and corrected
+  ✅ 011_084: Validated and corrected
+Batch 194/349...
+  ✅ 011_088: Validated and corrected
+  ✅ 011_101: Validated and corrected
+  ✅ 011_116: Validated and corrected
+Batch 195/349...
+  ✅ 012_006: Validated and corrected
+  ✅ 012_021: Validated and corrected
+  🔄 012_023: Retry 1/2...
+     Still failing: Words added: ['иначе', 'не', 'будет', 'успешен', 'злодеи']
+  🔄 012_023: Retry 2/2...
+     Still failing: Words added: ['иннаху', 'ла', 'юфлиху', 'аззолимун']
+  ❌ 012_023: Failed after 2 retries
+Batch 196/349...
+  ✅ 012_025: Validated and corrected
+  ✅ 012_031: Validated and corrected
+  ✅ 012_032: Validated and corrected
+Batch 197/349...
+  ✅ 012_036: Validated and corrected
+  ✅ 012_037: Validated and corrected
+  ✅ 012_038: Validated and corrected
+Batch 198/349...
+  ✅ 012_040: Validated and corrected
+  ✅ 012_041: Validated and corrected
+  ✅ 012_043: Validated and corrected
+Batch 199/349...
+  ✅ 012_046: Validated and corrected
+  ⚠️  012_050: Repetition warning (non-blocking)
+  ✅ 012_050: Validated and corrected
+  ⚠️  012_051: Repetition warning (non-blocking)
+  ✅ 012_051: Validated and corrected
+Batch 200/349...
+  ✅ 012_065: Validated and corrected
+  ✅ 012_066: Validated and corrected
+  ✅ 012_067: Validated and corrected
+Batch 201/349...
+  ✅ 012_068: Validated and corrected
+  ✅ 012_076: Validated and corrected
+  ✅ 012_077: Validated and corrected
+Batch 202/349...
+  ✅ 012_080: Validated and corrected
+  🔄 012_088: Retry 1/2...
+     Still failing: Words added: ['и', 'нна', 'аллах', 'ядджзи', 'альмутацаддикина']
+  🔄 012_088: Retry 2/2...
+     Still failing: Words added: ['и', 'нна', 'аллах', 'ядджзи', 'альмутацаддикина']
+  ❌ 012_088: Failed after 2 retries
+  ✅ 012_090: Validated and corrected
+Batch 203/349...
+  ✅ 012_100: Validated and corrected
+  ✅ 012_101: Validated and corrected
+  ✅ 012_109: Validated and corrected
+Batch 204/349...
+  ✅ 012_111: Validated and corrected
+  ✅ 013_002: Validated and corrected
+  ✅ 013_003: Validated and corrected
+Batch 205/349...
+  ✅ 013_004: Validated and corrected
+  🔄 013_005: Retry 1/2...
+  ✅ 013_005: Retry successful!
+  🔄 013_006: Retry 1/2...
+  ✅ 013_006: Retry successful!
+Batch 206/349...
+  ✅ 013_011: Validated and corrected
+  ✅ 013_014: Validated and corrected
+  ⚠️  013_016: Repetition warning (non-blocking)
+  ✅ 013_016: Validated and corrected
+Batch 207/349...
+  ✅ 013_017: Validated and corrected
+  ✅ 013_018: Validated and corrected
+  ✅ 013_025: Validated and corrected
+Batch 208/349...
+  ✅ 013_030: Validated and corrected
+  ✅ 013_031: Validated and corrected
+  ✅ 013_033: Validated and corrected
+Batch 209/349...
+  ✅ 013_035: Validated and corrected
+  ✅ 013_036: Validated and corrected
+  ✅ 013_038: Validated and corrected
+Batch 210/349...
+  ✅ 014_005: Validated and corrected
+  ✅ 014_006: Validated and corrected
+  ✅ 014_009: Validated and corrected
+Batch 211/349...
+  ✅ 014_010: Validated and corrected
+  ✅ 014_011: Validated and corrected
+  ✅ 014_018: Validated and corrected
+Batch 212/349...
+  ✅ 014_021: Validated and corrected
+  ✅ 014_022: Validated and corrected
+  ✅ 014_032: Validated and corrected
+Batch 213/349...
+  ⚠️  014_037: Repetition warning (non-blocking)
+  ✅ 014_037: Validated and corrected
+  ✅ 014_044: Validated and corrected
+  ✅ 016_014: Validated and corrected
+Batch 214/349...
+  ✅ 016_027: Validated and corrected
+  ✅ 016_028: Validated and corrected
+  ✅ 016_030: Validated and corrected
+Batch 215/349...
+  ✅ 016_033: Validated and corrected
+  ✅ 016_035: Validated and corrected
+  ✅ 016_036: Validated and corrected
+Batch 216/349...
+  ✅ 016_061: Validated and corrected
+  🔄 016_069: Retry 1/2...
+  ✅ 016_069: Retry successful!
+  🔄 016_071: Retry 1/2...
+  ✅ 016_071: Retry successful!
+Batch 217/349...
+  ✅ 016_072: Validated and corrected
+  ✅ 016_075: Validated and corrected
+  ✅ 016_076: Validated and corrected
+Batch 218/349...
+  ✅ 016_080: Validated and corrected
+  ✅ 016_081: Validated and corrected
+  🔄 016_086: Retry 1/2...
+     Still failing: Words added: ['фа', 'лка', 'в', 'а', 'йле', 'йхум', 'алька', 'вла', 'иннаку', 'м', 'лака', 'дибу', 'н']
+  🔄 016_086: Retry 2/2...
+     Still failing: Words added: ['фа', 'алкова', 'иляхиму', 'льковла', 'иннакум', 'лаказибун']
+  ❌ 016_086: Failed after 2 retries
+Batch 219/349...
+  ✅ 016_089: Validated and corrected
+  ✅ 016_091: Validated and corrected
+  ✅ 016_092: Validated and corrected
+Batch 220/349...
+  ✅ 016_106: Validated and corrected
+  ✅ 016_112: Validated and corrected
+  ✅ 016_115: Validated and corrected
+Batch 221/349...
+  ✅ 016_116: Validated and corrected
+  ✅ 016_125: Validated and corrected
+  ✅ 017_001: Validated and corrected
+Batch 222/349...
+  ✅ 017_007: Validated and corrected
+  ✅ 017_012: Validated and corrected
+  ✅ 017_015: Validated and corrected
+Batch 223/349...
+  ✅ 017_023: Validated and corrected
+  ✅ 017_033: Validated and corrected
+  ✅ 017_044: Validated and corrected
+Batch 224/349...
+  ✅ 017_046: Validated and corrected
+  ✅ 017_051: Validated and corrected
+  ✅ 017_057: Validated and corrected
+Batch 225/349...
+  ✅ 017_059: Validated and corrected
+  ✅ 017_060: Validated and corrected
+  ✅ 017_064: Validated and corrected
+Batch 226/349...
+  ✅ 017_093: Validated and corrected
+  ✅ 017_097: Validated and corrected
+  🔄 017_110: Retry 1/2...
+     Still failing: Words added: ['и', 'и', 'не', 'не', 'повышай', 'голос', 'в', 'молитве', 'твоей', 'шепчи', 'ней', 'а', 'ищи', 'средний', 'путь', 'между', 'этим']
+  🔄 017_110: Retry 2/2...
+     Still failing: Words added: ['и', 'и', 'не', 'не', 'повышай', 'голос', 'в', 'молитве', 'твоей', 'шепчи', 'ей', 'а', 'ищи', 'средний', 'путь', 'между', 'этим']
+  ❌ 017_110: Failed after 2 retries
+Batch 227/349...
+  ✅ 018_017: Validated and corrected
+  ✅ 018_018: Validated and corrected
+  ⚠️  018_019: Repetition warning (non-blocking)
+  ✅ 018_019: Validated and corrected
+Batch 228/349...
+  ✅ 018_021: Validated and corrected
+  ✅ 018_022: Validated and corrected
+  ✅ 018_026: Validated and corrected
+Batch 229/349...
+  ✅ 018_028: Validated and corrected
+  ✅ 018_029: Validated and corrected
+  ✅ 018_031: Validated and corrected
+Batch 230/349...
+  🔄 018_045: Retry 1/2...
+     Still failing: Words added: ['и', 'был', 'аллах', 'на', 'всякую', 'вещь', 'способен']
+  🔄 018_045: Retry 2/2...
+     Still failing: Words added: ['и', 'был', 'аллах', 'на', 'всякую', 'вещь', 'способен']
+  ❌ 018_045: Failed after 2 retries
+  ✅ 018_049: Validated and corrected
+  🔄 018_050: Retry 1/2...
+  ✅ 018_050: Retry successful!
+Batch 231/349...
+  ✅ 018_056: Validated and corrected
+  ✅ 018_057: Validated and corrected
+  ✅ 018_063: Validated and corrected
+Batch 232/349...
+  ✅ 018_077: Validated and corrected
+  ✅ 018_082: Validated and corrected
+  ✅ 018_086: Validated and corrected
+Batch 233/349...
+  🔄 018_110: Retry 1/2...
+     Still failing: Words added: ['ф', 'م', 'م', 'م', 'ن', 'ك', 'ان', 'ي', 'ي', 'ر', 'ر', 'ج', 'وا', 'ل', 'ل', 'ل', 'ل', 'ق', 'ا', 'ا', 'ء', 'ب', 'ه', 'ۦ', 'ف', 'ع', 'ع']
+  🔄 018_110: Retry 2/2...
+     Still failing: Words added: ['ф', 'م', 'م', 'م', 'ن', 'ك', 'ان', 'ي', 'ي', 'ر', 'ر', 'ج', 'وا', 'ل', 'ل', 'ل', 'ل', 'ق', 'ا', 'ا', 'ء', 'ب', 'ه', 'ۦ', 'ف', 'ع', 'ع']
+  ❌ 018_110: Failed after 2 retries
+  ✅ 019_058: Validated and corrected
+  ✅ 019_075: Validated and corrected
+Batch 234/349...
+  ✅ 020_039: Validated and corrected
+  ✅ 020_040: Validated and corrected
+  ✅ 020_047: Validated and corrected
+Batch 235/349...
+  ✅ 020_071: Validated and corrected
+  ✅ 020_086: Validated and corrected
+  ✅ 020_097: Validated and corrected
+Batch 236/349...
+  ✅ 020_130: Validated and corrected
+  ✅ 021_024: Validated and corrected
+  ✅ 021_044: Validated and corrected
+Batch 237/349...
+  🔄 021_090: Retry 1/2...
+  ✅ 021_090: Retry successful!
+  ✅ 022_002: Validated and corrected
+  🔄 022_005: Retry 1/2...
+  ⚠️  022_005: Repetition warning (non-blocking)
+  ✅ 022_005: Retry successful!
+Batch 238/349...
+  ✅ 022_011: Validated and corrected
+  ✅ 022_017: Validated and corrected
+  ✅ 022_018: Validated and corrected
+Batch 239/349...
+  ✅ 022_023: Validated and corrected
+  ✅ 022_025: Validated and corrected
+  ✅ 022_028: Validated and corrected
+Batch 240/349...
+  ✅ 022_030: Validated and corrected
+  ✅ 022_034: Validated and corrected
+  ✅ 022_036: Validated and corrected
+Batch 241/349...
+  ✅ 022_037: Validated and corrected
+  ✅ 022_040: Validated and corrected
+  ✅ 022_046: Validated and corrected
+Batch 242/349...
+  ✅ 022_052: Validated and corrected
+  ✅ 022_054: Validated and corrected
+  ✅ 022_065: Validated and corrected
+Batch 243/349...
+  ✅ 022_072: Validated and corrected
+  ✅ 022_073: Validated and corrected
+  ✅ 022_078: Validated and corrected
+Batch 244/349...
+  ✅ 023_014: Validated and corrected
+  ✅ 023_024: Validated and corrected
+  ✅ 023_027: Validated and corrected
+Batch 245/349...
+  🔄 023_033: Retry 1/2...
+     Still failing: Words added: ['и', 'то', 'что', 'вы', 'пьет', 'пьете']
+  🔄 023_033: Retry 2/2...
+  ✅ 023_033: Retry successful!
+  ✅ 023_044: Validated and corrected
+  🔄 023_091: Retry 1/2...
+     Still failing: Words added: ['субханаллах', 'чем', 'они', 'описывают']
+  🔄 023_091: Retry 2/2...
+     Still failing: Words added: ['субханаллах', 'чем', 'они', 'описывают']
+  ❌ 023_091: Failed after 2 retries
+Batch 246/349...
+  ✅ 024_002: Validated and corrected
+  🔄 024_004: Retry 1/2...
+     Still failing: Words added: ['и', 'они', 'являются', 'фасиками']
+  🔄 024_004: Retry 2/2...
+     Still failing: Words added: ['и', 'они', 'являются', 'фасиками']
+  ❌ 024_004: Failed after 2 retries
+  🔄 024_011: Retry 1/2...
+  ✅ 024_011: Retry successful!
+Batch 247/349...
+  ✅ 024_021: Validated and corrected
+  ✅ 024_022: Validated and corrected
+  ✅ 024_026: Validated and corrected
+Batch 248/349...
+  ✅ 024_027: Validated and corrected
+  ✅ 024_028: Validated and corrected
+  ✅ 024_031: Validated and corrected
+Batch 249/349...
+  ✅ 024_033: Validated and corrected
+  ✅ 024_035: Validated and corrected
+  ✅ 024_039: Validated and corrected
+Batch 250/349...
+  ✅ 024_040: Validated and corrected
+  ✅ 024_041: Validated and corrected
+  ✅ 024_043: Validated and corrected
+Batch 251/349...
+  ✅ 024_045: Validated and corrected
+  ✅ 024_054: Validated and corrected
+  ✅ 024_055: Validated and corrected
+Batch 252/349...
+  ✅ 024_058: Validated and corrected
+  ✅ 024_059: Validated and corrected
+  ✅ 024_060: Validated and corrected
+Batch 253/349...
+  ✅ 024_061: Validated and corrected
+  ✅ 024_062: Validated and corrected
+  ✅ 024_063: Validated and corrected
+Batch 254/349...
+  ✅ 024_064: Validated and corrected
+  ✅ 025_020: Validated and corrected
+  ✅ 025_068: Validated and corrected
+Batch 255/349...
+  ✅ 026_049: Validated and corrected
+  ✅ 026_227: Validated and corrected
+  ✅ 027_019: Validated and corrected
+Batch 256/349...
+  ✅ 027_040: Validated and corrected
+  ✅ 027_044: Validated and corrected
+  ✅ 027_060: Validated and corrected
+Batch 257/349...
+  ✅ 027_061: Validated and corrected
+  ✅ 027_063: Validated and corrected
+  ✅ 028_004: Validated and corrected
+Batch 258/349...
+  ✅ 028_007: Validated and corrected
+  ✅ 028_015: Validated and corrected
+  ✅ 028_019: Validated and corrected
+Batch 259/349...
+  ✅ 028_023: Validated and corrected
+  ✅ 028_025: Validated and corrected
+  ✅ 028_027: Validated and corrected
+Batch 260/349...
+  ✅ 028_029: Validated and corrected
+  ✅ 028_032: Validated and corrected
+  ✅ 028_038: Validated and corrected
+Batch 261/349...
+  ✅ 028_048: Validated and corrected
+  ✅ 028_050: Validated and corrected
+  ✅ 028_057: Validated and corrected
+Batch 262/349...
+  ✅ 028_063: Validated and corrected
+  ✅ 028_072: Validated and corrected
+  🔄 028_076: Retry 1/2...
+     Still failing: Words removed: ['ему', 'соплеменники', 'сказали', 'не', 'не', 'ликуй', 'ведь', 'аллах', 'любит', 'тех', 'кто', 'ликует']
+  🔄 028_076: Retry 2/2...
+     Still failing: Words removed: ['ему', 'соплеменники', 'сказали', 'не', 'не', 'ликуй', 'ведь', 'аллах', 'любит', 'тех', 'кто', 'ликует']
+  ❌ 028_076: Failed after 2 retries
+Batch 263/349...
+  ✅ 028_077: Validated and corrected
+  ✅ 028_078: Validated and corrected
+  ✅ 028_082: Validated and corrected
+Batch 264/349...
+  ✅ 029_008: Validated and corrected
+  ✅ 029_010: Validated and corrected
+  ✅ 029_017: Validated and corrected
+Batch 265/349...
+  ✅ 029_025: Validated and corrected
+  ✅ 029_027: Validated and corrected
+  ✅ 029_029: Validated and corrected
+Batch 266/349...
+  ✅ 029_033: Validated and corrected
+  ✅ 029_040: Validated and corrected
+  ✅ 029_041: Validated and corrected
+Batch 267/349...
+  ✅ 029_045: Validated and corrected
+  ✅ 029_046: Validated and corrected
+  ✅ 029_047: Validated and corrected
+Batch 268/349...
+  ✅ 029_052: Validated and corrected
+  ✅ 029_063: Validated and corrected
+  ✅ 030_008: Validated and corrected
+Batch 269/349...
+  ✅ 030_009: Validated and corrected
+  ✅ 030_021: Validated and corrected
+  ✅ 030_024: Validated and corrected
+Batch 270/349...
+  ✅ 030_028: Validated and corrected
+  ✅ 030_030: Validated and corrected
+  ✅ 030_039: Validated and corrected
+Batch 271/349...
+  ❌ Error processing batch 271: 'str' object has no attribute 'values'
+Batch 272/349...
+  ✅ 030_054: Validated and corrected
+  ✅ 030_056: Validated and corrected
+  ✅ 031_010: Validated and corrected
+Batch 273/349...
+  ✅ 031_015: Validated and corrected
+  ✅ 031_016: Validated and corrected
+  ✅ 031_020: Validated and corrected
+Batch 274/349...
+  ✅ 031_021: Validated and corrected
+  ✅ 031_029: Validated and corrected
+  ✅ 031_032: Validated and corrected
+Batch 275/349...
+  ✅ 031_033: Validated and corrected
+  ✅ 031_034: Validated and corrected
+  ✅ 032_004: Validated and corrected
+Batch 276/349...
+  ✅ 032_020: Validated and corrected
+  ✅ 033_004: Validated and corrected
+  ✅ 033_005: Validated and corrected
+Batch 277/349...
+  ✅ 033_006: Validated and corrected
+  🔄 033_009: Retry 1/2...
+  ✅ 033_009: Retry successful!
+  ✅ 033_013: Validated and corrected
+Batch 278/349...
+  ✅ 033_019: Validated and corrected
+  ✅ 033_020: Validated and corrected
+  ✅ 033_032: Validated and corrected
+Batch 279/349...
+  ✅ 033_033: Validated and corrected
+  ✅ 033_035: Validated and corrected
+  ✅ 033_036: Validated and corrected
+Batch 280/349...
+  ✅ 033_037: Validated and corrected
+  ✅ 033_049: Validated and corrected
+  ✅ 033_050: Validated and corrected
+Batch 281/349...
+  🔄 033_051: Retry 1/2...
+     Still failing: Words removed: ['то', 'что', 'аллах', 'аллах', 'знает', 'в', 'ваших', 'сердцах', 'ибо', 'знающий', 'выдержанный']
+  🔄 033_051: Retry 2/2...
+     Still failing: Words removed: ['то', 'что', 'аллах', 'аллах', 'знает', 'в', 'ваших', 'сердцах', 'ибо', 'знающий', 'выдержанный']
+  ❌ 033_051: Failed after 2 retries
+  ✅ 033_052: Validated and corrected
+  ✅ 033_053: Validated and corrected
+Batch 282/349...
+  ✅ 033_055: Validated and corrected
+  🔄 033_059: Retry 1/2...
+     Still failing: Words added: ['и', 'был', 'аллах', 'прощающим', 'милосердным']
+  🔄 033_059: Retry 2/2...
+     Still failing: Words added: ['и', 'был', 'аллах', 'прощающим', 'милосердным']
+  ❌ 033_059: Failed after 2 retries
+  ✅ 033_072: Validated and corrected
+Batch 283/349...
+  ✅ 033_073: Validated and corrected
+  ✅ 034_003: Validated and corrected
+  ✅ 034_009: Validated and corrected
+Batch 284/349...
+  ✅ 034_012: Validated and corrected
+  ✅ 034_013: Validated and corrected
+  ✅ 034_014: Validated and corrected
+Batch 285/349...
+  ✅ 034_019: Validated and corrected
+  ✅ 034_022: Validated and corrected
+  ✅ 034_023: Validated and corrected
+Batch 286/349...
+  ✅ 034_031: Validated and corrected
+  ✅ 034_033: Validated and corrected
+  ✅ 034_037: Validated and corrected
+Batch 287/349...
+  ✅ 034_043: Validated and corrected
+  ✅ 034_046: Validated and corrected
+  ✅ 035_001: Validated and corrected
+Batch 288/349...
+  ✅ 035_003: Validated and corrected
+  ✅ 035_008: Validated and corrected
+  ✅ 035_010: Validated and corrected
+Batch 289/349...
+  ✅ 035_011: Validated and corrected
+  ✅ 035_012: Validated and corrected
+  ✅ 035_013: Validated and corrected
+Batch 290/349...
+  ✅ 035_018: Validated and corrected
+  ✅ 035_027: Validated and corrected
+  ✅ 035_032: Validated and corrected
+Batch 291/349...
+  ✅ 035_037: Validated and corrected
+  ✅ 035_039: Validated and corrected
+  ✅ 035_040: Validated and corrected
+Batch 292/349...
+  ✅ 035_043: Validated and corrected
+  ✅ 035_044: Validated and corrected
+  ✅ 035_045: Validated and corrected
+Batch 293/349...
+  ✅ 037_102: Validated and corrected
+  ✅ 038_022: Validated and corrected
+  ✅ 038_024: Validated and corrected
+Batch 294/349...
+  🔄 038_026: Retry 1/2...
+     Still failing: Words added: ['аллаха', 'инна', 'алладзина', 'яддилун', 'ан', 'сабили', 'лахум', 'адзаб']
+  🔄 038_026: Retry 2/2...
+     Still failing: Words added: ['инна', 'алладзина', 'яддилун', 'ан', 'сабили', 'лахум', 'адзаб']
+  ❌ 038_026: Failed after 2 retries
+  ✅ 039_003: Validated and corrected
+  ✅ 039_005: Validated and corrected
+Batch 295/349...
+  ✅ 039_006: Validated and corrected
+  ✅ 039_007: Validated and corrected
+  ✅ 039_008: Validated and corrected
+Batch 296/349...
+  ✅ 039_009: Validated and corrected
+  ✅ 039_010: Validated and corrected
+  ✅ 039_021: Validated and corrected
+Batch 297/349...
+  ✅ 039_023: Validated and corrected
+  ⚠️  039_038: Repetition warning (non-blocking)
+  ✅ 039_038: Validated and corrected
+  ✅ 039_042: Validated and corrected
+Batch 298/349...
+  ✅ 039_047: Validated and corrected
+  ✅ 039_049: Validated and corrected
+  ✅ 039_053: Validated and corrected
+Batch 299/349...
+  ✅ 039_067: Validated and corrected
+  🔄 039_071: Retry 1/2...
+     Still failing: Words removed: ['они', 'скажут', 'о', 'конечно', 'но', 'сбылось', 'относительно', 'неверующих', 'слово', 'мучениях']
+  🔄 039_071: Retry 2/2...
+     Still failing: Words removed: ['они', 'скажут', 'о', 'конечно', 'но', 'сбылось', 'относительно', 'неверующих', 'слово', 'мучениях']
+  ❌ 039_071: Failed after 2 retries
+  ✅ 039_073: Validated and corrected
+Batch 300/349...
+  ✅ 040_005: Validated and corrected
+  ✅ 040_007: Validated and corrected
+  ✅ 040_021: Validated and corrected
+Batch 301/349...
+  ✅ 040_025: Validated and corrected
+  ✅ 040_028: Validated and corrected
+  ✅ 040_029: Validated and corrected
+Batch 302/349...
+  ✅ 040_034: Validated and corrected
+  ✅ 040_035: Validated and corrected
+  ✅ 040_037: Validated and corrected
+Batch 303/349...
+  ✅ 040_040: Validated and corrected
+  ✅ 040_056: Validated and corrected
+  ✅ 040_064: Validated and corrected
+Batch 304/349...
+  ✅ 040_067: Validated and corrected
+  ✅ 040_078: Validated and corrected
+  ✅ 040_082: Validated and corrected
+Batch 305/349...
+  ✅ 041_012: Validated and corrected
+  ✅ 041_014: Validated and corrected
+  ✅ 041_015: Validated and corrected
+Batch 306/349...
+  ✅ 041_016: Validated and corrected
+  ✅ 041_025: Validated and corrected
+  ✅ 041_037: Validated and corrected
+Batch 307/349...
+  ✅ 041_039: Validated and corrected
+  🔄 041_040: Retry 1/2...
+  ✅ 041_040: Retry successful!
+  ✅ 041_044: Validated and corrected
+Batch 308/349...
+  ✅ 041_047: Validated and corrected
+  ✅ 041_050: Validated and corrected
+  ✅ 042_005: Validated and corrected
+Batch 309/349...
+  ✅ 042_007: Validated and corrected
+  ✅ 042_011: Validated and corrected
+  ✅ 042_013: Validated and corrected
+Batch 310/349...
+  ✅ 042_014: Validated and corrected
+  ✅ 042_015: Validated and corrected
+  ✅ 042_018: Validated and corrected
+Batch 311/349...
+  ✅ 042_021: Validated and corrected
+  ✅ 042_022: Validated and corrected
+  ✅ 042_023: Validated and corrected
+Batch 312/349...
+  ✅ 042_024: Validated and corrected
+  ✅ 042_045: Validated and corrected
+  ✅ 042_048: Validated and corrected
+Batch 313/349...
+  ✅ 042_052: Validated and corrected
+  ✅ 043_032: Validated and corrected
+  🔄 045_017: Retry 1/2...
+  ✅ 045_017: Retry successful!
+Batch 314/349...
+  ✅ 045_023: Validated and corrected
+  ✅ 046_004: Validated and corrected
+  ✅ 046_008: Validated and corrected
+Batch 315/349...
+  ✅ 046_010: Validated and corrected
+  ✅ 046_015: Validated and corrected
+  ⚠️  046_017: Repetition warning (non-blocking)
+  ✅ 046_017: Validated and corrected
+Batch 316/349...
+  ✅ 046_020: Validated and corrected
+  ✅ 046_021: Validated and corrected
+  ✅ 046_026: Validated and corrected
+Batch 317/349...
+  ✅ 046_033: Validated and corrected
+  ✅ 046_035: Validated and corrected
+  ✅ 047_004: Validated and corrected
+Batch 318/349...
+  ✅ 047_012: Validated and corrected
+  ✅ 047_015: Validated and corrected
+  ✅ 047_016: Validated and corrected
+Batch 319/349...
+  ✅ 047_020: Validated and corrected
+  ✅ 047_038: Validated and corrected
+  ✅ 048_004: Validated and corrected
+Batch 320/349...
+  ✅ 048_005: Validated and corrected
+  ✅ 048_006: Validated and corrected
+  ✅ 048_010: Validated and corrected
+Batch 321/349...
+  ✅ 048_011: Validated and corrected
+  ✅ 048_015: Validated and corrected
+  ✅ 048_016: Validated and corrected
+Batch 322/349...
+  🔄 048_017: Retry 1/2...
+  ✅ 048_017: Retry successful!
+  ✅ 048_020: Validated and corrected
+  ✅ 048_025: Validated and corrected
+Batch 323/349...
+  ✅ 048_026: Validated and corrected
+  ✅ 048_027: Validated and corrected
+  ✅ 048_029: Validated and corrected
+Batch 324/349...
+  ✅ 049_002: Validated and corrected
+  ✅ 049_007: Validated and corrected
+  ✅ 049_009: Validated and corrected
+Batch 325/349...
+  ✅ 049_011: Validated and corrected
+  ✅ 049_012: Validated and corrected
+  ✅ 049_013: Validated and corrected
+Batch 326/349...
+  ✅ 049_014: Validated and corrected
+  ✅ 049_015: Validated and corrected
+  ✅ 052_021: Validated and corrected
+Batch 327/349...
+  ✅ 053_023: Validated and corrected
+  ✅ 053_032: Validated and corrected
+  ✅ 057_004: Validated and corrected
+Batch 328/349...
+  ✅ 057_010: Validated and corrected
+  ✅ 057_012: Validated and corrected
+  ✅ 057_013: Validated and corrected
+Batch 329/349...
+  ✅ 057_014: Validated and corrected
+  ✅ 057_016: Validated and corrected
+  ✅ 057_019: Validated and corrected
+Batch 330/349...
+  ✅ 057_020: Validated and corrected
+  ✅ 057_021: Validated and corrected
+  ✅ 057_025: Validated and corrected
+Batch 331/349...
+  ✅ 057_027: Validated and corrected
+  ✅ 057_028: Validated and corrected
+  ✅ 057_029: Validated and corrected
+Batch 332/349...
+  ✅ 058_002: Validated and corrected
+  ✅ 058_003: Validated and corrected
+  ✅ 058_004: Validated and corrected
+Batch 333/349...
+  ✅ 058_007: Validated and corrected
+  🔄 058_008: Retry 1/2...
+     Still failing: Words added: ['фабисса', 'аль', 'масир']
+  🔄 058_008: Retry 2/2...
+     Still failing: Words added: ['фабисса', 'аль', 'масир']
+  ❌ 058_008: Failed after 2 retries
+  ✅ 058_009: Validated and corrected
+Batch 334/349...
+  ✅ 058_011: Validated and corrected
+  ✅ 058_012: Validated and corrected
+  ✅ 058_013: Validated and corrected
+Batch 335/349...
+  ✅ 058_022: Validated and corrected
+  ✅ 059_002: Validated and corrected
+  ✅ 059_006: Validated and corrected
+Batch 336/349...
+  ⚠️  059_007: Repetition warning (non-blocking)
+  ✅ 059_007: Validated and corrected
+  ✅ 059_008: Validated and corrected
+  ✅ 059_009: Validated and corrected
+Batch 337/349...
+  ✅ 059_010: Validated and corrected
+  ✅ 059_011: Validated and corrected
+  ✅ 059_014: Validated and corrected
+Batch 338/349...
+  ✅ 059_021: Validated and corrected
+  ✅ 059_023: Validated and corrected
+  ✅ 060_001: Validated and corrected
+Batch 339/349...
+  ✅ 060_004: Validated and corrected
+  ✅ 060_008: Validated and corrected
+  ✅ 060_009: Validated and corrected
+Batch 340/349...
+  ✅ 060_010: Validated and corrected
+  ✅ 060_011: Validated and corrected
+  🔄 060_012: Retry 1/2...
+  ✅ 060_012: Retry successful!
+Batch 341/349...
+  ✅ 061_005: Validated and corrected
+  ✅ 061_006: Validated and corrected
+  ✅ 061_014: Validated and corrected
+Batch 342/349...
+  ✅ 062_005: Validated and corrected
+  🔄 062_009: Retry 1/2...
+  ✅ 062_009: Retry successful!
+  ✅ 062_011: Validated and corrected
+Batch 343/349...
+  ✅ 063_004: Validated and corrected
+  ✅ 063_007: Validated and corrected
+  ✅ 063_008: Validated and corrected
+Batch 344/349...
+  ⚠️  064_009: Repetition warning (non-blocking)
+  ✅ 064_009: Validated and corrected
+  ✅ 064_014: Validated and corrected
+  ✅ 065_001: Validated and corrected
+Batch 345/349...
+  ✅ 065_002: Validated and corrected
+  ✅ 065_004: Validated and corrected
+  ✅ 065_006: Validated and corrected
+Batch 346/349...
+  ✅ 065_007: Validated and corrected
+  ✅ 065_011: Validated and corrected
+  ✅ 065_012: Validated and corrected
+Batch 347/349...
+  ✅ 066_003: Validated and corrected
+  ✅ 066_004: Validated and corrected
+  ✅ 066_006: Validated and corrected
+Batch 348/349...
+  ✅ 066_008: Validated and corrected
+  ✅ 066_010: Validated and corrected
+  ✅ 066_011: Validated and corrected
+Batch 349/349...
+  ✅ 073_020: Validated and corrected
+  ✅ 074_031: Validated and corrected
+  ✅ 098_008: Validated and corrected
+
+============================================================
+VALIDATION RESULTS:
+  Successful corrections: 1009
+  Failed validations: 35
+  Total retry attempts: 100
+  Successful retries: 27
+============================================================
+
+
+📝 Failures log written to: logs/test-alignment-ru-ku.json
+   Total failed verses: 31
+
+✅ Applied 1009 corrections to ru-ku

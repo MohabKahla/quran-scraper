@@ -1,0 +1,1095 @@
+{
+  "translation": "es-navio",
+  "total_failures": 66,
+  "generated_at": "2025-12-07T22:17:00.435637",
+  "failures": [
+    {
+      "verse_key": "002_019",
+      "chapter": 2,
+      "verse_number": 19,
+      "error": "Words added: ['que', 'los', 'a', 'allah', 'abarca', 'no', 'creen']",
+      "original_translation_splits": {
+        "019_00": "O como el que está en medio de una tormenta donde hay tinieblas, truenos y relámpagos.",
+        "019_01": "El estampido del rayo al caer, les hace taparse los oídos por temor a la muerte."
+      },
+      "arabic_reference_splits": {
+        "019_00": "أَوۡ كَصَيِّبٖ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَٰتٞ وَرَعۡدٞ وَبَرۡقٞ يَجۡعَلُونَ أَصَٰبِعَهُمۡ فِيٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلۡمَوۡتِۚ",
+        "019_01": "وَٱللَّهُ مُحِيطُۢ بِٱلۡكَٰفِرِينَ ٩١"
+      },
+      "combined_translation": "O como el que está en medio de una tormenta donde hay tinieblas, truenos y relámpagos. El estampido del rayo al caer, les hace taparse los oídos por temor a la muerte.",
+      "timestamp": "2025-12-07T22:17:00.348596"
+    },
+    {
+      "verse_key": "002_033",
+      "chapter": 2,
+      "verse_number": 33,
+      "error": "Words added: ['falamma', 'anba', 'ahum', 'bi', 'asma', 'ihim', 'qal', 'alam', 'aql', 'l']",
+      "original_translation_splits": {
+        "033_00": "Dijo: ¡Adam!",
+        "033_01": "Diles sus nombres."
+      },
+      "arabic_reference_splits": {
+        "033_00": "قَالَ يَٰٓـَٔادَمُ أَنۢبِئۡهُم بِأَسۡمَآئِهِمۡۖ",
+        "033_01": "فَلَمَّآ أَنۢبَأَهُم بِأَسۡمَآئِهِمۡ قَالَ أَلَمۡ أَقُل لَّكُمۡ إِنِّيٓ أَعۡلَمُ غَيۡبَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَأَعۡلَمُ مَا تُبۡدُونَ وَمَا كُنتُمۡ تَكۡتُمُونَ ٣٣"
+      },
+      "combined_translation": "Dijo: ¡Adam! Diles sus nombres.",
+      "timestamp": "2025-12-07T22:17:00.350453"
+    },
+    {
+      "verse_key": "002_118",
+      "chapter": 2,
+      "verse_number": 118,
+      "error": "Words added: ['que', 'hemos', 'explicado', 'las', 'señales', 'para', 'un', 'pueblo', 'está', 'seguro']",
+      "original_translation_splits": {
+        "118_00": "Y dicen los que no saben: ¿Por qué no nos habla Allah o nos trae una señal?",
+        "118_01": "Algo parecido dijeron sus predecesores; sus corazones se asemejan."
+      },
+      "arabic_reference_splits": {
+        "118_00": "وَقَالَ ٱلَّذِينَ لَا يَعۡلَمُونَ لَوۡلَا يُكَلِّمُنَا ٱللَّهُ أَوۡ تَأۡتِينَآ ءَايَةٞۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ مِن قَبۡلِهِم مِّثۡلَ قَوۡلِهِمۡۘ تَشَٰبَهَتۡ قُلُوبُهُمۡۗ",
+        "118_01": "قَدۡ بَيَّنَّا ٱلۡأٓيَٰتِ لِقَوۡمٖ يُوقِنُونَ ٨١١"
+      },
+      "combined_translation": "Y dicen los que no saben: ¿Por qué no nos habla Allah o nos trae una señal? Algo parecido dijeron sus predecesores; sus corazones se asemejan.",
+      "timestamp": "2025-12-07T22:17:00.353414"
+    },
+    {
+      "verse_key": "002_124",
+      "chapter": 2,
+      "verse_number": 124,
+      "error": "Words added: ['ibrahim', 'que', 'dijo', 'los', 'él', 'no', 'alcanzarán', 'mi', 'pacto', 'son', 'injustos']; Words removed: ['lbrahim']",
+      "original_translation_splits": {
+        "124_00": "Y cuando tu Señor puso a prueba a lbrahim con palabras que éste cumplió, le dijo: Voy a hacer de ti un",
+        "124_01": "dirigente y un ejemplo para los hombres."
+      },
+      "arabic_reference_splits": {
+        "124_00": "۞وَإِذِ ٱبۡتَلَىٰٓ إِبۡرَٰهِـۧمَ رَبُّهُۥ بِكَلِمَٰتٖ فَأَتَمَّهُنَّۖ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامٗاۖ قَالَ وَمِن ذُرِّيَّتِيۖ",
+        "124_01": "قَالَ لَا يَنَالُ عَهۡدِي ٱلظَّٰلِمِينَ ٤٢١"
+      },
+      "combined_translation": "Y cuando tu Señor puso a prueba a lbrahim con palabras que éste cumplió, le dijo: Voy a hacer de ti un dirigente y un ejemplo para los hombres.",
+      "timestamp": "2025-12-07T22:17:00.356116"
+    },
+    {
+      "verse_key": "002_126",
+      "chapter": 2,
+      "verse_number": 126,
+      "error": "Words added: ['y', 'dijo', 'un', 'a', 'él', 'quien', 'no', 'crea', 'le', 'le', 'daré', 'disfrute', 'por', 'poco', 'tiempo', 'luego', 'obligaré', 'la', 'pena', 'del', 'fuego']",
+      "original_translation_splits": {
+        "126_00": "Y cuando dijo Ibrahim: ¡Señor mío!",
+        "126_01": "Haz de este territorio un lugar seguro y provee de frutos a aquéllos de sus habitantes que crean en Allah y en el Último Día."
+      },
+      "arabic_reference_splits": {
+        "126_00": "وَإِذۡ قَالَ إِبۡرَٰهِـۧمُ رَبِّ ٱجۡعَلۡ هَٰذَا بَلَدًا ءَامِنٗا وَٱرۡزُقۡ أَهۡلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنۡ ءَامَنَ مِنۡهُم بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ",
+        "126_01": "قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلٗا ثُمَّ أَضۡطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِۖ وَبِئۡسَ ٱلۡمَصِيرُ ٦٢١"
+      },
+      "combined_translation": "Y cuando dijo Ibrahim: ¡Señor mío! Haz de este territorio un lugar seguro y provee de frutos a aquéllos de sus habitantes que crean en Allah y en el Último Día.",
+      "timestamp": "2025-12-07T22:17:00.358391"
+    },
+    {
+      "verse_key": "002_151",
+      "chapter": 2,
+      "verse_number": 151,
+      "error": "Words added: ['os', 'que', 'y', 'enseñará', 'lo', 'no', 'sabíais']",
+      "original_translation_splits": {
+        "151_00": "Igualmente os hemos enviado un Mensajero que viene de vosotros mismos y que os recita Nuestros",
+        "151_01": "signos, os purifica, os enseña el Libro y la Sabiduría"
+      },
+      "arabic_reference_splits": {
+        "151_00": "كَمَآ أَرۡسَلۡنَا فِيكُمۡ رَسُولٗا مِّنكُمۡ يَتۡلُواْ عَلَيۡكُمۡ ءَايَٰتِنَا وَيُزَكِّيكُمۡ وَيُعَلِّمُكُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ",
+        "151_01": "وَيُعَلِّمُكُم مَّا لَمۡ تَكُونُواْ تَعۡلَمُونَ ١٥١"
+      },
+      "combined_translation": "Igualmente os hemos enviado un Mensajero que viene de vosotros mismos y que os recita Nuestros signos, os purifica, os enseña el Libro y la Sabiduría",
+      "timestamp": "2025-12-07T22:17:00.360363"
+    },
+    {
+      "verse_key": "002_203",
+      "chapter": 2,
+      "verse_number": 203,
+      "error": "Words added: ['و', 'و', 'و', 'و', 'ٱذ', 'ك', 'ك', 'ر', 'ر', 'وا', 'وا', 'ٱلل', 'ٱلل', 'ه', 'ه', 'ه', 'ف', 'ف', 'ي', 'ي', 'ي', 'أ', 'أ', 'ام', 'م', 'م', 'م', 'م', 'ع', 'ع', 'د', 'ود', 'ت', 'ت', 'ت', 'ن', 'ن', 'ٱت', 'ق', 'ٱع', 'ل', 'ل', 'ا', 'إ', 'ح', 'ش']; Words removed: ['invocad', 'a', 'allah', 'en', 'en', 'días', 'días', 'señalados', 'el', 'que', 'se', 'apresure', 'haciéndolo', 'dos', 'no', 'comete', 'falta']",
+      "original_translation_splits": {
+        "203_00": "Invocad a Allah en días señalados*.",
+        "203_01": "El que se apresure haciéndolo en dos días*, no comete falta."
+      },
+      "arabic_reference_splits": {
+        "203_00": "۞وَٱذۡكُرُواْ ٱللَّهَ فِيٓ أَيَّامٖ مَّعۡدُودَٰتٖۚ فَمَن تَعَجَّلَ فِي يَوۡمَيۡنِ فَلَآ إِثۡمَ عَلَيۡهِ وَمَن تَأَخَّرَ فَلَآ إِثۡمَ عَلَيۡهِۖ لِمَنِ ٱتَّقَىٰۗ",
+        "203_01": "وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّكُمۡ إِلَيۡهِ تُحۡشَرُونَ ٣٠٢"
+      },
+      "combined_translation": "Invocad a Allah en días señalados*. El que se apresure haciéndolo en dos días*, no comete falta.",
+      "timestamp": "2025-12-07T22:17:00.362361"
+    },
+    {
+      "verse_key": "002_212",
+      "chapter": 2,
+      "verse_number": 212,
+      "error": "Words added: ['a', 'allah', 'y', 'provee', 'quien', 'quiere', 'sin', 'cuenta']",
+      "original_translation_splits": {
+        "212_00": "A los incrédulos se les ha embellecido la vida de este mundo.",
+        "212_01": "Ellos se burlan de los que creen, pero el Día del Levantamiento los temerosos (de Allah) estarán por encima de ellos."
+      },
+      "arabic_reference_splits": {
+        "212_00": "زُيِّنَ لِلَّذِينَ كَفَرُواْ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَيَسۡخَرُونَ مِنَ ٱلَّذِينَ ءَامَنُواْۘ وَٱلَّذِينَ ٱتَّقَوۡاْ فَوۡقَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِۗ",
+        "212_01": "وَٱللَّهُ يَرۡزُقُ مَن يَشَآءُ بِغَيۡرِ حِسَابٖ ٢١٢"
+      },
+      "combined_translation": "A los incrédulos se les ha embellecido la vida de este mundo. Ellos se burlan de los que creen, pero el Día del Levantamiento los temerosos (de Allah) estarán por encima de ellos.",
+      "timestamp": "2025-12-07T22:17:00.364313"
+    },
+    {
+      "verse_key": "002_219",
+      "chapter": 2,
+      "verse_number": 219,
+      "error": "Words added: ['para', 'que', 'que', 'así', 'allah', 'os', 'aclara', 'las', 'señales', 'reflexionéis']",
+      "original_translation_splits": {
+        "219_00": "Te preguntan sobre el vino* y el juego de azar.",
+        "219_01": "Di: En ambas cosas hay mucho daño para los hombres y algún beneficio, pero el daño es mayor que el beneficio."
+      },
+      "arabic_reference_splits": {
+        "219_00": "۞يَسۡـَٔلُونَكَ عَنِ ٱلۡخَمۡرِ وَٱلۡمَيۡسِرِۖ قُلۡ فِيهِمَآ إِثۡمٞ كَبِيرٞ وَمَنَٰفِعُ لِلنَّاسِ وَإِثۡمُهُمَآ أَكۡبَرُ مِن نَّفۡعِهِمَاۗ وَيَسۡـَٔلُونَكَ مَاذَا يُنفِقُونَۖ",
+        "219_01": "قُلِ ٱلۡعَفۡوَۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلۡأٓيَٰتِ لَعَلَّكُمۡ تَتَفَكَّرُونَ ٩١٢"
+      },
+      "combined_translation": "Te preguntan sobre el vino* y el juego de azar. Di: En ambas cosas hay mucho daño para los hombres y algún beneficio, pero el daño es mayor que el beneficio.",
+      "timestamp": "2025-12-07T22:17:00.366305"
+    },
+    {
+      "verse_key": "002_229",
+      "chapter": 2,
+      "verse_number": 229,
+      "error": "Words added: ['son', 'y', 'en', 'de', 'los', 'los', 'límites', 'allah', 'quien', 'se', 'exceda', 'esos', 'injustos']",
+      "original_translation_splits": {
+        "229_00": "El divorcio son dos veces*.",
+        "229_01": "Y, o bien la vuelve a tomar según lo reconocido, o la deja ir en buenos términos.",
+        "229_02": "Y no os está permitido quedaros con nada de lo que hayáis dado.",
+        "229_03": "A menos que ambos teman no cumplir los límites de Allah."
+      },
+      "arabic_reference_splits": {
+        "229_00": "ٱلطَّلَٰقُ مَرَّتَانِۖ فَإِمۡسَاكُۢ بِمَعۡرُوفٍ أَوۡ تَسۡرِيحُۢ بِإِحۡسَٰنٖۗ",
+        "229_01": "وَلَا يَحِلُّ لَكُمۡ أَن تَأۡخُذُواْ مِمَّآ ءَاتَيۡتُمُوهُنَّ شَيۡـًٔا إِلَّآ أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِۖ",
+        "229_02": "فَإِنۡ خِفۡتُمۡ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَلَا جُنَاحَ عَلَيۡهِمَا فِيمَا ٱفۡتَدَتۡ بِهِۦۗ تِلۡكَ حُدُودُ ٱللَّهِ فَلَا تَعۡتَدُوهَاۚ",
+        "229_03": "وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ ٩٢٢"
+      },
+      "combined_translation": "El divorcio son dos veces*. Y, o bien la vuelve a tomar según lo reconocido, o la deja ir en buenos términos. Y no os está permitido quedaros con nada de lo que hayáis dado. A menos que ambos teman no cumplir los límites de Allah.",
+      "timestamp": "2025-12-07T22:17:00.368037"
+    },
+    {
+      "verse_key": "002_235",
+      "chapter": 2,
+      "verse_number": 235,
+      "error": "Words added: ['y', 'allah', 'que', 'sabed', 'es', 'perdonador', 'clemente']",
+      "original_translation_splits": {
+        "235_00": "Y no hacéis mal si les insinuáis a las mujeres vuestra intención de pedirles matrimonio*, ni tampoco",
+        "235_01": "Si la ocultáis; Allah sabe que pensáis en ellas.",
+        "235_02": "Pero no os prometáis en secreto, hacedlo con palabras reconocidas.",
+        "235_03": "No decidáis el contrato de matrimonio hasta que el periodo de espera prescrito no haya concluido."
+      },
+      "arabic_reference_splits": {
+        "235_00": "وَلَا جُنَاحَ عَلَيۡكُمۡ فِيمَا عَرَّضۡتُم بِهِۦ مِنۡ خِطۡبَةِ ٱلنِّسَآءِ أَوۡ أَكۡنَنتُمۡ فِيٓ أَنفُسِكُمۡۚ",
+        "235_01": "عَلِمَ ٱللَّهُ أَنَّكُمۡ سَتَذۡكُرُونَهُنَّ وَلَٰكِن لَّا تُوَاعِدُوهُنَّ سِرًّا إِلَّآ أَن تَقُولُواْ قَوۡلٗا مَّعۡرُوفٗاۚ",
+        "235_02": "وَلَا تَعۡزِمُواْ عُقۡدَةَ ٱلنِّكَاحِ حَتَّىٰ يَبۡلُغَ ٱلۡكِتَٰبُ أَجَلَهُۥۚ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ يَعۡلَمُ مَا فِيٓ أَنفُسِكُمۡ فَٱحۡذَرُوهُۚ",
+        "235_03": "وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ غَفُورٌ حَلِيمٞ ٥٣٢"
+      },
+      "combined_translation": "Y no hacéis mal si les insinuáis a las mujeres vuestra intención de pedirles matrimonio*, ni tampoco Si la ocultáis; Allah sabe que pensáis en ellas. Pero no os prometáis en secreto, hacedlo con palabras reconocidas. No decidáis el contrato de matrimonio hasta que el periodo de espera prescrito no haya concluido.",
+      "timestamp": "2025-12-07T22:17:00.369846"
+    },
+    {
+      "verse_key": "002_254",
+      "chapter": 2,
+      "verse_number": 254,
+      "error": "Words added: ['y', 'los', 'los', 'kafirun', 'son', 'zalimun']",
+      "original_translation_splits": {
+        "254_00": "¡Creyentes!",
+        "254_01": "Gastad de lo que os damos antes de que llegue un día en el que no haya comercio ni amistad y nadie pueda interceder por nadie."
+      },
+      "arabic_reference_splits": {
+        "254_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَنفِقُواْ مِمَّا رَزَقۡنَٰكُم مِّن قَبۡلِ أَن يَأۡتِيَ يَوۡمٞ لَّا بَيۡعٞ فِيهِ وَلَا خُلَّةٞ وَلَا شَفَٰعَةٞۗ",
+        "254_01": "وَٱلۡكَٰفِرُونَ هُمُ ٱلظَّٰلِمُونَ ٤٥٢"
+      },
+      "combined_translation": "¡Creyentes! Gastad de lo que os damos antes de que llegue un día en el que no haya comercio ni amistad y nadie pueda interceder por nadie.",
+      "timestamp": "2025-12-07T22:17:00.371519"
+    },
+    {
+      "verse_key": "002_271",
+      "chapter": 2,
+      "verse_number": 271,
+      "error": "Words added: ['y', 'os', 'cubriremos', 'parte', 'de', 'vuestras', 'malas', 'acciones']",
+      "original_translation_splits": {
+        "271_00": "Si dais limosnas públicamente es bueno, pero si las ocultáis y se las dais a los necesitados, será",
+        "271_01": "mejor para vosotros; y os cubriremos parte de vuestras malas acciones."
+      },
+      "arabic_reference_splits": {
+        "271_00": "إِن تُبۡدُواْ ٱلصَّدَقَٰتِ فَنِعِمَّا هِيَۖ وَإِن تُخۡفُوهَا وَتُؤۡتُوهَا ٱلۡفُقَرَآءَ فَهُوَ خَيۡرٞ لَّكُمۡۚ وَيُكَفِّرُ عَنكُم مِّن سَيِّـَٔاتِكُمۡۗ",
+        "271_01": "وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ ١٧٢"
+      },
+      "combined_translation": "Si dais limosnas públicamente es bueno, pero si las ocultáis y se las dais a los necesitados, será mejor para vosotros; y os cubriremos parte de vuestras malas acciones.",
+      "timestamp": "2025-12-07T22:17:00.373128"
+    },
+    {
+      "verse_key": "002_285",
+      "chapter": 2,
+      "verse_number": 285,
+      "error": "Words added: ['582']; Words removed: ['con']",
+      "original_translation_splits": {
+        "285_00": "El Mensajero cree en lo que se le ha hecho descender procedente de su Señor y los creyentes (con",
+        "285_01": "Todos creen en Allah, en Sus ángeles, en Sus libros y en Sus mensajeros: \"No aceptamos a unos mensajeros y negamos a otros\".",
+        "285_02": "Y dicen: Oímos y obedecemos, (danos) Tu perdón Señor nuestro, y hacia Ti es el retorno."
+      },
+      "arabic_reference_splits": {
+        "285_00": "ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيۡهِ مِن رَّبِّهِۦ وَٱلۡمُؤۡمِنُونَۚ",
+        "285_01": "كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيۡنَ أَحَدٖ مِّن رُّسُلِهِۦۚ وَقَالُواْ سَمِعۡنَا وَأَطَعۡنَاۖ",
+        "285_02": "غُفۡرَانَكَ رَبَّنَا وَإِلَيۡكَ ٱلۡمَصِيرُ ٥٨٢"
+      },
+      "combined_translation": "El Mensajero cree en lo que se le ha hecho descender procedente de su Señor y los creyentes (con Todos creen en Allah, en Sus ángeles, en Sus libros y en Sus mensajeros: \"No aceptamos a unos mensajeros y negamos a otros\". Y dicen: Oímos y obedecemos, (danos) Tu perdón Señor nuestro, y hacia Ti es el retorno.",
+      "timestamp": "2025-12-07T22:17:00.374578"
+    },
+    {
+      "verse_key": "003_007",
+      "chapter": 3,
+      "verse_number": 7,
+      "error": "Words removed: ['y']",
+      "original_translation_splits": {
+        "007_00": "Él es Quien ha hecho descender sobre ti el Libro, en el que hay signos (aleyas) precisos que son la madre del Libro y",
+        "007_01": "Los que tienen una desviación en el corazón siguen lo ambiguo, con ánimo de discordia y con pretensión de interpretarlo, pero su interpretación sólo Allah la conoce.",
+        "007_02": "Y los arraigados en el conocimiento dicen: Creemos, en él, todo procede de nuestro Señor. Pero sólo recapacitan los que saben reconocer lo esencial."
+      },
+      "arabic_reference_splits": {
+        "007_00": "هُوَ ٱلَّذِيٓ أَنزَلَ عَلَيۡكَ ٱلۡكِتَٰبَ مِنۡهُ ءَايَٰتٞ مُّحۡكَمَٰتٌ هُنَّ أُمُّ ٱلۡكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٞۖ",
+        "007_01": "فَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِمۡ زَيۡغٞ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنۡهُ ٱبۡتِغَآءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَآءَ تَأۡوِيلِهِۦۖ وَمَا يَعۡلَمُ تَأۡوِيلَهُۥٓ إِلَّا ٱللَّهُۗ",
+        "007_02": "وَٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلّٞ مِّنۡ عِندِ رَبِّنَاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ ٧"
+      },
+      "combined_translation": "Él es Quien ha hecho descender sobre ti el Libro, en el que hay signos (aleyas) precisos que son la madre del Libro y Los que tienen una desviación en el corazón siguen lo ambiguo, con ánimo de discordia y con pretensión de interpretarlo, pero su interpretación sólo Allah la conoce. Y los arraigados en el conocimiento dicen: Creemos, en él, todo procede de nuestro Señor. Pero sólo recapacitan los que saben reconocer lo esencial.",
+      "timestamp": "2025-12-07T22:17:00.376044"
+    },
+    {
+      "verse_key": "003_015",
+      "chapter": 3,
+      "verse_number": 15,
+      "error": "Words removed: ['di']",
+      "original_translation_splits": {
+        "015_00": "Di: ¿Queréis saber algo mejor que eso?Quien tenga temor (de Allah), tendrá",
+        "015_01": "junto a su Señor jardines por los que corren los ríos; allí serán inmortales, tendrán esposas puras y complacencia de Allah.",
+        "015_02": "Allah ve a los siervos."
+      },
+      "arabic_reference_splits": {
+        "015_00": "۞قُلۡ أَؤُنَبِّئُكُم بِخَيۡرٖ مِّن ذَٰلِكُمۡۖ",
+        "015_01": "لِلَّذِينَ ٱتَّقَوۡاْ عِندَ رَبِّهِمۡ جَنَّٰتٞ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَا وَأَزۡوَٰجٞ مُّطَهَّرَةٞ وَرِضۡوَٰنٞ مِّنَ ٱللَّهِۗ",
+        "015_02": "وَٱللَّهُ بَصِيرُۢ بِٱلۡعِبَادِ ٥١"
+      },
+      "combined_translation": "Di: ¿Queréis saber algo mejor que eso?Quien tenga temor (de Allah), tendrá junto a su Señor jardines por los que corren los ríos; allí serán inmortales, tendrán esposas puras y complacencia de Allah. Allah ve a los siervos.",
+      "timestamp": "2025-12-07T22:17:00.377488"
+    },
+    {
+      "verse_key": "003_120",
+      "chapter": 3,
+      "verse_number": 120,
+      "error": "Words added: ['إ', 'إ', 'ن', 'ن', 'ن', 'ت', 'ت', 'ت', 'م', 'م', 'م', 'م', 'س', 'س', 'س', 'س', 'س', 'ك', 'ك', 'ح', 'ة', 'ؤ', 'ه', 'و', 'ص', 'ب', 'ي', 'ئ']",
+      "original_translation_splits": {
+        "120_00": "Si os llega un bien, les duele, y si os sobreviene un mal, se alegran por ello; pero si",
+        "120_01": "tenéis paciencia y sois temerosos, su intriga no os dañará en absoluto;"
+      },
+      "arabic_reference_splits": {
+        "120_00": "إِن تَمۡسَسۡكُمۡ حَسَنَةٞ تَسُؤۡهُمۡ وَإِن تُصِبۡكُمۡ سَيِّئَةٞ يَفۡرَحُواْ بِهَاۖ وَإِن تَصۡبِرُواْ وَتَتَّقُواْ لَا يَضُرُّكُمۡ كَيۡدُهُمۡ شَيۡـًٔاۗ",
+        "120_01": "إِنَّ ٱللَّهَ بِمَا يَعۡمَلُونَ مُحِيطٞ ٠٢١"
+      },
+      "combined_translation": "Si os llega un bien, les duele, y si os sobreviene un mal, se alegran por ello; pero si tenéis paciencia y sois temerosos, su intriga no os dañará en absoluto;",
+      "timestamp": "2025-12-07T22:17:00.378936"
+    },
+    {
+      "verse_key": "003_146",
+      "chapter": 3,
+      "verse_number": 146,
+      "error": "Words added: ['a', 'y', 'allah', 'ama', 'los', 'pacientes']",
+      "original_translation_splits": {
+        "146_00": "¡Cuántos profetas ha habido a cuyo lado murieron multitud de seguidores y no se desanimaron por lo",
+        "146_01": "que les afligía en el camino de Allah ni flaquearon ni buscaron descanso!"
+      },
+      "arabic_reference_splits": {
+        "146_00": "وَكَأَيِّن مِّن نَّبِيّٖ قَٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٞ فَمَا وَهَنُواْ لِمَآ أَصَابَهُمۡ فِي سَبِيلِ ٱللَّهِ وَمَا ضَعُفُواْ وَمَا ٱسۡتَكَانُواْۗ",
+        "146_01": "وَٱللَّهُ يُحِبُّ ٱلصَّٰبِرِينَ ٦٤١"
+      },
+      "combined_translation": "¡Cuántos profetas ha habido a cuyo lado murieron multitud de seguidores y no se desanimaron por lo que les afligía en el camino de Allah ni flaquearon ni buscaron descanso!",
+      "timestamp": "2025-12-07T22:17:00.380382"
+    },
+    {
+      "verse_key": "004_064",
+      "chapter": 4,
+      "verse_number": 64,
+      "error": "Words added: ['y', 'a', 'a', 'si', 'ellos', 'cuando', 'se', 'hicieron', 'daño', 'sí', 'mismos', 'vinieran', 'ti']",
+      "original_translation_splits": {
+        "064_00": "Y no hemos enviado a ningún mensajero sino",
+        "064_01": "para que fuera obedecido con el permiso de Allah."
+      },
+      "arabic_reference_splits": {
+        "064_00": "وَمَآ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذۡنِ ٱللَّهِۚ",
+        "064_01": "وَلَوۡ أَنَّهُمۡ إِذ ظَّلَمُوٓاْ أَنفُسَهُمۡ جَآءُوكَ فَٱسۡتَغۡفَرُواْ ٱللَّهَ وَٱسۡتَغۡفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُواْ ٱللَّهَ تَوَّابٗا رَّحِيمٗا ٤٦"
+      },
+      "combined_translation": "Y no hemos enviado a ningún mensajero sino para que fuera obedecido con el permiso de Allah.",
+      "timestamp": "2025-12-07T22:17:00.381787"
+    },
+    {
+      "verse_key": "005_032",
+      "chapter": 5,
+      "verse_number": 32,
+      "error": "Words added: ['les', 'en', 'y', 'ciertamente', 'llegaron', 'nuestros', 'mensajeros', 'con', 'las', 'pruebas', 'claras', 'luego', 'verdad']",
+      "original_translation_splits": {
+        "032_00": "Por esto les decretamos a los hijos de Israel que quien matara a alguien, sin ser a cambio de otro o por haber corrompido en",
+        "032_01": "la tierra, sería como haber matado a la humanidad entera.",
+        "032_02": "Y quien lo salvara, sería como haber salvado a la humanidad entera."
+      },
+      "arabic_reference_splits": {
+        "032_00": "مِنۡ أَجۡلِ ذَٰلِكَ كَتَبۡنَا عَلَىٰ بَنِيٓ إِسۡرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفۡسَۢا بِغَيۡرِ نَفۡسٍ أَوۡ فَسَادٖ فِي ٱلۡأَرۡضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعٗا",
+        "032_01": "وَمَنۡ أَحۡيَاهَا فَكَأَنَّمَآ أَحۡيَا ٱلنَّاسَ جَمِيعٗاۚ",
+        "032_02": "وَلَقَدۡ جَآءَتۡهُمۡ رُسُلُنَا بِٱلۡبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيرٗا مِّنۡهُم بَعۡدَ ذَٰلِكَ فِي ٱلۡأَرۡضِ لَمُسۡرِفُونَ ٢٣"
+      },
+      "combined_translation": "Por esto les decretamos a los hijos de Israel que quien matara a alguien, sin ser a cambio de otro o por haber corrompido en la tierra, sería como haber matado a la humanidad entera. Y quien lo salvara, sería como haber salvado a la humanidad entera.",
+      "timestamp": "2025-12-07T22:17:00.383107"
+    },
+    {
+      "verse_key": "005_036",
+      "chapter": 5,
+      "verse_number": 36,
+      "error": "Words added: ['y', 'castigo', 'tendrán', 'un', 'doloroso']",
+      "original_translation_splits": {
+        "036_00": "Es cierto que los que se niegan a creer, aunque tuvieran todo cuanto hay en la tierra",
+        "036_01": "para ofrecerlo como rescate y librarse con ello del castigo del Día del Levantamiento,"
+      },
+      "arabic_reference_splits": {
+        "036_00": "إِنَّ ٱلَّذِينَ كَفَرُواْ لَوۡ أَنَّ لَهُم مَّا فِي ٱلۡأَرۡضِ جَمِيعٗا وَمِثۡلَهُۥ مَعَهُۥ لِيَفۡتَدُواْ بِهِۦ مِنۡ عَذَابِ يَوۡمِ ٱلۡقِيَٰمَةِ مَا تُقُبِّلَ مِنۡهُمۡۖ",
+        "036_01": "وَلَهُمۡ عَذَابٌ أَلِيمٞ ٦٣"
+      },
+      "combined_translation": "Es cierto que los que se niegan a creer, aunque tuvieran todo cuanto hay en la tierra para ofrecerlo como rescate y librarse con ello del castigo del Día del Levantamiento,",
+      "timestamp": "2025-12-07T22:17:00.384389"
+    },
+    {
+      "verse_key": "005_060",
+      "chapter": 5,
+      "verse_number": 60,
+      "error": "Words removed: ['di']",
+      "original_translation_splits": {
+        "060_00": "Di: ¿Queréis que os diga algo peor que eso?El pago que tiene reservado Allah para aquellos a quienes maldijo, ésos sobre los que cayó Su ira y de los cuales, hubo unos a los que convirtió en monos y en cerdos y adoraron al Rebelde.",
+        "060_01": "Esos tienen un mal lugar y son los que más se han extraviado del camino llano."
+      },
+      "arabic_reference_splits": {
+        "060_00": "قُلۡ هَلۡ أُنَبِّئُكُم بِشَرّٖ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِۚ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيۡهِ وَجَعَلَ مِنۡهُمُ ٱلۡقِرَدَةَ وَٱلۡخَنَازِيرَ وَعَبَدَ ٱلطَّٰغُوتَۚ",
+        "060_01": "أُوْلَٰٓئِكَ شَرّٞ مَّكَانٗا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ ٠٦"
+      },
+      "combined_translation": "Di: ¿Queréis que os diga algo peor que eso?El pago que tiene reservado Allah para aquellos a quienes maldijo, ésos sobre los que cayó Su ira y de los cuales, hubo unos a los que convirtió en monos y en cerdos y adoraron al Rebelde. Esos tienen un mal lugar y son los que más se han extraviado del camino llano.",
+      "timestamp": "2025-12-07T22:17:00.385700"
+    },
+    {
+      "verse_key": "005_068",
+      "chapter": 5,
+      "verse_number": 68,
+      "error": "Words removed: ['di']",
+      "original_translation_splits": {
+        "068_00": "Di: ¡Gente del Libro!",
+        "068_01": "Hay muchos de ellos a quienes lo que tu Señor ha hecho descender, les hace tener más rebeldía e incredulidad. Pero no te entristezcas por la gente injusta."
+      },
+      "arabic_reference_splits": {
+        "068_00": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لَسۡتُمۡ عَلَىٰ شَيۡءٍ حَتَّىٰ تُقِيمُواْ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ وَمَآ أُنزِلَ إِلَيۡكُم مِّن رَّبِّكُمۡۗ",
+        "068_01": "وَلَيَزِيدَنَّ كَثِيرٗا مِّنۡهُم مَّآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ طُغۡيَٰنٗا وَكُفۡرٗاۖ فَلَا تَأۡسَ عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ ٨٦"
+      },
+      "combined_translation": "Di: ¡Gente del Libro! Hay muchos de ellos a quienes lo que tu Señor ha hecho descender, les hace tener más rebeldía e incredulidad. Pero no te entristezcas por la gente injusta.",
+      "timestamp": "2025-12-07T22:17:00.386985"
+    },
+    {
+      "verse_key": "005_103",
+      "chapter": 5,
+      "verse_number": 103,
+      "error": "Words added: ['no', 'y', 'la', 'mayoría', 'de', 'ellos', 'comprenden']",
+      "original_translation_splits": {
+        "103_00": "Allah no ha dispuesto ninguna Bahira ni Saiba ni Wasila ni Ham*.",
+        "103_01": "Sin embargo los que no quieren creer inventan mentiras sobre Allah."
+      },
+      "arabic_reference_splits": {
+        "103_00": "مَا جَعَلَ ٱللَّهُ مِنۢ بَحِيرَةٖ وَلَا سَآئِبَةٖ وَلَا وَصِيلَةٖ وَلَا حَامٖ وَلَٰكِنَّ ٱلَّذِينَ كَفَرُواْ يَفۡتَرُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَۖ",
+        "103_01": "وَأَكۡثَرُهُمۡ لَا يَعۡقِلُونَ ٣٠١"
+      },
+      "combined_translation": "Allah no ha dispuesto ninguna Bahira ni Saiba ni Wasila ni Ham*. Sin embargo los que no quieren creer inventan mentiras sobre Allah.",
+      "timestamp": "2025-12-07T22:17:00.388254"
+    },
+    {
+      "verse_key": "005_108",
+      "chapter": 5,
+      "verse_number": 108,
+      "error": "Words added: ['y', 'allah', 'no', 'guía', 'al', 'pueblo', 'de', 'los', 'transgresores']",
+      "original_translation_splits": {
+        "108_00": "Esto es lo que más se ajusta a que den un testimonio verdadero o teman que vuelva a",
+        "108_01": "haber otro juramento después del suyo."
+      },
+      "arabic_reference_splits": {
+        "108_00": "ذَٰلِكَ أَدۡنَىٰٓ أَن يَأۡتُواْ بِٱلشَّهَٰدَةِ عَلَىٰ وَجۡهِهَآ أَوۡ يَخَافُوٓاْ أَن تُرَدَّ أَيۡمَٰنُۢ بَعۡدَ أَيۡمَٰنِهِمۡۗ وَٱتَّقُواْ ٱللَّهَ وَٱسۡمَعُواْۗ",
+        "108_01": "وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ ٨٠١"
+      },
+      "combined_translation": "Esto es lo que más se ajusta a que den un testimonio verdadero o teman que vuelva a haber otro juramento después del suyo.",
+      "timestamp": "2025-12-07T22:17:00.389439"
+    },
+    {
+      "verse_key": "005_112",
+      "chapter": 5,
+      "verse_number": 112,
+      "error": "Words added: ['él', 'dijo', 'temed', 'a', 'allah', 'si', 'es', 'que', 'sois', 'creyentes']",
+      "original_translation_splits": {
+        "112_00": "Y cuando dijeron los apóstoles: ¡Isa, hijo de Maryam!",
+        "112_01": "¿Puede tu Señor bajar del cielo una mesa servida para nosotros?"
+      },
+      "arabic_reference_splits": {
+        "112_00": "إِذۡ قَالَ ٱلۡحَوَارِيُّونَ يَٰعِيسَى ٱبۡنَ مَرۡيَمَ هَلۡ يَسۡتَطِيعُ رَبُّكَ أَن يُنَزِّلَ عَلَيۡنَا مَآئِدَةٗ مِّنَ ٱلسَّمَآءِۖ",
+        "112_01": "قَالَ ٱتَّقُواْ ٱللَّهَ إِن كُنتُم مُّؤۡمِنِينَ ٢١١"
+      },
+      "combined_translation": "Y cuando dijeron los apóstoles: ¡Isa, hijo de Maryam! ¿Puede tu Señor bajar del cielo una mesa servida para nosotros?",
+      "timestamp": "2025-12-07T22:17:00.390627"
+    },
+    {
+      "verse_key": "005_114",
+      "chapter": 5,
+      "verse_number": 114,
+      "error": "Words added: ['de', 'y', 'y', 'susténtanos', 'tú', 'eres', 'mejor', 'los', 'sustentadores']; Words removed: ['que', 'nosotros', 'una', 'sea', 'para', 'conmemoración', 'desde', 'el', 'primero', 'hasta', 'último']",
+      "original_translation_splits": {
+        "114_00": "Dijo Isa, hijo de Maryam: ¡Allah, Señor nuestro!",
+        "114_01": "Haz que baje a nosotros una mesa servida procedente del cielo que sea para nosotros una conmemoración desde el primero hasta el último,"
+      },
+      "arabic_reference_splits": {
+        "114_00": "قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ ٱللَّهُمَّ رَبَّنَآ أَنزِلۡ عَلَيۡنَا مَآئِدَةٗ مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيدٗا لِّأَوَّلِنَا وَءَاخِرِنَا وَءَايَةٗ مِّنكَۖ",
+        "114_01": "وَٱرۡزُقۡنَا وَأَنتَ خَيۡرُ ٱلرَّٰزِقِينَ ٤١١"
+      },
+      "combined_translation": "Dijo Isa, hijo de Maryam: ¡Allah, Señor nuestro! Haz que baje a nosotros una mesa servida procedente del cielo que sea para nosotros una conmemoración desde el primero hasta el último,",
+      "timestamp": "2025-12-07T22:17:00.391809"
+    },
+    {
+      "verse_key": "006_091",
+      "chapter": 6,
+      "verse_number": 91,
+      "error": "Words added: ['descender', 'el', 'libro', 'trajo', 'musa']; Words removed: ['allah', 'en', 'su', 'di', 'luego', 'déjalos', 'jueguen', 'inútil', 'palabrería']",
+      "original_translation_splits": {
+        "091_00": "No han apreciado a Allah en su verdadera magnitud, al decir: Allah no ha hecho descender nada sobre ningún mortal.Di: ¿Quién hizo",
+        "091_01": "Di: Allah; luego déjalos que jueguen en su inútil palabrería.",
+        "091_02": "y se os ha enseñado lo que no sabíais ni vosotros ni vuestros padres."
+      },
+      "arabic_reference_splits": {
+        "091_00": "وَمَا قَدَرُواْ ٱللَّهَ حَقَّ قَدۡرِهِۦٓ إِذۡ قَالُواْ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٖ مِّن شَيۡءٖۗ",
+        "091_01": "قُلۡ مَنۡ أَنزَلَ ٱلۡكِتَٰبَ ٱلَّذِي جَآءَ بِهِۦ مُوسَىٰ نُورٗا وَهُدٗى لِّلنَّاسِۖ تَجۡعَلُونَهُۥ قَرَاطِيسَ تُبۡدُونَهَا وَتُخۡفُونَ كَثِيرٗاۖ",
+        "091_02": "وَعُلِّمۡتُم مَّا لَمۡ تَعۡلَمُوٓاْ أَنتُمۡ وَلَآ ءَابَآؤُكُمۡۖ قُلِ ٱللَّهُۖ ثُمَّ ذَرۡهُمۡ فِي خَوۡضِهِمۡ يَلۡعَبُونَ ١٩"
+      },
+      "combined_translation": "No han apreciado a Allah en su verdadera magnitud, al decir: Allah no ha hecho descender nada sobre ningún mortal.Di: ¿Quién hizo Di: Allah; luego déjalos que jueguen en su inútil palabrería. y se os ha enseñado lo que no sabíais ni vosotros ni vuestros padres.",
+      "timestamp": "2025-12-07T22:17:00.393011"
+    },
+    {
+      "verse_key": "006_139",
+      "chapter": 6,
+      "verse_number": 139,
+      "error": "Words added: ['y', 'y', 'y', 'y', 'y', 'de', 'él', 'es', 'quien', 'ha', 'producido', 'jardines', 'emparrados', 'sin', 'emparrar', 'palmeras', 'cereales', 'variado', 'sabor', 'aceitunas', 'granados', 'similares', 'diversos']",
+      "original_translation_splits": {
+        "139_00": "Y dicen: Lo que hay en el vientre de estos animales está reservado a nuestros varones pero está prohibido para nuestras esposas y",
+        "139_01": "sólo si nace muerto les estará permitido compartirlo."
+      },
+      "arabic_reference_splits": {
+        "139_00": "وَقَالُواْ مَا فِي بُطُونِ هَٰذِهِ ٱلۡأَنۡعَٰمِ خَالِصَةٞ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزۡوَٰجِنَاۖ وَإِن يَكُن مَّيۡتَةٗ فَهُمۡ فِيهِ شُرَكَآءُۚ سَيَجۡزِيهِمۡ وَصۡفَهُمۡۚ",
+        "139_01": "إِنَّهُۥ حَكِيمٌ عَلِيمٞ ٩٣١"
+      },
+      "combined_translation": "Y dicen: Lo que hay en el vientre de estos animales está reservado a nuestros varones pero está prohibido para nuestras esposas y sólo si nace muerto les estará permitido compartirlo.",
+      "timestamp": "2025-12-07T22:17:00.394202"
+    },
+    {
+      "verse_key": "006_145",
+      "chapter": 6,
+      "verse_number": 145,
+      "error": "Words removed: ['di']",
+      "original_translation_splits": {
+        "145_00": "Di: No encuentro en lo que se me ha inspirado ninguna prohibición de comer de todo ello para nadie, a menos que se trate de un animal muerto* o de sangre derramada, o carne de cerdo, pues",
+        "145_01": "Pero quien se vea forzado a ello sin deseo ni ánimo de transgredir..."
+      },
+      "arabic_reference_splits": {
+        "145_00": "قُل لَّآ أَجِدُ فِي مَآ أُوحِيَ إِلَيَّ مُحَرَّمًا عَلَىٰ طَاعِمٖ يَطۡعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيۡتَةً أَوۡ دَمٗا مَّسۡفُوحًا أَوۡ لَحۡمَ خِنزِيرٖ فَإِنَّهُۥ رِجۡسٌ",
+        "145_01": "أَوۡ فِسۡقًا أُهِلَّ لِغَيۡرِ ٱللَّهِ بِهِۦۚ فَمَنِ ٱضۡطُرَّ غَيۡرَ بَاغٖ وَلَا عَادٖ فَإِنَّ رَبَّكَ غَفُورٞ رَّحِيمٞ ٥٤١"
+      },
+      "combined_translation": "Di: No encuentro en lo que se me ha inspirado ninguna prohibición de comer de todo ello para nadie, a menos que se trate de un animal muerto* o de sangre derramada, o carne de cerdo, pues Pero quien se vea forzado a ello sin deseo ni ánimo de transgredir...",
+      "timestamp": "2025-12-07T22:17:00.395334"
+    },
+    {
+      "verse_key": "007_134",
+      "chapter": 7,
+      "verse_number": 134,
+      "error": "Words added: ['y']; Words removed: ['pero']",
+      "original_translation_splits": {
+        "134_00": "Pero cuando hubo caído sobre ellos el castigo, dijeron: ¡Musa!: Ruega por nosotros a tu Señor según lo",
+        "134_01": "Si apartas de nosotros este castigo, te creeremos."
+      },
+      "arabic_reference_splits": {
+        "134_00": "وَلَمَّا وَقَعَ عَلَيۡهِمُ ٱلرِّجۡزُ قَالُواْ يَٰمُوسَى ٱدۡعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَۖ",
+        "134_01": "لَئِن كَشَفۡتَ عَنَّا ٱلرِّجۡزَ لَنُؤۡمِنَنَّ لَكَ وَلَنُرۡسِلَنَّ مَعَكَ بَنِيٓ إِسۡرَٰٓءِيلَ ٤٣١"
+      },
+      "combined_translation": "Pero cuando hubo caído sobre ellos el castigo, dijeron: ¡Musa!: Ruega por nosotros a tu Señor según lo Si apartas de nosotros este castigo, te creeremos.",
+      "timestamp": "2025-12-07T22:17:00.396430"
+    },
+    {
+      "verse_key": "007_137",
+      "chapter": 7,
+      "verse_number": 137,
+      "error": "Words added: ['cumplió', 'porque']; Words removed: ['cumplióporque']",
+      "original_translation_splits": {
+        "137_00": "Así hicimos que los que habían sido subyugados antes, heredaran los orientes y los occidentes de la tierra que habíamos bendecido.Y la hermosa palabra que tu Señor había dado a los hijos de Israel se cumplióPorque fueron pacientes.",
+        "137_01": "Y destruimos lo que Firaún y su gente habían hecho."
+      },
+      "arabic_reference_splits": {
+        "137_00": "وَأَوۡرَثۡنَا ٱلۡقَوۡمَ ٱلَّذِينَ كَانُواْ يُسۡتَضۡعَفُونَ مَشَٰرِقَ ٱلۡأَرۡضِ وَمَغَٰرِبَهَا ٱلَّتِي بَٰرَكۡنَا فِيهَاۖ",
+        "137_01": "وَتَمَّتۡ كَلِمَتُ رَبِّكَ ٱلۡحُسۡنَىٰ عَلَىٰ بَنِيٓ إِسۡرَٰٓءِيلَ بِمَا صَبَرُواْۖ وَدَمَّرۡنَا مَا كَانَ يَصۡنَعُ فِرۡعَوۡنُ وَقَوۡمُهُۥ وَمَا كَانُواْ يَعۡرِشُونَ ٧٣١"
+      },
+      "combined_translation": "Así hicimos que los que habían sido subyugados antes, heredaran los orientes y los occidentes de la tierra que habíamos bendecido.Y la hermosa palabra que tu Señor había dado a los hijos de Israel se cumplióPorque fueron pacientes. Y destruimos lo que Firaún y su gente habían hecho.",
+      "timestamp": "2025-12-07T22:17:00.397523"
+    },
+    {
+      "verse_key": "007_158",
+      "chapter": 7,
+      "verse_number": 158,
+      "error": "Words removed: ['di']",
+      "original_translation_splits": {
+        "158_00": "Di: ¡Hombres!",
+        "158_01": "Es cierto que yo soy para vosotros el Mensajero de Allah, a Quien pertenece la soberanía de los cielos y la tierra. No hay dios sino Él, da la vida y da la muerte; así que creed en Él y en Su Mensajero, el Profeta iletrado que cree en Allah y en Sus palabras y seguidle para que tal vez os guiéis."
+      },
+      "arabic_reference_splits": {
+        "158_00": "قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِنِّي رَسُولُ ٱللَّهِ إِلَيۡكُمۡ جَمِيعًا ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ وَيُمِيتُۖ",
+        "158_01": "فَـَٔامِنُواْ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِيِّ ٱلۡأُمِّيِّ ٱلَّذِي يُؤۡمِنُ بِٱللَّهِ وَكَلِمَٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمۡ تَهۡتَدُونَ ٨٥١"
+      },
+      "combined_translation": "Di: ¡Hombres! Es cierto que yo soy para vosotros el Mensajero de Allah, a Quien pertenece la soberanía de los cielos y la tierra. No hay dios sino Él, da la vida y da la muerte; así que creed en Él y en Su Mensajero, el Profeta iletrado que cree en Allah y en Sus palabras y seguidle para que tal vez os guiéis.",
+      "timestamp": "2025-12-07T22:17:00.398624"
+    },
+    {
+      "verse_key": "008_017",
+      "chapter": 8,
+      "verse_number": 17,
+      "error": "Words added: ['allah', 'inna', 'es', 'sami', 'un', 'alim']",
+      "original_translation_splits": {
+        "017_00": "Y no los matasteis vosotros, Allah los mató.",
+        "017_01": "Ni tirabas tú cuando tirabas sino que era Allah quien tiraba. Para probar a los creyentes con una hermosa prueba procedente de Él."
+      },
+      "arabic_reference_splits": {
+        "017_00": "فَلَمۡ تَقۡتُلُوهُمۡ وَلَٰكِنَّ ٱللَّهَ قَتَلَهُمۡۚ وَمَا رَمَيۡتَ إِذۡ رَمَيۡتَ وَلَٰكِنَّ ٱللَّهَ رَمَىٰ وَلِيُبۡلِيَ ٱلۡمُؤۡمِنِينَ مِنۡهُ بَلَآءً حَسَنًاۚ",
+        "017_01": "إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ ٧١"
+      },
+      "combined_translation": "Y no los matasteis vosotros, Allah los mató. Ni tirabas tú cuando tirabas sino que era Allah quien tiraba. Para probar a los creyentes con una hermosa prueba procedente de Él.",
+      "timestamp": "2025-12-07T22:17:00.399731"
+    },
+    {
+      "verse_key": "008_070",
+      "chapter": 8,
+      "verse_number": 70,
+      "error": "Words added: ['allah', 'es', 'perdonador', 'misericordioso']",
+      "original_translation_splits": {
+        "070_00": "¡Profeta!",
+        "070_01": "Di a los prisioneros que tengáis en vuestras manos: Si Allah sabe de algún bien en vuestros corazones, os concederá también algún bien de aquello que se os quitó y os perdonará."
+      },
+      "arabic_reference_splits": {
+        "070_00": "يَٰٓأَيُّهَا ٱلنَّبِيُّ قُل لِّمَن فِيٓ أَيۡدِيكُم مِّنَ ٱلۡأَسۡرَىٰٓ إِن يَعۡلَمِ ٱللَّهُ فِي قُلُوبِكُمۡ خَيۡرٗا يُؤۡتِكُمۡ خَيۡرٗا مِّمَّآ أُخِذَ مِنكُمۡ وَيَغۡفِرۡ لَكُمۡۚ",
+        "070_01": "وَٱللَّهُ غَفُورٞ رَّحِيمٞ ٠٧"
+      },
+      "combined_translation": "¡Profeta! Di a los prisioneros que tengáis en vuestras manos: Si Allah sabe de algún bien en vuestros corazones, os concederá también algún bien de aquello que se os quitó y os perdonará.",
+      "timestamp": "2025-12-07T22:17:00.400841"
+    },
+    {
+      "verse_key": "009_016",
+      "chapter": 9,
+      "verse_number": 16,
+      "error": "Words added: ['que', 'allah', 'y', 'de', 'es', 'conocedor', 'lo', 'hacéis']",
+      "original_translation_splits": {
+        "016_00": "¿O acaso pensáis que Allah os va a dejar y que Allah no sabrá quienes de vosotros lucharon y no",
+        "016_01": "tomaron ningún partidario fuera de Allah, de Su mensajero y de los creyentes?"
+      },
+      "arabic_reference_splits": {
+        "016_00": "أَمۡ حَسِبۡتُمۡ أَن تُتۡرَكُواْ وَلَمَّا يَعۡلَمِ ٱللَّهُ ٱلَّذِينَ جَٰهَدُواْ مِنكُمۡ وَلَمۡ يَتَّخِذُواْ مِن دُونِ ٱللَّهِ وَلَا رَسُولِهِۦ وَلَا ٱلۡمُؤۡمِنِينَ وَلِيجَةٗۚ",
+        "016_01": "وَٱللَّهُ خَبِيرُۢ بِمَا تَعۡمَلُونَ ٦١"
+      },
+      "combined_translation": "¿O acaso pensáis que Allah os va a dejar y que Allah no sabrá quienes de vosotros lucharon y no tomaron ningún partidario fuera de Allah, de Su mensajero y de los creyentes?",
+      "timestamp": "2025-12-07T22:17:00.401914"
+    },
+    {
+      "verse_key": "009_019",
+      "chapter": 9,
+      "verse_number": 19,
+      "error": "Words added: ['la', 'y', 'allah', 'no', 'guía', 'a', 'gente', 'injusta']",
+      "original_translation_splits": {
+        "019_00": "¿Consideráis que proveer el agua durante la Peregrinación y ser guardián de la Mezquita Inviolable es igual que creer en Allah",
+        "019_01": "y en la Última Vida y luchar en el camino de Allah?*No es igual ante Allah."
+      },
+      "arabic_reference_splits": {
+        "019_00": "۞أَجَعَلۡتُمۡ سِقَايَةَ ٱلۡحَآجِّ وَعِمَارَةَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ كَمَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَجَٰهَدَ فِي سَبِيلِ ٱللَّهِۚ لَا يَسۡتَوُۥنَ عِندَ ٱللَّهِۗ",
+        "019_01": "وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ ٩١"
+      },
+      "combined_translation": "¿Consideráis que proveer el agua durante la Peregrinación y ser guardián de la Mezquita Inviolable es igual que creer en Allah y en la Última Vida y luchar en el camino de Allah?*No es igual ante Allah.",
+      "timestamp": "2025-12-07T22:17:00.402974"
+    },
+    {
+      "verse_key": "010_068",
+      "chapter": 10,
+      "verse_number": 68,
+      "error": "Words added: ['dicen', 'allah', 'ate', 'sobre', 'lo', 'que', 'no', 'sabéis']",
+      "original_translation_splits": {
+        "068_00": "Dicen: Allah ha tomado para Sí un hijo. ¡Lejos de eso en Su gloria!",
+        "068_01": "Él es el Rico, Suyo es cuanto hay en los cielos y en la tierra."
+      },
+      "arabic_reference_splits": {
+        "068_00": "قَالُواْ ٱتَّخَذَ ٱللَّهُ وَلَدٗاۗ سُبۡحَٰنَهُۥۖ هُوَ ٱلۡغَنِيُّۖ لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ إِنۡ عِندَكُم مِّن سُلۡطَٰنِۭ بِهَٰذَآۚ",
+        "068_01": "أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ ٨٦"
+      },
+      "combined_translation": "Dicen: Allah ha tomado para Sí un hijo. ¡Lejos de eso en Su gloria! Él es el Rico, Suyo es cuanto hay en los cielos y en la tierra.",
+      "timestamp": "2025-12-07T22:17:00.409270"
+    },
+    {
+      "verse_key": "010_094",
+      "chapter": 10,
+      "verse_number": 94,
+      "error": "Words added: ['de', 'de', 'que', 'a', 'los', 'ti', 'la', 'verdad', 'ha', 'llegado', 'tu', 'señor', 'así', 'no', 'seas', 'dudosos']",
+      "original_translation_splits": {
+        "094_00": "Y si estás en duda de lo que te hemos hecho descender, pregunta a los que leían",
+        "094_01": "el Libro antes de ti."
+      },
+      "arabic_reference_splits": {
+        "094_00": "فَإِن كُنتَ فِي شَكّٖ مِّمَّآ أَنزَلۡنَآ إِلَيۡكَ فَسۡـَٔلِ ٱلَّذِينَ يَقۡرَءُونَ ٱلۡكِتَٰبَ مِن قَبۡلِكَۚ",
+        "094_01": "لَقَدۡ جَآءَكَ ٱلۡحَقُّ مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ ٱلۡمُمۡتَرِينَ ٤٩"
+      },
+      "combined_translation": "Y si estás en duda de lo que te hemos hecho descender, pregunta a los que leían el Libro antes de ti.",
+      "timestamp": "2025-12-07T22:17:00.410241"
+    },
+    {
+      "verse_key": "010_104",
+      "chapter": 10,
+      "verse_number": 104,
+      "error": "Words added: ['de', 'y', 'se', 'me', 'ha', 'ordenado', 'ser', 'los', 'creyentes']",
+      "original_translation_splits": {
+        "104_00": "Di: ¡Hombres!",
+        "104_01": "Si estáis en duda acerca de la creencia que practico..."
+      },
+      "arabic_reference_splits": {
+        "104_00": "قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمۡ فِي شَكّٖ مِّن دِينِي فَلَآ أَعۡبُدُ ٱلَّذِينَ تَعۡبُدُونَ مِن دُونِ ٱللَّهِ وَلَٰكِنۡ أَعۡبُدُ ٱللَّهَ ٱلَّذِي يَتَوَفَّىٰكُمۡۖ",
+        "104_01": "وَأُمِرۡتُ أَنۡ أَكُونَ مِنَ ٱلۡمُؤۡمِنِينَ ٤٠١"
+      },
+      "combined_translation": "Di: ¡Hombres! Si estáis en duda acerca de la creencia que practico...",
+      "timestamp": "2025-12-07T22:17:00.411245"
+    },
+    {
+      "verse_key": "012_023",
+      "chapter": 12,
+      "verse_number": 23,
+      "error": "Words added: ['إ', 'ن', 'ه', 'ۥ', 'ل', 'ل', 'ل', 'ا', 'ي', 'ف', 'ح', 'ٱلظ', 'م', 'ون', '٣٢']",
+      "original_translation_splits": {
+        "023_00": "Entonces aquélla en cuya casa estaba lo requirió, cerró las puertas y le dijo: Ven aquí. Él contestó: ¡Que Allah me proteja!",
+        "023_01": "Mi Señor es el mejor refugio."
+      },
+      "arabic_reference_splits": {
+        "023_00": "وَرَٰوَدَتۡهُ ٱلَّتِي هُوَ فِي بَيۡتِهَا عَن نَّفۡسِهِۦ وَغَلَّقَتِ ٱلۡأَبۡوَٰبَ وَقَالَتۡ هَيۡتَ لَكَۚ قَالَ مَعَاذَ ٱللَّهِۖ إِنَّهُۥ رَبِّيٓ أَحۡسَنَ مَثۡوَايَۖ",
+        "023_01": "إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ ٣٢"
+      },
+      "combined_translation": "Entonces aquélla en cuya casa estaba lo requirió, cerró las puertas y le dijo: Ven aquí. Él contestó: ¡Que Allah me proteja! Mi Señor es el mejor refugio.",
+      "timestamp": "2025-12-07T22:17:00.412225"
+    },
+    {
+      "verse_key": "012_088",
+      "chapter": 12,
+      "verse_number": 88,
+      "error": "Words added: ['إن', 'ٱلل', 'ه', 'ي', 'ي', 'ج', 'ز', 'ٱل', 'م', 'ت', 'ص', 'د', 'ق', 'ين']",
+      "original_translation_splits": {
+        "088_00": "Y cuando se presentaron ante él, le dijeron: ¡Aziz!",
+        "088_01": "Hemos sido tocados por la desgracia nosotros y nuestra familia y traemos una mercancia exigua; abastécenos dándonos la medida completa y sé generoso con nosotros."
+      },
+      "arabic_reference_splits": {
+        "088_00": "فَلَمَّا دَخَلُواْ عَلَيۡهِ قَالُواْ يَٰٓأَيُّهَا ٱلۡعَزِيزُ مَسَّنَا وَأَهۡلَنَا ٱلضُّرُّ وَجِئۡنَا بِبِضَٰعَةٖ مُّزۡجَىٰةٖ فَأَوۡفِ لَنَا ٱلۡكَيۡلَ وَتَصَدَّقۡ عَلَيۡنَآۖ",
+        "088_01": "إِنَّ ٱللَّهَ يَجۡزِي ٱلۡمُتَصَدِّقِينَ ٨٨"
+      },
+      "combined_translation": "Y cuando se presentaron ante él, le dijeron: ¡Aziz! Hemos sido tocados por la desgracia nosotros y nuestra familia y traemos una mercancia exigua; abastécenos dándonos la medida completa y sé generoso con nosotros.",
+      "timestamp": "2025-12-07T22:17:00.413223"
+    },
+    {
+      "verse_key": "016_027",
+      "chapter": 16,
+      "verse_number": 27,
+      "error": "Words removed: ['y', 'por', 'cuya', 'causa', 'os']",
+      "original_translation_splits": {
+        "027_00": "Luego, el Día del Levantamiento, los humillará y les dirá:¿Donde están ésos que Me asociabais y por cuya causa os",
+        "027_01": "Dirán aquellos a los que les fue dado el conocimiento: Hoy la humillación y el mal son para los incrédulos."
+      },
+      "arabic_reference_splits": {
+        "027_00": "ثُمَّ يَوۡمَ ٱلۡقِيَٰمَةِ يُخۡزِيهِمۡ وَيَقُولُ أَيۡنَ شُرَكَآءِيَ ٱلَّذِينَ كُنتُمۡ تُشَٰٓقُّونَ فِيهِمۡۚ",
+        "027_01": "قَالَ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ إِنَّ ٱلۡخِزۡيَ ٱلۡيَوۡمَ وَٱلسُّوٓءَ عَلَى ٱلۡكَٰفِرِينَ ٧٢"
+      },
+      "combined_translation": "Luego, el Día del Levantamiento, los humillará y les dirá:¿Donde están ésos que Me asociabais y por cuya causa os Dirán aquellos a los que les fue dado el conocimiento: Hoy la humillación y el mal son para los incrédulos.",
+      "timestamp": "2025-12-07T22:17:00.414196"
+    },
+    {
+      "verse_key": "017_110",
+      "chapter": 17,
+      "verse_number": 110,
+      "error": "Words added: ['y', 'y', 'no', 'te', 'muestres', 'en', 'en', 'en', 'tu', 'oración', 'ni', 'ni', 'voz', 'voz', 'alta', 'baja', 'busca', 'un', 'camino', 'intermedio', 'entre', 'eso']",
+      "original_translation_splits": {
+        "110_00": "Di: Llamad a Allah o llamad al Misericordioso, como quiera que Le invoquéis, Él tiene los nombres",
+        "110_01": "más hermosos."
+      },
+      "arabic_reference_splits": {
+        "110_00": "قُلِ ٱدۡعُواْ ٱللَّهَ أَوِ ٱدۡعُواْ ٱلرَّحۡمَٰنَۖ أَيّٗا مَّا تَدۡعُواْ فَلَهُ ٱلۡأَسۡمَآءُ ٱلۡحُسۡنَىٰۚ",
+        "110_01": "وَلَا تَجۡهَرۡ بِصَلَاتِكَ وَلَا تُخَافِتۡ بِهَا وَٱبۡتَغِ بَيۡنَ ذَٰلِكَ سَبِيلٗا ٠١١"
+      },
+      "combined_translation": "Di: Llamad a Allah o llamad al Misericordioso, como quiera que Le invoquéis, Él tiene los nombres más hermosos.",
+      "timestamp": "2025-12-07T22:17:00.416060"
+    },
+    {
+      "verse_key": "018_086",
+      "chapter": 18,
+      "verse_number": 86,
+      "error": "Words removed: ['y', 'halló']",
+      "original_translation_splits": {
+        "086_00": "Así cuando hubo alcanzado el poniente del sol, encontró que éste se ponía en un manantial cenagoso y halló",
+        "086_01": "Dijimos: ¡Dhul Qarnayn!: O los castigas o adoptas con ellos una actitud de bien!"
+      },
+      "arabic_reference_splits": {
+        "086_00": "حَتَّىٰٓ إِذَا بَلَغَ مَغۡرِبَ ٱلشَّمۡسِ وَجَدَهَا تَغۡرُبُ فِي عَيۡنٍ حَمِئَةٖ وَوَجَدَ عِندَهَا قَوۡمٗاۖ",
+        "086_01": "قُلۡنَا يَٰذَا ٱلۡقَرۡنَيۡنِ إِمَّآ أَن تُعَذِّبَ وَإِمَّآ أَن تَتَّخِذَ فِيهِمۡ حُسۡنٗا ٦٨"
+      },
+      "combined_translation": "Así cuando hubo alcanzado el poniente del sol, encontró que éste se ponía en un manantial cenagoso y halló Dijimos: ¡Dhul Qarnayn!: O los castigas o adoptas con ellos una actitud de bien!",
+      "timestamp": "2025-12-07T22:17:00.416994"
+    },
+    {
+      "verse_key": "022_052",
+      "chapter": 22,
+      "verse_number": 52,
+      "error": "Words added: ['y', 'y', 'allah', 'es', 'conocedor', 'sabio']",
+      "original_translation_splits": {
+        "052_00": "Antes de ti no hemos enviado ningún mensajero ni profeta al que no le ocurriera que al recitar (lo que le era inspirado),",
+        "052_01": "el Shaytán interpusiera algo en su recitación."
+      },
+      "arabic_reference_splits": {
+        "052_00": "وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رَّسُولٖ وَلَا نَبِيٍّ إِلَّآ إِذَا تَمَنَّىٰٓ أَلۡقَى ٱلشَّيۡطَٰنُ فِيٓ أُمۡنِيَّتِهِۦ فَيَنسَخُ ٱللَّهُ مَا يُلۡقِي ٱلشَّيۡطَٰنُ ثُمَّ يُحۡكِمُ ٱللَّهُ ءَايَٰتِهِۦۗ",
+        "052_01": "وَٱللَّهُ عَلِيمٌ حَكِيمٞ ٢٥"
+      },
+      "combined_translation": "Antes de ti no hemos enviado ningún mensajero ni profeta al que no le ocurriera que al recitar (lo que le era inspirado), el Shaytán interpusiera algo en su recitación.",
+      "timestamp": "2025-12-07T22:17:00.417931"
+    },
+    {
+      "verse_key": "022_065",
+      "chapter": 22,
+      "verse_number": 65,
+      "error": "Words added: ['es', 'allah', 'en', 'la', 'y', 'con', 'verdad', 'gente', 'compasivo', 'misericordioso']",
+      "original_translation_splits": {
+        "065_00": "¿Es que no ves que Allah ha puesto a vuestro servicio todo lo que hay en la tierra, así como la nave que navega por el mar gracias a Su",
+        "065_01": "mandato y que sostiene el cielo para que no caiga sobre la tierra a menos que sea con Su permiso?"
+      },
+      "arabic_reference_splits": {
+        "065_00": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِي ٱلۡأَرۡضِ وَٱلۡفُلۡكَ تَجۡرِي فِي ٱلۡبَحۡرِ بِأَمۡرِهِۦ وَيُمۡسِكُ ٱلسَّمَآءَ أَن تَقَعَ عَلَى ٱلۡأَرۡضِ إِلَّا بِإِذۡنِهِۦٓۚ",
+        "065_01": "إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٞ رَّحِيمٞ ٥٦"
+      },
+      "combined_translation": "¿Es que no ves que Allah ha puesto a vuestro servicio todo lo que hay en la tierra, así como la nave que navega por el mar gracias a Su mandato y que sostiene el cielo para que no caiga sobre la tierra a menos que sea con Su permiso?",
+      "timestamp": "2025-12-07T22:17:00.418864"
+    },
+    {
+      "verse_key": "024_058",
+      "chapter": 24,
+      "verse_number": 58,
+      "error": "Words added: ['y', 'es', 'allah', 'conocedor', 'sabio']",
+      "original_translation_splits": {
+        "058_00": "¡Vosotros que creéis! Que aquéllos que poseen vuestras diestras y los que de vosotros no hayan llegado a la",
+        "058_01": "pubertad os pidan permiso en tres ocasiones: antes de la oración del alba, cuando al mediodía aligeráis vuestros vestidos",
+        "058_02": "y después de la oración de la noche, pues son tres momentos de intimidad que tenéis; fuera de ellos",
+        "058_03": "no hay falta si os frecuentáis unos a otros. Así es como os aclara Allah Sus signos."
+      },
+      "arabic_reference_splits": {
+        "058_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لِيَسۡتَـٔۡذِنكُمُ ٱلَّذِينَ مَلَكَتۡ أَيۡمَٰنُكُمۡ وَٱلَّذِينَ لَمۡ يَبۡلُغُواْ ٱلۡحُلُمَ مِنكُمۡ ثَلَٰثَ مَرَّٰتٖۚ",
+        "058_01": "مِّن قَبۡلِ صَلَوٰةِ ٱلۡفَجۡرِ وَحِينَ تَضَعُونَ ثِيَابَكُم مِّنَ ٱلظَّهِيرَةِ وَمِنۢ بَعۡدِ صَلَوٰةِ ٱلۡعِشَآءِۚ ثَلَٰثُ عَوۡرَٰتٖ لَّكُمۡۚ",
+        "058_02": "لَيۡسَ عَلَيۡكُمۡ وَلَا عَلَيۡهِمۡ جُنَاحُۢ بَعۡدَهُنَّۚ طَوَّٰفُونَ عَلَيۡكُم بَعۡضُكُمۡ عَلَىٰ بَعۡضٖۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلۡأٓيَٰتِۗ",
+        "058_03": "وَٱللَّهُ عَلِيمٌ حَكِيمٞ ٨٥"
+      },
+      "combined_translation": "¡Vosotros que creéis! Que aquéllos que poseen vuestras diestras y los que de vosotros no hayan llegado a la pubertad os pidan permiso en tres ocasiones: antes de la oración del alba, cuando al mediodía aligeráis vuestros vestidos y después de la oración de la noche, pues son tres momentos de intimidad que tenéis; fuera de ellos no hay falta si os frecuentáis unos a otros. Así es como os aclara Allah Sus signos.",
+      "timestamp": "2025-12-07T22:17:00.419756"
+    },
+    {
+      "verse_key": "033_051",
+      "chapter": 33,
+      "verse_number": 51,
+      "error": "Words added: ['y', 'es', 'allah', 'conocedor', 'clemente']",
+      "original_translation_splits": {
+        "051_00": "Deja postergada a la que quieras de ellas y une a ti a la que quieras.",
+        "051_01": "Y si deseas alguna que hayas mantenido alejada no hay mal en ello para ti.",
+        "051_02": "Esto es más conveniente para que sus ojos se refresquen (se consuelen) y no se entristezcan y estén satisfechas con lo que les des."
+      },
+      "arabic_reference_splits": {
+        "051_00": "۞تُرۡجِي مَن تَشَآءُ مِنۡهُنَّ وَتُـٔۡوِيٓ إِلَيۡكَ مَن تَشَآءُۖ وَمَنِ ٱبۡتَغَيۡتَ مِمَّنۡ عَزَلۡتَ فَلَا جُنَاحَ عَلَيۡكَۚ",
+        "051_01": "ذَٰلِكَ أَدۡنَىٰٓ أَن تَقَرَّ أَعۡيُنُهُنَّ وَلَا يَحۡزَنَّ وَيَرۡضَيۡنَ بِمَآ ءَاتَيۡتَهُنَّ كُلُّهُنَّۚ وَٱللَّهُ يَعۡلَمُ مَا فِي قُلُوبِكُمۡۚ",
+        "051_02": "وَكَانَ ٱللَّهُ عَلِيمًا حَلِيمٗا ١٥"
+      },
+      "combined_translation": "Deja postergada a la que quieras de ellas y une a ti a la que quieras. Y si deseas alguna que hayas mantenido alejada no hay mal en ello para ti. Esto es más conveniente para que sus ojos se refresquen (se consuelen) y no se entristezcan y estén satisfechas con lo que les des.",
+      "timestamp": "2025-12-07T22:17:00.420652"
+    },
+    {
+      "verse_key": "034_043",
+      "chapter": 34,
+      "verse_number": 43,
+      "error": "Words removed: ['y', 'dicen', 'esto', 'no']",
+      "original_translation_splits": {
+        "043_00": "Y cuando se les recitan Nuestros signos claros, dicen: ¿Quién es éste mas que un hombre que quiere apartaros de lo que vuestros padres adoraban?Y dicen: Esto no",
+        "043_01": "Y dicen los que se han negado a creer en la verdad cuando les ha llegado: Esto no es más que pura magia."
+      },
+      "arabic_reference_splits": {
+        "043_00": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا بَيِّنَٰتٖ قَالُواْ مَا هَٰذَآ إِلَّا رَجُلٞ يُرِيدُ أَن يَصُدَّكُمۡ عَمَّا كَانَ يَعۡبُدُ ءَابَآؤُكُمۡ وَقَالُواْ مَا هَٰذَآ إِلَّآ إِفۡكٞ مُّفۡتَرٗىۚ",
+        "043_01": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لِلۡحَقِّ لَمَّا جَآءَهُمۡ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ مُّبِينٞ ٣٤"
+      },
+      "combined_translation": "Y cuando se les recitan Nuestros signos claros, dicen: ¿Quién es éste mas que un hombre que quiere apartaros de lo que vuestros padres adoraban?Y dicen: Esto no Y dicen los que se han negado a creer en la verdad cuando les ha llegado: Esto no es más que pura magia.",
+      "timestamp": "2025-12-07T22:17:00.421573"
+    },
+    {
+      "verse_key": "035_003",
+      "chapter": 35,
+      "verse_number": 3,
+      "error": "Words added: ['la', 'de', 'allah', 'hay', 'aparte', 'algún', 'creador', 'que', 'os', 'dé', 'provisión', 'desde', 'el', 'cielo', 'y', 'tierra']",
+      "original_translation_splits": {
+        "003_00": "¡Hombres! Recordad la merced de Allah con vosotros.",
+        "003_01": "¿Hay, aparte de Allah, algún creador que os dé provisión desde el cielo y la tierra?"
+      },
+      "arabic_reference_splits": {
+        "003_00": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱذۡكُرُواْ نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡۚ هَلۡ مِنۡ خَٰلِقٍ غَيۡرُ ٱللَّهِ يَرۡزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ لَآ إِلَٰهَ إِلَّا هُوَۖ",
+        "003_01": "فَأَنَّىٰ تُؤۡفَكُونَ ٣"
+      },
+      "combined_translation": "¡Hombres! Recordad la merced de Allah con vosotros. ¿Hay, aparte de Allah, algún creador que os dé provisión desde el cielo y la tierra?",
+      "timestamp": "2025-12-07T22:17:00.422467"
+    },
+    {
+      "verse_key": "039_005",
+      "chapter": 39,
+      "verse_number": 5,
+      "error": "Words removed: ['y']",
+      "original_translation_splits": {
+        "005_00": "Ha creado los cielos y la tierra con la verdad, hace que la noche se enrolle en el día y que el día se enrolle en la noche y",
+        "005_01": "¿Acaso no es Él, el Poderoso, el Muy Perdonador?"
+      },
+      "arabic_reference_splits": {
+        "005_00": "خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّۖ يُكَوِّرُ ٱلَّيۡلَ عَلَى ٱلنَّهَارِ وَيُكَوِّرُ ٱلنَّهَارَ عَلَى ٱلَّيۡلِۖ وَسَخَّرَ ٱلشَّمۡسَ وَٱلۡقَمَرَۖ",
+        "005_01": "كُلّٞ يَجۡرِي لِأَجَلٖ مُّسَمًّىۗ أَلَا هُوَ ٱلۡعَزِيزُ ٱلۡغَفَّٰرُ ٥"
+      },
+      "combined_translation": "Ha creado los cielos y la tierra con la verdad, hace que la noche se enrolle en el día y que el día se enrolle en la noche y ¿Acaso no es Él, el Poderoso, el Muy Perdonador?",
+      "timestamp": "2025-12-07T22:17:00.423370"
+    },
+    {
+      "verse_key": "039_071",
+      "chapter": 39,
+      "verse_number": 71,
+      "error": "Words removed: ['que', 'se', 'a', 'cuando', 'lleguen', 'abrirán', 'sus', 'hasta', 'ella']",
+      "original_translation_splits": {
+        "071_00": "Entonces los que se negaron a creer serán conducidos a Yahannam en grupos sucesivos y cuando lleguen a él, se abrirán sus",
+        "071_01": "hasta que, cuando lleguen a ella, se abrirán sus puertas y les dirán sus guardianes: ¿Acaso no os llegaron mensajeros de entre los vuestros que os leían los signos de vuestro Señor y os advertían del encuentro de éste vuestro día?",
+        "071_02": "Dirán: Sí. Sin embargo se habrá hecho realidad la palabra del castigo contra los incrédulos."
+      },
+      "arabic_reference_splits": {
+        "071_00": "وَسِيقَ ٱلَّذِينَ كَفَرُوٓاْ إِلَىٰ جَهَنَّمَ زُمَرًاۖ",
+        "071_01": "حَتَّىٰٓ إِذَا جَآءُوهَا فُتِحَتۡ أَبۡوَٰبُهَا وَقَالَ لَهُمۡ خَزَنَتُهَآ أَلَمۡ يَأۡتِكُمۡ رُسُلٞ مِّنكُمۡ يَتۡلُونَ عَلَيۡكُمۡ ءَايَٰتِ رَبِّكُمۡ",
+        "071_02": "وَيُنذِرُونَكُمۡ لِقَآءَ يَوۡمِكُمۡ هَٰذَاۚ قَالُواْ بَلَىٰ وَلَٰكِنۡ حَقَّتۡ كَلِمَةُ ٱلۡعَذَابِ عَلَى ٱلۡكَٰفِرِينَ ١٧"
+      },
+      "combined_translation": "Entonces los que se negaron a creer serán conducidos a Yahannam en grupos sucesivos y cuando lleguen a él, se abrirán sus hasta que, cuando lleguen a ella, se abrirán sus puertas y les dirán sus guardianes: ¿Acaso no os llegaron mensajeros de entre los vuestros que os leían los signos de vuestro Señor y os advertían del encuentro de éste vuestro día? Dirán: Sí. Sin embargo se habrá hecho realidad la palabra del castigo contra los incrédulos.",
+      "timestamp": "2025-12-07T22:17:00.424286"
+    },
+    {
+      "verse_key": "041_016",
+      "chapter": 41,
+      "verse_number": 16,
+      "error": "Words added: ['y', 'no', 'serán', 'auxiliados']",
+      "original_translation_splits": {
+        "016_00": "Entonces enviamos contra ellos un viento gélido a lo largo de días fatales para que probaran así el castigo",
+        "016_01": "de la humillación en esta vida."
+      },
+      "arabic_reference_splits": {
+        "016_00": "فَأَرۡسَلۡنَا عَلَيۡهِمۡ رِيحٗا صَرۡصَرٗا فِيٓ أَيَّامٖ نَّحِسَاتٖ لِّنُذِيقَهُمۡ عَذَابَ ٱلۡخِزۡيِ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَخۡزَىٰۖ",
+        "016_01": "وَهُمۡ لَا يُنصَرُونَ ٦١"
+      },
+      "combined_translation": "Entonces enviamos contra ellos un viento gélido a lo largo de días fatales para que probaran así el castigo de la humillación en esta vida.",
+      "timestamp": "2025-12-07T22:17:00.425179"
+    },
+    {
+      "verse_key": "046_008",
+      "chapter": 46,
+      "verse_number": 8,
+      "error": "Words added: ['basta', 'con', 'él', 'como', 'testigo', 'entre', 'vosotros', 'y', 'yo']",
+      "original_translation_splits": {
+        "008_00": "O dicen: Lo ha inventado.",
+        "008_01": "Di: Si lo hubiera inventado, nada podríais hacer por mí ante Allah."
+      },
+      "arabic_reference_splits": {
+        "008_00": "أَمۡ يَقُولُونَ ٱفۡتَرَىٰهُۖ قُلۡ إِنِ ٱفۡتَرَيۡتُهُۥ فَلَا تَمۡلِكُونَ لِي مِنَ ٱللَّهِ شَيۡـًٔاۖ هُوَ أَعۡلَمُ بِمَا تُفِيضُونَ فِيهِۚ",
+        "008_01": "كَفَىٰ بِهِۦ شَهِيدَۢا بَيۡنِي وَبَيۡنَكُمۡۖ وَهُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ ٨"
+      },
+      "combined_translation": "O dicen: Lo ha inventado. Di: Si lo hubiera inventado, nada podríais hacer por mí ante Allah.",
+      "timestamp": "2025-12-07T22:17:00.426071"
+    },
+    {
+      "verse_key": "049_002",
+      "chapter": 49,
+      "verse_number": 2,
+      "error": "Words added: ['an', 'tahbaṭa', 'aʿmālukum', 'wa', 'anṭum', 'lā', 'tašʿurūn', '٢']",
+      "original_translation_splits": {
+        "002_00": "¡Vosotros que creéis!",
+        "002_01": "No subáis la voz por encima de la del Profeta ni le habléis a voces como hacéis entre vosotros,"
+      },
+      "arabic_reference_splits": {
+        "002_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَرۡفَعُوٓاْ أَصۡوَٰتَكُمۡ فَوۡقَ صَوۡتِ ٱلنَّبِيِّ وَلَا تَجۡهَرُواْ لَهُۥ بِٱلۡقَوۡلِ كَجَهۡرِ بَعۡضِكُمۡ لِبَعۡضٍ",
+        "002_01": "أَن تَحۡبَطَ أَعۡمَٰلُكُمۡ وَأَنتُمۡ لَا تَشۡعُرُونَ ٢"
+      },
+      "combined_translation": "¡Vosotros que creéis! No subáis la voz por encima de la del Profeta ni le habléis a voces como hacéis entre vosotros,",
+      "timestamp": "2025-12-07T22:17:00.426960"
+    },
+    {
+      "verse_key": "049_007",
+      "chapter": 49,
+      "verse_number": 7,
+      "error": "Words added: ['que', 'el', 'aquel', 'es', 'es', 'recto']",
+      "original_translation_splits": {
+        "007_00": "Y sabed que entre vosotros está el Mensajero de Allah y que si os obedeciera en muchos",
+        "007_01": "asuntos ya habríais caído en la perdición.",
+        "007_02": "Pero Allah os ha hecho amar la creencia, haciéndola hermosa en vuestros corazones, y ha hecho que detestéis la incredulidad, la perversión y la desobediencia."
+      },
+      "arabic_reference_splits": {
+        "007_00": "وَٱعۡلَمُوٓاْ أَنَّ فِيكُمۡ رَسُولَ ٱللَّهِۚ",
+        "007_01": "لَوۡ يُطِيعُكُمۡ فِي كَثِيرٖ مِّنَ ٱلۡأَمۡرِ لَعَنِتُّمۡ وَلَٰكِنَّ ٱللَّهَ حَبَّبَ إِلَيۡكُمُ ٱلۡإِيمَٰنَ وَزَيَّنَهُۥ فِي قُلُوبِكُمۡ وَكَرَّهَ إِلَيۡكُمُ ٱلۡكُفۡرَ وَٱلۡفُسُوقَ وَٱلۡعِصۡيَانَۚ",
+        "007_02": "أُوْلَٰٓئِكَ هُمُ ٱلرَّٰشِدُونَ ٧"
+      },
+      "combined_translation": "Y sabed que entre vosotros está el Mensajero de Allah y que si os obedeciera en muchos asuntos ya habríais caído en la perdición. Pero Allah os ha hecho amar la creencia, haciéndola hermosa en vuestros corazones, y ha hecho que detestéis la incredulidad, la perversión y la desobediencia.",
+      "timestamp": "2025-12-07T22:17:00.427827"
+    },
+    {
+      "verse_key": "049_013",
+      "chapter": 49,
+      "verse_number": 13,
+      "error": "Words added: ['y', 'que', 'es', 'es', 'cierto', 'allah', 'conocedor', 'está', 'bien', 'informado']",
+      "original_translation_splits": {
+        "013_00": "¡Hombres!",
+        "013_01": "Os hemos creado a partir de un varón y de una hembra y os hemos hecho pueblos y tribus distintos para que os reconocierais unos a otros."
+      },
+      "arabic_reference_splits": {
+        "013_00": "يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقۡنَٰكُم مِّن ذَكَرٖ وَأُنثَىٰ وَجَعَلۡنَٰكُمۡ شُعُوبٗا وَقَبَآئِلَ لِتَعَارَفُوٓاْۚ إِنَّ أَكۡرَمَكُمۡ عِندَ ٱللَّهِ أَتۡقَىٰكُمۡۚ",
+        "013_01": "إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٞ ٣١"
+      },
+      "combined_translation": "¡Hombres! Os hemos creado a partir de un varón y de una hembra y os hemos hecho pueblos y tribus distintos para que os reconocierais unos a otros.",
+      "timestamp": "2025-12-07T22:17:00.428691"
+    },
+    {
+      "verse_key": "049_014",
+      "chapter": 49,
+      "verse_number": 14,
+      "error": "Words added: ['no', 'vuestros', 'y', 'y', 'si', 'obedecéis', 'a', 'a', 'allah', 'su', 'mensajero', 'os', 'hará', 'disminuir', 'de', 'obras']",
+      "original_translation_splits": {
+        "014_00": "Dicen los beduinos: Creemos. Di: No creéis.",
+        "014_01": "Decid más bien: Nos hemos sometido* pero aún no ha entrado en vuestros corazones la creencia."
+      },
+      "arabic_reference_splits": {
+        "014_00": "۞قَالَتِ ٱلۡأَعۡرَابُ ءَامَنَّاۖ قُل لَّمۡ تُؤۡمِنُواْ وَلَٰكِن قُولُوٓاْ أَسۡلَمۡنَا وَلَمَّا يَدۡخُلِ ٱلۡإِيمَٰنُ فِي قُلُوبِكُمۡۖ",
+        "014_01": "وَإِن تُطِيعُواْ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتۡكُم مِّنۡ أَعۡمَٰلِكُمۡ شَيۡـًٔاۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ ٤١"
+      },
+      "combined_translation": "Dicen los beduinos: Creemos. Di: No creéis. Decid más bien: Nos hemos sometido* pero aún no ha entrado en vuestros corazones la creencia.",
+      "timestamp": "2025-12-07T22:17:00.429555"
+    },
+    {
+      "verse_key": "049_015",
+      "chapter": 49,
+      "verse_number": 15,
+      "error": "Words added: ['los', 'son', 'esos', 'veraces']",
+      "original_translation_splits": {
+        "015_00": "Los creyentes son aquellos que, habiendo creído en Allah y en Su mensajero, no dudan después;",
+        "015_01": "y luchan con sus bienes y sus personas en el camino de Allah."
+      },
+      "arabic_reference_splits": {
+        "015_00": "إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمۡ يَرۡتَابُواْ وَجَٰهَدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ فِي سَبِيلِ ٱللَّهِۚ",
+        "015_01": "أُوْلَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ ٥١"
+      },
+      "combined_translation": "Los creyentes son aquellos que, habiendo creído en Allah y en Su mensajero, no dudan después; y luchan con sus bienes y sus personas en el camino de Allah.",
+      "timestamp": "2025-12-07T22:17:00.430431"
+    },
+    {
+      "verse_key": "058_012",
+      "chapter": 58,
+      "verse_number": 12,
+      "error": "Words added: ['f', 'إ', 'إ', 'ن', 'ن', 'ل', 'م', 'ت', 'ج', 'د', 'وا', 'ف', 'ف', 'ٱلل', 'ه', 'غ', 'ور', 'ر', 'ح', 'يم', '٢١']",
+      "original_translation_splits": {
+        "012_00": "¡Vosotros que creéis!",
+        "012_01": "Cuando queráis hablar en privado con el Mensajero ofreced previamente alguna liberalidad."
+      },
+      "arabic_reference_splits": {
+        "012_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا نَٰجَيۡتُمُ ٱلرَّسُولَ فَقَدِّمُواْ بَيۡنَ يَدَيۡ نَجۡوَىٰكُمۡ صَدَقَةٗۚ ذَٰلِكَ خَيۡرٞ لَّكُمۡ وَأَطۡهَرُۚ",
+        "012_01": "فَإِن لَّمۡ تَجِدُواْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ ٢١"
+      },
+      "combined_translation": "¡Vosotros que creéis! Cuando queráis hablar en privado con el Mensajero ofreced previamente alguna liberalidad.",
+      "timestamp": "2025-12-07T22:17:00.431294"
+    },
+    {
+      "verse_key": "059_021",
+      "chapter": 59,
+      "verse_number": 21,
+      "error": "Words added: ['a', 'la', 'y', 'tales', 'son', 'las', 'comparaciones', 'que', 'que', 'proponemos', 'gente', 'para', 'puedan', 'reflexionar']",
+      "original_translation_splits": {
+        "021_00": "Si le hubiéramos hecho descender este Corán a una montaña, la habrías visto humillada y partida en dos, por",
+        "021_01": "temor de Allah."
+      },
+      "arabic_reference_splits": {
+        "021_00": "لَوۡ أَنزَلۡنَا هَٰذَا ٱلۡقُرۡءَانَ عَلَىٰ جَبَلٖ لَّرَأَيۡتَهُۥ خَٰشِعٗا مُّتَصَدِّعٗا مِّنۡ خَشۡيَةِ ٱللَّهِۚ",
+        "021_01": "وَتِلۡكَ ٱلۡأَمۡثَٰلُ نَضۡرِبُهَا لِلنَّاسِ لَعَلَّهُمۡ يَتَفَكَّرُونَ ١٢"
+      },
+      "combined_translation": "Si le hubiéramos hecho descender este Corán a una montaña, la habrías visto humillada y partida en dos, por temor de Allah.",
+      "timestamp": "2025-12-07T22:17:00.432177"
+    },
+    {
+      "verse_key": "061_014",
+      "chapter": 61,
+      "verse_number": 14,
+      "error": "Words removed: ['de', 'al', 'yumua', 'en', 'el', 'el', 'el', 'nombre', 'allah', 'misericordioso', 'compasivo']",
+      "original_translation_splits": {
+        "014_00": "¡Vosotros que creéis!",
+        "014_01": "Hubo una parte de los hijos de Israel que creyó, pero otros descreyeron. (aL-YUMUA) En el nombre de Allah, el Misericordioso, el Compasivo.",
+        "014_02": "Dimos apoyo a los que habían creído contra sus enemigos y fueron los vencedores."
+      },
+      "arabic_reference_splits": {
+        "014_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُونُوٓاْ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ لِلۡحَوَارِيِّـۧنَ مَنۡ أَنصَارِيٓ إِلَى ٱللَّهِۖ",
+        "014_01": "قَالَ ٱلۡحَوَارِيُّونَ نَحۡنُ أَنصَارُ ٱللَّهِۖ فَـَٔامَنَت طَّآئِفَةٞ مِّنۢ بَنِيٓ إِسۡرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٞۖ",
+        "014_02": "فَأَيَّدۡنَا ٱلَّذِينَ ءَامَنُواْ عَلَىٰ عَدُوِّهِمۡ فَأَصۡبَحُواْ ظَٰهِرِينَ ٤١"
+      },
+      "combined_translation": "¡Vosotros que creéis! Hubo una parte de los hijos de Israel que creyó, pero otros descreyeron. (aL-YUMUA) En el nombre de Allah, el Misericordioso, el Compasivo. Dimos apoyo a los que habían creído contra sus enemigos y fueron los vencedores.",
+      "timestamp": "2025-12-07T22:17:00.433063"
+    },
+    {
+      "verse_key": "066_006",
+      "chapter": 66,
+      "verse_number": 6,
+      "error": "Words added: ['que', 'y', 'harán', 'lo', 'se', 'les', 'ordena']",
+      "original_translation_splits": {
+        "006_00": "¡Vosotros que creéis!",
+        "006_01": "Guardaos a vosotros mismos y a vuestra gente de un fuego cuyo combustible serán los hombres y las piedras."
+      },
+      "arabic_reference_splits": {
+        "006_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ قُوٓاْ أَنفُسَكُمۡ وَأَهۡلِيكُمۡ نَارٗا وَقُودُهَا ٱلنَّاسُ وَٱلۡحِجَارَةُ عَلَيۡهَا مَلَٰٓئِكَةٌ غِلَاظٞ شِدَادٞ لَّا يَعۡصُونَ ٱللَّهَ مَآ أَمَرَهُمۡ",
+        "006_01": "وَيَفۡعَلُونَ مَا يُؤۡمَرُونَ ٦"
+      },
+      "combined_translation": "¡Vosotros que creéis! Guardaos a vosotros mismos y a vuestra gente de un fuego cuyo combustible serán los hombres y las piedras.",
+      "timestamp": "2025-12-07T22:17:00.433917"
+    },
+    {
+      "verse_key": "066_008",
+      "chapter": 66,
+      "verse_number": 8,
+      "error": "Words added: ['ciertamente', 'tú', 'eres', 'poderoso', 'sobre', 'todas', 'las', 'cosas']",
+      "original_translation_splits": {
+        "008_00": "¡Vosotros que creéis!",
+        "008_01": "Volveos a Allah sinceramente para que vuestro Señor cubra vuestras maldades y os haga entrar en jardines por cuyo suelo corren los ríos.",
+        "008_02": "El día en que Allah no humillará ni al Profeta ni a los que hayan creído con él."
+      },
+      "arabic_reference_splits": {
+        "008_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ تُوبُوٓاْ إِلَى ٱللَّهِ تَوۡبَةٗ نَّصُوحًا عَسَىٰ رَبُّكُمۡ أَن يُكَفِّرَ عَنكُمۡ سَيِّـَٔاتِكُمۡ وَيُدۡخِلَكُمۡ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ",
+        "008_01": "يَوۡمَ لَا يُخۡزِي ٱللَّهُ ٱلنَّبِيَّ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥۖ نُورُهُمۡ يَسۡعَىٰ بَيۡنَ أَيۡدِيهِمۡ وَبِأَيۡمَٰنِهِمۡ يَقُولُونَ رَبَّنَآ أَتۡمِمۡ لَنَا نُورَنَا وَٱغۡفِرۡ لَنَآۖ",
+        "008_02": "إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ ٨"
+      },
+      "combined_translation": "¡Vosotros que creéis! Volveos a Allah sinceramente para que vuestro Señor cubra vuestras maldades y os haga entrar en jardines por cuyo suelo corren los ríos. El día en que Allah no humillará ni al Profeta ni a los que hayan creído con él.",
+      "timestamp": "2025-12-07T22:17:00.434760"
+    },
+    {
+      "verse_key": "098_008",
+      "chapter": 98,
+      "verse_number": 8,
+      "error": "Words removed: ['en', 'ellos']",
+      "original_translation_splits": {
+        "008_00": "La recompensa que junto a su Señor les espera, son los Jardines de Adn por cuyo suelo corren los ríos.En ellos",
+        "008_01": "Esto es para quien tema a su Señor."
+      },
+      "arabic_reference_splits": {
+        "008_00": "جَزَآؤُهُمۡ عِندَ رَبِّهِمۡ جَنَّٰتُ عَدۡنٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۖ رَّضِيَ ٱللَّهُ عَنۡهُمۡ وَرَضُواْ عَنۡهُۚ",
+        "008_01": "ذَٰلِكَ لِمَنۡ خَشِيَ رَبَّهُۥ ٨"
+      },
+      "combined_translation": "La recompensa que junto a su Señor les espera, son los Jardines de Adn por cuyo suelo corren los ríos.En ellos Esto es para quien tema a su Señor.",
+      "timestamp": "2025-12-07T22:17:00.435635"
+    }
+  ]
+}

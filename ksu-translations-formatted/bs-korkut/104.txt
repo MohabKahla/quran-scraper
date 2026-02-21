@@ -1,9 +1,0 @@
-001_00	Teško svakom klevetniku-podrugljivcu,
-002_00	koji blago gomila i prebrojava ga,
-003_00	i misli da će ga blago njegovo besmrtnim učiniti!
-004_00	A ne valja tako! On će, sigurno, biti bačen u Džehennem!
-005_00	A znaš li ti šta je Džehennem?
-006_00	Vatra Allahova razbuktana,
-007_00	koja će do srcā dopirati.
-008_00	Ona će iznad njih biti zatvorena,
-009_00	plamenim stupovima zasvođena.

@@ -1,0 +1,809 @@
+================================================================================
+VALIDATION REPORT: pt-elhayek
+================================================================================
+
+Total mismatches: 121
+
+By severity:
+  Critical (<80%):  1
+  Moderate (80-95%): 1
+  Minor (95-99%):   0
+  Trivial (>99%):   119
+
+================================================================================
+ISSUES BY CHAPTER
+================================================================================
+
+
+Chapter 002: 14 issues
+--------------------------------------------------------------------------------
+
+Verse 096 - Similarity: 99.8%
+  Original (230 chars):
+    Tu os acharás mais ávidos de viver do que ninguém, muito mais do que os idólatras, pois cada um dele...
+  Formatted (231 chars):
+    Tu os acharás mais ávidos de viver do que ninguém, muito mais do que os idólatras, pois cada um dele...
+
+Verse 101 - Similarity: 99.7%
+  Original (199 chars):
+    E quando lhes foi apresentado um Mensageiro (Mohammad) de Deus, que corroborou o que já possuíam, al...
+  Formatted (200 chars):
+    E quando lhes foi apresentado um Mensageiro (Mohammad) de Deus, que corroborou o que já possuíam, a ...
+
+Verse 136 - Similarity: 99.8%
+  Original (271 chars):
+    Dizei: Cremos em Deus, no que nos tem sido revelado, no que foi revelado a Abraão, a Ismael, a Isaac...
+  Formatted (272 chars):
+    Dizei: Cremos em Deus, no que nos tem sido revelado, no que foi revelado a Abraão, a Ismael, a Isaac...
+
+Verse 159 - Similarity: 99.7%
+  Original (163 chars):
+    Aqueles que ocultam as evidências e a Orientação que revelamos, depois de as havermos elucidado aos ...
+  Formatted (164 chars):
+    Aqueles que ocultam as evidências e a Orientação que revelamos, depois de as have rmos elucidado aos...
+
+Verse 164 - Similarity: 99.9%
+  Original (355 chars):
+    Na criação dos céus e da terra; na alteração do dia e da noite; nos navios que singram o mar para o ...
+  Formatted (356 chars):
+    Na criação dos céus e da terra; na alteração do dia e da noite; nos navios que singram o mar para o ...
+
+Verse 177 - Similarity: 99.7%
+  Original (543 chars):
+    A virtude não consiste só em que orientais vossos rostos até ao levante ou ao poente. A verdadeira v...
+  Formatted (546 chars):
+    A virtude não consiste só em que orientais vossos rostos até ao levante ou ao poente. A verdadeira v...
+
+Verse 212 - Similarity: 99.7%
+  Original (196 chars):
+    Foi abrilhantada a vida terrena aos incrédulos e, por isso, zombam dos fiéis; porém, os tementes pre...
+  Formatted (197 chars):
+    Foi abrilhantada a vida terrena aos incrédulos e, por isso, zombam dos fiéis; porém, os tementes p r...
+
+Verse 213 - Similarity: 99.9%
+  Original (425 chars):
+    No princípio os povos constituíam uma só nação. Então, Deus enviou os profetas como alvissareiros e ...
+  Formatted (426 chars):
+    No princípio os povos constituíam uma só nação. Então, Deus enviou os profetas como alvissareiros e ...
+
+Verse 217 - Similarity: 99.8%
+  Original (625 chars):
+    Quando te perguntarem se é lícito combater no mês sagrado, dize-lhes: A luta durante este mês é um g...
+  Formatted (627 chars):
+    Quando te perguntarem se é lícito combater no mês sagrado, dize-lhes: A luta durante este mês é um g...
+
+Verse 221 - Similarity: 99.9%
+  Original (502 chars):
+    Não desposareis as idólatras até que elas se convertam, porque uma escrava fiel é preferível a uma i...
+  Formatted (503 chars):
+    Não desposareis as idólatras até que elas se convertam, porque uma escrava fiel é preferível a uma i...
+
+  ... and 4 more issues in this chapter
+
+Chapter 003: 7 issues
+--------------------------------------------------------------------------------
+
+Verse 021 - Similarity: 99.7%
+  Original (157 chars):
+    Alerta aqueles que negam os versículos de Deus, assassinam iniquamente os profetas e matam os justic...
+  Formatted (158 chars):
+    Alerta aqueles que negam os versículos de Deus, assassinam iniquamente os prof etas e matam os justi...
+
+Verse 039 - Similarity: 99.7%
+  Original (179 chars):
+    Os anjos o chamaram, enquanto rezava no oratório, dizendo-lhe: Deus te anuncia o nascimento de João,...
+  Formatted (180 chars):
+    Os anjos o chamaram, enquanto rezava no oratório, dizendo-lhe: Deus te anuncia o nascimen to de João...
+
+Verse 045 - Similarity: 99.8%
+  Original (200 chars):
+    E quando os anjos disseram: Ó Maria, por certo que Deus te anuncia o Seu Verbo, cujo nome será o Mes...
+  Formatted (201 chars):
+    E quando os anjos disseram: Ó Maria, por certo que Deus te anuncia o Seu Verbo, cujo nome será o Mes...
+
+Verse 049 - Similarity: 99.9%
+  Original (409 chars):
+    E ele será um Mensageiro para os israelitas, (e lhes dirá): Apresento-vos um sinal d vosso Senhor: p...
+  Formatted (410 chars):
+    E ele será um Mensageiro para os israelitas, (e lhes dirá): Apresento-vos um sinal d vosso Senhor: p...
+
+Verse 103 - Similarity: 99.7%
+  Original (377 chars):
+    E apegai-vos, todos, ao vínculo com Deus e noa vos dividais; recorda-vos das mercês de Deus para con...
+  Formatted (379 chars):
+    E apegai-vos, todos, ao vínculo com Deus e noa vos dividais; recorda-vos das mercês de Deus para con...
+
+Verse 164 - Similarity: 99.7%
+  Original (195 chars):
+    Deus agraciou os fiéis, ao fazer surgir um Mensageiro da sua estirpe, que lhes ditou os Seus versícu...
+  Formatted (196 chars):
+    Deus agraciou os fiéis, ao fazer surgir um Mensageiro da sua estirpe, que lhes ditou os Seus vers íc...
+
+Verse 179 - Similarity: 99.7%
+  Original (341 chars):
+    Não é do propósito de Deus abandonar os fiéis no estado em que vos encontrais, até que Ele separe o ...
+  Formatted (343 chars):
+    Não é do propósito de Deus abandonar os fiéis no estado em que vos encontrais, até que Ele separe o ...
+
+Chapter 004: 14 issues
+--------------------------------------------------------------------------------
+
+Verse 023 - Similarity: 99.9%
+  Original (585 chars):
+    Está-vos vedado casar com: vossas mães, vossas filhas, vossas irmãs, vossas tias paternas e maternas...
+  Formatted (586 chars):
+    Está-vos vedado casar com: vossas mães, vossas filhas, vossas irmãs, vossas tias paternas e maternas...
+
+Verse 025 - Similarity: 99.9%
+  Original (597 chars):
+    E quem, dentre vós, não possuir recursos suficientes para casar-se com as fiéis livres, poderá fazê-...
+  Formatted (598 chars):
+    E quem, dentre vós, não possuir recursos suficientes para casar-se com as fiéis livres, poderá fazê-...
+
+Verse 029 - Similarity: 99.7%
+  Original (177 chars):
+    Ó fiéis,, não consumais reciprocamente os vossos bens, por vaidades, realizai comércio de mútuo cons...
+  Formatted (178 chars):
+    Ó fiéis,, não consumais reciprocamente os vossos bens, por vaidades, realizai comércio d e mútuo con...
+
+Verse 036 - Similarity: 99.6%
+  Original (257 chars):
+    Adorai a Deus e não Lhe atribuais parceiros. Tratai com benevolência vossos pais e parentes, os órfã...
+  Formatted (259 chars):
+    Adorai a Deus e não Lhe atribuais parceiros. Tratai com benevolência vossos pais e pa rentes, os órf...
+
+Verse 043 - Similarity: 99.8%
+  Original (486 chars):
+    Ó fiéis, não vos deis à oração, quando vos achardes ébrios, até que saibais o que dizeis, nem quando...
+  Formatted (488 chars):
+    Ó fiéis, não vos deis à oração, quando vos achardes ébrios, até que saibais o que dizeis, nem quando...
+
+Verse 047 - Similarity: 99.8%
+  Original (243 chars):
+    Ó adeptos do Livro, crede no que vos revelamos, coisa que bem corrobora o que tendes, antes que desf...
+  Formatted (244 chars):
+    Ó adeptos do Livro, crede no que vos revelamos, coisa que bem corrobora o que tendes, antes que desf...
+
+Verse 090 - Similarity: 99.9%
+  Original (406 chars):
+    Exceto àqueles que se refugiarem em um povo, entre o qual e vós exista uma aliança, ou os que, apres...
+  Formatted (407 chars):
+    Exceto àqueles que se refugiarem em um povo, entre o qual e vós exista uma aliança, ou os que, apres...
+
+Verse 092 - Similarity: 99.7%
+  Original (594 chars):
+    Não é dado, a um fiel, matar outro fiel, salvo involuntariamente; e quem, por engano, matar um fiel,...
+  Formatted (597 chars):
+    Não é dado, a um fiel, matar outro fiel, salvo involuntariamente; e quem, por engano, matar um fiel,...
+
+Verse 095 - Similarity: 99.8%
+  Original (404 chars):
+    Os fiéis, que, sem razão fundada, permanecem em suas casas, jamais se equiparam àqueles que sacrific...
+  Formatted (406 chars):
+    Os fiéis, que, sem razão fundada, permanecem em suas casas, jamais se equiparam àqueles que sacrific...
+
+Verse 101 - Similarity: 99.7%
+  Original (166 chars):
+    Quanto viajantes pela terra não sereis recriminados por abreviardes as orações, temendo que vos ataq...
+  Formatted (167 chars):
+    Quanto viajantes pela terra não sereis recriminados por abreviardes as orações, tem endo que vos ata...
+
+  ... and 4 more issues in this chapter
+
+Chapter 005: 10 issues
+--------------------------------------------------------------------------------
+
+Verse 005 - Similarity: 99.9%
+  Original (531 chars):
+    Hoje, estão-vos permitidas todas as coisas sadias, assim como vos é lícito o alimento dos que recebe...
+  Formatted (532 chars):
+    Hoje, estão-vos permitidas todas as coisas sadias, assim como vos é lícito o alimento dos que recebe...
+
+Verse 006 - Similarity: 99.6%
+  Original (556 chars):
+    Ó fiéis, sempre que vos dispuserdes a observar a oração, lavai o rosto, as mãos e os antebraços até ...
+  Formatted (560 chars):
+    Ó fiéis, sempre que vos dispuserdes a observar a oração, lavai o rosto, as mãos e os antebraços até ...
+
+Verse 012 - Similarity: 99.9%
+  Original (408 chars):
+    Deus cumpriu uma antiga promessa feita aos israelitas, e designou-lhes doze chefes, dentre eles, diz...
+  Formatted (409 chars):
+    Deus cumpriu uma antiga promessa feita aos israelitas, e designou-lhes doze chefes, dentre eles, diz...
+
+Verse 020 - Similarity: 99.8%
+  Original (235 chars):
+    Recorda-lhes de quando Moisés disse ao seu povo: Ó povo meu, lembrai-vos das mercês e Deus para conv...
+  Formatted (236 chars):
+    Recorda-lhes de quando Moisés disse ao seu povo: Ó povo meu, lembrai-vos das mercês e Deus para conv...
+
+Verse 023 - Similarity: 99.7%
+  Original (197 chars):
+    E dois tementes, aos quais Deus havia agraciado, disseram: Entrai, de assalto, pelo pórtico; porque ...
+  Formatted (198 chars):
+    E dois tementes, aos quais Deus havia agraciado, disseram: Entrai, de assalto, pelo pórtico; porqu e...
+
+Verse 032 - Similarity: 99.8%
+  Original (307 chars):
+    Por isso, prescrevemos aos israelitas que quem matar uma pessoa, sem que esta tenha cometido homicíd...
+  Formatted (308 chars):
+    Por isso, prescrevemos aos israelitas que quem matar uma pessoa, sem que esta tenha cometido homicíd...
+
+Verse 077 - Similarity: 99.8%
+  Original (208 chars):
+    Dize-lhes: Ó adeptos do Livro, não exagereis em vossa religião, profanado a verdade, nem sigais o ca...
+  Formatted (209 chars):
+    Dize-lhes: Ó adeptos do Livro, não exagereis em vossa religião, profanado a verdade, nem sigais o ca...
+
+Verse 103 - Similarity: 99.8%
+  Original (207 chars):
+    Deus nada prescreveu, com referência às superstições, tais como a "bahira", ou a "sa'iba", ou a "wac...
+  Formatted (208 chars):
+    Deus nada prescreveu, com referência às superstições, tais como a "bahira", ou a "sa'iba", ou a "wac...
+
+Verse 106 - Similarity: 99.9%
+  Original (517 chars):
+    Ó fiéis, quando a morte se aproximar de algum de vós e este se dispuser a fazer um testamento, que a...
+  Formatted (518 chars):
+    Ó fiéis, quando a morte se aproximar de algum de vós e este se dispuser a fazer um testamento, que a...
+
+Verse 110 - Similarity: 99.8%
+  Original (736 chars):
+    Então, Deus dirá: Ó Jesus, filho de Maria, recordar-te de Minhas Mercês para contigo e para com tua ...
+  Formatted (739 chars):
+    Então, Deus dirá: Ó Jesus, filho de Maria, recordar-te de Minhas Mercês para contigo e para com tua ...
+
+Chapter 006: 7 issues
+--------------------------------------------------------------------------------
+
+Verse 059 - Similarity: 99.8%
+  Original (280 chars):
+    Ele possui as chaves do incognoscível, coisa que ninguém, além d'Ele, possui; Ele sabe o eu há na te...
+  Formatted (281 chars):
+    Ele possui as chaves do incognoscível, coisa que ninguém, além d'Ele, possui; Ele sabe o eu há na te...
+
+Verse 060 - Similarity: 99.8%
+  Original (230 chars):
+    Ele é Quem vos recolhe, durante o sono, e vos reanima durante o dia, bem sabendo o que fazeis, a fim...
+  Formatted (231 chars):
+    Ele é Quem vos recolhe, durante o sono, e vos reanima durante o dia, bem sabendo o que fazeis, a fim...
+
+Verse 070 - Similarity: 99.9%
+  Original (412 chars):
+    Distancia-te daqueles que tomam a religião por jogo e diversão, a quem ilude a vida terrena, e relem...
+  Formatted (413 chars):
+    Distancia-te daqueles que tomam a religião por jogo e diversão, a quem ilude a vida terrena, e relem...
+
+Verse 121 - Similarity: 99.8%
+  Original (234 chars):
+    Não comais aquilo (concernente a carnes) sobre o qual não tenha sido invocado o nome de Deus, porque...
+  Formatted (235 chars):
+    Não comais aquilo (concernente a carnes) sobre o qual não tenha sido invocado o nome de Deus, porque...
+
+Verse 128 - Similarity: 99.9%
+  Original (387 chars):
+    No dia em que Ele congregar todos (e disser): Ó assembléia de gênios, já seduziste bastante o homem!...
+  Formatted (388 chars):
+    No dia em que Ele congregar todos (e disser): Ó assembléia de gênios, já seduziste bastante o homem!...
+
+Verse 146 - Similarity: 99.8%
+  Original (264 chars):
+    Quanto àqueles que seguiram a lei judaica, vedamos-lhes os animais solípedes e, dos bovinos e ovinos...
+  Formatted (265 chars):
+    Quanto àqueles que seguiram a lei judaica, vedamos-lhes os animais solípedes e, dos bovi nos e ovino...
+
+Verse 151 - Similarity: 99.8%
+  Original (429 chars):
+    Dize (ainda mais): Vinde, para que eu vos prescreva o que vosso Senhor vos vedou: Não Lhe atribuais ...
+  Formatted (431 chars):
+    Dize (ainda mais): Vinde, para que eu vos prescreva o que vosso Senhor vos vedou: Não Lhe atribuais ...
+
+Chapter 007: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 134 - Similarity: 99.7%
+  Original (195 chars):
+    Mas quando vos açoitou o castigo, disseram: Ó Moisés, implora por nós, de teu Senhor, o que te prome...
+  Formatted (196 chars):
+    Mas quando vos açoitou o castigo, disseram: Ó Moisés, implora por nós, de teu Senhor, o que te pr om...
+
+Verse 141 - Similarity: 99.8%
+  Original (209 chars):
+    Recordai-vos de quando vos livramos do povo do Faraó que vos infligia os piores castigos, sacrifican...
+  Formatted (210 chars):
+    Recordai-vos de quando vos livramos do povo do Faraó que vos infligia os piores castigos, sacrifican...
+
+Verse 157 - Similarity: 99.9%
+  Original (392 chars):
+    São aqueles que seguem o Mensageiro, o Profeta iletrado, o qual encontram mencionado em sua Tora e n...
+  Formatted (393 chars):
+    São aqueles que seguem o Mensageiro, o Profeta iletrado, o qual encontram mencionado em sua Tora e n...
+
+Verse 167 - Similarity: 99.8%
+  Original (229 chars):
+    E de quando teu Senhor declarou que enviaria contra eles (os judeus) alguém que lhes infligiria o pi...
+  Formatted (230 chars):
+    E de quando teu Senhor declarou que enviaria contra eles (os judeus) alguém que lhes infligiria o pi...
+
+Chapter 008: 8 issues
+--------------------------------------------------------------------------------
+
+Verse 019 - Similarity: 99.8%
+  Original (248 chars):
+    (Ó incrédulos) se imploráveis a vitória, eis a vitória que vos foi dada; se desistirdes, será melhor...
+  Formatted (249 chars):
+    (Ó incrédulos) se imploráveis a vitória, eis a vitória que vos foi dada; se desistirdes, será melhor...
+
+Verse 041 - Similarity: 99.8%
+  Original (316 chars):
+    E sabei que, de tudo quanto adquirirdes de despojos, a quinta parte pertencerá a Deus, ao Mensageiro...
+  Formatted (317 chars):
+    E sabei que, de tudo quanto adquirirdes de despojos, a quinta parte pertencerá a Deus, ao Mensageiro...
+
+Verse 042 - Similarity: 99.8%
+  Original (464 chars):
+    Recordai-vos de quanto estáveis acampados na rampa, do vale, mais próxima (a Madina), e eles na mais...
+  Formatted (466 chars):
+    Recordai-vos de quanto estáveis acampados na rampa, do vale, mais próxima (a Madina), e eles na mais...
+
+Verse 043 - Similarity: 99.8%
+  Original (286 chars):
+    Recorda-te (ó Mensageiro) de quando, em sonhos, Deus te fez crer (o exército inimigo) em número redu...
+  Formatted (287 chars):
+    Recorda-te (ó Mensageiro) de quando, em sonhos, Deus te fez crer (o exército inimigo) em número redu...
+
+Verse 044 - Similarity: 99.8%
+  Original (207 chars):
+    E de quando os enfrentastes, e Ele os fez parecer, aos vossos olhos, pouco numerosos; Ele vos dissim...
+  Formatted (208 chars):
+    E de quando os enfrentastes, e Ele os fez parecer, aos vossos olhos, pouco numerosos; Ele vos dissim...
+
+Verse 070 - Similarity: 99.8%
+  Original (223 chars):
+    Ó Profeta, dize aos cativos que estão e vosso poder: Se Deus descobrir sinceridade em vossos coraçõe...
+  Formatted (224 chars):
+    Ó Profeta, dize aos cativos que estão e vosso poder: Se Deus descobrir sinceridade em vossos coraçõe...
+
+Verse 074 - Similarity: 99.7%
+  Original (189 chars):
+    Quanto aos fiéis que migraram e combateram pela causa de Deus, assim como aqueles que os apararam e ...
+  Formatted (190 chars):
+    Quanto aos fiéis que migraram e combateram pela causa de Deus, assim como aqueles que os apara ram e...
+
+Verse 075 - Similarity: 99.7%
+  Original (193 chars):
+    E aqueles que creram depois, migraram e combateram junto a vós, serão dos vossos; porém, os parentes...
+  Formatted (194 chars):
+    E aqueles que creram depois, migraram e combateram junto a vós, serão dos vossos; porém, os pare nte...
+
+Chapter 009: 5 issues
+--------------------------------------------------------------------------------
+
+Verse 023 - Similarity: 99.7%
+  Original (160 chars):
+    Ó fiéis, não tomeis por confidentes vossos pais e irmãos, se preferirem a incredulidade à fé; aquele...
+  Formatted (161 chars):
+    Ó fiéis, não tomeis por confidentes vossos pais e irmãos, se preferirem a incred ulidade à fé; aquel...
+
+Verse 025 - Similarity: 99.8%
+  Original (225 chars):
+    Deus vos socorreu em muitos campos de batalha - como aconteceu no dia de Hunain, quando vos ufanávei...
+  Formatted (226 chars):
+    Deus vos socorreu em muitos campos de batalha - como aconteceu no dia de Hunain, quando vos ufanávei...
+
+Verse 029 - Similarity: 99.8%
+  Original (219 chars):
+    Combatei aqueles que não crêem em Deus e no Dia do Juízo Final, nem abstêm do que Deus e Seu Mensage...
+  Formatted (220 chars):
+    Combatei aqueles que não crêem em Deus e no Dia do Juízo Final, nem abstêm do que Deus e Seu Mensage...
+
+Verse 120 - Similarity: 99.9%
+  Original (395 chars):
+    Não deveriam o povo de Madina e seus vizinhos beduínos se negar a seguir o Mensageiro de Deus, nem p...
+  Formatted (396 chars):
+    Não deveriam o povo de Madina e seus vizinhos beduínos se negar a seguir o Mensageiro de Deus, nem p...
+
+Verse 122 - Similarity: 99.8%
+  Original (207 chars):
+    Não devem todos os fiéis, de uma só vez, sair para o combate; deve permanecer uma parte de cada cole...
+  Formatted (208 chars):
+    Não devem todos os fiéis, de uma só vez, sair para o combate; deve permanecer uma parte de cada cole...
+
+Chapter 010: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 061 - Similarity: 99.9%
+  Original (340 chars):
+    Em qualquer situação em que vos encontrardes, qualquer parte do Alcorão que recitardes, seja qual fo...
+  Formatted (341 chars):
+    Em qualquer situação em que vos encontrardes, qualquer parte do Alcorão que recitardes, seja qual fo...
+
+Verse 104 - Similarity: 99.8%
+  Original (227 chars):
+    Dize-lhes mais: Ó humanos, se estais em dúvida quanto à minha religião, sabei que eu não adorarei o ...
+  Formatted (228 chars):
+    Dize-lhes mais: Ó humanos, se estais em dúvida quanto à minha religião, sabei que eu não adorarei o ...
+
+Verse 107 - Similarity: 99.8%
+  Original (231 chars):
+    E se Deus te infligir algum mal, ninguém, além d'Ele, poderá removê-lo; e se Ele te agraciar, ningué...
+  Formatted (232 chars):
+    E se Deus te infligir algum mal, ninguém, além d'Ele, poderá removê-lo; e se Ele te agraciar, ningué...
+
+Chapter 011: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 057 - Similarity: 99.8%
+  Original (224 chars):
+    Porém, se vos recusais, sabei que vos comuniquei a Mensagem com a qual fui enviado a vós; e o meu Se...
+  Formatted (225 chars):
+    Porém, se vos recusais, sabei que vos comuniquei a Mensagem com a qual fui enviado a vós; e o meu Se...
+
+Chapter 012: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 088 - Similarity: 99.8%
+  Original (215 chars):
+    E quando se apresentaram a ele (José) disseram: Ó excelência, a miséria caiu sobre nós e nossa famíl...
+  Formatted (216 chars):
+    E quando se apresentaram a ele (José) disseram: Ó excelência, a miséria caiu sobre nós e nossa famíl...
+
+Chapter 013: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.8%
+  Original (229 chars):
+    Pedem-te que lhes seja apressado o mal, ao invés do bem, quando antes disso houve castigos exemplare...
+  Formatted (230 chars):
+    Pedem-te que lhes seja apressado o mal, ao invés do bem, quando antes disso houve castigos exemplare...
+
+Verse 025 - Similarity: 99.8%
+  Original (210 chars):
+    Em troca, aqueles que violam o compromisso com Deus, depois de o haverem constituído, que desunem o ...
+  Formatted (211 chars):
+    Em troca, aqueles que violam o compromisso com Deus, depois de o haverem constituído, que desunem o ...
+
+Chapter 016: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 080 - Similarity: 99.8%
+  Original (278 chars):
+    Deus vos designou lares, para morada, e vos proporcionou tendas, feitas de peles de animais, as quai...
+  Formatted (279 chars):
+    Deus vos designou lares, para morada, e vos proporcionou tendas, feitas de peles de animais, as quai...
+
+Verse 091 - Similarity: 99.7%
+  Original (181 chars):
+    Cumpri o pacto com Deus, se houverdes feito, e não perjureis, depois de haverdes jurado solenemente,...
+  Formatted (182 chars):
+    Cumpri o pacto com Deus, se houverdes feito, e não perjureis, depois de haverdes jurado so lenemente...
+
+Verse 112 - Similarity: 99.8%
+  Original (279 chars):
+    Deus exemplifica (osso) com o relato de uma cidade que vivia segura e tranqüila, à qual chegavam, de...
+  Formatted (280 chars):
+    Deus exemplifica (osso) com o relato de uma cidade que vivia segura e tranqüila, à qual chegavam, de...
+
+Verse 115 - Similarity: 99.8%
+  Original (252 chars):
+    Ele só vos vedou a carniça, o sangue, a carne de suíno e tudo o que tenha sido sacrificado com a inv...
+  Formatted (253 chars):
+    Ele só vos vedou a carniça, o sangue, a carne de suíno e tudo o que tenha sido sacrificado com a inv...
+
+Chapter 017: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 012 - Similarity: 99.8%
+  Original (267 chars):
+    Fizemos da noite e do dia dois exemplos; enquanto obscurecemos o sinal da noite, fizemos o sinal do ...
+  Formatted (268 chars):
+    Fizemos da noite e do dia dois exemplos; enquanto obscurecemos o sinal da noite, fizemos o sinal do ...
+
+Verse 023 - Similarity: 99.8%
+  Original (237 chars):
+    O decreto de teu Senhor é que não adoreis senão a Ele; que sejais indulgentes com vossos pais, mesmo...
+  Formatted (238 chars):
+    O decreto de teu Senhor é que não adoreis senão a Ele; que sejais indulgentes com vossos pais, mesmo...
+
+Verse 033 - Similarity: 99.8%
+  Original (213 chars):
+    Não mateis o ser que Deus vedou matar, senão legitimamente; mas, quanto a quem é morto injustamente,...
+  Formatted (214 chars):
+    Não mateis o ser que Deus vedou matar, senão legitimamente; mas, quanto a quem é morto injustamente,...
+
+Chapter 018: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 063 - Similarity: 85.1%
+  Original (200 chars):
+    Respondeu-lhe: Lembras-te de quando nos refugiamos junto à rocha? Eu me esqueci do peixe - e ninguém...
+  Formatted (148 chars):
+    Respondeu-lhe: Lembras-te de quando nos refugiamos junto à rocha? Eu me esqueci do peixe - e ninguém...
+
+Chapter 019: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 058 - Similarity: 99.8%
+  Original (285 chars):
+    Eis aqueles que Deus agraciou, dentre os profetas, da descendência de Adão, os que embarcamos com No...
+  Formatted (286 chars):
+    Eis aqueles que Deus agraciou, dentre os profetas, da descendência de Adão, os que embarcamos com No...
+
+Chapter 021: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 090 - Similarity: 99.7%
+  Original (195 chars):
+    E o atendemos e o agraciamos com Yahia (João), e curamos sua mulher (de esterilidade); um procurava ...
+  Formatted (196 chars):
+    E o atendemos e o agraciamos com Yahia (João), e curamos sua mulher (de esterilidade); um procura va...
+
+Chapter 022: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 002 - Similarity: 99.7%
+  Original (199 chars):
+    No dia em que a presenciardes, casa nutriente esquecerá o filho que amamenta; toda a gestante aborta...
+  Formatted (200 chars):
+    No dia em que a presenciardes, casa nutriente esquecerá o filho que amamenta; toda a gestante abort ...
+
+Verse 005 - Similarity: 99.9%
+  Original (691 chars):
+    Ó humanos, se estais em dúvida sobre a ressurreição, reparai em que vos criamos do pó, depois do esp...
+  Formatted (693 chars):
+    Ó humanos, se estais em dúvida sobre a ressurreição, reparai em que vos criamos do pó, depois do esp...
+
+Verse 017 - Similarity: 99.7%
+  Original (170 chars):
+    Quanto aos fiéis, judeus, sabeus, cristão, masdeístas ou idólatras, certamente Deus os julgará a tod...
+  Formatted (171 chars):
+    Quanto aos fiéis, judeus, sabeus, cristão, masdeístas ou idólatras, certamente Deus o s julgará a to...
+
+Chapter 024: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 031 - Similarity: 99.7%
+  Original (600 chars):
+    Dize às fiéis que recatem os seus olhares, conservem os seus pudores e não mostrem os seus atrativos...
+  Formatted (604 chars):
+    Dize às fiéis que recatem os seus olhares, conservem os seus pudores e não mostrem os seus atrativos...
+
+Verse 055 - Similarity: 99.7%
+  Original (324 chars):
+    Deus prometeu, àqueles dentre vós que crêem e praticam o bem, fazê-los herdeiros da terra, como fez ...
+  Formatted (326 chars):
+    Deus prometeu, àqueles dentre vós que crêem e praticam o bem, fazê-los herdeiros da terra, como fez ...
+
+Verse 058 - Similarity: 99.9%
+  Original (422 chars):
+    Ó fiéis, que vossos criados e aqueles que ainda não alcançaram a puberdade vos peçam permissão (para...
+  Formatted (423 chars):
+    Ó fiéis, que vossos criados e aqueles que ainda não alcançaram a puberdade vos peçam permissão (para...
+
+Verse 061 - Similarity: 99.7%
+  Original (533 chars):
+    Não haverá recriminação se o cego, o coxo, o enfermo, vós mesmos, comerdes em vossas casas, nas de v...
+  Formatted (536 chars):
+    Não haverá recriminação se o cego, o coxo, o enfermo, vós mesmos, comerdes em vossas casas, nas de v...
+
+Chapter 028: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.7%
+  Original (158 chars):
+    E inspiramos a mãe de Moisés: Amamenta-o e, se temes por ele, lança-o ao rio; não temas, nem te afli...
+  Formatted (159 chars):
+    E inspiramos a mãe de Moisés: Amamenta-o e, se temes por ele, lança-o ao rio; n ão temas, nem te afl...
+
+Chapter 029: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 040 - Similarity: 99.6%
+  Original (279 chars):
+    Porém, castigamos cada um, por seus pecados; sobre alguns deles desencadeamos um furacão; a outros, ...
+  Formatted (281 chars):
+    Porém, castigamos cada um, por seus pecados; sobre alguns deles desencadeamos um furacão; a o utros,...
+
+Chapter 031: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 016 - Similarity: 99.8%
+  Original (207 chars):
+    Ó filho meu (disse) Lucman, em verdade, ainda que algo como o peso de um grão de mostarda estivesse ...
+  Formatted (208 chars):
+    Ó filho meu (disse) Lucman, em verdade, ainda que algo como o peso de um grão de mostarda estivesse ...
+
+Chapter 033: 7 issues
+--------------------------------------------------------------------------------
+
+Verse 033 - Similarity: 99.8%
+  Original (273 chars):
+    E permanecei tranqüilas em vossos lares, e não façais exibições, como as da época da idolatria; obse...
+  Formatted (274 chars):
+    E permanecei tranqüilas em vossos lares, e não façais exibições, como as da época da idolatria; obse...
+
+Verse 035 - Similarity: 99.9%
+  Original (418 chars):
+    Quanto aos muçulmanos e às muçulmanas, aos fiéis e às fiéis, aos consagrados e às consagradas, aos v...
+  Formatted (419 chars):
+    Quanto aos muçulmanos e às muçulmanas, aos fiéis e às fiéis, aos consagrados e às consagradas, aos v...
+
+Verse 037 - Similarity: 99.8%
+  Original (598 chars):
+    Recorda-te de quando disseste àquele que Deus agraciou, e tu favoreceste: Permanece com tua esposa e...
+  Formatted (600 chars):
+    Recorda-te de quando disseste àquele que Deus agraciou, e tu favoreceste: Permanece com tua esposa e...
+
+Verse 049 - Similarity: 99.8%
+  Original (201 chars):
+    Ó fiéis, se vos casardes com as fiéis e as repudiardes, antes de haverde-las tocado, não lhes exigia...
+  Formatted (202 chars):
+    Ó fiéis, se vos casardes com as fiéis e as repudiardes, antes de haverde-las tocado, não lhes exigia...
+
+Verse 050 - Similarity: 99.8%
+  Original (638 chars):
+    Ó Profeta, em verdade, tornamos lícitas, para ti as esposas que tenhas dotado, assim como as que a t...
+  Formatted (640 chars):
+    Ó Profeta, em verdade, tornamos lícitas, para ti as esposas que tenhas dotado, assim como as que a t...
+
+Verse 051 - Similarity: 99.7%
+  Original (382 chars):
+    Podes abandonar, dentre elas, as que desejares e tomar as que te agradarem; e se desejares tomar de ...
+  Formatted (384 chars):
+    Podes abandonar, dentre elas, as que desejares e tomar as que te agradarem; e se desejares tomar de ...
+
+Verse 053 - Similarity: 99.9%
+  Original (544 chars):
+    Ó fiéis, não entreis na casas do Profeta, salvo se tiverdes sido convidados a uma refeição, mas não ...
+  Formatted (545 chars):
+    Ó fiéis, não entreis na casas do Profeta, salvo se tiverdes sido convidados a uma refeição, mas não ...
+
+Chapter 034: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 037 - Similarity: 99.8%
+  Original (247 chars):
+    E não serão nem as vossas riquezas, nem os vosso filhos que vos aproximarão dignamente de Nós; outro...
+  Formatted (248 chars):
+    E não serão nem as vossas riquezas, nem os vosso filhos que vos aproximarão dignamente de Nós; outro...
+
+Chapter 035: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 001 - Similarity: 99.7%
+  Original (188 chars):
+    Louvado seja Deus, Criador dos céus e da terra, Que fez dos anjos mensageiros, dotados de dois, três...
+  Formatted (189 chars):
+    Louvado seja Deus, Criador dos céus e da terra, Que fez dos anjos mensageiros, dotados de dois , trê...
+
+Verse 012 - Similarity: 99.8%
+  Original (303 chars):
+    Jamais se equipararão as duas águas, uma doce, agradável de ser bebida, e a outra, que é salobra e a...
+  Formatted (304 chars):
+    Jamais se equipararão as duas águas, uma doce, agradável de ser bebida, e a outra, que é salobra e a...
+
+Chapter 038: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 024 - Similarity: 99.8%
+  Original (305 chars):
+    (David lhe) disse: Verdadeiramente, fraudou-te, com o pedido de acréscimo da tua ovelha; muito sócio...
+  Formatted (306 chars):
+    (David lhe) disse: Verdadeiramente, fraudou-te, com o pedido de acréscimo da tua ovelha; muito sócio...
+
+Chapter 039: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 053 - Similarity: 99.7%
+  Original (188 chars):
+    Dize: Ó servos meus, que se excederam contra si próprios, não desespereis da misericórdia de Deus; c...
+  Formatted (189 chars):
+    Dize: Ó servos meus, que se excederam contra si próprios, não desespereis da misericórdia de D eus; ...
+
+Chapter 040: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.8%
+  Original (325 chars):
+    Os (anjos) que carregam o Trono de Deus, e aqueles que o circundam, celebram os louvores do seu Senh...
+  Formatted (326 chars):
+    Os (anjos) que carregam o Trono de Deus, e aqueles que o circundam, celebram os louvores do seu Senh...
+
+Verse 034 - Similarity: 99.7%
+  Original (188 chars):
+    Em verdade, José vos apresentou as evidências; porém não cessastes de duvidar do que vos apresentou,...
+  Formatted (189 chars):
+    Em verdade, José vos apresentou as evidências; porém não cessastes de duvidar do que vos apres entou...
+
+Chapter 041: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 016 - Similarity: 99.7%
+  Original (199 chars):
+    Pelo que desencadeamos sobre eles um vento glacial, em dias nefastos, para fazê-los sofrer o castigo...
+  Formatted (200 chars):
+    Pelo que desencadeamos sobre eles um vento glacial, em dias nefastos, para fazê-los sofrer o castig ...
+
+Chapter 042: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.8%
+  Original (236 chars):
+    E assim te revelamos um Alcorão árabe para que admoestes a Mãe das Metrópoles e tudo ao seu redor, a...
+  Formatted (237 chars):
+    E assim te revelamos um Alcorão árabe para que admoestes a Mãe das Metrópoles e tudo ao seu redor, a...
+
+Chapter 048: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 026 - Similarity: 99.8%
+  Original (241 chars):
+    Quando os incrédulos fomentaram o fanatismo - fanatismo da idolatria - em seus corações Deus infundi...
+  Formatted (242 chars):
+    Quando os incrédulos fomentaram o fanatismo - fanatismo da idolatria - em seus corações Deus infundi...
+
+Chapter 049: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 002 - Similarity: 99.7%
+  Original (178 chars):
+    Ó fiéis, não altereis as vossas vozes acima da voz do Profeta, nem lhe faleis em voz alta, como faze...
+  Formatted (179 chars):
+    Ó fiéis, não altereis as vossas vozes acima da voz do Profeta, nem lhe faleis em voz alta , como faz...
+
+Chapter 057: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 027 - Similarity: 99.7%
+  Original (436 chars):
+    Então, após eles, enviamos outros mensageiros Nossos e, após estes, enviamos Jesus, filho de Maria, ...
+  Formatted (439 chars):
+    Então, após eles, enviamos outros mensageiros Nossos e, após estes, enviamos Jesus, filho de Maria, ...
+
+Verse 029 - Similarity: 99.7%
+  Original (199 chars):
+    Que os adeptos do Livro saibam que não têm qualquer poder sobre a graça de Deus, porque a graça some...
+  Formatted (200 chars):
+    Que os adeptos do Livro saibam que não têm qualquer poder sobre a graça de Deus, porque a graça som ...
+
+Chapter 058: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 012 - Similarity: 99.8%
+  Original (212 chars):
+    Ó fiéis, quando fordes consultar privativamente o Mensageiro, fazei antes uma caridade; isso será me...
+  Formatted (213 chars):
+    Ó fiéis, quando fordes consultar privativamente o Mensageiro, fazei antes uma caridade; isso será me...
+
+Chapter 060: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 010 - Similarity: 99.7%
+  Original (613 chars):
+    Ó fiéis, quando se vos apresentarem as fugitivas fiéis, examinai-as, muito embora Deus conheça a sua...
+  Formatted (617 chars):
+    Ó fiéis, quando se vos apresentarem as fugitivas fiéis, examinai-as, muito embora Deus conheça a sua...
+
+Verse 012 - Similarity: 99.9%
+  Original (391 chars):
+    Ó Profeta, quando as fiéis se apresentarem a ti, jurando-te fidelidade, afirmando-te que não atribui...
+  Formatted (392 chars):
+    Ó Profeta, quando as fiéis se apresentarem a ti, jurando-te fidelidade, afirmando-te que não atribui...
+
+Chapter 065: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 012 - Similarity: 99.7%
+  Original (188 chars):
+    Deus foi Quem criou sete firmamentos e outro tanto de terras; e Seus desígnios se cumprem, entre ele...
+  Formatted (189 chars):
+    Deus foi Quem criou sete firmamentos e outro tanto de terras; e Seus desígnios se cumprem, ent re el...
+
+Chapter 066: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 008 - Similarity: 99.9%
+  Original (378 chars):
+    Ó fiéis, voltai, sinceramente arrependidos, a Deus; é possível que o vosso Senhor absolva as vossas ...
+  Formatted (379 chars):
+    Ó fiéis, voltai, sinceramente arrependidos, a Deus; é possível que o vosso Senhor absolva as vossas ...

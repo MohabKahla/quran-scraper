@@ -1,0 +1,695 @@
+{
+  "translation": "ha-gumi",
+  "total_failures": 41,
+  "generated_at": "2025-12-07T23:22:21.061860",
+  "failures": [
+    {
+      "verse_key": "002_033",
+      "chapter": 2,
+      "verse_number": 33,
+      "error": "Words added: ['falamma', 'anbā', 'ahum', 'bi', 'asmā', 'ihim', 'qālā', 'alam', 'aql', 'l']",
+      "original_translation_splits": {
+        "033_00": "Ya ce: \"Yã Ãdam!",
+        "033_01": "Ka gaya musu sũnãyensu."
+      },
+      "arabic_reference_splits": {
+        "033_00": "قَالَ يَٰٓـَٔادَمُ أَنۢبِئۡهُم بِأَسۡمَآئِهِمۡۖ",
+        "033_01": "فَلَمَّآ أَنۢبَأَهُم بِأَسۡمَآئِهِمۡ قَالَ أَلَمۡ أَقُل لَّكُمۡ إِنِّيٓ أَعۡلَمُ غَيۡبَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَأَعۡلَمُ مَا تُبۡدُونَ وَمَا كُنتُمۡ تَكۡتُمُونَ ٣٣"
+      },
+      "combined_translation": "Ya ce: \"Yã Ãdam! Ka gaya musu sũnãyensu.",
+      "timestamp": "2025-12-07T23:22:20.999639"
+    },
+    {
+      "verse_key": "002_085",
+      "chapter": 2,
+      "verse_number": 85,
+      "error": "Words added: ['kuma', 'ku', 'da', 'daga', 'gare', 'a', 'a', 'faman', 'jaza', 'mai', 'mai', 'yi', 'wa', 'wanda', 'ya', 'ya', 'aikata', 'aikata', 'haka', 'sai', 'dai', 'kunya', 'cikin', 'rayuwarsu', 'allah', 'ba', 'zama', 'gãfara', 'ga', 'abin', 'kuke']",
+      "original_translation_splits": {
+        "085_00": "Sa'an nan kuma, gã ku, yã waɗannan!",
+        "085_01": "Kuna kashe kanku,",
+        "085_02": "kuma kuna fitar da wani ɓangare daga gare ku daga gidãjensu,",
+        "085_03": "kuna taimakon jũna a kansu da zunubi da zãlunci"
+      },
+      "arabic_reference_splits": {
+        "085_00": "ثُمَّ أَنتُمۡ هَٰٓؤُلَآءِ تَقۡتُلُونَ أَنفُسَكُمۡ وَتُخۡرِجُونَ فَرِيقٗا مِّنكُم مِّن دِيَٰرِهِمۡ تَظَٰهَرُونَ عَلَيۡهِم بِٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ",
+        "085_01": "وَإِن يَأۡتُوكُمۡ أُسَٰرَىٰ تُفَٰدُوهُمۡ وَهُوَ مُحَرَّمٌ عَلَيۡكُمۡ إِخۡرَاجُهُمۡۚ أَفَتُؤۡمِنُونَ بِبَعۡضِ ٱلۡكِتَٰبِ وَتَكۡفُرُونَ بِبَعۡضٖۚ",
+        "085_02": "فَمَا جَزَآءُ مَن يَفۡعَلُ ذَٰلِكَ مِنكُمۡ إِلَّا خِزۡيٞ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلۡعَذَابِۗ",
+        "085_03": "وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ ٥٨"
+      },
+      "combined_translation": "Sa'an nan kuma, gã ku, yã waɗannan! Kuna kashe kanku, kuma kuna fitar da wani ɓangare daga gare ku daga gidãjensu, kuna taimakon jũna a kansu da zunubi da zãlunci",
+      "timestamp": "2025-12-07T23:22:21.001872"
+    },
+    {
+      "verse_key": "002_101",
+      "chapter": 2,
+      "verse_number": 101,
+      "error": "Words added: ['ك', 'أ', 'ن', 'ه', 'م', 'م', 'ل', 'ل', 'ا', 'ي', 'ع', 'ون']",
+      "original_translation_splits": {
+        "101_00": "Kuma a lõkacin da wani manzo (Muhammadu) daga wurin Allah ya je musu, mai gaskatãwa ga abin da yake tãre da su, sai",
+        "101_01": "wani ɓangare daga waɗanda aka bai wa Littãfi,"
+      },
+      "arabic_reference_splits": {
+        "101_00": "وَلَمَّا جَآءَهُمۡ رَسُولٞ مِّنۡ عِندِ ٱللَّهِ مُصَدِّقٞ لِّمَا مَعَهُمۡ نَبَذَ فَرِيقٞ مِّنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ كِتَٰبَ ٱللَّهِ وَرَآءَ ظُهُورِهِمۡ",
+        "101_01": "كَأَنَّهُمۡ لَا يَعۡلَمُونَ ١٠١"
+      },
+      "combined_translation": "Kuma a lõkacin da wani manzo (Muhammadu) daga wurin Allah ya je musu, mai gaskatãwa ga abin da yake tãre da su, sai wani ɓangare daga waɗanda aka bai wa Littãfi,",
+      "timestamp": "2025-12-07T23:22:21.004678"
+    },
+    {
+      "verse_key": "002_113",
+      "chapter": 2,
+      "verse_number": 113,
+      "error": "Words added: ['ba', 'kõme']; Words removed: ['kõmeba']",
+      "original_translation_splits": {
+        "113_00": "Kuma Yahũdãwa suka ce: \"Nasãra ba su zamana a kan kõme ba,\" kuma Nasãra suka ce: \"Yahũdãwa ba su zamana a kan kõmeba,\" alhãli kuwa su, suna karãtun Littãfi.",
+        "113_01": "Kamar wancan ne waɗanda ba su sani ba suka faɗa, kamar maganarsu sabõda haka Allah ne ke yin hukunci a tsakãninsu a Rãnar ¡iyãma,"
+      },
+      "arabic_reference_splits": {
+        "113_00": "وَقَالَتِ ٱلۡيَهُودُ لَيۡسَتِ ٱلنَّصَٰرَىٰ عَلَىٰ شَيۡءٖ وَقَالَتِ ٱلنَّصَٰرَىٰ لَيۡسَتِ ٱلۡيَهُودُ عَلَىٰ شَيۡءٖ وَهُمۡ يَتۡلُونَ ٱلۡكِتَٰبَۗ",
+        "113_01": "كَذَٰلِكَ قَالَ ٱلَّذِينَ لَا يَعۡلَمُونَ مِثۡلَ قَوۡلِهِمۡۚ فَٱللَّهُ يَحۡكُمُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كَانُواْ فِيهِ يَخۡتَلِفُونَ ٣١١"
+      },
+      "combined_translation": "Kuma Yahũdãwa suka ce: \"Nasãra ba su zamana a kan kõme ba,\" kuma Nasãra suka ce: \"Yahũdãwa ba su zamana a kan kõmeba,\" alhãli kuwa su, suna karãtun Littãfi. Kamar wancan ne waɗanda ba su sani ba suka faɗa, kamar maganarsu sabõda haka Allah ne ke yin hukunci a tsakãninsu a Rãnar ¡iyãma,",
+      "timestamp": "2025-12-07T23:22:21.007149"
+    },
+    {
+      "verse_key": "002_126",
+      "chapter": 2,
+      "verse_number": 126,
+      "error": "Words added: ['qāl', 'wa', 'man', 'kāfara', 'fa', 'umatti', 'uhu', 'qalīlan', 'thumma', 'aḍṭarruhu', 'ilā', 'ʿadhābi', 'nār']",
+      "original_translation_splits": {
+        "126_00": "Kuma a lõkacin da lbrãhĩm ya ce: \"Yã Ubangijĩna!",
+        "126_01": "Ka sanya wannan gari amintacce, Ka azurta mutãnensa, daga 'ya'yan itãcen, wanda ya yi ĩmãni, daga gare su, da Allah da Ranar Lãhira."
+      },
+      "arabic_reference_splits": {
+        "126_00": "وَإِذۡ قَالَ إِبۡرَٰهِـۧمُ رَبِّ ٱجۡعَلۡ هَٰذَا بَلَدًا ءَامِنٗا وَٱرۡزُقۡ أَهۡلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنۡ ءَامَنَ مِنۡهُم بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ",
+        "126_01": "قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلٗا ثُمَّ أَضۡطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِۖ وَبِئۡسَ ٱلۡمَصِيرُ ٦٢١"
+      },
+      "combined_translation": "Kuma a lõkacin da lbrãhĩm ya ce: \"Yã Ubangijĩna! Ka sanya wannan gari amintacce, Ka azurta mutãnensa, daga 'ya'yan itãcen, wanda ya yi ĩmãni, daga gare su, da Allah da Ranar Lãhira.",
+      "timestamp": "2025-12-07T23:22:21.009477"
+    },
+    {
+      "verse_key": "002_165",
+      "chapter": 2,
+      "verse_number": 165,
+      "error": "Words added: ['allah', 'ne']; Words removed: ['neallah']",
+      "original_translation_splits": {
+        "165_00": "Kuma akwai daga mutãne wanda yake riƙon kinãye, baicin Allah, suna son su, kamar son Allah, kuma waɗanda suka yi ĩmãni ne mafiya tsananin so ga Allah.",
+        "165_01": "Kuma dã waɗanda suka yi zãlunci, suna ganin lõkacin da zã su ga azãba, da cewa lalle ne ƙarfi ga Allah yake duka, da cẽwa lalle neAllah Mai tsananin azãba ne."
+      },
+      "arabic_reference_splits": {
+        "165_00": "وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادٗا يُحِبُّونَهُمۡ كَحُبِّ ٱللَّهِۖ وَٱلَّذِينَ ءَامَنُوٓاْ أَشَدُّ حُبّٗا لِّلَّهِۗ",
+        "165_01": "وَلَوۡ يَرَى ٱلَّذِينَ ظَلَمُوٓاْ إِذۡ يَرَوۡنَ ٱلۡعَذَابَ أَنَّ ٱلۡقُوَّةَ لِلَّهِ جَمِيعٗا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلۡعَذَابِ ٥٦١"
+      },
+      "combined_translation": "Kuma akwai daga mutãne wanda yake riƙon kinãye, baicin Allah, suna son su, kamar son Allah, kuma waɗanda suka yi ĩmãni ne mafiya tsananin so ga Allah. Kuma dã waɗanda suka yi zãlunci, suna ganin lõkacin da zã su ga azãba, da cewa lalle ne ƙarfi ga Allah yake duka, da cẽwa lalle neAllah Mai tsananin azãba ne.",
+      "timestamp": "2025-12-07T23:22:21.011380"
+    },
+    {
+      "verse_key": "002_217",
+      "chapter": 2,
+      "verse_number": 217,
+      "error": "Words added: ['h', 'م', 'ف', 'يه', 'ا', 'خ', 'ل', 'د', 'ون', '٧١٢']",
+      "original_translation_splits": {
+        "217_00": "Suna tambayar ka game da Watan Alfarma: yin yãki a cikinsa.",
+        "217_01": "Ka ce: \"Yin yãƙi a cikinsa babban zunubi ne, kuma hani daga hanyar Allah, da kuma kãfirci da Shi, da kuma da Masallaci Tsararre, da Kuma fitar da mutãnensa daga gare shi, shi ne mafi girman zunubi a wurin Allah.\"",
+        "217_02": "Kuma fitina ita ce mafi girma daga kisa.",
+        "217_03": "Kuma bã su gushẽwa suna yãƙinku har su mayar da ku daga barin addininku idan za su iya.",
+        "217_04": "Kuma wanda ya yi ridda daga gare ku ga barin addininsa har ya mutu alhãli kuwa yana kãfiri, to, waɗannan ayyukansu sun ɓãci a cikin dũniya da Lãhira."
+      },
+      "arabic_reference_splits": {
+        "217_00": "يَسۡـَٔلُونَكَ عَنِ ٱلشَّهۡرِ ٱلۡحَرَامِ قِتَالٖ فِيهِۖ قُلۡ قِتَالٞ فِيهِ كَبِيرٞۚ",
+        "217_01": "وَصَدٌّ عَن سَبِيلِ ٱللَّهِ وَكُفۡرُۢ بِهِۦ وَٱلۡمَسۡجِدِ ٱلۡحَرَامِ وَإِخۡرَاجُ أَهۡلِهِۦ مِنۡهُ أَكۡبَرُ عِندَ ٱللَّهِۚ وَٱلۡفِتۡنَةُ أَكۡبَرُ مِنَ ٱلۡقَتۡلِۗ",
+        "217_02": "وَلَا يَزَالُونَ يُقَٰتِلُونَكُمۡ حَتَّىٰ يَرُدُّوكُمۡ عَن دِينِكُمۡ إِنِ ٱسۡتَطَٰعُواْۚ",
+        "217_03": "وَمَن يَرۡتَدِدۡ مِنكُمۡ عَن دِينِهِۦ فَيَمُتۡ وَهُوَ كَافِرٞ فَأُوْلَٰٓئِكَ حَبِطَتۡ أَعۡمَٰلُهُمۡ فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِۖ وَأُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ",
+        "217_04": "هُمۡ فِيهَا خَٰلِدُونَ ٧١٢"
+      },
+      "combined_translation": "Suna tambayar ka game da Watan Alfarma: yin yãki a cikinsa. Ka ce: \"Yin yãƙi a cikinsa babban zunubi ne, kuma hani daga hanyar Allah, da kuma kãfirci da Shi, da kuma da Masallaci Tsararre, da Kuma fitar da mutãnensa daga gare shi, shi ne mafi girman zunubi a wurin Allah.\" Kuma fitina ita ce mafi girma daga kisa. Kuma bã su gushẽwa suna yãƙinku har su mayar da ku daga barin addininku idan za su iya. Kuma wanda ya yi ridda daga gare ku ga barin addininsa har ya mutu alhãli kuwa yana kãfiri, to, waɗannan ayyukansu sun ɓãci a cikin dũniya da Lãhira.",
+      "timestamp": "2025-12-07T23:22:21.013301"
+    },
+    {
+      "verse_key": "002_262",
+      "chapter": 2,
+      "verse_number": 262,
+      "error": "Words added: ['wala', 'hũm', 'yaḥzanūn']",
+      "original_translation_splits": {
+        "262_00": "Waɗanda suke ciyar da dũkiyõyinsu a cikin hanyar Allah, sa'an nan kuma bã su biyar wa abin da suka ciyar ɗin da",
+        "262_01": "kuma bãbu tsõro a kansu,"
+      },
+      "arabic_reference_splits": {
+        "262_00": "ٱلَّذِينَ يُنفِقُونَ أَمۡوَٰلَهُمۡ فِي سَبِيلِ ٱللَّهِ ثُمَّ لَا يُتۡبِعُونَ مَآ أَنفَقُواْ مَنّٗا وَلَآ أَذٗى لَّهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ",
+        "262_01": "وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ ٢٦٢"
+      },
+      "combined_translation": "Waɗanda suke ciyar da dũkiyõyinsu a cikin hanyar Allah, sa'an nan kuma bã su biyar wa abin da suka ciyar ɗin da kuma bãbu tsõro a kansu,",
+      "timestamp": "2025-12-07T23:22:21.015289"
+    },
+    {
+      "verse_key": "003_015",
+      "chapter": 3,
+      "verse_number": 15,
+      "error": "Words added: ['و', 'ٱلل', 'ه', 'ب', 'ب', 'ب', 'ص', 'ير', 'ٱل', 'ع', 'اد', '٥١']",
+      "original_translation_splits": {
+        "015_00": "Ka ce: Shin kuma, in gaya muku mafi alhẽri daga wannan?",
+        "015_01": "Akwai gidãjen Aljanna a wurin Ubangiji sabõda waɗanda suka bi Shi da taƙawa,",
+        "015_02": "kõguna suna gudãna daga ƙarƙashinsu, suna madawwama a cikinsu, da mãtan aure tsarkakakku, da yarda daga Allah."
+      },
+      "arabic_reference_splits": {
+        "015_00": "۞قُلۡ أَؤُنَبِّئُكُم بِخَيۡرٖ مِّن ذَٰلِكُمۡۖ",
+        "015_01": "لِلَّذِينَ ٱتَّقَوۡاْ عِندَ رَبِّهِمۡ جَنَّٰتٞ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَا وَأَزۡوَٰجٞ مُّطَهَّرَةٞ وَرِضۡوَٰنٞ مِّنَ ٱللَّهِۗ",
+        "015_02": "وَٱللَّهُ بَصِيرُۢ بِٱلۡعِبَادِ ٥١"
+      },
+      "combined_translation": "Ka ce: Shin kuma, in gaya muku mafi alhẽri daga wannan? Akwai gidãjen Aljanna a wurin Ubangiji sabõda waɗanda suka bi Shi da taƙawa, kõguna suna gudãna daga ƙarƙashinsu, suna madawwama a cikinsu, da mãtan aure tsarkakakku, da yarda daga Allah.",
+      "timestamp": "2025-12-07T23:22:21.017190"
+    },
+    {
+      "verse_key": "003_078",
+      "chapter": 3,
+      "verse_number": 78,
+      "error": "Words added: ['wurin', 'allah']; Words removed: ['wurinallah']",
+      "original_translation_splits": {
+        "078_00": "Kuma lalle ne, daga gare su akwai wata ƙungiya suna karkatar da harsunansu da Littãfi dõmin ku yi zaton sa daga Littãfin, alhãli kuwa bã shi daga Littãfin.",
+        "078_01": "Kuma suna cẽwa: \"Shi daga wurinAllah yake.\" Alhãli kuwa shi, bã daga wurin Allah yake ba."
+      },
+      "arabic_reference_splits": {
+        "078_00": "وَإِنَّ مِنۡهُمۡ لَفَرِيقٗا يَلۡوُۥنَ أَلۡسِنَتَهُم بِٱلۡكِتَٰبِ لِتَحۡسَبُوهُ مِنَ ٱلۡكِتَٰبِ وَمَا هُوَ مِنَ ٱلۡكِتَٰبِ",
+        "078_01": "وَيَقُولُونَ هُوَ مِنۡ عِندِ ٱللَّهِ وَمَا هُوَ مِنۡ عِندِ ٱللَّهِۖ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُمۡ يَعۡلَمُونَ ٨٧"
+      },
+      "combined_translation": "Kuma lalle ne, daga gare su akwai wata ƙungiya suna karkatar da harsunansu da Littãfi dõmin ku yi zaton sa daga Littãfin, alhãli kuwa bã shi daga Littãfin. Kuma suna cẽwa: \"Shi daga wurinAllah yake.\" Alhãli kuwa shi, bã daga wurin Allah yake ba.",
+      "timestamp": "2025-12-07T23:22:21.018988"
+    },
+    {
+      "verse_key": "004_018",
+      "chapter": 4,
+      "verse_number": 18,
+      "error": "Words added: ['أ', 'أ', 'أ', 'و', 'ل', 'ل', 'ل', 'ئ', 'ك', 'ع', 'ع', 'ت', 'د', 'ن', 'ا', 'ا', 'ا', 'ه', 'م', 'ذ', 'اب', 'يم', '٨١']",
+      "original_translation_splits": {
+        "018_00": "Bã tũba ba ce ga waɗanda suke aikatãwar mũnanan ayyuka har idan mutuwa ta halarci ɗayansu ya ce: \"Lalle ne ni, na tũba",
+        "018_01": "yanzu, kuma bã tũba ba ce ga waɗanda suke mutuwa alhãli kuwa sunã kãfi rai."
+      },
+      "arabic_reference_splits": {
+        "018_00": "وَلَيۡسَتِ ٱلتَّوۡبَةُ لِلَّذِينَ يَعۡمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ ٱلۡمَوۡتُ قَالَ إِنِّي تُبۡتُ ٱلۡـَٰٔنَ وَلَا ٱلَّذِينَ يَمُوتُونَ وَهُمۡ كُفَّارٌۚ",
+        "018_01": "أُوْلَٰٓئِكَ أَعۡتَدۡنَا لَهُمۡ عَذَابًا أَلِيمٗا ٨١"
+      },
+      "combined_translation": "Bã tũba ba ce ga waɗanda suke aikatãwar mũnanan ayyuka har idan mutuwa ta halarci ɗayansu ya ce: \"Lalle ne ni, na tũba yanzu, kuma bã tũba ba ce ga waɗanda suke mutuwa alhãli kuwa sunã kãfi rai.",
+      "timestamp": "2025-12-07T23:22:21.020579"
+    },
+    {
+      "verse_key": "004_076",
+      "chapter": 4,
+      "verse_number": 76,
+      "error": "Words added: ['shaiɗan', 'inna', 'kaydun', 'kan', 'kasance', 'mai', 'rauni']",
+      "original_translation_splits": {
+        "076_00": "Waɗanda suka yi ĩmãni, sunã yãki a cikin hanyar Allah, kuma waɗanda suka kãfirta sunã yãƙi a cikin hanyar ¦ãgũtu (Shaiɗan).",
+        "076_01": "To, ku yãƙi majiɓintan Shaiɗan."
+      },
+      "arabic_reference_splits": {
+        "076_00": "ٱلَّذِينَ ءَامَنُواْ يُقَٰتِلُونَ فِي سَبِيلِ ٱللَّهِۖ وَٱلَّذِينَ كَفَرُواْ يُقَٰتِلُونَ فِي سَبِيلِ ٱلطَّٰغُوتِ فَقَٰتِلُوٓاْ أَوۡلِيَآءَ ٱلشَّيۡطَٰنِۖ",
+        "076_01": "إِنَّ كَيۡدَ ٱلشَّيۡطَٰنِ كَانَ ضَعِيفًا ٦٧"
+      },
+      "combined_translation": "Waɗanda suka yi ĩmãni, sunã yãki a cikin hanyar Allah, kuma waɗanda suka kãfirta sunã yãƙi a cikin hanyar ¦ãgũtu (Shaiɗan). To, ku yãƙi majiɓintan Shaiɗan.",
+      "timestamp": "2025-12-07T23:22:21.022192"
+    },
+    {
+      "verse_key": "005_019",
+      "chapter": 5,
+      "verse_number": 19,
+      "error": "Words added: ['a', 'faqad', 'jã', 'kum', 'bashi', 'r', 'wa', 'wa', 'nadhir', 'allahu', 'ala', 'kulli', 'shay', 'in', 'qadir']",
+      "original_translation_splits": {
+        "019_00": "Yã Mutãnen Littãfi!",
+        "019_01": "Lalle ManzonMu yã je muku yanã bayyana muku, a kan lõkacin fatara daga manzanni, dõmin kada ku ce: \"wani mai bayar da bushãra bai zo mana ba, kuma haka wani mai gargaɗi bai zo ba.\""
+      },
+      "arabic_reference_splits": {
+        "019_00": "يَٰٓأَهۡلَ ٱلۡكِتَٰبِ قَدۡ جَآءَكُمۡ رَسُولُنَا يُبَيِّنُ لَكُمۡ عَلَىٰ فَتۡرَةٖ مِّنَ ٱلرُّسُلِ أَن تَقُولُواْ مَا جَآءَنَا مِنۢ بَشِيرٖ وَلَا نَذِيرٖۖ",
+        "019_01": "فَقَدۡ جَآءَكُم بَشِيرٞ وَنَذِيرٞۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ ٩١"
+      },
+      "combined_translation": "Yã Mutãnen Littãfi! Lalle ManzonMu yã je muku yanã bayyana muku, a kan lõkacin fatara daga manzanni, dõmin kada ku ce: \"wani mai bayar da bushãra bai zo mana ba, kuma haka wani mai gargaɗi bai zo ba.\"",
+      "timestamp": "2025-12-07T23:22:21.023799"
+    },
+    {
+      "verse_key": "005_041",
+      "chapter": 5,
+      "verse_number": 41,
+      "error": "Words removed: ['a', 'a', 'cikin', 'cikin', 'da', 'da', 'kuma', 'sunã', 'sunã', 'kunya', 'duniya', 'wata', 'azãba', 'mai', 'girma', '1ãhira']",
+      "original_translation_splits": {
+        "041_00": "Yã kai Manzo!",
+        "041_01": "Kada waɗanda suke tseren gaugawa a cikin kãfirci su ɓãta maka rai, daga waɗanda suka ce: \"Mun yi ĩmãni\" da bãkunansu, alhãli zukatansu ba su yi ĩmãnin ba, kuma daga waɗanda suka tuba (watau Yahudu) mãsu yawan saurare ga wasu mutane na dabam waɗanda ba su je maka ba, sunã karkatar da zance daga bãyan wurarensa, sunã cewa: \"Idan an bã ku wannan, to, ku karɓa, kuma idan ba a bã ku shĩ ba, to, ku yi sauna.\"",
+        "041_02": "Kuma wanda Allah Ya yi nufin fitinarsa, to bã zã ka mallaka masa kõme ba, daga Allah. Waɗannan ne waɗanda Allah bai yi nufin Ya tsarkake zukãtansu ba. Sunã da kunya a cikin duniya, kuma sunã da wata azãba mai girma a cikin 1ãhira.",
+        "041_03": "Sunã da kunya a cikin duniya, kuma sunã da wata azãba mai girma a cikin 1ãhira."
+      },
+      "arabic_reference_splits": {
+        "041_00": "۞يَٰٓأَيُّهَا ٱلرَّسُولُ لَا يَحۡزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِي ٱلۡكُفۡرِ مِنَ ٱلَّذِينَ قَالُوٓاْ ءَامَنَّا بِأَفۡوَٰهِهِمۡ وَلَمۡ تُؤۡمِن قُلُوبُهُمۡۛ",
+        "041_01": "وَمِنَ ٱلَّذِينَ هَادُواْۛ سَمَّٰعُونَ لِلۡكَذِبِ سَمَّٰعُونَ لِقَوۡمٍ ءَاخَرِينَ لَمۡ يَأۡتُوكَۖ يُحَرِّفُونَ ٱلۡكَلِمَ مِنۢ بَعۡدِ مَوَاضِعِهِۦۖ",
+        "041_02": "يَقُولُونَ إِنۡ أُوتِيتُمۡ هَٰذَا فَخُذُوهُ وَإِن لَّمۡ تُؤۡتَوۡهُ فَٱحۡذَرُواْۚ وَمَن يُرِدِ ٱللَّهُ فِتۡنَتَهُۥ فَلَن تَمۡلِكَ لَهُۥ مِنَ ٱللَّهِ شَيۡـًٔاۚ",
+        "041_03": "أُوْلَٰٓئِكَ ٱلَّذِينَ لَمۡ يُرِدِ ٱللَّهُ أَن يُطَهِّرَ قُلُوبَهُمۡۚ لَهُمۡ فِي ٱلدُّنۡيَا خِزۡيٞۖ وَلَهُمۡ فِي ٱلۡأٓخِرَةِ عَذَابٌ عَظِيمٞ ١٤"
+      },
+      "combined_translation": "Yã kai Manzo! Kada waɗanda suke tseren gaugawa a cikin kãfirci su ɓãta maka rai, daga waɗanda suka ce: \"Mun yi ĩmãni\" da bãkunansu, alhãli zukatansu ba su yi ĩmãnin ba, kuma daga waɗanda suka tuba (watau Yahudu) mãsu yawan saurare ga wasu mutane na dabam waɗanda ba su je maka ba, sunã karkatar da zance daga bãyan wurarensa, sunã cewa: \"Idan an bã ku wannan, to, ku karɓa, kuma idan ba a bã ku shĩ ba, to, ku yi sauna.\" Kuma wanda Allah Ya yi nufin fitinarsa, to bã zã ka mallaka masa kõme ba, daga Allah. Waɗannan ne waɗanda Allah bai yi nufin Ya tsarkake zukãtansu ba. Sunã da kunya a cikin duniya, kuma sunã da wata azãba mai girma a cikin 1ãhira. Sunã da kunya a cikin duniya, kuma sunã da wata azãba mai girma a cikin 1ãhira.",
+      "timestamp": "2025-12-07T23:22:21.025333"
+    },
+    {
+      "verse_key": "005_057",
+      "chapter": 5,
+      "verse_number": 57,
+      "error": "Words added: ['و', 'ٱت', 'ق', 'وا', 'ٱلل', 'ه', 'إ', 'ن', 'ن', 'ك', 'نت', 'م', 'م', 'م', 'ؤ', 'ين', '٧٥']",
+      "original_translation_splits": {
+        "057_00": "Yã ku waɗanda suka yi ĩmãni!",
+        "057_01": "Kada ku riƙi waɗanda suka riƙi addininku bisa izgili da wãsa, daga waɗanda aka bai wa Littãfi daga gabãninku da kãfirai, masõya,"
+      },
+      "arabic_reference_splits": {
+        "057_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَّخِذُواْ ٱلَّذِينَ ٱتَّخَذُواْ دِينَكُمۡ هُزُوٗا وَلَعِبٗا مِّنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ وَٱلۡكُفَّارَ أَوۡلِيَآءَۚ",
+        "057_01": "وَٱتَّقُواْ ٱللَّهَ إِن كُنتُم مُّؤۡمِنِينَ ٧٥"
+      },
+      "combined_translation": "Yã ku waɗanda suka yi ĩmãni! Kada ku riƙi waɗanda suka riƙi addininku bisa izgili da wãsa, daga waɗanda aka bai wa Littãfi daga gabãninku da kãfirai, masõya,",
+      "timestamp": "2025-12-07T23:22:21.026725"
+    },
+    {
+      "verse_key": "006_046",
+      "chapter": 6,
+      "verse_number": 46,
+      "error": "Words added: ['ٱnzhur', 'ك', 'ي', 'ي', 'ي', 'ف', 'ف', 'ف', 'ن', 'ص', 'ص', 'ر', 'ٱل', 'أ', 'ت', 'ث', 'م', 'م', 'ه', 'د', 'ون']",
+      "original_translation_splits": {
+        "046_00": "Ka ce: \"Shin, kun gani, idan Allah Ya riƙe jinku, da gannanku, kuma Ya sanya hãtimi a kan zukãtanku, wane",
+        "046_01": "abin bauttãwa ne, wanin Allah, zai jẽ muku da shi?"
+      },
+      "arabic_reference_splits": {
+        "046_00": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَخَذَ ٱللَّهُ سَمۡعَكُمۡ وَأَبۡصَٰرَكُمۡ وَخَتَمَ عَلَىٰ قُلُوبِكُم مَّنۡ إِلَٰهٌ غَيۡرُ ٱللَّهِ يَأۡتِيكُم بِهِۗ",
+        "046_01": "ٱنظُرۡ كَيۡفَ نُصَرِّفُ ٱلۡأٓيَٰتِ ثُمَّ هُمۡ يَصۡدِفُونَ ٦٤"
+      },
+      "combined_translation": "Ka ce: \"Shin, kun gani, idan Allah Ya riƙe jinku, da gannanku, kuma Ya sanya hãtimi a kan zukãtanku, wane abin bauttãwa ne, wanin Allah, zai jẽ muku da shi?",
+      "timestamp": "2025-12-07T23:22:21.028143"
+    },
+    {
+      "verse_key": "006_057",
+      "chapter": 6,
+      "verse_number": 57,
+      "error": "Words added: ['ne', 'shi', 'hukunci', 'mai', 'kyau', 'a', 'cikin', 'masu']",
+      "original_translation_splits": {
+        "057_00": "Ka ce: \"Lalle ne inã kan hujja daga Ubangjina, kuma kun ƙaryata (ni) game da Shi; abin da kuke nẽman gaugãwarsa, bã",
+        "057_01": "ya wurina, hukunci kuwa bai zama ba fãce, ga Allah,"
+      },
+      "arabic_reference_splits": {
+        "057_00": "قُلۡ إِنِّي عَلَىٰ بَيِّنَةٖ مِّن رَّبِّي وَكَذَّبۡتُم بِهِۦۚ مَا عِندِي مَا تَسۡتَعۡجِلُونَ بِهِۦٓۚ إِنِ ٱلۡحُكۡمُ إِلَّا لِلَّهِۖ يَقُصُّ ٱلۡحَقَّۖ",
+        "057_01": "وَهُوَ خَيۡرُ ٱلۡفَٰصِلِينَ ٧٥"
+      },
+      "combined_translation": "Ka ce: \"Lalle ne inã kan hujja daga Ubangjina, kuma kun ƙaryata (ni) game da Shi; abin da kuke nẽman gaugãwarsa, bã ya wurina, hukunci kuwa bai zama ba fãce, ga Allah,",
+      "timestamp": "2025-12-07T23:22:21.029517"
+    },
+    {
+      "verse_key": "006_121",
+      "chapter": 6,
+      "verse_number": 121,
+      "error": "Words added: ['ambanci']; Words removed: ['ambaci']",
+      "original_translation_splits": {
+        "121_00": "Kada ku ci daga abin da ba a ambaci sũnan Allah ba a kansa. Kuma lalle ne shĩ fãsiƙanci ne.",
+        "121_01": "Kuma lalle ne, shaiɗãnu, haƙĩƙa, suna yin ishãra zuwa ga masõyansu, dõmin su yi jãyayya da ku."
+      },
+      "arabic_reference_splits": {
+        "121_00": "وَلَا تَأۡكُلُواْ مِمَّا لَمۡ يُذۡكَرِ ٱسۡمُ ٱللَّهِ عَلَيۡهِ وَإِنَّهُۥ لَفِسۡقٞۗ وَإِنَّ ٱلشَّيَٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوۡلِيَآئِهِمۡ لِيُجَٰدِلُوكُمۡۖ",
+        "121_01": "وَإِنۡ أَطَعۡتُمُوهُمۡ إِنَّكُمۡ لَمُشۡرِكُونَ ١٢١"
+      },
+      "combined_translation": "Kada ku ci daga abin da ba a ambaci sũnan Allah ba a kansa. Kuma lalle ne shĩ fãsiƙanci ne. Kuma lalle ne, shaiɗãnu, haƙĩƙa, suna yin ishãra zuwa ga masõyansu, dõmin su yi jãyayya da ku.",
+      "timestamp": "2025-12-07T23:22:21.030912"
+    },
+    {
+      "verse_key": "006_138",
+      "chapter": 6,
+      "verse_number": 138,
+      "error": "Words removed: ['kuma', 'sukace']",
+      "original_translation_splits": {
+        "138_00": "Kuma sukace: \"Waɗannan dabbõbi da shũka hanannu ne; bãbu mai ɗanɗanar su fãce wanda muke so,\" ga riyãwarsu.",
+        "138_01": "Da wasu dabbõbi an hana bãyayyakinsu, da wasu dabbõbi bã su ambatar sũnan Allah a kansu, bisa ƙirƙiren ƙarya gare Shi."
+      },
+      "arabic_reference_splits": {
+        "138_00": "وَقَالُواْ هَٰذِهِۦٓ أَنۡعَٰمٞ وَحَرۡثٌ حِجۡرٞ لَّا يَطۡعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعۡمِهِمۡ وَأَنۡعَٰمٌ حُرِّمَتۡ ظُهُورُهَا",
+        "138_01": "وَأَنۡعَٰمٞ لَّا يَذۡكُرُونَ ٱسۡمَ ٱللَّهِ عَلَيۡهَا ٱفۡتِرَآءً عَلَيۡهِۚ سَيَجۡزِيهِم بِمَا كَانُواْ يَفۡتَرُونَ ٨٣١"
+      },
+      "combined_translation": "Kuma sukace: \"Waɗannan dabbõbi da shũka hanannu ne; bãbu mai ɗanɗanar su fãce wanda muke so,\" ga riyãwarsu. Da wasu dabbõbi an hana bãyayyakinsu, da wasu dabbõbi bã su ambatar sũnan Allah a kansu, bisa ƙirƙiren ƙarya gare Shi.",
+      "timestamp": "2025-12-07T23:22:21.032214"
+    },
+    {
+      "verse_key": "007_089",
+      "chapter": 7,
+      "verse_number": 89,
+      "error": "Words removed: ['ne', 'ga', 'allah', 'a', 'da', 'da', 'kuma', 'ubangijinmu', 'muka', 'dõgara', 'yã', 'ka', 'yi', 'hukunci', 'hukunci', 'tsakãninmu', 'tsakanin', 'mutãnenmu', 'gaskiya', 'kai', 'mafi', 'alhẽrin', 'mãsu']",
+      "original_translation_splits": {
+        "089_00": "\"Lalle ne mun ƙirƙira ƙarya ga Allah idan mun kõma a cikin addininku a bãyan lõkacin da Allah ya tsĩrar da mu daga gare shi, kuma bã ya kasancewa a gare mu, mu kõma a cikinsa, fãce idan Al1ah, Ubangijinmu Ya so.",
+        "089_01": "Ga Allah muka dõgara. Yã Ubangijinmu! Ka yi hukunci a tsakãninmu da tsakanin mutãnenmu da gaskiya, kuma Kai ne Mafi alhẽrin mãsu hukunci.",
+        "089_02": "Ga Allah muka dõgara. Yã Ubangijinmu! Ka yi hukunci a tsakãninmu da tsakanin mutãnenmu da gaskiya, kuma Kai ne Mafi alhẽrin mãsu hukunci.\""
+      },
+      "arabic_reference_splits": {
+        "089_00": "قَدِ ٱفۡتَرَيۡنَا عَلَى ٱللَّهِ كَذِبًا إِنۡ عُدۡنَا فِي مِلَّتِكُم بَعۡدَ إِذۡ نَجَّىٰنَا ٱللَّهُ مِنۡهَاۚ",
+        "089_01": "وَمَا يَكُونُ لَنَآ أَن نَّعُودَ فِيهَآ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّنَاۚ وَسِعَ رَبُّنَا كُلَّ شَيۡءٍ عِلۡمًاۚ عَلَى ٱللَّهِ تَوَكَّلۡنَاۚ",
+        "089_02": "رَبَّنَا ٱفۡتَحۡ بَيۡنَنَا وَبَيۡنَ قَوۡمِنَا بِٱلۡحَقِّ وَأَنتَ خَيۡرُ ٱلۡفَٰتِحِينَ ٩٨"
+      },
+      "combined_translation": "\"Lalle ne mun ƙirƙira ƙarya ga Allah idan mun kõma a cikin addininku a bãyan lõkacin da Allah ya tsĩrar da mu daga gare shi, kuma bã ya kasancewa a gare mu, mu kõma a cikinsa, fãce idan Al1ah, Ubangijinmu Ya so. Ga Allah muka dõgara. Yã Ubangijinmu! Ka yi hukunci a tsakãninmu da tsakanin mutãnenmu da gaskiya, kuma Kai ne Mafi alhẽrin mãsu hukunci. Ga Allah muka dõgara. Yã Ubangijinmu! Ka yi hukunci a tsakãninmu da tsakanin mutãnenmu da gaskiya, kuma Kai ne Mafi alhẽrin mãsu hukunci.\"",
+      "timestamp": "2025-12-07T23:22:21.033454"
+    },
+    {
+      "verse_key": "007_148",
+      "chapter": 7,
+      "verse_number": 148,
+      "error": "Words added: ['kuma', 'su', 'yi', 'ɗauke', 'sun', 'zalunci']",
+      "original_translation_splits": {
+        "148_00": "Kuma mutãnen Mũsã suka riƙi maraƙi, jikin mutãne, yanã rũri, daga bãyan tafiyarsa, daga kãyan ƙawarsu.",
+        "148_01": "Shin, ba su ganĩ ba, cẽwa lalle ne shi, bã ya yi musu magana,"
+      },
+      "arabic_reference_splits": {
+        "148_00": "وَٱتَّخَذَ قَوۡمُ مُوسَىٰ مِنۢ بَعۡدِهِۦ مِنۡ حُلِيِّهِمۡ عِجۡلٗا جَسَدٗا لَّهُۥ خُوَارٌۚ أَلَمۡ يَرَوۡاْ أَنَّهُۥ لَا يُكَلِّمُهُمۡ وَلَا يَهۡدِيهِمۡ سَبِيلًاۘ",
+        "148_01": "ٱتَّخَذُوهُ وَكَانُواْ ظَٰلِمِينَ ٨٤١"
+      },
+      "combined_translation": "Kuma mutãnen Mũsã suka riƙi maraƙi, jikin mutãne, yanã rũri, daga bãyan tafiyarsa, daga kãyan ƙawarsu. Shin, ba su ganĩ ba, cẽwa lalle ne shi, bã ya yi musu magana,",
+      "timestamp": "2025-12-07T23:22:21.034681"
+    },
+    {
+      "verse_key": "007_169",
+      "chapter": 7,
+      "verse_number": 169,
+      "error": "Words removed: ['sun', 'cẽwa', 'zã', 'a', 'a', 'a', 'kuma', 'su', 'shin', 'shin', 'ba', 'ba', 'ba', 'karɓi', 'alkawarin', 'littãfi', 'kansu', 'kada', 'faɗa', 'ga', 'allah', 'fãce', 'gaskiya', 'alhãli', 'kuwa', 'karanta', 'abin', 'da', 'yake', 'cikinsa', 'gidan', 'lãhira', 'ne', 'mafi', 'alhẽriga', 'wanda', 'ya', 'yi', 'taƙawa', 'bã', 'ku', 'hankalta']",
+      "original_translation_splits": {
+        "169_00": "Sai wasu' yan bãya suka maye daga bãyansu, sun gaji Littãfin, sunã karɓar sifar wannan ƙasƙantacciya, sunã cẽwa: \"Zã a gãfarta mana.",
+        "169_01": "\"Iadan kuma wata sifa irinta ta zo, za su karɓe ta. Shin, ba a karɓi alkawarin Littãfi ba a kansu cẽwa kada su faɗa ga Allah, fãce gaskiya, alhãli kuwa sun karanta abin da yake a cikinsa, kuma Gidan Lãhira ne mafi alhẽriga wanda ya yi taƙawa? Shin, bã zã ku hankalta ba?",
+        "169_02": "Shin, ba a karɓi alkawarin Littãfi ba a kansu cẽwa kada su faɗa ga Allah, fãce gaskiya, alhãli kuwa sun karanta abin da yake a cikinsa, kuma Gidan Lãhira ne mafi alhẽriga wanda ya yi taƙawa? Shin, bã zã ku hankalta ba?"
+      },
+      "arabic_reference_splits": {
+        "169_00": "فَخَلَفَ مِنۢ بَعۡدِهِمۡ خَلۡفٞ وَرِثُواْ ٱلۡكِتَٰبَ يَأۡخُذُونَ عَرَضَ هَٰذَا ٱلۡأَدۡنَىٰ وَيَقُولُونَ سَيُغۡفَرُ لَنَا وَإِن يَأۡتِهِمۡ عَرَضٞ مِّثۡلُهُۥ يَأۡخُذُوهُۚ",
+        "169_01": "أَلَمۡ يُؤۡخَذۡ عَلَيۡهِم مِّيثَٰقُ ٱلۡكِتَٰبِ أَن لَّا يَقُولُواْ عَلَى ٱللَّهِ إِلَّا ٱلۡحَقَّ وَدَرَسُواْ مَا فِيهِۗ وَٱلدَّارُ ٱلۡأٓخِرَةُ خَيۡرٞ لِّلَّذِينَ يَتَّقُونَۚ",
+        "169_02": "أَفَلَا تَعۡقِلُونَ ٩٦١"
+      },
+      "combined_translation": "Sai wasu' yan bãya suka maye daga bãyansu, sun gaji Littãfin, sunã karɓar sifar wannan ƙasƙantacciya, sunã cẽwa: \"Zã a gãfarta mana. \"Iadan kuma wata sifa irinta ta zo, za su karɓe ta. Shin, ba a karɓi alkawarin Littãfi ba a kansu cẽwa kada su faɗa ga Allah, fãce gaskiya, alhãli kuwa sun karanta abin da yake a cikinsa, kuma Gidan Lãhira ne mafi alhẽriga wanda ya yi taƙawa? Shin, bã zã ku hankalta ba? Shin, ba a karɓi alkawarin Littãfi ba a kansu cẽwa kada su faɗa ga Allah, fãce gaskiya, alhãli kuwa sun karanta abin da yake a cikinsa, kuma Gidan Lãhira ne mafi alhẽriga wanda ya yi taƙawa? Shin, bã zã ku hankalta ba?",
+      "timestamp": "2025-12-07T23:22:21.035970"
+    },
+    {
+      "verse_key": "007_189",
+      "chapter": 7,
+      "verse_number": 189,
+      "error": "Words added: ['ya', 'kuma']; Words removed: ['kumaya']",
+      "original_translation_splits": {
+        "189_00": "Shĩ ne wanda Ya halitta ku daga rai guda, kumaYa sanya, daga gare ta, ma'auranta, dõmin ya natsu zuwa gare ta.",
+        "189_01": "Sa'an nan a lõkacin da ya rufe ta, ta yi ciki, ciki sassauƙa, sai ta shũɗe dashi."
+      },
+      "arabic_reference_splits": {
+        "189_00": "۞هُوَ ٱلَّذِي خَلَقَكُم مِّن نَّفۡسٖ وَٰحِدَةٖ وَجَعَلَ مِنۡهَا زَوۡجَهَا لِيَسۡكُنَ إِلَيۡهَاۖ فَلَمَّا تَغَشَّىٰهَا حَمَلَتۡ حَمۡلًا خَفِيفٗا فَمَرَّتۡ بِهِۦۖ",
+        "189_01": "فَلَمَّآ أَثۡقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا لَئِنۡ ءَاتَيۡتَنَا صَٰلِحٗا لَّنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ ٩٨١"
+      },
+      "combined_translation": "Shĩ ne wanda Ya halitta ku daga rai guda, kumaYa sanya, daga gare ta, ma'auranta, dõmin ya natsu zuwa gare ta. Sa'an nan a lõkacin da ya rufe ta, ta yi ciki, ciki sassauƙa, sai ta shũɗe dashi.",
+      "timestamp": "2025-12-07T23:22:21.037200"
+    },
+    {
+      "verse_key": "009_023",
+      "chapter": 9,
+      "verse_number": 23,
+      "error": "Words added: ['waman', 'yat', 'و', 'و', 'ل', 'ل', 'ل', 'ه', 'ه', 'م', 'م', 'م', 'م', 'م', 'نك', 'ف', 'أ', 'ئ', 'ك', 'ٱلظ', 'ون']",
+      "original_translation_splits": {
+        "023_00": "Yã kũ waɗanda suka yi ĩmãni!",
+        "023_01": "Kada ku riƙi ubanninku da 'yan'uwanku masõya, idan sun nũna son kãfirci a kan ĩmãni."
+      },
+      "arabic_reference_splits": {
+        "023_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَّخِذُوٓاْ ءَابَآءَكُمۡ وَإِخۡوَٰنَكُمۡ أَوۡلِيَآءَ إِنِ ٱسۡتَحَبُّواْ ٱلۡكُفۡرَ عَلَى ٱلۡإِيمَٰنِۚ",
+        "023_01": "وَمَن يَتَوَلَّهُم مِّنكُمۡ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ ٣٢"
+      },
+      "combined_translation": "Yã kũ waɗanda suka yi ĩmãni! Kada ku riƙi ubanninku da 'yan'uwanku masõya, idan sun nũna son kãfirci a kan ĩmãni.",
+      "timestamp": "2025-12-07T23:22:21.038484"
+    },
+    {
+      "verse_key": "010_104",
+      "chapter": 10,
+      "verse_number": 104,
+      "error": "Words added: ['و', 'أ', 'أ', 'أ', 'م', 'م', 'م', 'م', 'ر', 'ت', 'ن', 'ن', 'ن', 'ك', 'ون', 'ٱل', 'ؤ', 'ين', '٤٠١']",
+      "original_translation_splits": {
+        "104_00": "Ka ce: \"Yã kũ mutãne!",
+        "104_01": "Idan kun kasance a cikin kõkanto daga addinĩna, to bã ni bauta wa, waɗanda kuke, bautã wa, baicin Allah,"
+      },
+      "arabic_reference_splits": {
+        "104_00": "قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمۡ فِي شَكّٖ مِّن دِينِي فَلَآ أَعۡبُدُ ٱلَّذِينَ تَعۡبُدُونَ مِن دُونِ ٱللَّهِ وَلَٰكِنۡ أَعۡبُدُ ٱللَّهَ ٱلَّذِي يَتَوَفَّىٰكُمۡۖ",
+        "104_01": "وَأُمِرۡتُ أَنۡ أَكُونَ مِنَ ٱلۡمُؤۡمِنِينَ ٤٠١"
+      },
+      "combined_translation": "Ka ce: \"Yã kũ mutãne! Idan kun kasance a cikin kõkanto daga addinĩna, to bã ni bauta wa, waɗanda kuke, bautã wa, baicin Allah,",
+      "timestamp": "2025-12-07T23:22:21.045493"
+    },
+    {
+      "verse_key": "012_046",
+      "chapter": 12,
+      "verse_number": 46,
+      "error": "Words added: ['a', 'lallai', 'lallai', 'rãhama', 'zan', 'koma', 'ga', 'mutane', 'su', 'san']",
+      "original_translation_splits": {
+        "046_00": "\"Yã Yũsufu!",
+        "046_01": "Yã kai mai yawan gaskiya! Ka yi mana fatawa a cikin shãnu bakwai mãsu ƙiba,"
+      },
+      "arabic_reference_splits": {
+        "046_00": "يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفۡتِنَا فِي سَبۡعِ بَقَرَٰتٖ سِمَانٖ يَأۡكُلُهُنَّ سَبۡعٌ عِجَافٞ وَسَبۡعِ سُنۢبُلَٰتٍ خُضۡرٖ وَأُخَرَ يَابِسَٰتٖ",
+        "046_01": "لَّعَلِّيٓ أَرۡجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمۡ يَعۡلَمُونَ ٦٤"
+      },
+      "combined_translation": "\"Yã Yũsufu! Yã kai mai yawan gaskiya! Ka yi mana fatawa a cikin shãnu bakwai mãsu ƙiba,",
+      "timestamp": "2025-12-07T23:22:21.046693"
+    },
+    {
+      "verse_key": "014_005",
+      "chapter": 14,
+      "verse_number": 5,
+      "error": "Words added: ['mutãnen', 'kadaga']; Words removed: ['mutãnenkadaga']",
+      "original_translation_splits": {
+        "005_00": "Kuma lalle ne haƙĩƙa Mun aika Mũsã game, da ãyõin Mu cẽwa, \"Ka fitar da mutãnenkadaga duhu zuwa ga haske.",
+        "005_01": "Kuma ka tunar musu da kwãnukan (masĩfun) Allah. Lalle ne a cikin wancan akwai ãyõyi dõmin dukan mai yawan haƙuri, mai gõdiya."
+      },
+      "arabic_reference_splits": {
+        "005_00": "وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنۡ أَخۡرِجۡ قَوۡمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَذَكِّرۡهُم بِأَيَّىٰمِ ٱللَّهِۚ",
+        "005_01": "إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّكُلِّ صَبَّارٖ شَكُورٖ ٥"
+      },
+      "combined_translation": "Kuma lalle ne haƙĩƙa Mun aika Mũsã game, da ãyõin Mu cẽwa, \"Ka fitar da mutãnenkadaga duhu zuwa ga haske. Kuma ka tunar musu da kwãnukan (masĩfun) Allah. Lalle ne a cikin wancan akwai ãyõyi dõmin dukan mai yawan haƙuri, mai gõdiya.",
+      "timestamp": "2025-12-07T23:22:21.047738"
+    },
+    {
+      "verse_key": "023_027",
+      "chapter": 23,
+      "verse_number": 27,
+      "error": "Words added: ['f', 'أ', 'أ', 'أ', 'أ', 'و', 'و', 'و', 'و', 'ح', 'ي', 'ي', 'ي', 'ي', 'ن', 'ن', 'ن', 'ن', 'ن', 'ن', 'ن', 'ا', 'ا', 'ا', 'إ', 'إ', 'ل', 'ل', 'ل', 'ل', 'ل', 'ل', 'ه', 'ه', 'ه', 'ه', 'ٱص', 'ع', 'ع', 'ع', 'ٱل', 'ٱل', 'ف', 'ك', 'ك', 'ب', 'ب', 'م', 'م', 'م', 'س', 'ق', 'ق']; Words removed: ['sai', 'muka', 'yi', 'wahayi', 'zuwa', 'gare', 'shi', 'ka', 'sana', 'anta', 'jirgin', 'bisa', 'ga', 'idonmu', 'da', 'wahayinmu']",
+      "original_translation_splits": {
+        "027_00": "Sai Muka yi wahayi zuwa gare shi.",
+        "027_01": "\"Ka sana'anta jirgin bisa ga idonMu, da wahayinMu."
+      },
+      "arabic_reference_splits": {
+        "027_00": "فَأَوۡحَيۡنَآ إِلَيۡهِ أَنِ ٱصۡنَعِ ٱلۡفُلۡكَ بِأَعۡيُنِنَا وَوَحۡيِنَا فَإِذَا جَآءَ أَمۡرُنَا وَفَارَ ٱلتَّنُّورُ فَٱسۡلُكۡ فِيهَا مِن كُلّٖ زَوۡجَيۡنِ ٱثۡنَيۡنِ",
+        "027_01": "وَأَهۡلَكَ إِلَّا مَن سَبَقَ عَلَيۡهِ ٱلۡقَوۡلُ مِنۡهُمۡۖ وَلَا تُخَٰطِبۡنِي فِي ٱلَّذِينَ ظَلَمُوٓاْ إِنَّهُم مُّغۡرَقُونَ ٧٢"
+      },
+      "combined_translation": "Sai Muka yi wahayi zuwa gare shi. \"Ka sana'anta jirgin bisa ga idonMu, da wahayinMu.",
+      "timestamp": "2025-12-07T23:22:21.048790"
+    },
+    {
+      "verse_key": "024_031",
+      "chapter": 24,
+      "verse_number": 31,
+      "error": "Words removed: ['kuma', 'kuma', 'mũminai', 'su', 'daga', 'kada', 'ƙawarsu', 'abin', 'da', 'da', 'a', 'ga', 'yi', 'dũka', 'ƙafãfunsu', 'dõmin', 'san', 'suke', 'ɓõyẽwa', 'ku', 'ku', 'ku', 'ku', 'tũba', 'zuwa', 'allah', 'gabã', 'ɗaya', 'yã', 'tsammãninku', 'tsammãninku', 'sãmi', 'sãmi', 'babban', 'babban', 'rabo', 'rabo']",
+      "original_translation_splits": {
+        "031_00": "Kuma ka ce wa mũminai mãta su runtse daga gannansu, kuma su tsare farjõjinsu kuma kada su bayyana ƙawarsu fãce abin da ya bayyana daga gare ta, kuma su dõka da mayãfansu a kan wuyan rigunansu, kuma kada su nũna ƙawarsu fãce ga mazansu ko ubanninsu ko ubannin mazansu, ko ɗiyansu, ko ɗiyan mazansu, ko 'yan'uwansu, ko ɗiyan 'yan'uwansu mãtã, kõ mãtan ƙungiyarsu, ko abin da hannãyensu na dãma suka mallaka, ko mabiya wasun mãsu bukãtar mãta daga maza, kõ jãrirai waɗanda.",
+        "031_01": "bã su tsinkãya a kan al'aurar mãtã.",
+        "031_02": "Kuma kada su yi dũka da ƙafãfunsu dõmin a san abin da suke ɓõyẽwa daga ƙawarsu.",
+        "031_03": "Kuma ku tũba zuwa ga Allah gabã ɗaya, yã ku mũminai! Tsammãninku, ku sãmi babban rabo.",
+        "031_04": "Tsammãninku, ku sãmi babban rabo."
+      },
+      "arabic_reference_splits": {
+        "031_00": "وَقُل لِّلۡمُؤۡمِنَٰتِ يَغۡضُضۡنَ مِنۡ أَبۡصَٰرِهِنَّ وَيَحۡفَظۡنَ فُرُوجَهُنَّ وَلَا يُبۡدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنۡهَاۖ",
+        "031_01": "وَلۡيَضۡرِبۡنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّۖ",
+        "031_02": "وَلَا يُبۡدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوۡ ءَابَآئِهِنَّ أَوۡ ءَابَآءِ بُعُولَتِهِنَّ أَوۡ أَبۡنَآئِهِنَّ أَوۡ أَبۡنَآءِ بُعُولَتِهِنَّ أَوۡ إِخۡوَٰنِهِنَّ أَوۡ بَنِيٓ إِخۡوَٰنِهِنَّ أَوۡ بَنِيٓ أَخَوَٰتِهِنَّ",
+        "031_03": "أَوۡ نِسَآئِهِنَّ أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيۡرِ أُوْلِي ٱلۡإِرۡبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفۡلِ ٱلَّذِينَ لَمۡ يَظۡهَرُواْ عَلَىٰ عَوۡرَٰتِ ٱلنِّسَآءِۖ",
+        "031_04": "وَلَا يَضۡرِبۡنَ بِأَرۡجُلِهِنَّ لِيُعۡلَمَ مَا يُخۡفِينَ مِن زِينَتِهِنَّۚ وَتُوبُوٓاْ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلۡمُؤۡمِنُونَ لَعَلَّكُمۡ تُفۡلِحُونَ ١٣"
+      },
+      "combined_translation": "Kuma ka ce wa mũminai mãta su runtse daga gannansu, kuma su tsare farjõjinsu kuma kada su bayyana ƙawarsu fãce abin da ya bayyana daga gare ta, kuma su dõka da mayãfansu a kan wuyan rigunansu, kuma kada su nũna ƙawarsu fãce ga mazansu ko ubanninsu ko ubannin mazansu, ko ɗiyansu, ko ɗiyan mazansu, ko 'yan'uwansu, ko ɗiyan 'yan'uwansu mãtã, kõ mãtan ƙungiyarsu, ko abin da hannãyensu na dãma suka mallaka, ko mabiya wasun mãsu bukãtar mãta daga maza, kõ jãrirai waɗanda. bã su tsinkãya a kan al'aurar mãtã. Kuma kada su yi dũka da ƙafãfunsu dõmin a san abin da suke ɓõyẽwa daga ƙawarsu. Kuma ku tũba zuwa ga Allah gabã ɗaya, yã ku mũminai! Tsammãninku, ku sãmi babban rabo. Tsammãninku, ku sãmi babban rabo.",
+      "timestamp": "2025-12-07T23:22:21.049880"
+    },
+    {
+      "verse_key": "028_015",
+      "chapter": 28,
+      "verse_number": 15,
+      "error": "Words added: ['innahu', 'ʿaduwwun', 'muḍillun', 'mubīn']",
+      "original_translation_splits": {
+        "015_00": "Kuma sai ya shiga garin a lõkacin da mutãnen garin suka shagala, sai ya sãmu, a cikin garin, waɗansu maza",
+        "015_01": "biyu sunã faɗa, wannan daga ƙungiyarsa,",
+        "015_02": "kuma ɗayan daga maƙiyansa, sai wannann da yake daga ƙungiyarsa ya nẽmi ãgajinsa,"
+      },
+      "arabic_reference_splits": {
+        "015_00": "وَدَخَلَ ٱلۡمَدِينَةَ عَلَىٰ حِينِ غَفۡلَةٖ مِّنۡ أَهۡلِهَا فَوَجَدَ فِيهَا رَجُلَيۡنِ يَقۡتَتِلَانِ هَٰذَا مِن شِيعَتِهِۦ وَهَٰذَا مِنۡ عَدُوِّهِۦۖ",
+        "015_01": "فَٱسۡتَغَٰثَهُ ٱلَّذِي مِن شِيعَتِهِۦ عَلَى ٱلَّذِي مِنۡ عَدُوِّهِۦ فَوَكَزَهُۥ مُوسَىٰ فَقَضَىٰ عَلَيۡهِۖ قَالَ هَٰذَا مِنۡ عَمَلِ ٱلشَّيۡطَٰنِۖ",
+        "015_02": "إِنَّهُۥ عَدُوّٞ مُّضِلّٞ مُّبِينٞ ٥١"
+      },
+      "combined_translation": "Kuma sai ya shiga garin a lõkacin da mutãnen garin suka shagala, sai ya sãmu, a cikin garin, waɗansu maza biyu sunã faɗa, wannan daga ƙungiyarsa, kuma ɗayan daga maƙiyansa, sai wannann da yake daga ƙungiyarsa ya nẽmi ãgajinsa,",
+      "timestamp": "2025-12-07T23:22:21.050953"
+    },
+    {
+      "verse_key": "031_021",
+      "chapter": 31,
+      "verse_number": 21,
+      "error": "Words added: ['أ', 'و', 'و', 'ل', 'ل', 'ك', 'ان', 'ٱلش', 'ي', 'ي', 'ط', 'ن', 'د', 'ع', 'ع', 'وه', 'م', 'إ', 'ى', 'ذ', 'اب', 'ٱلس']",
+      "original_translation_splits": {
+        "021_00": "Kuma idan aka ce musu, \"Ku bi abin da Allah ya saukar,\" sai su ce: \"Ã'a, munã bin",
+        "021_01": "abin da muka sãmi ubanninmu a kansa."
+      },
+      "arabic_reference_splits": {
+        "021_00": "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُواْ مَآ أَنزَلَ ٱللَّهُ قَالُواْ بَلۡ نَتَّبِعُ مَا وَجَدۡنَا عَلَيۡهِ ءَابَآءَنَآۚ",
+        "021_01": "أَوَلَوۡ كَانَ ٱلشَّيۡطَٰنُ يَدۡعُوهُمۡ إِلَىٰ عَذَابِ ٱلسَّعِيرِ ١٢"
+      },
+      "combined_translation": "Kuma idan aka ce musu, \"Ku bi abin da Allah ya saukar,\" sai su ce: \"Ã'a, munã bin abin da muka sãmi ubanninmu a kansa.",
+      "timestamp": "2025-12-07T23:22:21.052010"
+    },
+    {
+      "verse_key": "033_006",
+      "chapter": 33,
+      "verse_number": 6,
+      "error": "Words removed: ['a', 'cikin', 'wancan', 'yã', 'kasance', 'littafi', 'rubũtacce']",
+      "original_translation_splits": {
+        "006_00": "Annabi ne mafi cancanta ga mũminai bisa ga su kansu, kuma mãtansa uwãyensu ne.",
+        "006_01": "Kuma ma'abuta zumunta waɗansunsu sun fi waɗansu a cikin Littãfin Allah bisa ga mũminai da Muhãjirai, fãce fa idan kun aikata wani alhẽri zuwa ga majiɓintanku. Wancan yã kasance a cikin Littafi, rubũtacce.",
+        "006_02": "Wancan yã kasance a cikin Littafi, rubũtacce."
+      },
+      "arabic_reference_splits": {
+        "006_00": "ٱلنَّبِيُّ أَوۡلَىٰ بِٱلۡمُؤۡمِنِينَ مِنۡ أَنفُسِهِمۡۖ وَأَزۡوَٰجُهُۥٓ أُمَّهَٰتُهُمۡۗ",
+        "006_01": "وَأُوْلُواْ ٱلۡأَرۡحَامِ بَعۡضُهُمۡ أَوۡلَىٰ بِبَعۡضٖ فِي كِتَٰبِ ٱللَّهِ مِنَ ٱلۡمُؤۡمِنِينَ وَٱلۡمُهَٰجِرِينَ إِلَّآ أَن تَفۡعَلُوٓاْ إِلَىٰٓ أَوۡلِيَآئِكُم مَّعۡرُوفٗاۚ",
+        "006_02": "كَانَ ذَٰلِكَ فِي ٱلۡكِتَٰبِ مَسۡطُورٗا ٦"
+      },
+      "combined_translation": "Annabi ne mafi cancanta ga mũminai bisa ga su kansu, kuma mãtansa uwãyensu ne. Kuma ma'abuta zumunta waɗansunsu sun fi waɗansu a cikin Littãfin Allah bisa ga mũminai da Muhãjirai, fãce fa idan kun aikata wani alhẽri zuwa ga majiɓintanku. Wancan yã kasance a cikin Littafi, rubũtacce. Wancan yã kasance a cikin Littafi, rubũtacce.",
+      "timestamp": "2025-12-07T23:22:21.053051"
+    },
+    {
+      "verse_key": "039_009",
+      "chapter": 39,
+      "verse_number": 9,
+      "error": "Words removed: ['yanã', 'daidai', 'da', 'waninsa']",
+      "original_translation_splits": {
+        "009_00": "Shin, wanda yake mai tawãli'u sã'õ'in dare, yanã mai sujada kuma yanã mai tsayi ga salla, yanã tsõron Lãhira, kuma yanã fãtan rahamar Ubangijinsa,",
+        "009_01": "(yanã daidai da waninsa?) Ka ce: \"Ashe, waɗanda suka sani, sunã daidaita da waɗanda ba su sani ba?\""
+      },
+      "arabic_reference_splits": {
+        "009_00": "أَمَّنۡ هُوَ قَٰنِتٌ ءَانَآءَ ٱلَّيۡلِ سَاجِدٗا وَقَآئِمٗا يَحۡذَرُ ٱلۡأٓخِرَةَ وَيَرۡجُواْ رَحۡمَةَ رَبِّهِۦۗ",
+        "009_01": "قُلۡ هَلۡ يَسۡتَوِي ٱلَّذِينَ يَعۡلَمُونَ وَٱلَّذِينَ لَا يَعۡلَمُونَۗ إِنَّمَا يَتَذَكَّرُ أُوْلُواْ ٱلۡأَلۡبَٰبِ ٩"
+      },
+      "combined_translation": "Shin, wanda yake mai tawãli'u sã'õ'in dare, yanã mai sujada kuma yanã mai tsayi ga salla, yanã tsõron Lãhira, kuma yanã fãtan rahamar Ubangijinsa, (yanã daidai da waninsa?) Ka ce: \"Ashe, waɗanda suka sani, sunã daidaita da waɗanda ba su sani ba?\"",
+      "timestamp": "2025-12-07T23:22:21.054068"
+    },
+    {
+      "verse_key": "041_012",
+      "chapter": 41,
+      "verse_number": 12,
+      "error": "Words added: ['al', 'al', 'dhālika', 'taqdīru', 'azīzi', 'alīmi']",
+      "original_translation_splits": {
+        "012_00": "Sai Ya hukunta su sammai bakwai a cikin kwãnuka biyu.",
+        "012_01": "Kuma Ya yi wahayi, a cikin kõwace sama da al'amarinta,"
+      },
+      "arabic_reference_splits": {
+        "012_00": "فَقَضَىٰهُنَّ سَبۡعَ سَمَٰوَاتٖ فِي يَوۡمَيۡنِ وَأَوۡحَىٰ فِي كُلِّ سَمَآءٍ أَمۡرَهَاۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَحِفۡظٗاۚ",
+        "012_01": "ذَٰلِكَ تَقۡدِيرُ ٱلۡعَزِيزِ ٱلۡعَلِيمِ ٢١"
+      },
+      "combined_translation": "Sai Ya hukunta su sammai bakwai a cikin kwãnuka biyu. Kuma Ya yi wahayi, a cikin kõwace sama da al'amarinta,",
+      "timestamp": "2025-12-07T23:22:21.055081"
+    },
+    {
+      "verse_key": "041_016",
+      "chapter": 41,
+      "verse_number": 16,
+      "error": "Words added: ['و', 'ه', 'م', 'ل', 'ا', 'ي', 'نص', 'ر', 'ون', '٦١']",
+      "original_translation_splits": {
+        "016_00": "Sai Muka aika, a kansu, da iska mai tsananin sauti da sanyi, a cikin kwãnuka na shu'umci, dõmin Mu ɗanɗana musu",
+        "016_01": "azãbar wulãƙanci, a cikin rãyuwar dũniya,"
+      },
+      "arabic_reference_splits": {
+        "016_00": "فَأَرۡسَلۡنَا عَلَيۡهِمۡ رِيحٗا صَرۡصَرٗا فِيٓ أَيَّامٖ نَّحِسَاتٖ لِّنُذِيقَهُمۡ عَذَابَ ٱلۡخِزۡيِ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَخۡزَىٰۖ",
+        "016_01": "وَهُمۡ لَا يُنصَرُونَ ٦١"
+      },
+      "combined_translation": "Sai Muka aika, a kansu, da iska mai tsananin sauti da sanyi, a cikin kwãnuka na shu'umci, dõmin Mu ɗanɗana musu azãbar wulãƙanci, a cikin rãyuwar dũniya,",
+      "timestamp": "2025-12-07T23:22:21.056055"
+    },
+    {
+      "verse_key": "041_025",
+      "chapter": 41,
+      "verse_number": 25,
+      "error": "Words added: ['إ', 'ن', 'ه', 'م', 'ك', 'ان', 'وا', 'خ', 'س', 'ر', 'ين', '٥٢']",
+      "original_translation_splits": {
+        "025_00": "Kuma Muka sallaɗar da mabiya a gare su, sai suka ƙawãta musu abin da ke a gabansu da abin da ke a bãyansu.",
+        "025_01": "Kuma kalmar azãba ta wajaba a kansu, a cikin wasu al'ummõmi da suka shũɗe a gabãninsu daga aljannu da mutãne."
+      },
+      "arabic_reference_splits": {
+        "025_00": "۞وَقَيَّضۡنَا لَهُمۡ قُرَنَآءَ فَزَيَّنُواْ لَهُم مَّا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَحَقَّ عَلَيۡهِمُ ٱلۡقَوۡلُ فِيٓ أُمَمٖ قَدۡ خَلَتۡ مِن قَبۡلِهِم مِّنَ ٱلۡجِنِّ وَٱلۡإِنسِۖ",
+        "025_01": "إِنَّهُمۡ كَانُواْ خَٰسِرِينَ ٥٢"
+      },
+      "combined_translation": "Kuma Muka sallaɗar da mabiya a gare su, sai suka ƙawãta musu abin da ke a gabansu da abin da ke a bãyansu. Kuma kalmar azãba ta wajaba a kansu, a cikin wasu al'ummõmi da suka shũɗe a gabãninsu daga aljannu da mutãne.",
+      "timestamp": "2025-12-07T23:22:21.057063"
+    },
+    {
+      "verse_key": "042_011",
+      "chapter": 42,
+      "verse_number": 11,
+      "error": "Words added: ['و', 'و', 'ه', 'ٱلس', 'م', 'يع', 'ٱل', 'ب', 'ص', 'ير', '١١']",
+      "original_translation_splits": {
+        "011_00": "(Shĩ ne) Mai ƙãga halittar sammai da ƙasa, Ya sanya muku ma'aura daga jinsinku, kuma (Ya sanya) daga dabbõbi maza",
+        "011_01": "da mãtã, Yanã halitta ku a cikinsu, wani abu bai zama kamar tamkarSa ba,"
+      },
+      "arabic_reference_splits": {
+        "011_00": "فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ جَعَلَ لَكُم مِّنۡ أَنفُسِكُمۡ أَزۡوَٰجٗا وَمِنَ ٱلۡأَنۡعَٰمِ أَزۡوَٰجٗا يَذۡرَؤُكُمۡ فِيهِۚ لَيۡسَ كَمِثۡلِهِۦ شَيۡءٞۖ",
+        "011_01": "وَهُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ ١١"
+      },
+      "combined_translation": "(Shĩ ne) Mai ƙãga halittar sammai da ƙasa, Ya sanya muku ma'aura daga jinsinku, kuma (Ya sanya) daga dabbõbi maza da mãtã, Yanã halitta ku a cikinsu, wani abu bai zama kamar tamkarSa ba,",
+      "timestamp": "2025-12-07T23:22:21.058030"
+    },
+    {
+      "verse_key": "053_032",
+      "chapter": 53,
+      "verse_number": 32,
+      "error": "Words added: ['tàyuna']; Words removed: ['tãyuna']",
+      "original_translation_splits": {
+        "032_00": "Waɗanda ke nĩsantar manyan zunubai da abũbuwan alfãsha, fãce ƙanãnan laifuffuka, lalle Ubangijinka Mai yalwatattar gãfara ne, Shĩ ne Ya fi sani ga abinda ke gare ku a lõkacin da Ya ƙãga halittarku daga ƙasa, kuma a lõkacin da kuke tãyuna a cikin cikannan uwãyenku.",
+        "032_01": "Sabõda haka, kada ku tsarkake kanku,"
+      },
+      "arabic_reference_splits": {
+        "032_00": "ٱلَّذِينَ يَجۡتَنِبُونَ كَبَٰٓئِرَ ٱلۡإِثۡمِ وَٱلۡفَوَٰحِشَ إِلَّا ٱللَّمَمَۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلۡمَغۡفِرَةِۚ",
+        "032_01": "هُوَ أَعۡلَمُ بِكُمۡ إِذۡ أَنشَأَكُم مِّنَ ٱلۡأَرۡضِ وَإِذۡ أَنتُمۡ أَجِنَّةٞ فِي بُطُونِ أُمَّهَٰتِكُمۡۖ فَلَا تُزَكُّوٓاْ أَنفُسَكُمۡۖ هُوَ أَعۡلَمُ بِمَنِ ٱتَّقَىٰٓ ٢٣"
+      },
+      "combined_translation": "Waɗanda ke nĩsantar manyan zunubai da abũbuwan alfãsha, fãce ƙanãnan laifuffuka, lalle Ubangijinka Mai yalwatattar gãfara ne, Shĩ ne Ya fi sani ga abinda ke gare ku a lõkacin da Ya ƙãga halittarku daga ƙasa, kuma a lõkacin da kuke tãyuna a cikin cikannan uwãyenku. Sabõda haka, kada ku tsarkake kanku,",
+      "timestamp": "2025-12-07T23:22:21.059012"
+    },
+    {
+      "verse_key": "058_012",
+      "chapter": 58,
+      "verse_number": 12,
+      "error": "Words added: ['f', 'إ', 'إ', 'ن', 'ن', 'ل', 'م', 'ت', 'ج', 'د', 'وا', 'ف', 'ف', 'ٱلل', 'ه', 'غ', 'ور', 'ر', 'ح', 'يم', '٢١']",
+      "original_translation_splits": {
+        "012_00": "Yã kũ waɗanda suka yi ĩmãni!",
+        "012_01": "Idan zã ku gãnãwa da Manzon Allah, to, ku gabãtar da 'yar sadaka a gabãnin gãnãwarku, wannan ne mafi alhẽri a gare ku, kuma mafi tsarki."
+      },
+      "arabic_reference_splits": {
+        "012_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا نَٰجَيۡتُمُ ٱلرَّسُولَ فَقَدِّمُواْ بَيۡنَ يَدَيۡ نَجۡوَىٰكُمۡ صَدَقَةٗۚ ذَٰلِكَ خَيۡرٞ لَّكُمۡ وَأَطۡهَرُۚ",
+        "012_01": "فَإِن لَّمۡ تَجِدُواْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ ٢١"
+      },
+      "combined_translation": "Yã kũ waɗanda suka yi ĩmãni! Idan zã ku gãnãwa da Manzon Allah, to, ku gabãtar da 'yar sadaka a gabãnin gãnãwarku, wannan ne mafi alhẽri a gare ku, kuma mafi tsarki.",
+      "timestamp": "2025-12-07T23:22:21.059989"
+    },
+    {
+      "verse_key": "062_009",
+      "chapter": 62,
+      "verse_number": 9,
+      "error": "Words added: ['a', 'ku', 'wannan', 'ya', 'fi', 'alheri', 'gare', 'in', 'kun', 'kasance', 'kuna', 'sani']",
+      "original_translation_splits": {
+        "009_00": "Yã kũ waɗanda suka yi ĩmãni!",
+        "009_01": "Idan anyi kirã zuwã ga salla a rãnar Jumu'a, sai ku yi aiki zuwa ga ambaton Allah, kuma ku bar ciniki."
+      },
+      "arabic_reference_splits": {
+        "009_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا نُودِيَ لِلصَّلَوٰةِ مِن يَوۡمِ ٱلۡجُمُعَةِ فَٱسۡعَوۡاْ إِلَىٰ ذِكۡرِ ٱللَّهِ وَذَرُواْ ٱلۡبَيۡعَۚ",
+        "009_01": "ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ ٩"
+      },
+      "combined_translation": "Yã kũ waɗanda suka yi ĩmãni! Idan anyi kirã zuwã ga salla a rãnar Jumu'a, sai ku yi aiki zuwa ga ambaton Allah, kuma ku bar ciniki.",
+      "timestamp": "2025-12-07T23:22:21.060923"
+    },
+    {
+      "verse_key": "064_009",
+      "chapter": 64,
+      "verse_number": 9,
+      "error": "Words removed: ['a', 'da', 'da', 'kuma', 'kuma', 'kuma', 'wanda', 'ya', 'ya', 'yi', 'ĩmãni', 'allah', 'aikata', 'aikin', 'ƙwarai', 'zai', 'kankare', 'masa', 'mũnãnan', 'ayyukansa', 'yashigar', 'shi', 'gidãjen', 'aljanna', 'ƙoramu', 'na', 'gudãna', 'daga', 'ƙarƙashinsu', 'sunã', 'madawwama', 'cikinsu', 'har', 'abada']",
+      "original_translation_splits": {
+        "009_00": "A rãnar da Yake tattara ku dõmin rãnar tãruwa.",
+        "009_01": "Wancan ne rãnar kãmunga. Kuma wanda ya yi ĩmãni da Allah, kuma ya aikata aikin ƙwarai, zai kankare masa mũnãnan ayyukansa, kuma Yashigar da shi gidãjen Aljanna, ƙoramu na gudãna daga ƙarƙashinsu, sunã madawwama a cikinsu har abada.",
+        "009_02": "Kuma wanda ya yi ĩmãni da Allah, kuma ya aikata aikin ƙwarai, zai kankare masa mũnãnan ayyukansa, kuma Yashigar da shi gidãjen Aljanna, ƙoramu na gudãna daga ƙarƙashinsu, sunã madawwama a cikinsu har abada. Wannan ne babban rabo mai girma."
+      },
+      "arabic_reference_splits": {
+        "009_00": "يَوۡمَ يَجۡمَعُكُمۡ لِيَوۡمِ ٱلۡجَمۡعِۖ ذَٰلِكَ يَوۡمُ ٱلتَّغَابُنِۗ",
+        "009_01": "وَمَن يُؤۡمِنۢ بِٱللَّهِ وَيَعۡمَلۡ صَٰلِحٗا يُكَفِّرۡ عَنۡهُ سَيِّـَٔاتِهِۦ وَيُدۡخِلۡهُ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۚ",
+        "009_02": "ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ ٩"
+      },
+      "combined_translation": "A rãnar da Yake tattara ku dõmin rãnar tãruwa. Wancan ne rãnar kãmunga. Kuma wanda ya yi ĩmãni da Allah, kuma ya aikata aikin ƙwarai, zai kankare masa mũnãnan ayyukansa, kuma Yashigar da shi gidãjen Aljanna, ƙoramu na gudãna daga ƙarƙashinsu, sunã madawwama a cikinsu har abada. Kuma wanda ya yi ĩmãni da Allah, kuma ya aikata aikin ƙwarai, zai kankare masa mũnãnan ayyukansa, kuma Yashigar da shi gidãjen Aljanna, ƙoramu na gudãna daga ƙarƙashinsu, sunã madawwama a cikinsu har abada. Wannan ne babban rabo mai girma.",
+      "timestamp": "2025-12-07T23:22:21.061858"
+    }
+  ]
+}

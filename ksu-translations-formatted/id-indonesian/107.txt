@@ -1,7 +1,0 @@
-001_00	Tahukah kamu (orang) yang mendustakan agama?
-002_00	Itulah orang yang menghardik anak yatim,
-003_00	dan tidak menganjurkan memberi makan orang miskin.
-004_00	Maka kecelakaanlah bagi orang-orang yang shalat,
-005_00	(yaitu) orang-orang yang lalai dari shalatnya,
-006_00	orang-orang yang berbuat riya,
-007_00	dan enggan (menolong dengan) barang berguna.

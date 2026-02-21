@@ -1,0 +1,400 @@
+================================================================================
+VALIDATION REPORT: de-bo
+================================================================================
+
+Total mismatches: 52
+
+By severity:
+  Critical (<80%):  4
+  Moderate (80-95%): 3
+  Minor (95-99%):   0
+  Trivial (>99%):   45
+
+================================================================================
+ISSUES BY CHAPTER
+================================================================================
+
+
+Chapter 002: 9 issues
+--------------------------------------------------------------------------------
+
+Verse 057 - Similarity: 99.8%
+  Original (219 chars):
+    Und Wir ließen die Wolken euch überschatten und sandten das Manna und die Wachteln auf euch hinab: "...
+  Formatted (220 chars):
+    Und Wir ließen die Wolken euch überschatten und sandten das Manna und die Wachteln auf euch hinab: "...
+
+Verse 126 - Similarity: 99.9%
+  Original (337 chars):
+    Und (gedenkt,) als Ibrahim sagte: "Mein Herr, mache dies zu einer sicheren Ortschaft und versorge ih...
+  Formatted (338 chars):
+    Und (gedenkt,) als Ibrahim sagte: "Mein Herr, mache dies zu einer sicheren Ortschaft und versorge ih...
+
+Verse 151 - Similarity: 99.7%
+  Original (191 chars):
+    So, wie Wir zu euch einen Gesandten von euch geschickt haben, der euch Unsere Worte verliest und euc...
+  Formatted (192 chars):
+    So, wie Wir zu euch einen Gesandten von euch geschickt haben, der euch Unsere Worte verliest un d eu...
+
+Verse 159 - Similarity: 99.8%
+  Original (217 chars):
+    Diejenigen, die verheimlichen, was Wir an klaren Beweisen und Rechtleitung hinabgesandt haben, nachd...
+  Formatted (218 chars):
+    Diejenigen, die verheimlichen, was Wir an klaren Beweisen und Rechtleitung hinabgesandt haben, nachd...
+
+Verse 177 - Similarity: 99.8%
+  Original (624 chars):
+    Nicht darin besteht die Güte, daß ihr eure Gesichter gegen Osten oder Westen wendet. Güte ist vielme...
+  Formatted (627 chars):
+    Nicht darin besteht die Güte, daß ihr eure Gesichter gegen Osten oder Westen wendet. Güte ist vielme...
+
+Verse 196 - Similarity: 78.1%
+  Original (861 chars):
+    Vollzieht die Pilgerfahrt und die Besuchsfahrt für Allah. Wenn ihr jedoch (daran) gehindert werdet, ...
+  Formatted (552 chars):
+    Vollzieht die Pilgerfahrt und die Besuchsfahrt für Allah. Wenn ihr jedoch (daran) gehindert werdet, ...
+
+Verse 213 - Similarity: 99.9%
+  Original (596 chars):
+    Die Menschen waren eine einzige Gemeinschaft. Dann schickte Allah die Propheten als Verkünder froher...
+  Formatted (597 chars):
+    Die Menschen waren eine einzige Gemeinschaft. Dann schickte Allah die Propheten als Verkünder froher...
+
+Verse 246 - Similarity: 99.7%
+  Original (564 chars):
+    Siehst du nicht die führende Schar von den Kindern Isra'ils nach Musa, als sie zu einem ihrer Prophe...
+  Formatted (567 chars):
+    Siehst du nicht die führende Schar von den Kindern Isra'ils nach Musa, als sie zu einem ihrer Prophe...
+
+Verse 286 - Similarity: 99.9%
+  Original (514 chars):
+    Allah erlegt keiner Seele mehr auf, als sie zu leisten vermag. Ihr kommt (nur) zu, was sie verdient ...
+  Formatted (513 chars):
+    Allah erlegt keiner Seele mehr auf, als sie zu leisten vermag. Ihr kommt (nur) zu, was sie verdient ...
+
+Chapter 003: 5 issues
+--------------------------------------------------------------------------------
+
+Verse 021 - Similarity: 88.8%
+  Original (178 chars):
+    Diejenigen, die Allahs Zeichen verleugnen, die Propheten zu Unrecht töten und diejenigen unter den M...
+  Formatted (142 chars):
+    Diejenigen, die Allahs Zeichen verleugnen, die Propheten zu Unrecht töten und diejenigen unter den M...
+
+Verse 039 - Similarity: 99.7%
+  Original (199 chars):
+    Und da riefen ihm die Engel zu, während er betend in der Zelle stand: "Allah verkündet dir Yahya, ei...
+  Formatted (200 chars):
+    Und da riefen ihm die Engel zu, während er betend in der Zelle stand: "Allah verkündet dir Yahya, e ...
+
+Verse 181 - Similarity: 99.8%
+  Original (246 chars):
+    Allah hat ja die Worte derjenigen gehört, die sagten: "Allah ist gewiß arm, und wir sind reich." Wir...
+  Formatted (247 chars):
+    Allah hat ja die Worte derjenigen gehört, die sagten: "Allah ist gewiß arm, und wir sind reich." Wir...
+
+Verse 187 - Similarity: 99.8%
+  Original (303 chars):
+    Und (gedenkt,) als Allah mit denjenigen, denen die Schrift gegeben worden war, ein Abkommen traf: "I...
+  Formatted (304 chars):
+    Und (gedenkt,) als Allah mit denjenigen, denen die Schrift gegeben worden war, ein Abkommen traf: "I...
+
+Verse 195 - Similarity: 99.9%
+  Original (521 chars):
+    Da erhörte sie ihr Herr: "Ich lasse kein Werk eines (Gutes) Tuenden von euch verlorengehen, sei es v...
+  Formatted (522 chars):
+    Da erhörte sie ihr Herr: "Ich lasse kein Werk eines (Gutes) Tuenden von euch verlorengehen, sei es v...
+
+Chapter 004: 6 issues
+--------------------------------------------------------------------------------
+
+Verse 023 - Similarity: 99.9%
+  Original (732 chars):
+    Verboten (zu heiraten) sind euch eure Mütter, eure Töchter, eure Schwestern, eure Tanten väterlicher...
+  Formatted (734 chars):
+    Verboten (zu heiraten) sind euch eure Mütter, eure Töchter, eure Schwestern, eure Tanten väterlicher...
+
+Verse 043 - Similarity: 99.8%
+  Original (483 chars):
+    O die ihr glaubt, nähert euch nicht dem Gebet, während ihr trunken seid, bis ihr wißt, was ihr sagt,...
+  Formatted (485 chars):
+    O die ihr glaubt, nähert euch nicht dem Gebet, während ihr trunken seid, bis ihr wißt, was ihr sagt,...
+
+Verse 092 - Similarity: 99.9%
+  Original (773 chars):
+    Es steht keinem Gläubigen zu, einen (anderen) Gläubigen zu töten, es sei denn aus Versehen'. Und wer...
+  Formatted (772 chars):
+    Es steht keinem Gläubigen zu, einen (anderen) Gläubigen zu töten, es sei denn aus Versehen. Und wer ...
+
+Verse 119 - Similarity: 99.9%
+  Original (380 chars):
+    und ich werde sie ganz gewiß in die Irre führen und ganz gewiß in ihnen Wünsche erwecken und ihnen g...
+  Formatted (381 chars):
+    und ich werde sie ganz gewiß in die Irre führen und ganz gewiß in ihnen Wünsche erwecken und ihnen g...
+
+Verse 154 - Similarity: 75.2%
+  Original (257 chars):
+    Und Wir hoben den Berg über sie bei (der Entgegennahme von) ihrem Abkommen empor. Und Wir sagten zu ...
+  Formatted (155 chars):
+    Und Wir hoben den Berg über sie bei (der Entgegennahme von) ihrem Abkommen empor. Und Wir sagten zu ...
+
+Verse 163 - Similarity: 99.7%
+  Original (293 chars):
+    Gewiß, Wir haben dir (Offenbarung) eingegeben, wie Wir Nuh und den Propheten nach ihm (Offenbarung) ...
+  Formatted (295 chars):
+    Gewiß, Wir haben dir (Offenbarung) eingegeben, wie Wir Nuh und den Propheten nach ihm (Offenbarun g)...
+
+Chapter 005: 5 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.8%
+  Original (634 chars):
+    O die ihr glaubt, wenn ihr euch zum Gebet aufstellt, dann wascht euch das Gesicht und die Hände bis ...
+  Formatted (637 chars):
+    O die ihr glaubt, wenn ihr euch zum Gebet aufstellt, dann wascht euch das Gesicht und die Hände bis ...
+
+Verse 060 - Similarity: 80.6%
+  Original (317 chars):
+    Sag: Soll ich euch kundtun, was als Belohnung bei Allah (noch) schlechter ist? Diejenigen, die Allah...
+  Formatted (214 chars):
+    Sag: Soll ich euch kundtun, was als Belohnung bei Allah (noch) schlechter ist? Diejenigen, die Allah...
+
+Verse 082 - Similarity: 99.9%
+  Original (406 chars):
+    Du wirst ganz gewiß finden, daß diejenigen Menschen, die den Gläubigen am heftigsten Feindschaft zei...
+  Formatted (407 chars):
+    Du wirst ganz gewiß finden, daß diejenigen Menschen, die den Gläubigen am heftigsten Feindschaft zei...
+
+Verse 103 - Similarity: 99.7%
+  Original (185 chars):
+    Allah hat keine Bahira, keine Sa'iba, keine Wasila und keine Ham bestimmt, sondern diejenigen, die u...
+  Formatted (186 chars):
+    Allah hat keine Bahira, keine Sa'iba, keine Wasila und keine Ham bestimmt, sondern diejenige n, die ...
+
+Verse 110 - Similarity: 99.8%
+  Original (830 chars):
+    Wenn Allah sagt: "O 'Isa, Sohn Maryams, gedenke Meiner Gunst an dir und an deiner Mutter, als Ich di...
+  Formatted (833 chars):
+    Wenn Allah sagt: "O 'Isa, Sohn Maryams, gedenke Meiner Gunst an dir und an deiner Mutter, als Ich di...
+
+Chapter 006: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 031 - Similarity: 99.8%
+  Original (322 chars):
+    Verloren sind diejenigen, die die Begegnung mit Allah für Lüge erklären, so daß, wenn die Stunde plö...
+  Formatted (323 chars):
+    Verloren sind diejenigen, die die Begegnung mit Allah für Lüge erklären, so daß, wenn die Stunde plö...
+
+Chapter 007: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 088 - Similarity: 99.8%
+  Original (288 chars):
+    Die führende Schar, die sich hochmütig verhielt, aus seinem Volk, sagte: "Wir werden dich, o Su'aib,...
+  Formatted (289 chars):
+    Die führende Schar, die sich hochmütig verhielt, aus seinem Volk, sagte: "Wir werden dich, o Su'aib,...
+
+Verse 129 - Similarity: 99.8%
+  Original (242 chars):
+    Sie sagten: "Uns ist Leid zugefügt worden, bevor du zu uns kamst und nachdem du zu uns gekommen bist...
+  Formatted (243 chars):
+    Sie sagten: "Uns ist Leid zugefügt worden, bevor du zu uns kamst und nachdem du zu uns gekommen bist...
+
+Verse 143 - Similarity: 99.9%
+  Original (510 chars):
+    Als nun Musa zu Unserer festgesetzten Zeit kam und sein Herr zu ihm sprach, sagte er: "Mein Herr, ze...
+  Formatted (509 chars):
+    Als nun Musa zu Unserer festgesetzten Zeit kam und sein Herr zu ihm sprach, sagte er: "Mein Herr, ze...
+
+Chapter 009: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 029 - Similarity: 99.8%
+  Original (306 chars):
+    Kämpft gegen diejenigen, die nicht an Allah und nicht an den Jüngsten Tag glauben und nicht verbiete...
+  Formatted (307 chars):
+    Kämpft gegen diejenigen, die nicht an Allah und nicht an den Jüngsten Tag glauben und nicht verbiete...
+
+Verse 112 - Similarity: 24.2%
+  Original (313 chars):
+    (... für die Gläubigen,) die in Reue Umkehrenden, die (Allah) Dienenden, die Lobenden, die (auf Alla...
+  Formatted (43 chars):
+    und verkünde den Gläubigen frohe Botschaft....
+
+Chapter 010: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 024 - Similarity: 99.8%
+  Original (531 chars):
+    Das Gleichnis des diesseitigen Lebens ist nur wie Wasser, das Wir vom Himmel hinabsenden, worauf das...
+  Formatted (533 chars):
+    Das Gleichnis des diesseitigen Lebens ist nur wie Wasser, das Wir vom Himmel hinabsenden, worauf das...
+
+Chapter 012: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 031 - Similarity: 67.8%
+  Original (345 chars):
+    Als sie nun von ihren Ränken hörte, sandte sie zu ihnen und bereitete ihnen ein Gastmahl'. Sie gab e...
+  Formatted (177 chars):
+    Als sie nun von ihren Ränken hörte, sandte sie zu ihnen und bereitete ihnen ein Gastmahl'. Sie gab e...
+
+Verse 046 - Similarity: 99.8%
+  Original (227 chars):
+    "Yusuf, du Wahrhaftiger, gib uns Auskunft über sieben fette Kühe, die von sieben mageren gefressen w...
+  Formatted (228 chars):
+    "Yusuf, du Wahrhaftiger, gib uns Auskunft über sieben fette Kühe, die von sieben mageren gefressen w...
+
+Chapter 016: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 106 - Similarity: 99.8%
+  Original (283 chars):
+    Wer Allah verleugnet, nachdem er den Glauben (angenommen) hatte - außer demjenigen, der gezwungen wi...
+  Formatted (284 chars):
+    Wer Allah verleugnet, nachdem er den Glauben (angenommen) hatte - außer demjenigen, der gezwungen wi...
+
+Chapter 017: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 051 - Similarity: 99.8%
+  Original (324 chars):
+    oder etwas Erschaffenes von der Art, die in eurer Vorstellung noch schwerwiegender wäre." Dann werde...
+  Formatted (325 chars):
+    oder etwas Erschaffenes von der Art, die in eurer Vorstellung noch schwerwiegender wäre." Dann werde...
+
+Chapter 018: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 049 - Similarity: 83.2%
+  Original (295 chars):
+    Und das Buch wird hingelegt. Dann siehst du die Übeltäter besorgt wegen dessen, was darin steht. Sie...
+  Formatted (210 chars):
+    Und das Buch wird hingelegt. Dann siehst du die Übeltäter besorgt wegen dessen, was darin steht. Sie...
+
+Chapter 024: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 99.8%
+  Original (221 chars):
+    Diejenigen, die den ehrbaren Ehefrauen (Untreue) vorwerfen und hierauf nicht vier Zeugen beibringen,...
+  Formatted (222 chars):
+    Diejenigen, die den ehrbaren Ehefrauen (Untreue) vorwerfen und hierauf nicht vier Zeugen beibringen,...
+
+Verse 031 - Similarity: 99.8%
+  Original (863 chars):
+    Und sag zu den gläubigen Frauen, sie sollen ihre Blicke senken und ihre Scham hüten, ihren Schmuck n...
+  Formatted (867 chars):
+    Und sag zu den gläubigen Frauen, sie sollen ihre Blicke senken und ihre Scham hüten, ihren Schmuck n...
+
+Verse 061 - Similarity: 99.8%
+  Original (841 chars):
+    Es gibt für den Blinden keinen Grund zur Bedrängnis, es gibt für den Hinkenden keinen Grund zur Bedr...
+  Formatted (844 chars):
+    Es gibt für den Blinden keinen Grund zur Bedrängnis, es gibt für den Hinkenden keinen Grund zur Bedr...
+
+Chapter 029: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 029 - Similarity: 99.8%
+  Original (290 chars):
+    Laßt ihr euch denn wahrlich (in Begierde) mit den Männern ein, und schneidet den (natürlichen) Weg a...
+  Formatted (291 chars):
+    Laßt ihr euch denn wahrlich (in Begierde) mit den Männern ein, und schneidet den (natürlichen) Weg a...
+
+Chapter 030: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 028 - Similarity: 99.9%
+  Original (355 chars):
+    Er prägt euch aus eurem eigenen (Lebens)bereich ein Gleichnis: Habt ihr denn (aus der Schar) unter d...
+  Formatted (356 chars):
+    Er prägt euch aus eurem eigenen (Lebens)bereich ein Gleichnis: Habt ihr denn (aus der Schar) unter d...
+
+Chapter 031: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 029 - Similarity: 99.8%
+  Original (251 chars):
+    Siehst du denn nicht, daß Allah die Nacht in den Tag eindringen und den Tag in die Nacht eindringen ...
+  Formatted (252 chars):
+    Siehst du denn nicht, daß Allah die Nacht in den Tag eindringen und den Tag in die Nacht eindringen ...
+
+Chapter 033: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 035 - Similarity: 99.9%
+  Original (519 chars):
+    Gewiß, muslimische Männer und muslimische Frauen, gläubige Männer und gläubige Frauen, ergebene Männ...
+  Formatted (520 chars):
+    Gewiß, muslimische Männer und muslimische Frauen, gläubige Männer und gläubige Frauen, ergebene Männ...
+
+Verse 050 - Similarity: 99.8%
+  Original (851 chars):
+    O Prophet, Wir haben dir (zu heiraten) erlaubt: deine Gattinnen, denen du ihren Lohn gegeben hast, d...
+  Formatted (854 chars):
+    O Prophet, Wir haben dir (zu heiraten) erlaubt: deine Gattinnen, denen du ihren Lohn gegeben hast, d...
+
+Chapter 034: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 031 - Similarity: 99.9%
+  Original (421 chars):
+    Und diejenigen, die ungläubig sind, sagen: "Wir werden nicht an diesen Qur'an glauben und auch nicht...
+  Formatted (422 chars):
+    Und diejenigen, die ungläubig sind, sagen: "Wir werden nicht an diesen Qur'an glauben und auch nicht...
+
+Chapter 047: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 99.9%
+  Original (515 chars):
+    Wenn ihr auf diejenigen, die ungläubig sind, (im Kampf) trefft, dann schlagt den Hals. Wenn ihr sie ...
+  Formatted (514 chars):
+    Wenn ihr auf diejenigen, die ungläubig sind, (im Kampf) trefft, dann schlagt den Hals. Wenn ihr sie ...
+
+Chapter 048: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 025 - Similarity: 99.9%
+  Original (617 chars):
+    Sie sind es, die ungläubig gewesen sind und euch von der geschützten Gebetsstätte abgehalten und die...
+  Formatted (616 chars):
+    Sie sind es, die ungläubig gewesen sind und euch von der geschützten Gebetsstätte abgehalten und die...
+
+Chapter 057: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 027 - Similarity: 99.9%
+  Original (508 chars):
+    Hierauf ließen Wir auf ihren Spuren Unsere Gesandten folgen; und Wir ließen 'Isa, den Sohn Maryams, ...
+  Formatted (507 chars):
+    Hierauf ließen Wir auf ihren Spuren Unsere Gesandten folgen; und Wir ließen 'Isa, den Sohn Maryams, ...
+
+Chapter 060: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 99.9%
+  Original (584 chars):
+    Ihr habt doch ein schönes Vorbild in Ibrahim und denjenigen, die mit ihm waren, als sie zu ihrem Vol...
+  Formatted (583 chars):
+    Ihr habt doch ein schönes Vorbild in Ibrahim und denjenigen, die mit ihm waren, als sie zu ihrem Vol...
+
+Chapter 061: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 014 - Similarity: 99.9%
+  Original (371 chars):
+    O die ihr glaubt, seid Allahs Helfer, so wie 'Isa, der Sohn Maryams, zu den Jüngern sagte: "Wer sind...
+  Formatted (372 chars):
+    O die ihr glaubt, seid Allahs Helfer, so wie 'Isa, der Sohn Maryams, zu den Jüngern sagte: "Wer sind...
+
+Chapter 074: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 031 - Similarity: 99.8%
+  Original (709 chars):
+    Wir haben als Wächter des (Höllen)feuers nur Engel eingesetzt, und Wir haben ihre Zahl nur zu einer ...
+  Formatted (712 chars):
+    Wir haben als Wächter des (Höllen)feuers nur Engel eingesetzt, und Wir haben ihre Zahl nur zu einer ...

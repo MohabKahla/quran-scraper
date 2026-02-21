@@ -1,7 +1,0 @@
-001_00	Non vedi colui che taccia di menzogna il Giudizio.
-002_00	È quello stesso che scaccia l'orfano.
-003_00	e non esorta a sfamare il povero.
-004_00	Guai a quelli che fanno l'orazione
-005_00	e sono incuranti delle loro orazioni.
-006_00	che sono pieni di ostentazione
-007_00	e rifiutano di dare ciò che è utile.

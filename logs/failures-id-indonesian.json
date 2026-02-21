@@ -1,0 +1,635 @@
+{
+  "translation": "id-indonesian",
+  "total_failures": 38,
+  "generated_at": "2025-12-08T00:21:48.153068",
+  "failures": [
+    {
+      "verse_key": "002_058",
+      "chapter": 2,
+      "verse_number": 58,
+      "error": "Words added: ['dan', 'kami', 'yang', 'akan', 'menambah', 'pahala', 'bagi', 'orang', 'orang', 'berbuat', 'baik']",
+      "original_translation_splits": {
+        "058_00": "Dan (ingatlah), ketika Kami berfirman: \"Masuklah kamu ke negeri ini (Baitul Maqdis), dan makanlah dari hasil buminya, yang banyak lagi enak dimana yang kamu sukai, dan",
+        "058_01": "masukilah pintu gerbangnya sambil bersujud, dan katakanlah: \"Bebaskanlah kami dari dosa\", niscaya Kami ampuni kesalahan-kesalahanmu,"
+      },
+      "arabic_reference_splits": {
+        "058_00": "وَإِذۡ قُلۡنَا ٱدۡخُلُواْ هَٰذِهِ ٱلۡقَرۡيَةَ فَكُلُواْ مِنۡهَا حَيۡثُ شِئۡتُمۡ رَغَدٗا وَٱدۡخُلُواْ ٱلۡبَابَ سُجَّدٗا وَقُولُواْ حِطَّةٞ نَّغۡفِرۡ لَكُمۡ خَطَٰيَٰكُمۡۚ",
+        "058_01": "وَسَنَزِيدُ ٱلۡمُحۡسِنِينَ ٨٥"
+      },
+      "combined_translation": "Dan (ingatlah), ketika Kami berfirman: \"Masuklah kamu ke negeri ini (Baitul Maqdis), dan makanlah dari hasil buminya, yang banyak lagi enak dimana yang kamu sukai, dan masukilah pintu gerbangnya sambil bersujud, dan katakanlah: \"Bebaskanlah kami dari dosa\", niscaya Kami ampuni kesalahan-kesalahanmu,",
+      "timestamp": "2025-12-08T00:21:48.087342"
+    },
+    {
+      "verse_key": "002_080",
+      "chapter": 2,
+      "verse_number": 80,
+      "error": "Words added: ['tidak', 'kamu', 'kamu', 'allah', 'atau', 'apakah', 'mengatakan', 'tentang', 'apa', 'yang', 'ketahui']",
+      "original_translation_splits": {
+        "080_00": "Dan mereka berkata: \"Kami sekali-kali tidak akan disentuh oleh api neraka, kecuali selama beberapa hari saja\".",
+        "080_01": "Katakanlah: \"Sudahkah kamu menerima janji dari Allah sehingga Allah tidak akan memungkiri janji-Nya,"
+      },
+      "arabic_reference_splits": {
+        "080_00": "وَقَالُواْ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامٗا مَّعۡدُودَةٗۚ قُلۡ أَتَّخَذۡتُمۡ عِندَ ٱللَّهِ عَهۡدٗا فَلَن يُخۡلِفَ ٱللَّهُ عَهۡدَهُۥٓۖ",
+        "080_01": "أَمۡ تَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ ٠٨"
+      },
+      "combined_translation": "Dan mereka berkata: \"Kami sekali-kali tidak akan disentuh oleh api neraka, kecuali selama beberapa hari saja\". Katakanlah: \"Sudahkah kamu menerima janji dari Allah sehingga Allah tidak akan memungkiri janji-Nya,",
+      "timestamp": "2025-12-08T00:21:48.089842"
+    },
+    {
+      "verse_key": "002_142",
+      "chapter": 2,
+      "verse_number": 142,
+      "error": "Words added: ['yahdi', 'man', 'yasha', 'u', 'ila', 'siratin', 'mustaqim']",
+      "original_translation_splits": {
+        "142_00": "Orang-orang yang kurang akalnya diantara manusia akan berkata: \"Apakah yang memalingkan mereka (umat Islam) dari kiblatnya (Baitul Maqdis) yang dahulu",
+        "142_01": "mereka telah berkiblat kepadanya?"
+      },
+      "arabic_reference_splits": {
+        "142_00": "۞سَيَقُولُ ٱلسُّفَهَآءُ مِنَ ٱلنَّاسِ مَا وَلَّىٰهُمۡ عَن قِبۡلَتِهِمُ ٱلَّتِي كَانُواْ عَلَيۡهَاۚ قُل لِّلَّهِ ٱلۡمَشۡرِقُ وَٱلۡمَغۡرِبُۚ",
+        "142_01": "يَهۡدِي مَن يَشَآءُ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ ٢٤١"
+      },
+      "combined_translation": "Orang-orang yang kurang akalnya diantara manusia akan berkata: \"Apakah yang memalingkan mereka (umat Islam) dari kiblatnya (Baitul Maqdis) yang dahulu mereka telah berkiblat kepadanya?",
+      "timestamp": "2025-12-08T00:21:48.092198"
+    },
+    {
+      "verse_key": "002_151",
+      "chapter": 2,
+      "verse_number": 151,
+      "error": "Words added: ['kamu', 'yang', 'dan', 'tidak', 'ketahui']",
+      "original_translation_splits": {
+        "151_00": "Sebagaimana (Kami telah menyempurnakan nikmat Kami kepadamu) Kami telah mengutus kepadamu Rasul diantara kamu yang membacakan ayat-ayat Kami kepada",
+        "151_01": "kamu dan mensucikan kamu dan mengajarkan kepadamu Al Kitab dan Al-Hikmah,"
+      },
+      "arabic_reference_splits": {
+        "151_00": "كَمَآ أَرۡسَلۡنَا فِيكُمۡ رَسُولٗا مِّنكُمۡ يَتۡلُواْ عَلَيۡكُمۡ ءَايَٰتِنَا وَيُزَكِّيكُمۡ وَيُعَلِّمُكُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ",
+        "151_01": "وَيُعَلِّمُكُم مَّا لَمۡ تَكُونُواْ تَعۡلَمُونَ ١٥١"
+      },
+      "combined_translation": "Sebagaimana (Kami telah menyempurnakan nikmat Kami kepadamu) Kami telah mengutus kepadamu Rasul diantara kamu yang membacakan ayat-ayat Kami kepada kamu dan mensucikan kamu dan mengajarkan kepadamu Al Kitab dan Al-Hikmah,",
+      "timestamp": "2025-12-08T00:21:48.094416"
+    },
+    {
+      "verse_key": "002_185",
+      "chapter": 2,
+      "verse_number": 185,
+      "error": "Words removed: ['beberapa', 'hari', 'yang', 'ditentukan', 'itu', 'ialah']",
+      "original_translation_splits": {
+        "185_00": "(Beberapa hari yang ditentukan itu ialah) bulan Ramadhan, bulan yang di dalamnya diturunkan (permulaan) Al Quran sebagai petunjuk bagi manusia dan penjelasan-penjelasan mengenai petunjuk itu dan pembeda (antara yang hak dan yang bathil).",
+        "185_01": "Karena itu, barangsiapa di antara kamu hadir (di negeri tempat tinggalnya) di bulan itu, maka hendaklah ia berpuasa pada bulan itu, dan barangsiapa sakit atau dalam perjalanan (lalu ia berbuka),",
+        "185_02": "maka (wajiblah baginya berpuasa), sebanyak hari yang ditinggalkannya itu, pada hari-hari yang lain. Allah menghendaki kemudahan bagimu, dan tidak menghendaki kesukaran bagimu. Dan hendaklah kamu mencukupkan bilangannya dan hendaklah kamu mengagungkan Allah atas petunjuk-Nya yang diberikan kepadamu, supaya kamu bersyukur."
+      },
+      "arabic_reference_splits": {
+        "185_00": "شَهۡرُ رَمَضَانَ ٱلَّذِيٓ أُنزِلَ فِيهِ ٱلۡقُرۡءَانُ هُدٗى لِّلنَّاسِ وَبَيِّنَٰتٖ مِّنَ ٱلۡهُدَىٰ وَٱلۡفُرۡقَانِۚ فَمَن شَهِدَ مِنكُمُ ٱلشَّهۡرَ فَلۡيَصُمۡهُۖ",
+        "185_01": "وَمَن كَانَ مَرِيضًا أَوۡ عَلَىٰ سَفَرٖ فَعِدَّةٞ مِّنۡ أَيَّامٍ أُخَرَۗ",
+        "185_02": "يُرِيدُ ٱللَّهُ بِكُمُ ٱلۡيُسۡرَ وَلَا يُرِيدُ بِكُمُ ٱلۡعُسۡرَ وَلِتُكۡمِلُواْ ٱلۡعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمۡ وَلَعَلَّكُمۡ تَشۡكُرُونَ ٥٨١"
+      },
+      "combined_translation": "(Beberapa hari yang ditentukan itu ialah) bulan Ramadhan, bulan yang di dalamnya diturunkan (permulaan) Al Quran sebagai petunjuk bagi manusia dan penjelasan-penjelasan mengenai petunjuk itu dan pembeda (antara yang hak dan yang bathil). Karena itu, barangsiapa di antara kamu hadir (di negeri tempat tinggalnya) di bulan itu, maka hendaklah ia berpuasa pada bulan itu, dan barangsiapa sakit atau dalam perjalanan (lalu ia berbuka), maka (wajiblah baginya berpuasa), sebanyak hari yang ditinggalkannya itu, pada hari-hari yang lain. Allah menghendaki kemudahan bagimu, dan tidak menghendaki kesukaran bagimu. Dan hendaklah kamu mencukupkan bilangannya dan hendaklah kamu mengagungkan Allah atas petunjuk-Nya yang diberikan kepadamu, supaya kamu bersyukur.",
+      "timestamp": "2025-12-08T00:21:48.096340"
+    },
+    {
+      "verse_key": "002_221",
+      "chapter": 2,
+      "verse_number": 221,
+      "error": "Words added: ['dan', 'mereka', 'allah', 'menjelaskan', 'ayat', 'ayat', 'nya', 'kepada', 'manusia', 'agar', 'dapat', 'mengingat']",
+      "original_translation_splits": {
+        "221_00": "Dan janganlah kamu menikahi wanita-wanita musyrik, sebelum mereka beriman. Sesungguhnya wanita budak yang mukmin lebih baik dari wanita musyrik, walaupun dia menarik hatimu.",
+        "221_01": "Dan janganlah kamu menikahkan orang-orang musyrik (dengan wanita-wanita mukmin) sebelum mereka beriman.",
+        "221_02": "Sesungguhnya budak yang mukmin lebih baik dari orang musyrik, walaupun dia menarik hatimu."
+      },
+      "arabic_reference_splits": {
+        "221_00": "وَلَا تَنكِحُواْ ٱلۡمُشۡرِكَٰتِ حَتَّىٰ يُؤۡمِنَّۚ وَلَأَمَةٞ مُّؤۡمِنَةٌ خَيۡرٞ مِّن مُّشۡرِكَةٖ وَلَوۡ أَعۡجَبَتۡكُمۡۗ وَلَا تُنكِحُواْ ٱلۡمُشۡرِكِينَ حَتَّىٰ يُؤۡمِنُواْۚ",
+        "221_01": "وَلَعَبۡدٞ مُّؤۡمِنٌ خَيۡرٞ مِّن مُّشۡرِكٖ وَلَوۡ أَعۡجَبَكُمۡۗ أُوْلَٰٓئِكَ يَدۡعُونَ إِلَى ٱلنَّارِۖ وَٱللَّهُ يَدۡعُوٓاْ إِلَى ٱلۡجَنَّةِ وَٱلۡمَغۡفِرَةِ بِإِذۡنِهِۦۖ",
+        "221_02": "وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمۡ يَتَذَكَّرُونَ ١٢٢"
+      },
+      "combined_translation": "Dan janganlah kamu menikahi wanita-wanita musyrik, sebelum mereka beriman. Sesungguhnya wanita budak yang mukmin lebih baik dari wanita musyrik, walaupun dia menarik hatimu. Dan janganlah kamu menikahkan orang-orang musyrik (dengan wanita-wanita mukmin) sebelum mereka beriman. Sesungguhnya budak yang mukmin lebih baik dari orang musyrik, walaupun dia menarik hatimu.",
+      "timestamp": "2025-12-08T00:21:48.098954"
+    },
+    {
+      "verse_key": "002_271",
+      "chapter": 2,
+      "verse_number": 271,
+      "error": "Words added: ['kamu', 'adalah', 'dan', 'allah', 'dengan', 'apa', 'yang', 'lakukan', 'mahateliti']",
+      "original_translation_splits": {
+        "271_00": "Jika kamu menampakkan sedekah(mu), maka itu adalah baik sekali.",
+        "271_01": "Dan jika kamu menyembunyikannya dan kamu berikan kepada orang-orang fakir, maka menyembunyikan itu lebih baik bagimu."
+      },
+      "arabic_reference_splits": {
+        "271_00": "إِن تُبۡدُواْ ٱلصَّدَقَٰتِ فَنِعِمَّا هِيَۖ وَإِن تُخۡفُوهَا وَتُؤۡتُوهَا ٱلۡفُقَرَآءَ فَهُوَ خَيۡرٞ لَّكُمۡۚ وَيُكَفِّرُ عَنكُم مِّن سَيِّـَٔاتِكُمۡۗ",
+        "271_01": "وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ ١٧٢"
+      },
+      "combined_translation": "Jika kamu menampakkan sedekah(mu), maka itu adalah baik sekali. Dan jika kamu menyembunyikannya dan kamu berikan kepada orang-orang fakir, maka menyembunyikan itu lebih baik bagimu.",
+      "timestamp": "2025-12-08T00:21:48.101547"
+    },
+    {
+      "verse_key": "003_015",
+      "chapter": 3,
+      "verse_number": 15,
+      "error": "Words added: ['allah', 'dan', 'melihat', 'hamba', 'hamba', 'nya']",
+      "original_translation_splits": {
+        "015_00": "Katakanlah: \"Inginkah aku kabarkan kepadamu apa yang lebih baik dari yang demikian itu?\".",
+        "015_01": "Untuk orang-orang yang bertakwa (kepada Allah), pada sisi Tuhan mereka ada surga yang mengalir dibawahnya sungai-sungai; mereka kekal didalamnya.",
+        "015_02": "Dan (mereka dikaruniai) isteri-isteri yang disucikan serta keridhaan Allah."
+      },
+      "arabic_reference_splits": {
+        "015_00": "۞قُلۡ أَؤُنَبِّئُكُم بِخَيۡرٖ مِّن ذَٰلِكُمۡۖ",
+        "015_01": "لِلَّذِينَ ٱتَّقَوۡاْ عِندَ رَبِّهِمۡ جَنَّٰتٞ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَا وَأَزۡوَٰجٞ مُّطَهَّرَةٞ وَرِضۡوَٰنٞ مِّنَ ٱللَّهِۗ",
+        "015_02": "وَٱللَّهُ بَصِيرُۢ بِٱلۡعِبَادِ ٥١"
+      },
+      "combined_translation": "Katakanlah: \"Inginkah aku kabarkan kepadamu apa yang lebih baik dari yang demikian itu?\". Untuk orang-orang yang bertakwa (kepada Allah), pada sisi Tuhan mereka ada surga yang mengalir dibawahnya sungai-sungai; mereka kekal didalamnya. Dan (mereka dikaruniai) isteri-isteri yang disucikan serta keridhaan Allah.",
+      "timestamp": "2025-12-08T00:21:48.103970"
+    },
+    {
+      "verse_key": "003_027",
+      "chapter": 3,
+      "verse_number": 27,
+      "error": "Words added: ['engkau', 'rızuqū', 'man', 'tashā', 'u', 'bighayri', 'hisāb']",
+      "original_translation_splits": {
+        "027_00": "Engkau masukkan malam ke dalam siang dan Engkau masukkan siang ke dalam malam.",
+        "027_01": "Engkau keluarkan yang hidup dari yang mati,"
+      },
+      "arabic_reference_splits": {
+        "027_00": "تُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِي ٱلَّيۡلِۖ وَتُخۡرِجُ ٱلۡحَيَّ مِنَ ٱلۡمَيِّتِ وَتُخۡرِجُ ٱلۡمَيِّتَ مِنَ ٱلۡحَيِّۖ",
+        "027_01": "وَتَرۡزُقُ مَن تَشَآءُ بِغَيۡرِ حِسَابٖ ٧٢"
+      },
+      "combined_translation": "Engkau masukkan malam ke dalam siang dan Engkau masukkan siang ke dalam malam. Engkau keluarkan yang hidup dari yang mati,",
+      "timestamp": "2025-12-08T00:21:48.106346"
+    },
+    {
+      "verse_key": "003_075",
+      "chapter": 3,
+      "verse_number": 75,
+      "error": "Words removed: ['mereka', 'mereka', 'terhadap', 'berkata', 'dusta', 'allah', 'padahal', 'mengetahui']",
+      "original_translation_splits": {
+        "075_00": "Di antara Ahli kitab ada orang yang jika kamu mempercayakan kepadanya harta yang banyak, dikembalikannya kepadamu; dan di antara mereka ada orang yang jika kamu mempercayakan kepadanya satu dinar, tidak dikembalikannya kepadamu kecuali jika kamu selalu menagihnya.",
+        "075_01": "Yang demikian itu lantaran mereka mengatakan: \"tidak ada dosa bagi kami terhadap orang-orang ummi. Mereka berkata dusta terhadap Allah, padahal mereka mengetahui.",
+        "075_02": "Mereka berkata dusta terhadap Allah, padahal mereka mengetahui."
+      },
+      "arabic_reference_splits": {
+        "075_00": "۞وَمِنۡ أَهۡلِ ٱلۡكِتَٰبِ مَنۡ إِن تَأۡمَنۡهُ بِقِنطَارٖ يُؤَدِّهِۦٓ إِلَيۡكَ",
+        "075_01": "وَمِنۡهُم مَّنۡ إِن تَأۡمَنۡهُ بِدِينَارٖ لَّا يُؤَدِّهِۦٓ إِلَيۡكَ إِلَّا مَا دُمۡتَ عَلَيۡهِ قَآئِمٗاۗ",
+        "075_02": "ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لَيۡسَ عَلَيۡنَا فِي ٱلۡأُمِّيِّـۧنَ سَبِيلٞ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُمۡ يَعۡلَمُونَ ٥٧"
+      },
+      "combined_translation": "Di antara Ahli kitab ada orang yang jika kamu mempercayakan kepadanya harta yang banyak, dikembalikannya kepadamu; dan di antara mereka ada orang yang jika kamu mempercayakan kepadanya satu dinar, tidak dikembalikannya kepadamu kecuali jika kamu selalu menagihnya. Yang demikian itu lantaran mereka mengatakan: \"tidak ada dosa bagi kami terhadap orang-orang ummi. Mereka berkata dusta terhadap Allah, padahal mereka mengetahui. Mereka berkata dusta terhadap Allah, padahal mereka mengetahui.",
+      "timestamp": "2025-12-08T00:21:48.108325"
+    },
+    {
+      "verse_key": "003_186",
+      "chapter": 3,
+      "verse_number": 186,
+      "error": "Words added: ['kamu', 'dan', 'dan', 'dari', 'jika', 'bersabar', 'bertakwa', 'maka', 'sesungguhnya', 'itu', 'adalah', 'azmimu']",
+      "original_translation_splits": {
+        "186_00": "Kamu sungguh-sungguh akan diuji terhadap hartamu dan dirimu.",
+        "186_01": "Dan (juga) kamu sungguh-sungguh akan mendengar dari orang-orang yang diberi kitab sebelum kamu dan dari orang-orang yang mempersekutukan Allah, gangguan yang banyak yang menyakitkan hati."
+      },
+      "arabic_reference_splits": {
+        "186_00": "۞لَتُبۡلَوُنَّ فِيٓ أَمۡوَٰلِكُمۡ وَأَنفُسِكُمۡ وَلَتَسۡمَعُنَّ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ وَمِنَ ٱلَّذِينَ أَشۡرَكُوٓاْ أَذٗى كَثِيرٗاۚ",
+        "186_01": "وَإِن تَصۡبِرُواْ وَتَتَّقُواْ فَإِنَّ ذَٰلِكَ مِنۡ عَزۡمِ ٱلۡأُمُورِ ٦٨١"
+      },
+      "combined_translation": "Kamu sungguh-sungguh akan diuji terhadap hartamu dan dirimu. Dan (juga) kamu sungguh-sungguh akan mendengar dari orang-orang yang diberi kitab sebelum kamu dan dari orang-orang yang mempersekutukan Allah, gangguan yang banyak yang menyakitkan hati.",
+      "timestamp": "2025-12-08T00:21:48.110281"
+    },
+    {
+      "verse_key": "004_018",
+      "chapter": 4,
+      "verse_number": 18,
+      "error": "Words added: ['yang', 'mereka', 'kami', 'telah', 'sediakan', 'bagi', 'azab', 'pedih']",
+      "original_translation_splits": {
+        "018_00": "Dan tidaklah taubat itu diterima Allah dari orang-orang yang mengerjakan kejahatan (yang) hingga apabila datang ajal kepada seseorang di antara mereka, (barulah) ia mengatakan: \"Sesungguhnya saya bertaubat sekarang\".",
+        "018_01": "Dan tidak (pula diterima taubat) orang-orang yang mati sedang mereka di dalam kekafiran."
+      },
+      "arabic_reference_splits": {
+        "018_00": "وَلَيۡسَتِ ٱلتَّوۡبَةُ لِلَّذِينَ يَعۡمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ ٱلۡمَوۡتُ قَالَ إِنِّي تُبۡتُ ٱلۡـَٰٔنَ وَلَا ٱلَّذِينَ يَمُوتُونَ وَهُمۡ كُفَّارٌۚ",
+        "018_01": "أُوْلَٰٓئِكَ أَعۡتَدۡنَا لَهُمۡ عَذَابًا أَلِيمٗا ٨١"
+      },
+      "combined_translation": "Dan tidaklah taubat itu diterima Allah dari orang-orang yang mengerjakan kejahatan (yang) hingga apabila datang ajal kepada seseorang di antara mereka, (barulah) ia mengatakan: \"Sesungguhnya saya bertaubat sekarang\". Dan tidak (pula diterima taubat) orang-orang yang mati sedang mereka di dalam kekafiran.",
+      "timestamp": "2025-12-08T00:21:48.112246"
+    },
+    {
+      "verse_key": "004_076",
+      "chapter": 4,
+      "verse_number": 76,
+      "error": "Words added: ['itu', 'syaitan', 'sesungguhnya', 'tipu', 'daya', 'adalah', 'lemah']",
+      "original_translation_splits": {
+        "076_00": "Orang-orang yang beriman berperang di jalan Allah, dan orang-orang yang kafir berperang di jalan",
+        "076_01": "Thaghut, sebab itu perangilah kawan-kawan syaitan itu,"
+      },
+      "arabic_reference_splits": {
+        "076_00": "ٱلَّذِينَ ءَامَنُواْ يُقَٰتِلُونَ فِي سَبِيلِ ٱللَّهِۖ وَٱلَّذِينَ كَفَرُواْ يُقَٰتِلُونَ فِي سَبِيلِ ٱلطَّٰغُوتِ فَقَٰتِلُوٓاْ أَوۡلِيَآءَ ٱلشَّيۡطَٰنِۖ",
+        "076_01": "إِنَّ كَيۡدَ ٱلشَّيۡطَٰنِ كَانَ ضَعِيفًا ٦٧"
+      },
+      "combined_translation": "Orang-orang yang beriman berperang di jalan Allah, dan orang-orang yang kafir berperang di jalan Thaghut, sebab itu perangilah kawan-kawan syaitan itu,",
+      "timestamp": "2025-12-08T00:21:48.113985"
+    },
+    {
+      "verse_key": "004_115",
+      "chapter": 4,
+      "verse_number": 115,
+      "error": "Words removed: ['dan']",
+      "original_translation_splits": {
+        "115_00": "Dan barangsiapa yang menentang Rasul sesudah jelas kebenaran baginya, dan mengikuti jalan yang bukan jalan orang-orang mukmin, Kami biarkan ia",
+        "115_01": "leluasa terhadap kesesatan yang telah dikuasainya itu dan Kami masukkan ia ke dalam Jahannam, dan Jahannam itu seburuk-buruk tempat kembali."
+      },
+      "arabic_reference_splits": {
+        "115_00": "وَمَن يُشَاقِقِ ٱلرَّسُولَ مِنۢ بَعۡدِ مَا تَبَيَّنَ لَهُ ٱلۡهُدَىٰ وَيَتَّبِعۡ غَيۡرَ سَبِيلِ ٱلۡمُؤۡمِنِينَ نُوَلِّهِۦ مَا تَوَلَّىٰ وَنُصۡلِهِۦ جَهَنَّمَۖ",
+        "115_01": "وَسَآءَتۡ مَصِيرًا ٥١١"
+      },
+      "combined_translation": "Dan barangsiapa yang menentang Rasul sesudah jelas kebenaran baginya, dan mengikuti jalan yang bukan jalan orang-orang mukmin, Kami biarkan ia leluasa terhadap kesesatan yang telah dikuasainya itu dan Kami masukkan ia ke dalam Jahannam, dan Jahannam itu seburuk-buruk tempat kembali.",
+      "timestamp": "2025-12-08T00:21:48.115645"
+    },
+    {
+      "verse_key": "005_073",
+      "chapter": 5,
+      "verse_number": 73,
+      "error": "Words added: ['orang', 'orang']; Words removed: ['orang0orang']",
+      "original_translation_splits": {
+        "073_00": "Sesungguhnya kafirlah orang0orang yang mengatakan: \"Bahwasanya Allah salah seorang dari yang tiga\", padahal sekali-kali tidak ada Tuhan selain dari Tuhan Yang Esa.",
+        "073_01": "Jika mereka tidak berhenti dari apa yang mereka katakan itu,"
+      },
+      "arabic_reference_splits": {
+        "073_00": "لَّقَدۡ كَفَرَ ٱلَّذِينَ قَالُوٓاْ إِنَّ ٱللَّهَ ثَالِثُ ثَلَٰثَةٖۘ وَمَا مِنۡ إِلَٰهٍ إِلَّآ إِلَٰهٞ وَٰحِدٞۚ",
+        "073_01": "وَإِن لَّمۡ يَنتَهُواْ عَمَّا يَقُولُونَ لَيَمَسَّنَّ ٱلَّذِينَ كَفَرُواْ مِنۡهُمۡ عَذَابٌ أَلِيمٌ ٣٧"
+      },
+      "combined_translation": "Sesungguhnya kafirlah orang0orang yang mengatakan: \"Bahwasanya Allah salah seorang dari yang tiga\", padahal sekali-kali tidak ada Tuhan selain dari Tuhan Yang Esa. Jika mereka tidak berhenti dari apa yang mereka katakan itu,",
+      "timestamp": "2025-12-08T00:21:48.117320"
+    },
+    {
+      "verse_key": "005_083",
+      "chapter": 5,
+      "verse_number": 83,
+      "error": "Words removed: ['ي', 'ق', 'ول', 'ون', 'ر', 'ب', 'ب', 'ن', 'ن', 'ن', 'ا', 'ا', 'ا', 'ء', 'ام', 'ف', 'ٱك', 'ت', 'م', 'ع', 'ٱلش', 'ه', 'د', 'ين', '٣٨']",
+      "original_translation_splits": {
+        "083_00": "Dan apabila mereka mendengarkan apa yang diturunkan kepada Rasul (Muhammad), kamu lihat mata mereka mencucurkan air mata disebabkan kebenaran (Al Quran) yang telah mereka ketahui (dari kitab-kitab mereka sendiri); seraya berkata: \"Ya Tuhan kami, kami telah beriman, maka catatlah kami bersama orang-orang yang menjadi saksi (atas kebenaran Al Quran dan kenabian Muhammad s.",
+        "083_01": "يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّٰهِدِينَ ٣٨"
+      },
+      "arabic_reference_splits": {
+        "083_00": "وَإِذَا سَمِعُواْ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعۡيُنَهُمۡ تَفِيضُ مِنَ ٱلدَّمۡعِ مِمَّا عَرَفُواْ مِنَ ٱلۡحَقِّۖ",
+        "083_01": "يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّٰهِدِينَ ٣٨"
+      },
+      "combined_translation": "Dan apabila mereka mendengarkan apa yang diturunkan kepada Rasul (Muhammad), kamu lihat mata mereka mencucurkan air mata disebabkan kebenaran (Al Quran) yang telah mereka ketahui (dari kitab-kitab mereka sendiri); seraya berkata: \"Ya Tuhan kami, kami telah beriman, maka catatlah kami bersama orang-orang yang menjadi saksi (atas kebenaran Al Quran dan kenabian Muhammad s. يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّٰهِدِينَ ٣٨",
+      "timestamp": "2025-12-08T00:21:48.119030"
+    },
+    {
+      "verse_key": "005_106",
+      "chapter": 5,
+      "verse_number": 106,
+      "error": "Words removed: ['orang', 'orang', 'yang', 'yang', 'dia', 'untuk', 'allah', 'kami', 'kami', 'tidak', 'sedikit', 'kepentingan', 'seseorang', 'walaupun', 'karib', 'kerabat', 'dan', 'pula', 'menyembunyikan', 'persaksian', 'sesungguhnya', 'kalau', 'demikian', 'tentulah', 'termasuk', 'berdosa']",
+      "original_translation_splits": {
+        "106_00": "Hai orang-orang yang beriman, apabila salah seorang kamu menghadapi kematian, sedang dia akan berwasiat, maka hendaklah (wasiat itu) disaksikan oleh dua orang yang adil di",
+        "106_01": "antara kamu, atau dua orang yang berlainan agama dengan kamu, jika kamu dalam perjalanan dimuka bumi lalu kamu ditimpa bahaya kematian.",
+        "106_02": "Kamu tahan kedua saksi itu sesudah sembahyang (untuk bersumpah), lalu mereka keduanya bersumpah dengan nama Allah, jika kamu ragu-ragu: \"(Demi Allah) kami tidak akan membeli dengan sumpah ini harga yang sedikit (untuk kepentingan seseorang), walaupun dia karib kerabat, dan tidak (pula) kami menyembunyikan persaksian Allah; sesungguhnya kami kalau demikian tentulah termasuk orang-orang yang berdosa\".",
+        "106_03": "yang sedikit (untuk kepentingan seseorang), walaupun dia karib kerabat, dan tidak (pula) kami menyembunyikan persaksian Allah; sesungguhnya kami kalau demikian tentulah termasuk orang-orang yang berdosa\"."
+      },
+      "arabic_reference_splits": {
+        "106_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ شَهَٰدَةُ بَيۡنِكُمۡ إِذَا حَضَرَ أَحَدَكُمُ ٱلۡمَوۡتُ حِينَ ٱلۡوَصِيَّةِ ٱثۡنَانِ ذَوَا عَدۡلٖ مِّنكُمۡ",
+        "106_01": "أَوۡ ءَاخَرَانِ مِنۡ غَيۡرِكُمۡ إِنۡ أَنتُمۡ ضَرَبۡتُمۡ فِي ٱلۡأَرۡضِ فَأَصَٰبَتۡكُم مُّصِيبَةُ ٱلۡمَوۡتِۚ",
+        "106_02": "تَحۡبِسُونَهُمَا مِنۢ بَعۡدِ ٱلصَّلَوٰةِ فَيُقۡسِمَانِ بِٱللَّهِ إِنِ ٱرۡتَبۡتُمۡ لَا نَشۡتَرِي بِهِۦ ثَمَنٗا وَلَوۡ كَانَ ذَا قُرۡبَىٰ",
+        "106_03": "وَلَا نَكۡتُمُ شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذٗا لَّمِنَ ٱلۡأٓثِمِينَ ٦٠١"
+      },
+      "combined_translation": "Hai orang-orang yang beriman, apabila salah seorang kamu menghadapi kematian, sedang dia akan berwasiat, maka hendaklah (wasiat itu) disaksikan oleh dua orang yang adil di antara kamu, atau dua orang yang berlainan agama dengan kamu, jika kamu dalam perjalanan dimuka bumi lalu kamu ditimpa bahaya kematian. Kamu tahan kedua saksi itu sesudah sembahyang (untuk bersumpah), lalu mereka keduanya bersumpah dengan nama Allah, jika kamu ragu-ragu: \"(Demi Allah) kami tidak akan membeli dengan sumpah ini harga yang sedikit (untuk kepentingan seseorang), walaupun dia karib kerabat, dan tidak (pula) kami menyembunyikan persaksian Allah; sesungguhnya kami kalau demikian tentulah termasuk orang-orang yang berdosa\". yang sedikit (untuk kepentingan seseorang), walaupun dia karib kerabat, dan tidak (pula) kami menyembunyikan persaksian Allah; sesungguhnya kami kalau demikian tentulah termasuk orang-orang yang berdosa\".",
+      "timestamp": "2025-12-08T00:21:48.120541"
+    },
+    {
+      "verse_key": "006_014",
+      "chapter": 6,
+      "verse_number": 14,
+      "error": "Words added: ['akan', 'dari', 'yang', 'dan', 'tidak', 'orang', 'orang', 'termasuk', 'musyrik']",
+      "original_translation_splits": {
+        "014_00": "Katakanlah: \"Apakah akan aku jadikan pelindung selain dari Allah yang menjadikan langit dan bumi, padahal Dia memberi makan dan tidak diberi makan?\"",
+        "014_01": "Katakanlah: \"Sesungguhnya aku diperintah supaya aku menjadi orang yang pertama kali menyerah diri (kepada Allah),"
+      },
+      "arabic_reference_splits": {
+        "014_00": "قُلۡ أَغَيۡرَ ٱللَّهِ أَتَّخِذُ وَلِيّٗا فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَهُوَ يُطۡعِمُ وَلَا يُطۡعَمُۗ قُلۡ إِنِّيٓ أُمِرۡتُ أَنۡ أَكُونَ أَوَّلَ مَنۡ أَسۡلَمَۖ",
+        "014_01": "وَلَا تَكُونَنَّ مِنَ ٱلۡمُشۡرِكِينَ ٤١"
+      },
+      "combined_translation": "Katakanlah: \"Apakah akan aku jadikan pelindung selain dari Allah yang menjadikan langit dan bumi, padahal Dia memberi makan dan tidak diberi makan?\" Katakanlah: \"Sesungguhnya aku diperintah supaya aku menjadi orang yang pertama kali menyerah diri (kepada Allah),",
+      "timestamp": "2025-12-08T00:21:48.121991"
+    },
+    {
+      "verse_key": "008_072",
+      "chapter": 8,
+      "verse_number": 72,
+      "error": "Words added: ['pertolongan']; Words removed: ['pertoiongan']",
+      "original_translation_splits": {
+        "072_00": "Sesungguhnya orang-orang yang beriman dan berhijrah serta berjihad dengan harta dan jiwanya pada jalan Allah dan orang-orang yang memberikan tempat kediaman dan pertoIongan (kepada orang-orang muhajirin), mereka itu satu sama lain lindung-melindungi.",
+        "072_01": "Dan (terhadap) orang-orang yang beriman, tetapi belum berhijrah, maka tidak ada kewajiban sedikitpun atasmu melindungi mereka, sebelum mereka berhijrah.",
+        "072_02": "(Akan tetapi) jika mereka meminta pertolongan kepadamu dalam (urusan pembelaan) agama, maka kamu wajib memberikan pertolongan kecuali terhadap kaum yang telah ada perjanjian antara kamu dengan mereka."
+      },
+      "arabic_reference_splits": {
+        "072_00": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَهَاجَرُواْ وَجَٰهَدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ فِي سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَواْ وَّنَصَرُوٓاْ أُوْلَٰٓئِكَ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٖۚ",
+        "072_01": "وَٱلَّذِينَ ءَامَنُواْ وَلَمۡ يُهَاجِرُواْ مَا لَكُم مِّن وَلَٰيَتِهِم مِّن شَيۡءٍ حَتَّىٰ يُهَاجِرُواْۚ",
+        "072_02": "وَإِنِ ٱسۡتَنصَرُوكُمۡ فِي ٱلدِّينِ فَعَلَيۡكُمُ ٱلنَّصۡرُ إِلَّا عَلَىٰ قَوۡمِۭ بَيۡنَكُمۡ وَبَيۡنَهُم مِّيثَٰقٞۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ ٢٧"
+      },
+      "combined_translation": "Sesungguhnya orang-orang yang beriman dan berhijrah serta berjihad dengan harta dan jiwanya pada jalan Allah dan orang-orang yang memberikan tempat kediaman dan pertoIongan (kepada orang-orang muhajirin), mereka itu satu sama lain lindung-melindungi. Dan (terhadap) orang-orang yang beriman, tetapi belum berhijrah, maka tidak ada kewajiban sedikitpun atasmu melindungi mereka, sebelum mereka berhijrah. (Akan tetapi) jika mereka meminta pertolongan kepadamu dalam (urusan pembelaan) agama, maka kamu wajib memberikan pertolongan kecuali terhadap kaum yang telah ada perjanjian antara kamu dengan mereka.",
+      "timestamp": "2025-12-08T00:21:48.123431"
+    },
+    {
+      "verse_key": "009_060",
+      "chapter": 9,
+      "verse_number": 60,
+      "error": "Words added: ['allah', 'dan', 'adalah', 'maha', 'maha', 'mengetahui', 'lagi', 'bijaksana']",
+      "original_translation_splits": {
+        "060_00": "Sesungguhnya zakat-zakat itu, hanyalah untuk orang-orang fakir, orang-orang miskin, pengurus-pengurus zakat, para mu'allaf yang dibujuk hatinya, untuk (memerdekakan) budak, orang-orang yang berhutang,",
+        "060_01": "untuk jalan Allah dan untuk mereka yang sedang dalam perjalanan, sebagai suatu ketetapan yang diwajibkan Allah,"
+      },
+      "arabic_reference_splits": {
+        "060_00": "۞إِنَّمَا ٱلصَّدَقَٰتُ لِلۡفُقَرَآءِ وَٱلۡمَسَٰكِينِ وَٱلۡعَٰمِلِينَ عَلَيۡهَا وَٱلۡمُؤَلَّفَةِ قُلُوبُهُمۡ وَفِي ٱلرِّقَابِ وَٱلۡغَٰرِمِينَ وَفِي سَبِيلِ ٱللَّهِ وَٱبۡنِ ٱلسَّبِيلِۖ",
+        "060_01": "فَرِيضَةٗ مِّنَ ٱللَّهِۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ ٠٦"
+      },
+      "combined_translation": "Sesungguhnya zakat-zakat itu, hanyalah untuk orang-orang fakir, orang-orang miskin, pengurus-pengurus zakat, para mu'allaf yang dibujuk hatinya, untuk (memerdekakan) budak, orang-orang yang berhutang, untuk jalan Allah dan untuk mereka yang sedang dalam perjalanan, sebagai suatu ketetapan yang diwajibkan Allah,",
+      "timestamp": "2025-12-08T00:21:48.124895"
+    },
+    {
+      "verse_key": "009_111",
+      "chapter": 9,
+      "verse_number": 111,
+      "error": "Words added: ['إ', 'إ', 'ن', 'ن', 'ن', 'ٱلل', 'ه', 'ه', 'ه', 'ه', 'ٱش', 'ت', 'ر', 'ر', 'ى', 'ى', 'م', 'م', 'م', 'م', 'ٱل', 'ٱل', 'ٱل', 'ٱل', 'ٱل', 'ؤ', 'ين', 'أ', 'أ', 'نف', 'س', 'و', 'و', 'و', 'و', 'و', 'و', 'و', 'و', 'ع', 'ع', 'ع', 'د', 'ا', 'ا', 'ل', 'ل', 'ي', 'ي', 'ح', 'ق', 'ف', 'ف', 'ٱلت', 'ة', 'نج', 'يل', 'ذ', 'ك', 'ز', 'ظ', 'يم', '١١١']; Words removed: ['sesungguhnya', 'allah', 'allah', 'allah', 'telah', 'telah', 'membeli', 'dari', 'dari', 'orang', 'orang', 'mukmin', 'diri', 'dan', 'dan', 'harta', 'mereka', 'mereka', 'mereka', 'mereka', 'dengan', 'memberikan', 'surga', 'untuk', 'berperang', 'pada', 'jalan', 'lalu', 'membunuh', 'atau', 'terbunuh', 'itu', 'menjadi', 'janji', 'yang', 'benar', 'di', 'dalam', 'taurat', 'injil', 'al', 'quran']",
+      "original_translation_splits": {
+        "111_00": "Sesungguhnya Allah telah membeli dari orang-orang mukmin diri dan harta mereka dengan memberikan surga untuk mereka.",
+        "111_01": "Mereka berperang pada jalan Allah; lalu mereka membunuh atau terbunuh.",
+        "111_02": "(Itu telah menjadi) janji yang benar dari Allah di dalam Taurat, Injil dan Al Quran."
+      },
+      "arabic_reference_splits": {
+        "111_00": "۞إِنَّ ٱللَّهَ ٱشۡتَرَىٰ مِنَ ٱلۡمُؤۡمِنِينَ أَنفُسَهُمۡ وَأَمۡوَٰلَهُم بِأَنَّ لَهُمُ ٱلۡجَنَّةَۚ يُقَٰتِلُونَ فِي سَبِيلِ ٱللَّهِ فَيَقۡتُلُونَ وَيُقۡتَلُونَۖ",
+        "111_01": "وَعۡدًا عَلَيۡهِ حَقّٗا فِي ٱلتَّوۡرَىٰةِ وَٱلۡإِنجِيلِ وَٱلۡقُرۡءَانِۚ وَمَنۡ أَوۡفَىٰ بِعَهۡدِهِۦ مِنَ ٱللَّهِۚ فَٱسۡتَبۡشِرُواْ بِبَيۡعِكُمُ ٱلَّذِي بَايَعۡتُم بِهِۦۚ",
+        "111_02": "وَذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ ١١١"
+      },
+      "combined_translation": "Sesungguhnya Allah telah membeli dari orang-orang mukmin diri dan harta mereka dengan memberikan surga untuk mereka. Mereka berperang pada jalan Allah; lalu mereka membunuh atau terbunuh. (Itu telah menjadi) janji yang benar dari Allah di dalam Taurat, Injil dan Al Quran.",
+      "timestamp": "2025-12-08T00:21:48.126370"
+    },
+    {
+      "verse_key": "011_008",
+      "chapter": 11,
+      "verse_number": 8,
+      "error": "Words added: ['ingatlah']; Words removed: ['lngatlah']",
+      "original_translation_splits": {
+        "008_00": "Dan sesungguhnya jika Kami undurkan azab dari mereka sampai kepada suatu waktu yang ditentukan.",
+        "008_01": "niscaya mereka akan berkata: \"Apakah yang menghalanginya?\" lngatlah, diwaktu azab itu datang kepada mereka tidaklah dapat dipalingkan dari mereka dan mereka diliputi oleh azab yang dahulunya mereka selalu memperolok-olokkannya."
+      },
+      "arabic_reference_splits": {
+        "008_00": "وَلَئِنۡ أَخَّرۡنَا عَنۡهُمُ ٱلۡعَذَابَ إِلَىٰٓ أُمَّةٖ مَّعۡدُودَةٖ لَّيَقُولُنَّ مَا يَحۡبِسُهُۥٓۗ",
+        "008_01": "أَلَا يَوۡمَ يَأۡتِيهِمۡ لَيۡسَ مَصۡرُوفًا عَنۡهُمۡ وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ ٨"
+      },
+      "combined_translation": "Dan sesungguhnya jika Kami undurkan azab dari mereka sampai kepada suatu waktu yang ditentukan. niscaya mereka akan berkata: \"Apakah yang menghalanginya?\" lngatlah, diwaktu azab itu datang kepada mereka tidaklah dapat dipalingkan dari mereka dan mereka diliputi oleh azab yang dahulunya mereka selalu memperolok-olokkannya.",
+      "timestamp": "2025-12-08T00:21:48.134322"
+    },
+    {
+      "verse_key": "011_084",
+      "chapter": 11,
+      "verse_number": 84,
+      "error": "Words added: ['dan', 'sesungguhnya', 'aku', 'aku', 'melihat', 'kamu', 'dalam', 'keadaan', 'baik', 'takut', 'atasmu', 'akan', 'azab', 'hari', 'yang', 'membayangkan']",
+      "original_translation_splits": {
+        "084_00": "Dan kepada (penduduk) Mad-yan (Kami utus) saudara mereka, Syu'aib.",
+        "084_01": "Ia berkata: \"Hai kaumku, sembahlah Allah, sekali-kali tiada Tuhan bagimu selain Dia."
+      },
+      "arabic_reference_splits": {
+        "084_00": "۞وَإِلَىٰ مَدۡيَنَ أَخَاهُمۡ شُعَيۡبٗاۚ قَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥۖ وَلَا تَنقُصُواْ ٱلۡمِكۡيَالَ وَٱلۡمِيزَانَۖ",
+        "084_01": "إِنِّيٓ أَرَىٰكُم بِخَيۡرٖ وَإِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٖ مُّحِيطٖ ٤٨"
+      },
+      "combined_translation": "Dan kepada (penduduk) Mad-yan (Kami utus) saudara mereka, Syu'aib. Ia berkata: \"Hai kaumku, sembahlah Allah, sekali-kali tiada Tuhan bagimu selain Dia.",
+      "timestamp": "2025-12-08T00:21:48.135544"
+    },
+    {
+      "verse_key": "012_050",
+      "chapter": 12,
+      "verse_number": 50,
+      "error": "Words added: ['inna', 'rabbi', 'bikaydihinna', 'alim']",
+      "original_translation_splits": {
+        "050_00": "Raja berkata: \"Bawalah dia kepadaku\".",
+        "050_01": "Maka tatkala utusan itu datang kepada Yusuf, berkatalah Yusuf: \"Kembalilah kepada tuanmu dan tanyakanlah kepadanya bagaimana halnya wanita-wanita yang telah melukai tangannya."
+      },
+      "arabic_reference_splits": {
+        "050_00": "وَقَالَ ٱلۡمَلِكُ ٱئۡتُونِي بِهِۦۖ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرۡجِعۡ إِلَىٰ رَبِّكَ فَسۡـَٔلۡهُ مَا بَالُ ٱلنِّسۡوَةِ ٱلَّٰتِي قَطَّعۡنَ أَيۡدِيَهُنَّۚ",
+        "050_01": "إِنَّ رَبِّي بِكَيۡدِهِنَّ عَلِيمٞ ٠٥"
+      },
+      "combined_translation": "Raja berkata: \"Bawalah dia kepadaku\". Maka tatkala utusan itu datang kepada Yusuf, berkatalah Yusuf: \"Kembalilah kepada tuanmu dan tanyakanlah kepadanya bagaimana halnya wanita-wanita yang telah melukai tangannya.",
+      "timestamp": "2025-12-08T00:21:48.136797"
+    },
+    {
+      "verse_key": "016_028",
+      "chapter": 16,
+      "verse_number": 28,
+      "error": "Words removed: ['yaitu']",
+      "original_translation_splits": {
+        "028_00": "(yaitu) orang-orang yang dimatikan oleh para malaikat dalam keadaan berbuat zalim kepada diri mereka sendiri, lalu mereka menyerah diri (sambil berkata); \"Kami sekali-kali tidak ada mengerjakan sesuatu kejahatanpun\".",
+        "028_01": "(Malaikat menjawab): \"Ada, sesungguhnya Allah Maha Mengetahui apa yang telah kamu kerjakan\"."
+      },
+      "arabic_reference_splits": {
+        "028_00": "ٱلَّذِينَ تَتَوَفَّىٰهُمُ ٱلۡمَلَٰٓئِكَةُ ظَالِمِيٓ أَنفُسِهِمۡۖ فَأَلۡقَوُاْ ٱلسَّلَمَ مَا كُنَّا نَعۡمَلُ مِن سُوٓءِۭۚ بَلَىٰٓۚ",
+        "028_01": "إِنَّ ٱللَّهَ عَلِيمُۢ بِمَا كُنتُمۡ تَعۡمَلُونَ ٨٢"
+      },
+      "combined_translation": "(yaitu) orang-orang yang dimatikan oleh para malaikat dalam keadaan berbuat zalim kepada diri mereka sendiri, lalu mereka menyerah diri (sambil berkata); \"Kami sekali-kali tidak ada mengerjakan sesuatu kejahatanpun\". (Malaikat menjawab): \"Ada, sesungguhnya Allah Maha Mengetahui apa yang telah kamu kerjakan\".",
+      "timestamp": "2025-12-08T00:21:48.137997"
+    },
+    {
+      "verse_key": "017_057",
+      "chapter": 17,
+      "verse_number": 57,
+      "error": "Words added: ['إ', 'ن', 'ع', 'ذ', 'ذ', 'اب', 'ر', 'ب', 'ك', 'ك', 'ان', 'م', 'ح', 'ور', 'ا', '٧٥']",
+      "original_translation_splits": {
+        "057_00": "Orang-orang yang mereka seru itu, mereka sendiri mencari jalan kepada Tuhan mereka siapa di antara mereka yang lebih",
+        "057_01": "dekat (kepada Allah) dan mengharapkan rahmat-Nya dan takut akan azab-Nya;"
+      },
+      "arabic_reference_splits": {
+        "057_00": "أُوْلَٰٓئِكَ ٱلَّذِينَ يَدۡعُونَ يَبۡتَغُونَ إِلَىٰ رَبِّهِمُ ٱلۡوَسِيلَةَ أَيُّهُمۡ أَقۡرَبُ وَيَرۡجُونَ رَحۡمَتَهُۥ وَيَخَافُونَ عَذَابَهُۥٓۚ",
+        "057_01": "إِنَّ عَذَابَ رَبِّكَ كَانَ مَحۡذُورٗا ٧٥"
+      },
+      "combined_translation": "Orang-orang yang mereka seru itu, mereka sendiri mencari jalan kepada Tuhan mereka siapa di antara mereka yang lebih dekat (kepada Allah) dan mengharapkan rahmat-Nya dan takut akan azab-Nya;",
+      "timestamp": "2025-12-08T00:21:48.140311"
+    },
+    {
+      "verse_key": "018_022",
+      "chapter": 18,
+      "verse_number": 22,
+      "error": "Words added: ['anjingnya']; Words removed: ['anjing', 'nya']",
+      "original_translation_splits": {
+        "022_00": "Nanti (ada orang yang akan) mengatakan (jumlah mereka) adalah tiga orang yang keempat adalah anjingnya, dan (yang lain) mengatakan: \"(jumlah mereka) adalah lima orang yang keenam adalah anjing nya\", sebagai terkaan terhadap barang yang gaib; dan (yang lain lagi) mengatakan: \"(jumlah mereka) tujuh orang, yang ke delapan adalah anjingnya\".",
+        "022_01": "Katakanlah: \"Tuhanku lebih mengetahui jumlah mereka; tidak ada orang yang mengetahui (bilangan) mereka kecuali sedikit\"."
+      },
+      "arabic_reference_splits": {
+        "022_00": "سَيَقُولُونَ ثَلَٰثَةٞ رَّابِعُهُمۡ كَلۡبُهُمۡ وَيَقُولُونَ خَمۡسَةٞ سَادِسُهُمۡ كَلۡبُهُمۡ رَجۡمَۢا بِٱلۡغَيۡبِۖ وَيَقُولُونَ سَبۡعَةٞ وَثَامِنُهُمۡ كَلۡبُهُمۡۚ",
+        "022_01": "قُل رَّبِّيٓ أَعۡلَمُ بِعِدَّتِهِم مَّا يَعۡلَمُهُمۡ إِلَّا قَلِيلٞۗ فَلَا تُمَارِ فِيهِمۡ إِلَّا مِرَآءٗ ظَٰهِرٗا وَلَا تَسۡتَفۡتِ فِيهِم مِّنۡهُمۡ أَحَدٗا ٢٢"
+      },
+      "combined_translation": "Nanti (ada orang yang akan) mengatakan (jumlah mereka) adalah tiga orang yang keempat adalah anjingnya, dan (yang lain) mengatakan: \"(jumlah mereka) adalah lima orang yang keenam adalah anjing nya\", sebagai terkaan terhadap barang yang gaib; dan (yang lain lagi) mengatakan: \"(jumlah mereka) tujuh orang, yang ke delapan adalah anjingnya\". Katakanlah: \"Tuhanku lebih mengetahui jumlah mereka; tidak ada orang yang mengetahui (bilangan) mereka kecuali sedikit\".",
+      "timestamp": "2025-12-08T00:21:48.141452"
+    },
+    {
+      "verse_key": "024_041",
+      "chapter": 24,
+      "verse_number": 41,
+      "error": "Words added: ['allah', 'apa', 'yang', 'dan', 'mengetahui', 'maha', 'mereka', 'kerjakan']",
+      "original_translation_splits": {
+        "041_00": "Tidaklah kamu tahu bahwasanya Allah: kepada-Nya bertasbih apa yang di langit dan di bumi dan (juga) burung dengan mengembangkan sayapnya.",
+        "041_01": "Masing-masing telah mengetahui (cara) sembahyang dan tasbihnya,"
+      },
+      "arabic_reference_splits": {
+        "041_00": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ يُسَبِّحُ لَهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَٱلطَّيۡرُ صَٰٓفَّٰتٖۖ كُلّٞ قَدۡ عَلِمَ صَلَاتَهُۥ وَتَسۡبِيحَهُۥۗ",
+        "041_01": "وَٱللَّهُ عَلِيمُۢ بِمَا يَفۡعَلُونَ ١٤"
+      },
+      "combined_translation": "Tidaklah kamu tahu bahwasanya Allah: kepada-Nya bertasbih apa yang di langit dan di bumi dan (juga) burung dengan mengembangkan sayapnya. Masing-masing telah mengetahui (cara) sembahyang dan tasbihnya,",
+      "timestamp": "2025-12-08T00:21:48.142567"
+    },
+    {
+      "verse_key": "029_046",
+      "chapter": 29,
+      "verse_number": 46,
+      "error": "Words added: ['dengan', 'ahli']; Words removed: ['denganahli']",
+      "original_translation_splits": {
+        "046_00": "Dan janganlah kamu berdebat denganAhli Kitab, melainkan dengan cara yang paling baik, kecuali dengan orang-orang zalim di antara mereka, dan katakanlah: \"Kami telah",
+        "046_01": "beriman kepada (kitab-kitab) yang diturunkan kepada kami dan yang diturunkan kepadamu; Tuhan kami dan Tuhanmu adalah satu; dan kami hanya kepada-Nya berserah diri\"."
+      },
+      "arabic_reference_splits": {
+        "046_00": "۞وَلَا تُجَٰدِلُوٓاْ أَهۡلَ ٱلۡكِتَٰبِ إِلَّا بِٱلَّتِي هِيَ أَحۡسَنُ إِلَّا ٱلَّذِينَ ظَلَمُواْ مِنۡهُمۡۖ",
+        "046_01": "وَقُولُوٓاْ ءَامَنَّا بِٱلَّذِيٓ أُنزِلَ إِلَيۡنَا وَأُنزِلَ إِلَيۡكُمۡ وَإِلَٰهُنَا وَإِلَٰهُكُمۡ وَٰحِدٞ وَنَحۡنُ لَهُۥ مُسۡلِمُونَ ٦٤"
+      },
+      "combined_translation": "Dan janganlah kamu berdebat denganAhli Kitab, melainkan dengan cara yang paling baik, kecuali dengan orang-orang zalim di antara mereka, dan katakanlah: \"Kami telah beriman kepada (kitab-kitab) yang diturunkan kepada kami dan yang diturunkan kepadamu; Tuhan kami dan Tuhanmu adalah satu; dan kami hanya kepada-Nya berserah diri\".",
+      "timestamp": "2025-12-08T00:21:48.143643"
+    },
+    {
+      "verse_key": "034_037",
+      "chapter": 34,
+      "verse_number": 37,
+      "error": "Words added: ['dan', 'yang', 'mereka', 'itu', 'berada', 'di', 'dalam', 'kamar', 'kamar', 'aman']",
+      "original_translation_splits": {
+        "037_00": "Dan sekali-kali bukanlah harta dan bukan (pula) anak-anak kamu yang mendekatkan kamu kepada Kami sedikitpun; tetapi orang-orang yang beriman dan mengerjakan amal-amal (saleh,",
+        "037_01": "mereka itulah yang memperoleh balasan yang berlipat ganda disebabkan apa yang telah mereka kerjakan;"
+      },
+      "arabic_reference_splits": {
+        "037_00": "وَمَآ أَمۡوَٰلُكُمۡ وَلَآ أَوۡلَٰدُكُم بِٱلَّتِي تُقَرِّبُكُمۡ عِندَنَا زُلۡفَىٰٓ إِلَّا مَنۡ ءَامَنَ وَعَمِلَ صَٰلِحٗا فَأُوْلَٰٓئِكَ لَهُمۡ جَزَآءُ ٱلضِّعۡفِ بِمَا عَمِلُواْ",
+        "037_01": "وَهُمۡ فِي ٱلۡغُرُفَٰتِ ءَامِنُونَ ٧٣"
+      },
+      "combined_translation": "Dan sekali-kali bukanlah harta dan bukan (pula) anak-anak kamu yang mendekatkan kamu kepada Kami sedikitpun; tetapi orang-orang yang beriman dan mengerjakan amal-amal (saleh, mereka itulah yang memperoleh balasan yang berlipat ganda disebabkan apa yang telah mereka kerjakan;",
+      "timestamp": "2025-12-08T00:21:48.144718"
+    },
+    {
+      "verse_key": "040_035",
+      "chapter": 40,
+      "verse_number": 35,
+      "error": "Words added: ['ٱل', 'ذ', 'ذ', 'ين', 'ي', 'ي', 'ي', 'ي', 'ج', 'ج', 'د', 'ل', 'ل', 'ل', 'ل', 'ل', 'ل', 'ون', 'ف', 'ء', 'اي', 'ت', 'ت', 'ٱلل', 'ٱلل', 'ه', 'ه', 'ب', 'ب', 'ب', 'ب', 'غ', 'ر', 'ر', 'س', 'ط', 'ط', 'ك', 'ك', 'ك', 'ك', 'ع', 'ع', 'ى', 'ق', 'م']; Words removed: ['yaitu', 'orang', 'orang', 'orang', 'orang', 'yang', 'yang', 'yang', 'memperdebatkan', 'ayat', 'ayat', 'allah', 'allah', 'tanpa', 'alasan', 'sampai', 'kepada', 'mereka', 'mereka', 'amat', 'besar', 'kemurkaan', 'bagi', 'di', 'di', 'sisi', 'sisi', 'dan', 'beriman']",
+      "original_translation_splits": {
+        "035_00": "(Yaitu) orang-orang yang memperdebatkan ayat-ayat Allah tanpa alasan yang sampai kepada mereka.",
+        "035_01": "Amat besar kemurkaan (bagi mereka) di sisi Allah dan di sisi orang-orang yang beriman."
+      },
+      "arabic_reference_splits": {
+        "035_00": "ٱلَّذِينَ يُجَٰدِلُونَ فِيٓ ءَايَٰتِ ٱللَّهِ بِغَيۡرِ سُلۡطَٰنٍ أَتَىٰهُمۡۖ كَبُرَ مَقۡتًا عِندَ ٱللَّهِ وَعِندَ ٱلَّذِينَ ءَامَنُواْۚ",
+        "035_01": "كَذَٰلِكَ يَطۡبَعُ ٱللَّهُ عَلَىٰ كُلِّ قَلۡبِ مُتَكَبِّرٖ جَبَّارٖ ٥٣"
+      },
+      "combined_translation": "(Yaitu) orang-orang yang memperdebatkan ayat-ayat Allah tanpa alasan yang sampai kepada mereka. Amat besar kemurkaan (bagi mereka) di sisi Allah dan di sisi orang-orang yang beriman.",
+      "timestamp": "2025-12-08T00:21:48.145797"
+    },
+    {
+      "verse_key": "041_025",
+      "chapter": 41,
+      "verse_number": 25,
+      "error": "Words added: ['إ', 'ن', 'ه', 'م', 'ك', 'ان', 'وا', 'خ', 'س', 'ر', 'ين', '٥٢']",
+      "original_translation_splits": {
+        "025_00": "Dan Kami tetapkan bagi mereka teman-teman yang menjadikan mereka memandang bagus apa yang ada di hadapan dan di belakang mereka dan",
+        "025_01": "tetaplah atas mereka keputusan azab pada umat-umat yang terdahulu sebelum mereka dari jinn dan manusia,"
+      },
+      "arabic_reference_splits": {
+        "025_00": "۞وَقَيَّضۡنَا لَهُمۡ قُرَنَآءَ فَزَيَّنُواْ لَهُم مَّا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَحَقَّ عَلَيۡهِمُ ٱلۡقَوۡلُ فِيٓ أُمَمٖ قَدۡ خَلَتۡ مِن قَبۡلِهِم مِّنَ ٱلۡجِنِّ وَٱلۡإِنسِۖ",
+        "025_01": "إِنَّهُمۡ كَانُواْ خَٰسِرِينَ ٥٢"
+      },
+      "combined_translation": "Dan Kami tetapkan bagi mereka teman-teman yang menjadikan mereka memandang bagus apa yang ada di hadapan dan di belakang mereka dan tetaplah atas mereka keputusan azab pada umat-umat yang terdahulu sebelum mereka dari jinn dan manusia,",
+      "timestamp": "2025-12-08T00:21:48.146876"
+    },
+    {
+      "verse_key": "042_011",
+      "chapter": 42,
+      "verse_number": 11,
+      "error": "Words added: ['adalah', 'yang', 'maha', 'maha', 'mendengar', 'lagi', 'melihat']",
+      "original_translation_splits": {
+        "011_00": "(Dia) Pencipta langit dan bumi.",
+        "011_01": "Dia menjadikan bagi kamu dari jenis kamu sendiri pasangan-pasangan dan dari jenis binatang ternak pasangan-pasangan (pula),"
+      },
+      "arabic_reference_splits": {
+        "011_00": "فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ جَعَلَ لَكُم مِّنۡ أَنفُسِكُمۡ أَزۡوَٰجٗا وَمِنَ ٱلۡأَنۡعَٰمِ أَزۡوَٰجٗا يَذۡرَؤُكُمۡ فِيهِۚ لَيۡسَ كَمِثۡلِهِۦ شَيۡءٞۖ",
+        "011_01": "وَهُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ ١١"
+      },
+      "combined_translation": "(Dia) Pencipta langit dan bumi. Dia menjadikan bagi kamu dari jenis kamu sendiri pasangan-pasangan dan dari jenis binatang ternak pasangan-pasangan (pula),",
+      "timestamp": "2025-12-08T00:21:48.147953"
+    },
+    {
+      "verse_key": "046_021",
+      "chapter": 46,
+      "verse_number": 21,
+      "error": "Words added: ['و', 'و', 'ٱذ', 'ك', 'ر', 'ر', 'أ', 'أ', 'أ', 'خ', 'ا', 'ع', 'اد', 'إ', 'ذ', 'نذ', 'ق', 'ق', 'م', 'ه', 'ۥ', 'ب', 'ٱل', 'ح', 'اف']",
+      "original_translation_splits": {
+        "021_00": "Dan ingatlah (Hud) saudara kaum 'Aad yaitu ketika dia memberi peringatan kepada kaumnya di Al Ahqaaf dan sesungguhnya telah terdahulu beberapa orang",
+        "021_01": "pemberi peringatan sebelumnya dan sesudahnya (dengan mengatakan): \"Janganlah kamu menyembah selain Allah, sesungguhnya aku khawatir kamu akan ditimpa azab hari yang besar.\""
+      },
+      "arabic_reference_splits": {
+        "021_00": "۞وَٱذۡكُرۡ أَخَا عَادٍ إِذۡ أَنذَرَ قَوۡمَهُۥ بِٱلۡأَحۡقَافِ وَقَدۡ خَلَتِ ٱلنُّذُرُ مِنۢ بَيۡنِ يَدَيۡهِ وَمِنۡ خَلۡفِهِۦٓ",
+        "021_01": "أَلَّا تَعۡبُدُوٓاْ إِلَّا ٱللَّهَ إِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ عَظِيمٖ ١٢"
+      },
+      "combined_translation": "Dan ingatlah (Hud) saudara kaum 'Aad yaitu ketika dia memberi peringatan kepada kaumnya di Al Ahqaaf dan sesungguhnya telah terdahulu beberapa orang pemberi peringatan sebelumnya dan sesudahnya (dengan mengatakan): \"Janganlah kamu menyembah selain Allah, sesungguhnya aku khawatir kamu akan ditimpa azab hari yang besar.\"",
+      "timestamp": "2025-12-08T00:21:48.148978"
+    },
+    {
+      "verse_key": "049_002",
+      "chapter": 49,
+      "verse_number": 2,
+      "error": "Words added: ['kamu', 'dan', 'tidak', 'menyadari']",
+      "original_translation_splits": {
+        "002_00": "Hai orang-orang yang beriman, janganlah kamu meninggikan suaramu melebihi suara Nabi, dan janganlah kamu berkata kepadanya dengan suara yang",
+        "002_01": "keras, sebagaimana kerasnya suara sebagian kamu terhadap sebagian yang lain, supaya tidak hapus (pahala) amalanmu,"
+      },
+      "arabic_reference_splits": {
+        "002_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَرۡفَعُوٓاْ أَصۡوَٰتَكُمۡ فَوۡقَ صَوۡتِ ٱلنَّبِيِّ وَلَا تَجۡهَرُواْ لَهُۥ بِٱلۡقَوۡلِ كَجَهۡرِ بَعۡضِكُمۡ لِبَعۡضٍ",
+        "002_01": "أَن تَحۡبَطَ أَعۡمَٰلُكُمۡ وَأَنتُمۡ لَا تَشۡعُرُونَ ٢"
+      },
+      "combined_translation": "Hai orang-orang yang beriman, janganlah kamu meninggikan suaramu melebihi suara Nabi, dan janganlah kamu berkata kepadanya dengan suara yang keras, sebagaimana kerasnya suara sebagian kamu terhadap sebagian yang lain, supaya tidak hapus (pahala) amalanmu,",
+      "timestamp": "2025-12-08T00:21:48.149994"
+    },
+    {
+      "verse_key": "049_014",
+      "chapter": 49,
+      "verse_number": 14,
+      "error": "Words added: ['kamu', 'dan', 'dan', 'jika', 'taat', 'kepada', 'allah', 'rasul', 'nya', 'dia', 'tidak', 'akan', 'mengurangi', 'sedikitpun', 'dari', 'pahala', 'amalmu']",
+      "original_translation_splits": {
+        "014_00": "Orang-orang Arab Badui itu berkata: \"Kami telah beriman\".",
+        "014_01": "Katakanlah: \"Kamu belum beriman, tapi katakanlah 'kami telah tunduk', karena iman itu belum masuk ke dalam hatimu;"
+      },
+      "arabic_reference_splits": {
+        "014_00": "۞قَالَتِ ٱلۡأَعۡرَابُ ءَامَنَّاۖ قُل لَّمۡ تُؤۡمِنُواْ وَلَٰكِن قُولُوٓاْ أَسۡلَمۡنَا وَلَمَّا يَدۡخُلِ ٱلۡإِيمَٰنُ فِي قُلُوبِكُمۡۖ",
+        "014_01": "وَإِن تُطِيعُواْ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتۡكُم مِّنۡ أَعۡمَٰلِكُمۡ شَيۡـًٔاۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ ٤١"
+      },
+      "combined_translation": "Orang-orang Arab Badui itu berkata: \"Kami telah beriman\". Katakanlah: \"Kamu belum beriman, tapi katakanlah 'kami telah tunduk', karena iman itu belum masuk ke dalam hatimu;",
+      "timestamp": "2025-12-08T00:21:48.151009"
+    },
+    {
+      "verse_key": "058_012",
+      "chapter": 58,
+      "verse_number": 12,
+      "error": "Words added: ['kamu', 'jika', 'tidak', 'menemukannya', 'maka', 'sesungguhnya', 'allah', 'maha', 'maha', 'pengampun', 'lagi', 'penyayang']",
+      "original_translation_splits": {
+        "012_00": "Hai orang-orang beriman, apabila kamu mengadakan pembicaraan khusus dengan Rasul hendaklah kamu mengeluarkan sedekah (kepada orang miskin) sebelum pembicaraan itu.",
+        "012_01": "Yang demikian itu lebih baik bagimu dan lebih bersih;"
+      },
+      "arabic_reference_splits": {
+        "012_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا نَٰجَيۡتُمُ ٱلرَّسُولَ فَقَدِّمُواْ بَيۡنَ يَدَيۡ نَجۡوَىٰكُمۡ صَدَقَةٗۚ ذَٰلِكَ خَيۡرٞ لَّكُمۡ وَأَطۡهَرُۚ",
+        "012_01": "فَإِن لَّمۡ تَجِدُواْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ ٢١"
+      },
+      "combined_translation": "Hai orang-orang beriman, apabila kamu mengadakan pembicaraan khusus dengan Rasul hendaklah kamu mengeluarkan sedekah (kepada orang miskin) sebelum pembicaraan itu. Yang demikian itu lebih baik bagimu dan lebih bersih;",
+      "timestamp": "2025-12-08T00:21:48.152024"
+    },
+    {
+      "verse_key": "074_031",
+      "chapter": 74,
+      "verse_number": 31,
+      "error": "Words added: ['orang']; Words removed: ['orng']",
+      "original_translation_splits": {
+        "031_00": "Dan tiada Kami jadikan penjaga neraka itu melainkan dari malaikat: dan tidaklah Kami menjadikan bilangan mereka itu melainkan untuk jadi cobaan bagi orang-orang kafir, supaya orang-orang",
+        "031_01": "yang diberi Al-Kitab menjadi yakin dan supaya orang yang beriman bertambah imannya",
+        "031_02": "dan supaya orang-orang yang diberi Al Kitab dan orng-orang mukmin itu tidak ragu-ragu dan supaya orang-orang yang di dalam hatinya ada penyakit dan orang-orang kafir (mengatakan): \"Apakah yang dikehendaki Allah dengan bilangan ini sebagai suatu perumpamaan?\"",
+        "031_03": "Demikianlah Allah membiarkan sesat orang-orang yang dikehendaki-Nya dan memberi petunjuk kepada siapa yang dikehendaki-Nya. Dan tidak ada yang mengetahui tentara Tuhanmu melainkan Dia sendiri. Dan Saqar itu tiada lain hanyalah peringatan bagi manusia."
+      },
+      "arabic_reference_splits": {
+        "031_00": "وَمَا جَعَلۡنَآ أَصۡحَٰبَ ٱلنَّارِ إِلَّا مَلَٰٓئِكَةٗۖ",
+        "031_01": "وَمَا جَعَلۡنَا عِدَّتَهُمۡ إِلَّا فِتۡنَةٗ لِّلَّذِينَ كَفَرُواْ لِيَسۡتَيۡقِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَيَزۡدَادَ ٱلَّذِينَ ءَامَنُوٓاْ إِيمَٰنٗا",
+        "031_02": "وَلَا يَرۡتَابَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَٱلۡمُؤۡمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ وَٱلۡكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۚ",
+        "031_03": "كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَمَا يَعۡلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَۚ وَمَا هِيَ إِلَّا ذِكۡرَىٰ لِلۡبَشَرِ ١٣"
+      },
+      "combined_translation": "Dan tiada Kami jadikan penjaga neraka itu melainkan dari malaikat: dan tidaklah Kami menjadikan bilangan mereka itu melainkan untuk jadi cobaan bagi orang-orang kafir, supaya orang-orang yang diberi Al-Kitab menjadi yakin dan supaya orang yang beriman bertambah imannya dan supaya orang-orang yang diberi Al Kitab dan orng-orang mukmin itu tidak ragu-ragu dan supaya orang-orang yang di dalam hatinya ada penyakit dan orang-orang kafir (mengatakan): \"Apakah yang dikehendaki Allah dengan bilangan ini sebagai suatu perumpamaan?\" Demikianlah Allah membiarkan sesat orang-orang yang dikehendaki-Nya dan memberi petunjuk kepada siapa yang dikehendaki-Nya. Dan tidak ada yang mengetahui tentara Tuhanmu melainkan Dia sendiri. Dan Saqar itu tiada lain hanyalah peringatan bagi manusia.",
+      "timestamp": "2025-12-08T00:21:48.153066"
+    }
+  ]
+}

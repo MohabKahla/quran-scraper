@@ -1,0 +1,235 @@
+================================================================================
+VALIDATION REPORT: tr-diyanet
+================================================================================
+
+Total mismatches: 29
+
+By severity:
+  Critical (<80%):  0
+  Moderate (80-95%): 0
+  Minor (95-99%):   0
+  Trivial (>99%):   29
+
+================================================================================
+ISSUES BY CHAPTER
+================================================================================
+
+
+Chapter 002: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 058 - Similarity: 99.7%
+  Original (176 chars):
+    "Şu şehre girin, orada dilediğiniz gibi, bol bol yiyin, secde ederek kapısından girin, "bağışla!" de...
+  Formatted (177 chars):
+    "Şu şehre girin, orada dilediğiniz gibi, bol bol yiyin, secde ederek kapısından girin, " bağışla!" d...
+
+Verse 067 - Similarity: 99.7%
+  Original (166 chars):
+    Musa milletine: "Allah muhakkak bir sığır boğazlamanızı buyuruyor" demişti; "Bizi alaya mı alıyorsun...
+  Formatted (167 chars):
+    Musa milletine: "Allah muhakkak bir sığır boğazlamanızı buyuruyor" demişti; "Bizi a laya mı alıyorsu...
+
+Verse 231 - Similarity: 99.9%
+  Original (400 chars):
+    Kadınları boşadığınızda, müddetleri sona ererken, onları güzellikle tutun, ya da güzellikle bırakın,...
+  Formatted (401 chars):
+    Kadınları boşadığınızda, müddetleri sona ererken, onları güzellikle tutun, ya da güzellikle bırakın,...
+
+Verse 259 - Similarity: 99.7%
+  Original (547 chars):
+    Yahut altı üstüne gelmiş bir kasabaya uğrayan kimseyi görmedin mi? "Allah burayı ölümünden sonra aca...
+  Formatted (550 chars):
+    Yahut altı üstüne gelmiş bir kasabaya uğrayan kimseyi görmedin mi? "Allah burayı ölümünden sonra aca...
+
+Chapter 003: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 027 - Similarity: 99.6%
+  Original (118 chars):
+    Geceyi gündüze, gündüzü geceye geçirirsin; ölüden diri, diriden ölü çıkarırsın; dilediğini hesapsız ...
+  Formatted (119 chars):
+    Geceyi gündüze, gündüzü geceye geçirirsin; ölüden diri, dir iden ölü çıkarırsın; dilediğini hesapsız...
+
+Verse 039 - Similarity: 99.7%
+  Original (179 chars):
+    Mabedde namaz kılarken melekler ona seslendiler: "Allah sana Allah'ın emriyle (vücud bulan İsa'yı) t...
+  Formatted (180 chars):
+    Mabedde namaz kılarken melekler ona seslendiler: "Allah sana Allah'ın emriyle (vücud bula n İsa'yı) ...
+
+Verse 049 - Similarity: 99.8%
+  Original (439 chars):
+    Ona Kitabı, hikmeti, Tevrat'ı ve İncil'i öğretecek, İsrailoğullarına şöyle diyen bir peygamber kılac...
+  Formatted (441 chars):
+    Ona Kitabı, hikmeti, Tevrat'ı ve İncil'i öğretecek, İsrailoğullarına şöyle diyen bir peygamber kılac...
+
+Verse 061 - Similarity: 99.8%
+  Original (250 chars):
+    Sana ilim geldikten sonra, bu hususta seninle kim tartışacak olursa, de ki: "Gelin, oğullarımızı, oğ...
+  Formatted (251 chars):
+    Sana ilim geldikten sonra, bu hususta seninle kim tartışacak olursa, de ki: "Gelin, oğullarımızı, oğ...
+
+Chapter 004: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 023 - Similarity: 99.7%
+  Original (513 chars):
+    Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızlar...
+  Formatted (516 chars):
+    Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızlar...
+
+Verse 127 - Similarity: 99.7%
+  Original (333 chars):
+    Kadınlar hakkında senden fetva isterler, de ki: "Onlar hakkında fetvayı size Allah veriyor: "Bu fetv...
+  Formatted (335 chars):
+    Kadınlar hakkında senden fetva isterler, de ki: "Onlar hakkında fetvayı size Allah veriyor: "Bu fetv...
+
+Chapter 005: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 104 - Similarity: 99.8%
+  Original (201 chars):
+    Onlara, "Gelin Allah'ın indirdiği Kitap'a ve peygambere uyun" dendiğinde, "Atalarımızı üzerinde buld...
+  Formatted (202 chars):
+    Onlara, "Gelin Allah'ın indirdiği Kitap'a ve peygambere uyun" dendiğinde, "Atalarımızı üzerinde buld...
+
+Verse 116 - Similarity: 99.9%
+  Original (558 chars):
+    Allah, "Ey Meryem oğlu İsa! Sen mi insanlara Beni ve annemi Allah'tan başka iki tanrı olarak benimse...
+  Formatted (557 chars):
+    Allah, "Ey Meryem oğlu İsa! Sen mi insanlara Beni ve annemi Allah'tan başka iki tanrı olarak benimse...
+
+Chapter 006: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 065 - Similarity: 99.7%
+  Original (199 chars):
+    De ki: "Üstünüzden ve altınızdan size azab göndermeğe, sizi fırka fırka yapıp kiminize kiminizin hın...
+  Formatted (200 chars):
+    De ki: "Üstünüzden ve altınızdan size azab göndermeğe, sizi fırka fırka yapıp kiminize kiminizin hı ...
+
+Verse 093 - Similarity: 99.9%
+  Original (401 chars):
+    Allah'a karşı yalan uydurandan veya kendisine bir şey vahyedilmemişken "Bana vahyolundu, Allah'ın in...
+  Formatted (402 chars):
+    Allah'a karşı yalan uydurandan veya kendisine bir şey vahyedilmemişken "Bana vahyolundu, Allah'ın in...
+
+Verse 151 - Similarity: 99.9%
+  Original (349 chars):
+    De ki: "Gelin size Rabbinizin haram kıldığı şeyleri söyleyeyim: O'na hiçbir şeyi ortak koşmayın, ana...
+  Formatted (350 chars):
+    De ki: "Gelin size Rabbinizin haram kıldığı şeyleri söyleyeyim: O'na hiçbir şeyi ortak koşmayın, ana...
+
+Chapter 007: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 020 - Similarity: 99.7%
+  Original (167 chars):
+    Şeytan, ayıp yerlerini kendilerine göstermek için onlara fısıldadı: "Rabbinizin sizi bu ağaçtan mene...
+  Formatted (168 chars):
+    Şeytan, ayıp yerlerini kendilerine göstermek için onlara fısıldadı: "Rabbinizin siz i bu ağaçtan men...
+
+Verse 033 - Similarity: 99.8%
+  Original (208 chars):
+    De ki: "Rabbim sadece, açık ve gizli fenalıkları, günahı, haksız yere tecavüzü, hakkında hiçbir deli...
+  Formatted (209 chars):
+    De ki: "Rabbim sadece, açık ve gizli fenalıkları, günahı, haksız yere tecavüzü, hakkında hiçbir deli...
+
+Verse 074 - Similarity: 99.8%
+  Original (232 chars):
+    Allah'ın sizi Ad milleti yerine getirdiğini, ovalarında köşkler kurup dağlarında kayadan evler yontt...
+  Formatted (233 chars):
+    Allah'ın sizi Ad milleti yerine getirdiğini, ovalarında köşkler kurup dağlarında kayadan evler yontt...
+
+Chapter 008: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 048 - Similarity: 99.8%
+  Original (304 chars):
+    Şeytan onlara işlediklerini güzel gösterdi ve "Bugün insanlardan sizi yenecek kimse yoktur; doğrusu ...
+  Formatted (305 chars):
+    Şeytan onlara işlediklerini güzel gösterdi ve "Bugün insanlardan sizi yenecek kimse yoktur; doğrusu ...
+
+Verse 070 - Similarity: 99.7%
+  Original (170 chars):
+    Elinizde bulunan esirlere, "Allah kalblerinizde bir iyilik bulursa, size sizden alınanın daha hayırl...
+  Formatted (171 chars):
+    Elinizde bulunan esirlere, "Allah kalblerinizde bir iyilik bulursa, size sizden alına nın daha hayır...
+
+Chapter 010: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 022 - Similarity: 99.9%
+  Original (354 chars):
+    Sizi karada ve denizde yürüten Allah'tır. Bulunduğunuz gemi, içindekileri güzel bir rüzgarla götürür...
+  Formatted (355 chars):
+    Sizi karada ve denizde yürüten Allah'tır. Bulunduğunuz gemi, içindekileri güzel bir rüzgarla götürür...
+
+Chapter 014: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.8%
+  Original (224 chars):
+    Musa, milletine dedi ki: "Allah'ın size olan nimetlerini anın; size işkence eden, kadınlarınızı sağ ...
+  Formatted (225 chars):
+    Musa, milletine dedi ki: "Allah'ın size olan nimetlerini anın; size işkence eden, kadınlarınızı sağ ...
+
+Chapter 023: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 033 - Similarity: 99.8%
+  Original (227 chars):
+    Onun, inkarcı ve ahirete kavuşmayı yalanlayan milletinin ileri gelenleri ki Biz onlara bu dünya haya...
+  Formatted (228 chars):
+    Onun, inkarcı ve ahirete kavuşmayı yalanlayan milletinin ileri gelenleri ki Biz onlara bu dünya haya...
+
+Chapter 028: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.7%
+  Original (177 chars):
+    Musa'nın annesine: "Çocuğu emzir, başına gelecekten korktuğun zaman onu suya bırak; korkma, üzülme; ...
+  Formatted (178 chars):
+    Musa'nın annesine: "Çocuğu emzir, başına gelecekten korktuğun zaman onu suya bırak; kork ma, üzülme;...
+
+Chapter 034: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 022 - Similarity: 99.8%
+  Original (227 chars):
+    De ki: "Allah'ı bırakıp de göklerde ve yerde zerre kadar bir şeye sahip olmadığı, her ikisinde de bi...
+  Formatted (228 chars):
+    De ki: "Allah'ı bırakıp de göklerde ve yerde zerre kadar bir şeye sahip olmadığı, her ikisinde de bi...
+
+Chapter 046: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 010 - Similarity: 99.8%
+  Original (290 chars):
+    De ki: "Eğer bu Kitap Allah katından ise ve siz de onu inkar etmişseniz; İsrailoğullarından bir şahi...
+  Formatted (291 chars):
+    De ki: "Eğer bu Kitap Allah katından ise ve siz de onu inkar etmişseniz; İsrailoğullarından bir şahi...
+
+Verse 020 - Similarity: 99.8%
+  Original (261 chars):
+    İnkar edenler, ateşe sunuldukları gün, onlara: "Dünyadaki hayatınızda sizin için güzel olan her şeyi...
+  Formatted (262 chars):
+    İnkar edenler, ateşe sunuldukları gün, onlara: "Dünyadaki hayatınızda sizin için güzel olan her şeyi...
+
+Chapter 048: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 016 - Similarity: 99.8%
+  Original (267 chars):
+    Bedevilerden geri kalmış olanlara de ki: "güçlü kuvvetli bir millete karşı, onlar müslüman olana kad...
+  Formatted (268 chars):
+    Bedevilerden geri kalmış olanlara de ki: "güçlü kuvvetli bir millete karşı, onlar müslüman olana kad...
+
+Chapter 064: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 009 - Similarity: 99.7%
+  Original (288 chars):
+    Toplanma günü için, sizi bir araya getirdiği zaman, işte o, kimin aldandığının ortaya çıkacağı gündü...
+  Formatted (290 chars):
+    Toplanma günü için, sizi bir araya getirdiği zaman, işte o, kimin aldandığının ortaya çıkacağı g ünd...

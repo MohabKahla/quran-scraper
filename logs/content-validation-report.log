@@ -1,0 +1,1458 @@
+================================================================================
+TRANSLATION CONTENT INTEGRITY VALIDATION
+================================================================================
+
+Comparing:
+  Original:  data/old-translations/ksu-translations
+  Formatted: data/ksu-translations-formatted
+
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: bn-bengali
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 584 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: bs-korkut
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 504 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: de-bo
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 552 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: es-navio
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 880 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: ha-gumi
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 670 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: id-indonesian
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 608 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: it-piccardo
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 524 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: ku-asan
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 651 mismatches found in 114 chapters (6235 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: ml-abdulhameed
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 661 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: ms-basmeih
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 590 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: nl-siregar
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 645 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: pr-tagi
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 602 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: pt-elhayek
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 745 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: ru-ku
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 571 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: sq-nahi
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 534 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: sv-bernstrom
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 447 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: sw-barwani
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 586 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: ta-tamil
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 572 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: th-thai
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 630 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: tr-diyanet
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 525 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: ur-gl
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 722 mismatches found in 114 chapters (6236 verses)
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: uz-sodik
+────────────────────────────────────────────────────────────────────────────────
+
+✅ All 6236 verses in 114 chapters match perfectly!
+
+────────────────────────────────────────────────────────────────────────────────
+📖 Checking: zh-jian
+────────────────────────────────────────────────────────────────────────────────
+
+❌ 1000 mismatches found in 114 chapters (6236 verses)
+
+================================================================================
+SUMMARY
+================================================================================
+Languages checked: 23
+Languages with issues: 22
+Languages perfect: 1
+Total mismatches: 13803
+
+================================================================================
+DETAILED MISMATCH REPORT (13803 issues)
+================================================================================
+
+bn-bengali: 584 mismatches
+
+================================================================================
+❌ MISMATCH: bn-bengali - Chapter 002 - Verse 19
+Similarity: 88.2%
+================================================================================
+
+Original (204 chars):
+  আর তাদের উদাহরণ সেসব লোকের মত যারা দুর্যোগপূর্ণ ঝড়ো রাতে পথ চলে, যাতে থাকে আঁধার, গর্জন ও বিদ্যুৎচমক। মৃত্যুর ভয়ে গর্জনের সময় কানে আঙ্গুল দিয়ে রক্ষা পেতে চায়। অথচ সমস্ত কাফেরই আল্লাহ কর্তৃক পরিবেষ্...
+
+Formatted (161 chars):
+  আর তাদের উদাহরণ সেসব লোকের মত যারা দুর্যোগপূর্ণ ঝড়ো রাতে পথ চলে, যাতে থাকে আঁধার, গর্জন ও বিদ্যুৎচমক। মৃত্যুর ভয়ে গর্জনের সময় কানে আঙ্গুল দিয়ে রক্ষা পেতে চায়।
+
+================================================================================
+❌ MISMATCH: bn-bengali - Chapter 002 - Verse 20
+Similarity: 88.6%
+================================================================================
+
+Original (227 chars):
+  বিদ্যুতালোকে যখন সামান্য আলোকিত হয়, তখন কিছুটা পথ চলে। আবার যখন অন্ধকার হয়ে যায়, তখন ঠাঁয় দাঁড়িয়ে থাকে। যদি আল্লাহ ইচ্ছা করেন, তাহলে তাদের শ্রবণশক্তি ও দৃষ্টিশক্তি ছিনিয়ে নিতে পারেন। আল্লাহ যাবতীয় ব...
+
+Formatted (184 chars):
+  বিদ্যুতালোকে যখন সামান্য আলোকিত হয়, তখন কিছুটা পথ চলে। আবার যখন অন্ধকার হয়ে যায়, তখন ঠাঁয় দাঁড়িয়ে থাকে. যদি আল্লাহ ইচ্ছা করেন, তাহলে তাদের শ্রবণশক্তি ও দৃষ্টিশক্তি ছিনিয়ে নিতে পারেন.
+
+================================================================================
+❌ MISMATCH: bn-bengali - Chapter 002 - Verse 22
+Similarity: 94.0%
+================================================================================
+
+Original (247 chars):
+  যে পবিত্রসত্তা তোমাদের জন্য ভূমিকে বিছানা এবং আকাশকে ছাদ স্বরূপ স্থাপন করে দিয়েছেন, আর আকাশ থেকে পানি বর্ষণ করে তোমাদের জন্য ফল-ফসল উৎপাদন করেছেন তোমাদের খাদ্য হিসাবে। অতএব, আল্লাহর সাথে তোমরা অন্...
+
+Formatted (223 chars):
+  যে পবিত্রসত্তা তোমাদের জন্য ভূমিকে বিছানা এবং আকাশকে ছাদ স্বরূপ স্থাপন করে দিয়েছেন, আর আকাশ থেকে পানি বর্ষণ করে তোমাদের জন্য ফল-ফসল উৎপাদন করেছেন তোমাদের খাদ্য হিসাবে. অতএব, আল্লাহর সাথে তোমরা অন্...
+
+================================================================================
+❌ MISMATCH: bn-bengali - Chapter 002 - Verse 25
+Similarity: 99.2%
+================================================================================
+
+Original (375 chars):
+  আর হে নবী (সাঃ), যারা ঈমান এনেছে এবং সৎকাজসমূহ করেছে, আপনি তাদেরকে এমন বেহেশতের সুসংবাদ দিন, যার পাদদেশে নহরসমূহ প্রবাহমান থাকবে। যখনই তারা খাবার হিসেবে কোন ফল প্রাপ্ত হবে, তখনই তারা বলবে, এতো অবিকল...
+
+Formatted (375 chars):
+  আর হে নবী (সাঃ), যারা ঈমান এনেছে এবং সৎকাজসমূহ করেছে, আপনি তাদেরকে এমন বেহেশতের সুসংবাদ দিন, যার পাদদেশে নহরসমূহ প্রবাহমান থাকবে. যখনই তারা খাবার হিসেবে কোন ফল প্রাপ্ত হবে, তখনই তারা বলবে, এতো অবিকল...
+
+================================================================================
+❌ MISMATCH: bn-bengali - Chapter 002 - Verse 26
+Similarity: 77.5%
+================================================================================
+
+Original (420 chars):
+  আল্লাহ পাক নিঃসন্দেহে মশা বা তদুর্ধ্ব বস্তু দ্বারা উপমা পেশ করতে লজ্জাবোধ করেন না। বস্তুতঃ যারা মুমিন তারা নিশ্চিতভাবে বিশ্বাস করে যে, তাদের পালনকর্তা কর্তৃক উপস্থাপিত এ উপমা সম্পূর্ণ নির্ভূল ও সঠিক।...
+
+Formatted (269 chars):
+  আল্লাহ পাক নিঃসন্দেহে মশা বা তদুর্ধ্ব বস্তু দ্বারা উপমা পেশ করতে লজ্জাবোধ করেন না. বস্তুতঃ যারা মুমিন তারা নিশ্চিতভাবে বিশ্বাস করে যে, তাদের পালনকর্তা কর্তৃক উপস্থাপিত এ উপমা সম্পূর্ণ নির্ভূল ও সঠিক।...
+
+... and 579 more mismatches for bn-bengali
+
+bs-korkut: 504 mismatches
+
+================================================================================
+❌ MISMATCH: bs-korkut - Chapter 002 - Verse 30
+Similarity: 91.8%
+================================================================================
+
+Original (269 chars):
+  A kada Gospodar tvoj reče melekima: "Ja ću na Zemlji namjesnika postaviti!" – oni rekoše: "Zar će Ti namjesnik biti onaj koji će na njoj nered činiti i krv proljevati? A mi Tebe veličamo i hvalimo i, ...
+
+Formatted (228 chars):
+  A kada Gospodar tvoj reče melekima: "Ja ću na Zemlji namjesnika postaviti!" – oni rekoše: "Zar će Ti namjesnik biti onaj koji će na njoj nered činiti i krv proljevati? A mi Tebe veličamo i hvalimo i, ...
+
+================================================================================
+❌ MISMATCH: bs-korkut - Chapter 002 - Verse 54
+Similarity: 92.8%
+================================================================================
+
+Original (277 chars):
+  i kada je Musa rekao narodu svome: "O narode moj, prihvativši tele, vi ste samo sebi nepravdu učinili; zato se Stvoritelju svome pokajte i između vas prestupnike smrću kaznite. To je bolje za vas kod ...
+
+Formatted (240 chars):
+  i kada je Musa rekao narodu svome: "O narode moj, prihvativši tele, vi ste samo sebi nepravdu učinili; zato se Stvoritelju svome pokajte i između vas prestupnike smrću kaznite. To je bolje za vas kod ...
+
+================================================================================
+❌ MISMATCH: bs-korkut - Chapter 002 - Verse 57
+Similarity: 99.4%
+================================================================================
+
+Original (175 chars):
+  I Mi smo vam od oblaka hladovinu načinili i manu i prepelice vam slali: "Jedite lijepa jela kojima vas opskrbljujemo!" A oni Nama nisu naudili, sami sebi su nepravdu nanijeli;
+
+Formatted (175 chars):
+  I Mi smo vam od oblaka hladovinu načinili i manu i prepelice vam slali: "Jedite lijepa jela kojima vas opskrbljujemo!" A oni Nama nisu naudili, sami sebi su nepravdu nanijeli.
+
+================================================================================
+❌ MISMATCH: bs-korkut - Chapter 002 - Verse 58
+Similarity: 99.3%
+================================================================================
+
+Original (215 chars):
+  i kada smo rekli: "Uđite u ovaj grad i jedite što god hoćete i koliko god hoćete, a na kapiju pognutih glava uđite, i recite: 'Oprosti' – oprostićemo vam grijehe vaše, a onima koji čine dobra djela da...
+
+Formatted (212 chars):
+  i kada smo rekli: "Uđite u ovaj grad i jedite što god hoćete i koliko god hoćete, a na kapiju pognutih glava uđite, i recite: 'Oprosti' – oprostićemo vam grijehe vaše, a onima koji čine dobra djela da...
+
+================================================================================
+❌ MISMATCH: bs-korkut - Chapter 002 - Verse 60
+Similarity: 99.2%
+================================================================================
+
+Original (254 chars):
+  i kada je Musa za narod svoj vodu molio, Mi smo rekli: "Udari štapom svojim po stijeni!" – i iz nje je dvanaest vrela provrelo, i svako bratstvo je vrelo iz kojeg će piti znalo. "Jedite i pijte Allaho...
+
+Formatted (250 chars):
+  i kada je Musa za narod svoj vodu molio, Mi smo rekli: "Udari štapom svojim po stijeni!" – i iz nje je dvanaest vrela provrelo, i svako bratstvo je vrelo iz kojeg će piti znalo. Jedite i pijte Allahov...
+
+... and 499 more mismatches for bs-korkut
+
+de-bo: 552 mismatches
+
+================================================================================
+❌ MISMATCH: de-bo - Chapter 002 - Verse 19
+Similarity: 91.5%
+================================================================================
+
+Original (224 chars):
+  Oder es ist wie ein Gewitterregen, der vom Himmel niedergeht, voller Finsternis, Donner und Blitz. Sie stecken sich die Finger in die Ohren vor den Donnerschlägen, um dem Tod zu entfliehen, doch Allah...
+
+Formatted (189 chars):
+  Oder es ist wie ein Gewitterregen, der vom Himmel niedergeht, voller Finsternis, Donner und Blitz. Sie stecken sich die Finger in die Ohren vor den Donnerschlägen, um dem Tod zu entfliehen,
+
+================================================================================
+❌ MISMATCH: de-bo - Chapter 002 - Verse 20
+Similarity: 93.9%
+================================================================================
+
+Original (262 chars):
+  Der Blitz reißt ihnen beinahe das Augenlicht fort. Jedesmal, wenn er ihnen Helligkeit verbreitet, gehen sie darin. Und wenn es finster um sie wird, bleiben sie stehen. Wenn Allah wollte, nähme Er ihne...
+
+Formatted (232 chars):
+  Der Blitz reißt ihnen beinahe das Augenlicht fort. Jedesmal, wenn er ihnen Helligkeit verbreitet, gehen sie darin. Und wenn es finster um sie wird, bleiben sie stehen. Wenn Allah wollte, nähme Er ihne...
+
+================================================================================
+❌ MISMATCH: de-bo - Chapter 002 - Verse 22
+Similarity: 93.8%
+================================================================================
+
+Original (274 chars):
+  Der euch die Erde zu einem Ruhebett und den Himmel zu einem Gebäude gemacht hat und vom Himmel Wasser herabkommen läßt, durch das Er dann für euch Früchte als Versorgung hervorbringt. So stellt Allah ...
+
+Formatted (242 chars):
+  Der euch die Erde zu einem Ruhebett und den Himmel zu einem Gebäude gemacht hat und vom Himmel Wasser herabkommen läßt, durch das Er dann für euch Früchte als Versorgung hervorbringt. So stellt Allah ...
+
+================================================================================
+❌ MISMATCH: de-bo - Chapter 002 - Verse 26
+Similarity: 64.0%
+================================================================================
+
+Original (429 chars):
+  Allah schämt Sich nicht, ein Gleichnis auch nur mit einer Mücke oder mit etwas darüber (hinaus) zu prägen. Was nun diejenigen angeht, die glauben, so wissen sie, daß es die Wahrheit von ihrem Herrn is...
+
+Formatted (202 chars):
+  Allah schämt Sich nicht, ein Gleichnis auch nur mit einer Mücke oder mit etwas darüber (hinaus) zu prägen. Was nun diejenigen angeht, die glauben, so wissen sie, daß es die Wahrheit von ihrem Herrn is...
+
+================================================================================
+❌ MISMATCH: de-bo - Chapter 002 - Verse 30
+Similarity: 92.7%
+================================================================================
+
+Original (308 chars):
+  Und als dein Herr zu den Engeln sagte: "Ich bin dabei, auf der Erde einen Statthalter einzusetzen", da sagten sie: "Willst Du auf ihr etwa jemanden einsetzen, der auf ihr Unheil stiftet und Blut vergi...
+
+Formatted (266 chars):
+  Und als dein Herr zu den Engeln sagte: "Ich bin dabei, auf der Erde einen Statthalter einzusetzen", da sagten sie: "Willst Du auf ihr etwa jemanden einsetzen, der auf ihr Unheil stiftet und Blut vergi...
+
+... and 547 more mismatches for de-bo
+
+es-navio: 880 mismatches
+
+================================================================================
+❌ MISMATCH: es-navio - Chapter 002 - Verse 19
+Similarity: 88.6%
+================================================================================
+
+Original (210 chars):
+  O como el que está en medio de una tormenta donde hay tinieblas, truenos y relámpagos. El estampido del rayo al caer, les hace taparse los oídos por temor a la muerte.Pero Allah tiene rodeados a los i...
+
+Formatted (167 chars):
+  O como el que está en medio de una tormenta donde hay tinieblas, truenos y relámpagos. El estampido del rayo al caer, les hace taparse los oídos por temor a la muerte.
+
+================================================================================
+❌ MISMATCH: es-navio - Chapter 002 - Verse 20
+Similarity: 69.7%
+================================================================================
+
+Original (226 chars):
+  A punto está el relámpago de quitarles la vista. Cada vez que les alumbra andan, pero cuando se hace oscuro, se detienen. Si Allah quisiera les quitaría el oído y la vista.Es verdad que Allah tiene po...
+
+Formatted (121 chars):
+  A punto está el relámpago de quitarles la vista. Cada vez que les alumbra andan, pero cuando se hace oscuro, se detienen.
+
+================================================================================
+❌ MISMATCH: es-navio - Chapter 002 - Verse 25
+Similarity: 92.9%
+================================================================================
+
+Original (353 chars):
+  Y dales la buena noticia a los que creen y practican las acciones de bien, de que tendrán jardines por cuyo suelo corren los ríos. Cada vez que se les provea con frutos de estos jardines para que se a...
+
+Formatted (306 chars):
+  Y dales la buena noticia a los que creen y practican las acciones de bien, de que tendrán jardines por cuyo suelo corren los ríos. Cada vez que se les provea con frutos de estos jardines para que se a...
+
+================================================================================
+❌ MISMATCH: es-navio - Chapter 002 - Verse 26
+Similarity: 99.7%
+================================================================================
+
+Original (345 chars):
+  Allah no se avergüenza de utilizar un ejemplo cualquiera, ya sea un mosquito o algo de más importancia.Los que creen, reconocerán la verdad procedente de su Señor, pero los que se niegan a creer, dirá...
+
+Formatted (347 chars):
+  Allah no se avergüenza de utilizar un ejemplo cualquiera, ya sea un mosquito o algo de más importancia. Los que creen, reconocerán la verdad procedente de su Señor, pero los que se niegan a creer, dir...
+
+================================================================================
+❌ MISMATCH: es-navio - Chapter 002 - Verse 30
+Similarity: 99.7%
+================================================================================
+
+Original (307 chars):
+  Y cuando tu Señor dijo a los ángeles: Voy a poner en la tierra a un representante Mío*.Dijeron: ¿Vas a poner en ella a quien extienda la corrupción y derrame sangre mientras que nosotros Te glorificam...
+
+Formatted (307 chars):
+  Y cuando tu Señor dijo a los ángeles: Voy a poner en la tierra a un representante Mío. Dijeron: ¿Vas a poner en ella a quien extienda la corrupción y derrame sangre mientras que nosotros Te glorificam...
+
+... and 875 more mismatches for es-navio
+
+ha-gumi: 670 mismatches
+
+================================================================================
+❌ MISMATCH: ha-gumi - Chapter 002 - Verse 20
+Similarity: 89.3%
+================================================================================
+
+Original (249 chars):
+  Walƙiyar tana yin kusa ta fizge gannansu, ko da yaushe ta haskakã musu, sai su yi tafiya a cikinta, kuma idan ta yi duhu a kansu, sai su yi tsaye. Kuma dã Allah Yã so, sai Ya tafi da jinsu da gannansu...
+
+Formatted (201 chars):
+  Walƙiyar tana yin kusa ta fizge gannansu, ko da yaushe ta haskakã musu, sai su yi tafiya a cikinta, kuma idan ta yi duhu a kansu, sai su yi tsaye. Kuma dã Allah Yã so, sai Ya tafi da jinsu da gannansu...
+
+================================================================================
+❌ MISMATCH: ha-gumi - Chapter 002 - Verse 26
+Similarity: 83.2%
+================================================================================
+
+Original (410 chars):
+  Lalle ne, Allah bã Ya jin kunyar Ya bayyana wani misãli, kõwane iri ne, sauro da abin da yake bisa gare shi. To, amma waɗanda suka yi ĩmãni, sai su san cewa lalle shi ne gaskiya daga Ubangijin su, kum...
+
+Formatted (292 chars):
+  Lalle ne, Allah bã Ya jin kunyar Ya bayyana wani misãli, kõwane iri ne, sauro da abin da yake bisa gare shi. To, amma waɗanda suka yi ĩmãni, sai su san cewa lalle shi ne gaskiya daga Ubangijin su, kum...
+
+================================================================================
+❌ MISMATCH: ha-gumi - Chapter 002 - Verse 30
+Similarity: 90.7%
+================================================================================
+
+Original (301 chars):
+  Kuma a lõkacin da Ubangijinka Ya ce ga malã'iku: "Lalle ne, Ni Mai sanya wani halĩfa ne a cikin ƙasa," suka ce: "Ashe, zã Ka sanya a cikinta, wanda zai yi ɓarna a cikinta, kuma mu, muna yi maka tasbih...
+
+Formatted (250 chars):
+  Kuma a lõkacin da Ubangijinka Ya ce ga malã'iku: "Lalle ne, Ni Mai sanya wani halĩfa ne a cikin ƙasa," suka ce: "Ashe, zã Ka sanya a cikinta, wanda zai yi ɓarna a cikinta, kuma mu, muna yi maka tasbih...
+
+================================================================================
+❌ MISMATCH: ha-gumi - Chapter 002 - Verse 33
+Similarity: 28.1%
+================================================================================
+
+Original (245 chars):
+  Ya ce: "Yã Ãdam! Ka gaya musu sũnãyensu." To, a lokacin da ya gaya musu sũnãyensu, (Allah) Ya ce: "Ashe, ban ce muku ba, lalle Ni, Inã sane da gaibin sammai da ƙasa, kuma (Inã sane da) abin da kuke ba...
+
+Formatted (40 chars):
+  Ya ce: "Yã Ãdam! Ka gaya musu sũnãyensu.
+
+================================================================================
+❌ MISMATCH: ha-gumi - Chapter 002 - Verse 54
+Similarity: 90.5%
+================================================================================
+
+Original (299 chars):
+  Kuma a lõkacin da Mũsa ya ce ga mutãnensa: "Ya mutãnena! Lalle ne ku, kun zãlunci kanku game da riƙonku maraƙin, sai ku tũba zuwa ga Mahaliccinku, sai ku kashe kãwunanku. Wancan ne mafii alheri a waje...
+
+Formatted (249 chars):
+  Kuma a lõkacin da Mũsa ya ce ga mutãnensa: "Ya mutãnena! Lalle ne ku, kun zãlunci kanku game da riƙonku maraƙin, sai ku tũba zuwa ga Mahaliccinku, sai ku kashe kãwunanku. Wancan ne mafii alheri a waje...
+
+... and 665 more mismatches for ha-gumi
+
+id-indonesian: 608 mismatches
+
+================================================================================
+❌ MISMATCH: id-indonesian - Chapter 002 - Verse 22
+Similarity: 69.3%
+================================================================================
+
+Original (290 chars):
+  Dialah yang menjadikan bumi sebagai hamparan bagimu dan langit sebagai atap, dan Dia menurunkan air (hujan) dari langit, lalu Dia menghasilkan dengan hujan itu segala buah-buahan sebagai rezeki untukm...
+
+Formatted (218 chars):
+  Dialah yang menjadikan bumi sebagai hamparan bagimu dan langit sebagai atap, dan Dia menurunkan air (hujan) dari langit, lalu Dia. karena itu janganlah kamu mengadakan sekutu-sekutu bagi Allah, padaha...
+
+================================================================================
+❌ MISMATCH: id-indonesian - Chapter 002 - Verse 26
+Similarity: 99.1%
+================================================================================
+
+Original (489 chars):
+  Sesungguhnya Allah tiada segan membuat perumpamaan berupa nyamuk atau yang lebih rendah dari itu. Adapun orang-orang yang beriman, maka mereka yakin bahwa perumpamaan itu benar dari Tuhan mereka, teta...
+
+Formatted (488 chars):
+  Sesungguhnya Allah tiada segan membuat perumpamaan berupa nyamuk atau yang lebih rendah dari itu. Adapun orang-orang yang beriman, maka mereka yakin bahwa perumpamaan itu benar dari Tuhan mereka. Teta...
+
+================================================================================
+❌ MISMATCH: id-indonesian - Chapter 002 - Verse 36
+Similarity: 57.0%
+================================================================================
+
+Original (266 chars):
+  Lalu keduanya digelincirkan oleh syaitan dari surga itu dan dikeluarkan dari keadaan semula dan Kami berfirman: "Turunlah kamu! sebagian kamu menjadi musuh bagi yang lain, dan bagi kamu ada tempat ked...
+
+Formatted (222 chars):
+  Lalu keduanya digelincirkan oleh syaitan dari surga itu dan dikeluarkan dari keadaan semula dan Kami berfirman: "Turunlah kamu!" dan bagi kamu ada tempat kediaman di bumi, dan kesenangan hidup sampai ...
+
+================================================================================
+❌ MISMATCH: id-indonesian - Chapter 002 - Verse 54
+Similarity: 91.2%
+================================================================================
+
+Original (415 chars):
+  Dan (ingatlah), ketika Musa berkata kepada kaumnya: "Hai kaumku, sesungguhnya kamu telah menganiaya dirimu sendiri karena kamu telah menjadikan anak lembu (sembahanmu), maka bertaubatlah kepada Tuhan ...
+
+Formatted (348 chars):
+  Dan (ingatlah), ketika Musa berkata kepada kaumnya: "Hai kaumku, sesungguhnya kamu telah menganiaya dirimu sendiri karena kamu telah menjadikan anak lembu (sembahanmu), maka bertaubatlah kepada Tuhan ...
+
+================================================================================
+❌ MISMATCH: id-indonesian - Chapter 002 - Verse 57
+Similarity: 85.5%
+================================================================================
+
+Original (248 chars):
+  Dan Kami naungi kamu dengan awan, dan Kami turunkan kepadamu "manna" dan "salwa". Makanlah dari makanan yang baik-baik yang telah Kami berikan kepadamu; dan tidaklah mereka menganiaya Kami; akan tetap...
+
+Formatted (185 chars):
+  Dan Kami naungi kamu dengan awan, dan Kami turunkan kepadamu manna dan salwa. Makanlah dari makanan yang baik-baik yang telah Kami berikan kepadamu; dan tidaklah mereka menganiaya Kami;
+
+... and 603 more mismatches for id-indonesian
+
+it-piccardo: 524 mismatches
+
+================================================================================
+❌ MISMATCH: it-piccardo - Chapter 002 - Verse 20
+Similarity: 88.9%
+================================================================================
+
+Original (221 chars):
+  Il lampo quasi li acceca: ogni volta che rischiara, procedono; ma quando rimangono nell'oscurità si fermano. Se Allah avesse voluto, li avrebbe privati dell'udito e della vista. In verità Allah su tut...
+
+Formatted (177 chars):
+  Il lampo quasi li acceca: ogni volta che rischiara, procedono; ma quando rimangono nell'oscurità si fermano. Se Allah avesse voluto, li avrebbe privati dell'udito e della vista.
+
+================================================================================
+❌ MISMATCH: it-piccardo - Chapter 002 - Verse 26
+Similarity: 94.8%
+================================================================================
+
+Original (336 chars):
+  In verità, Allah non esita a prendere ad esempio un moscerino o qualsiasi altra cosa superiore. Coloro che credono sanno che si tratta della verità che proviene dal loro Signore; i miscredenti invece ...
+
+Formatted (303 chars):
+  In verità, Allah non esita a prendere ad esempio un moscerino o qualsiasi altra cosa superiore. Coloro che credono sanno che si tratta della verità che proviene dal loro Signore; i miscredenti invece ...
+
+================================================================================
+❌ MISMATCH: it-piccardo - Chapter 002 - Verse 30
+Similarity: 99.7%
+================================================================================
+
+Original (301 chars):
+  E quando il tuo Signore disse agli Angeli: “Porrò un vicario sulla terra”, essi dissero: “Metterai su di essa qualcuno che vi spargerà la corruzione e vi verserà il sangue, mentre noi Ti glorifichiamo...
+
+Formatted (299 chars):
+  E quando il tuo Signore disse agli Angeli: “Porrò un vicario sulla terra”, essi dissero: “Metterai su di essa qualcuno che vi spargerà la corruzione e vi verserà il sangue, mentre noi Ti glorifichiamo...
+
+================================================================================
+❌ MISMATCH: it-piccardo - Chapter 002 - Verse 36
+Similarity: 79.4%
+================================================================================
+
+Original (199 chars):
+  Poi Iblîs li fece inciampare e scacciare dal luogo in cui si trovavano. E Noi dicemmo: “Andatevene via, nemici gli uni degli altri. Avrete una dimora sulla terra e ne godrete per un tempo stabilito”.
+
+Formatted (131 chars):
+  Poi Iblîs li fece inciampare e scacciare dal luogo in cui si trovavano. E Noi dicemmo: “Andatevene via, nemici gli uni degli altri.
+
+================================================================================
+❌ MISMATCH: it-piccardo - Chapter 002 - Verse 49
+Similarity: 85.0%
+================================================================================
+
+Original (234 chars):
+  E [ricordate] quando vi abbiamo liberato dalla gente di Faraone che vi infliggeva le torture più atroci!... Sgozzavano i vostri figli e lasciavano in vita le vostre femmine. In ciò vi fu un'immensa pr...
+
+Formatted (173 chars):
+  E [ricordate] quando vi abbiamo liberato dalla gente di Faraone che vi infliggeva le torture più atroci!... Sgozzavano i vostri figli e lasciavano in vita le vostre femmine.
+
+... and 519 more mismatches for it-piccardo
+
+ku-asan: 651 mismatches
+
+================================================================================
+❌ MISMATCH: ku-asan - Chapter 002 - Verse 19
+Similarity: 78.8%
+================================================================================
+
+Original (318 chars):
+  یاخود وێنه‌یان وه‌ك كه‌سانێك وایه به ده‌ست بارانێكی لێزمه‌وه گیریان خواردبێت، كه په‌ڵه هه‌وری تاریك و هه‌وره تریشقه و بروسكه‌ی هه‌بێت، له تاو ده‌نگی بروسكه‌كه په‌نجه‌یان ده‌ئاخنن به‌گوێچكه‌یاندا له تر...
+
+Formatted (208 chars):
+  یاخود وێنه‌یان وه‌ك كه‌سانێك وایه به ده‌ست بارانێكی لێزمه‌وه گیریان خواردبێت، كه په‌ڵه هه‌وری تاریك و هه‌وره تریشقه و بروسكه‌ی هه‌بێت، له تاو ده‌نگی بروسكه‌كه په‌نجه‌یان ده‌ئاخنن به‌گوێچكه‌یاندا له تر...
+
+================================================================================
+❌ MISMATCH: ku-asan - Chapter 002 - Verse 20
+Similarity: 90.0%
+================================================================================
+
+Original (284 chars):
+  خه‌ریكه تیشكی بروسكه‌كه بینایی چاویان به‌رێت، هه‌ر كاتێك به‌ر پێیان ڕۆشن ده‌كاته‌وه‌، ده‌ڕۆن، هه‌ر كه تیشكه‌كه نه‌ماو تاریك بوو لێیان، (ده‌سڵه‌مێنه‌وه و) هه‌ڵوێسته ده‌كه‌ن، خۆ ئه‌گه‌ر خوا بیویستایه بی...
+
+Formatted (230 chars):
+  خه‌ریكه تیشكی بروسكه‌كه بینایی چاویان به‌رێت، هه‌ر كاتێك به‌ر پێیان ڕۆشن ده‌كاته‌وه‌، ده‌ڕۆن، هه‌ر كه تیشكه‌كه نه‌ماو تاریك بوو لێیان، (ده‌سڵه‌مێنه‌وه و) هه‌ڵوێسته ده‌كه‌ن، خۆ ئه‌گه‌ر خوا بیویستایه بی...
+
+================================================================================
+❌ MISMATCH: ku-asan - Chapter 002 - Verse 22
+Similarity: 83.8%
+================================================================================
+
+Original (345 chars):
+  هه‌ر ئه‌وزاته زه‌وی كردووه به فه‌رش و جێگای نیشته‌جێ بوون و ژیان بۆتان، ئاسمانی وه‌كو سه‌قفێك به‌سه‌رتانه‌وه ڕاگیر كردووه‌، له ئاسمانه‌وه ئاوی بۆ باراندوون، جا به‌هۆیه‌وه جۆره‌ها به‌رهه‌می (دره‌خت و گ...
+
+Formatted (248 chars):
+  هه‌ر ئه‌وزاته زه‌وی كردووه به فه‌رش و جێگای نیشته‌جێ بوون و ژیان بۆتان، ئاسمانی وه‌كو سه‌قفێك به‌سه‌رتانه‌وه ڕاگیر كردووه‌، له ئاسمانه‌وه ئاوی بۆ باراندوون، جا به‌هۆیه‌وه جۆره‌ها به‌رهه‌می (دره‌خت و گ...
+
+================================================================================
+❌ MISMATCH: ku-asan - Chapter 002 - Verse 26
+Similarity: 77.6%
+================================================================================
+
+Original (480 chars):
+  به‌ڕاستی خوا باكی نیه‌و نه‌نگ نیه به‌لایه‌وه هه‌ر نموونه‌یه‌ك بهێنێته‌وه به مێشوله‌یه‌ك، له‌ویش بچووكتر بێت یان گه‌وره‌تر، جا ئه‌وانه‌ی ئیمان و باوه‌ڕیان هێناوه‌، ئه‌وه چاك ده‌زانن ئه‌م نمونه‌یه ڕاسته...
+
+Formatted (312 chars):
+  به‌ڕاستی خوا باكی نیه‌و نه‌نگ نیه به‌لایه‌وه هه‌ر نموونه‌یه‌ك بهێنێته‌وه به مێشوله‌یه‌ك، له‌ویش بچووكتر بێت یان گه‌وره‌تر، جا ئه‌وانه‌ی ئیمان و باوه‌ڕیان هێناوه‌، ئه‌وه چاك ده‌زانن ئه‌م نمونه‌یه ڕاسته...
+
+================================================================================
+❌ MISMATCH: ku-asan - Chapter 002 - Verse 30
+Similarity: 92.1%
+================================================================================
+
+Original (493 chars):
+  (ئه‌ی محمد (صلی الله علیه وسلم) باسی ئه‌وه بكه له دێرین زه‌ماندا) په‌روه‌ردگارت به فریشته‌كانی وت: به‌ڕاستی من ده‌مه‌وێت له زه‌ویدا جێنشینێك دابنێم (بۆ ئاوه‌دانی و دینداری)، فریشته‌كان وتیان: ئایا كه‌...
+
+Formatted (420 chars):
+  (ئه‌ی محمد (صلی الله علیه وسلم) باسی ئه‌وه بكه له دێرین زه‌ماندا) په‌روه‌ردگارت به فریشته‌كانی وت: به‌ڕاستی من ده‌مه‌وێت له زه‌ویدا جێنشینێك دابنێم (بۆ ئاوه‌دانی و دینداری)، فریشته‌كان وتیان: ئایا كه‌...
+
+... and 646 more mismatches for ku-asan
+
+ml-abdulhameed: 661 mismatches
+
+================================================================================
+❌ MISMATCH: ml-abdulhameed - Chapter 002 - Verse 19
+Similarity: 87.7%
+================================================================================
+
+Original (255 chars):
+  അല്ലെങ്കില്‍ (അവരെ) ഉപമിക്കാവുന്നത് ആകാശത്തുനിന്നു ചൊരിയുന്ന ഒരു പേമാരിയോടാകുന്നു. അതോടൊപ്പം കൂരിരുട്ടും ഇടിയും മിന്നലുമുണ്ട്‌. ഇടിനാദങ്ങള്‍ നിമിത്തം മരണം ഭയന്ന് അവര്‍ വിരലുകള്‍ ചെവിയില്‍ തിരുകുന്നു. ...
+
+Formatted (199 chars):
+  അല്ലെങ്കില്‍ (അവരെ) ഉപമിക്കാവുന്നത് ആകാശത്തുനിന്നു ചൊരിയുന്ന ഒരു പേമാരിയോടാകുന്നു. അതോടൊപ്പം കൂരിരുട്ടും ഇടിയും മിന്നലുമുണ്ട്‌. ഇടിനാദങ്ങള്‍ നിമിത്തം മരണം ഭയന്ന് അവര്‍ വിരലുകള്‍ ചെവിയില്‍ തിരുകുന്നു.
+
+================================================================================
+❌ MISMATCH: ml-abdulhameed - Chapter 002 - Verse 20
+Similarity: 69.2%
+================================================================================
+
+Original (350 chars):
+  മിന്നല്‍ അവരുടെ കണ്ണുകളെ റാഞ്ചിയെടുക്കുമാറാകുന്നു. അത് (മിന്നല്‍) അവര്‍ക്ക് വെളിച്ചം നല്‍കുമ്പോഴെല്ലാം അവര്‍ ആ വെളിച്ചത്തില്‍ നടന്നു പോകും. ഇരുട്ടാകുമ്പോള്‍ അവര്‍ നിന്നു പോകുകയും ചെയ്യും. അല്ലാഹു ഉദ്ദ...
+
+Formatted (187 chars):
+  മിന്നല്‍ അവരുടെ കണ്ണുകളെ റാഞ്ചിയെടുക്കുമാറാകുന്നു. അത് (മിന്നല്‍) അവര്‍ക്ക് വെളിച്ചം നല്‍കുമ്പോഴെല്ലാം അവര്‍ ആ വെളിച്ചത്തില്‍ നടന്നു പോകും. ഇരുട്ടാകുമ്പോള്‍ അവര്‍ നിന്നു പോകുകയും ചെയ്യും.
+
+================================================================================
+❌ MISMATCH: ml-abdulhameed - Chapter 002 - Verse 25
+Similarity: 89.3%
+================================================================================
+
+Original (491 chars):
+  (നബിയേ,) വിശ്വസിക്കുകയും സല്‍കര്‍മ്മങ്ങള്‍ പ്രവര്‍ത്തിക്കുകയും ചെയ്തവര്‍ക്ക് താഴ്ഭാഗത്ത്കൂടി നദികള്‍ ഒഴുകുന്ന സ്വര്‍ഗത്തോപ്പുകള്‍ ലഭിക്കുവാനുണ്ടെന്ന് സന്തോഷവാര്‍ത്ത അറിയിക്കുക. അതിലെ ഓരോ വിഭവവും ഭക്ഷി...
+
+Formatted (398 chars):
+  (നബിയേ,) വിശ്വസിക്കുകയും സല്‍കര്‍മ്മങ്ങള്‍ പ്രവര്‍ത്തിക്കുകയും ചെയ്തവര്‍ക്ക് താഴ്ഭാഗത്ത്കൂടി നദികള്‍ ഒഴുകുന്ന സ്വര്‍ഗത്തോപ്പുകള്‍ ലഭിക്കുവാനുണ്ടെന്ന് സന്തോഷവാര്‍ത്ത അറിയിക്കുക. അതിലെ ഓരോ വിഭവവും ഭക്ഷി...
+
+================================================================================
+❌ MISMATCH: ml-abdulhameed - Chapter 002 - Verse 26
+Similarity: 77.7%
+================================================================================
+
+Original (468 chars):
+  ഏതൊരു വസ്തുവേയും ഉപമയാക്കുന്നതില്‍ അല്ലാഹു ലജ്ജിക്കുകയില്ല; തീര്‍ച്ച. അതൊരു കൊതുകോ അതിലുപരി നിസ്സാരമോ ആകട്ടെ. എന്നാല്‍ വിശ്വാസികള്‍ക്ക് അത് തങ്ങളുടെ നാഥന്റെപക്കല്‍നിന്നുള്ള സത്യമാണെന്ന് ബോധ്യമാകുന്നതാ...
+
+Formatted (297 chars):
+  ഏതൊരു വസ്തുവേയും ഉപമയാക്കുന്നതില്‍ അല്ലാഹു ലജ്ജിക്കുകയില്ല; തീര്‍ച്ച. അതൊരു കൊതുകോ അതിലുപരി നിസ്സാരമോ ആകട്ടെ. എന്നാല്‍ വിശ്വാസികള്‍ക്ക് അത് തങ്ങളുടെ നാഥന്റെപക്കല്‍നിന്നുള്ള സത്യമാണെന്ന് ബോധ്യമാകുന്നതാ...
+
+================================================================================
+❌ MISMATCH: ml-abdulhameed - Chapter 002 - Verse 30
+Similarity: 90.7%
+================================================================================
+
+Original (372 chars):
+  ഞാനിതാ ഭൂമിയില്‍ ഒരു ഖലീഫയെ നിയോഗിക്കാന്‍ പോകുകയാണ് എന്ന് നിന്റെനാഥന്‍ മലക്കുകളോട് പറഞ്ഞ സന്ദര്‍ഭം (ശ്രദ്ധിക്കുക). അവര്‍ പറഞ്ഞു: അവിടെ കുഴപ്പമുണ്ടാക്കുകയും രക്തം ചിന്തുകയും ചെയ്യുന്നവരെയാണോ നീ നിയോഗിക...
+
+Formatted (308 chars):
+  ഞാനിതാ ഭൂമിയില്‍ ഒരു ഖലീഫയെ നിയോഗിക്കാന്‍ പോകുകയാണ് എന്ന് നിന്റെനാഥന്‍ മലക്കുകളോട് പറഞ്ഞ സന്ദര്‍ഭം (ശ്രദ്ധിക്കുക). അവര്‍ പറഞ്ഞു: അവിടെ കുഴപ്പമുണ്ടാക്കുകയും രക്തം ചിന്തുകയും ചെയ്യുന്നവരെയാണോ നീ നിയോഗിക...
+
+... and 656 more mismatches for ml-abdulhameed
+
+ms-basmeih: 590 mismatches
+
+================================================================================
+❌ MISMATCH: ms-basmeih - Chapter 002 - Verse 36
+Similarity: 99.7%
+================================================================================
+
+Original (365 chars):
+  Setelah itu maka Syaitan menggelincirkan mereka berdua dari syurga itu dan menyebabkan mereka dikeluarkan dari nikmat yang mereka telah berada di dalamnya dan Kami berfirman: "Turunlah kamu! Sebahagia...
+
+Formatted (365 chars):
+  Setelah itu maka Syaitan menggelincirkan mereka berdua dari syurga itu dan menyebabkan mereka dikeluarkan dari nikmat yang mereka telah berada di dalamnya dan Kami berfirman: "Turunlah kamu! Sebahagia...
+
+================================================================================
+❌ MISMATCH: ms-basmeih - Chapter 002 - Verse 54
+Similarity: 90.0%
+================================================================================
+
+Original (461 chars):
+  Dan (kenangkanlah) ketika Nabi Musa berkata kepada kaumnya: " Wahai kaumku! Sesungguhnya kamu telah menganiaya diri kamu sendiri dengan sebab kamu menyembah patung anak lembu itu, maka bertaubatlah ka...
+
+Formatted (377 chars):
+  Dan (kenangkanlah) ketika Nabi Musa berkata kepada kaumnya: "Wahai kaumku! Sesungguhnya kamu telah menganiaya diri kamu sendiri dengan sebab kamu menyembah patung anak lembu itu, maka bertaubatlah kam...
+
+================================================================================
+❌ MISMATCH: ms-basmeih - Chapter 002 - Verse 57
+Similarity: 97.0%
+================================================================================
+
+Original (362 chars):
+  Dan Kami telah menaungi kamu dengan awan (dari panas matahari di padang pasir) dan Kami turunkan kepada kamu "Mann" dan "Salwa", (serta Kami berfirman): "Makanlah dari makanan-makanan yang baik yang K...
+
+Formatted (362 chars):
+  Dan Kami telah menaungi kamu dengan awan (dari panas matahari di padang pasir) dan Kami turunkan kepada kamu 'Mann' dan 'Salwa', (serta Kami berfirman): 'Makanlah dari makanan-makanan yang baik yang K...
+
+================================================================================
+❌ MISMATCH: ms-basmeih - Chapter 002 - Verse 58
+Similarity: 84.9%
+================================================================================
+
+Original (427 chars):
+  Dan (kenangkanlah) ketika Kami berfirman: "Masuklah kamu ke bandar ini, kemudian makanlah dari benda-benda yang ada di dalamnya dengan sepuas-puasnya, apa sahaja yang kamu sukai. Dan masuklah kamu mel...
+
+Formatted (315 chars):
+  Dan (kenangkanlah) ketika Kami berfirman: "Masuklah kamu ke bandar ini, kemudian makanlah dari benda-benda yang ada di dalamnya dengan sepuas-puasnya, apa sahaja yang kamu sukai. Dan masuklah kamu mel...
+
+================================================================================
+❌ MISMATCH: ms-basmeih - Chapter 002 - Verse 60
+Similarity: 99.1%
+================================================================================
+
+Original (441 chars):
+  Dan (ingatlah) ketika Nabi Musa memohon supaya diberi air untuk kaumnya, maka Kami berfirman: "Pukulah batu itu dengan tongkatmu", (ia pun memukulnya), folalu terpancutlah dari batu itu dua belas mata...
+
+Formatted (441 chars):
+  Dan (ingatlah) ketika Nabi Musa memohon supaya diberi air untuk kaumnya, maka Kami berfirman: 'Pukulah batu itu dengan tongkatmu', (ia pun memukulnya), folalu terpancutlah dari batu itu dua belas mata...
+
+... and 585 more mismatches for ms-basmeih
+
+nl-siregar: 645 mismatches
+
+================================================================================
+❌ MISMATCH: nl-siregar - Chapter 002 - Verse 19
+Similarity: 91.8%
+================================================================================
+
+Original (205 chars):
+  Of als (de gelijkenis, met) een regenstorm uit de hemel met daarin duisternissen, donder en bliksem. Zij stoppen hun vingers in hun oren voor de donderslagen, uit doodsangst. En Allah omvat de ongelov...
+
+Formatted (174 chars):
+  Of als (de gelijkenis, met) een regenstorm uit de hemel met daarin duisternissen, donder en bliksem. Zij stoppen hun vingers in hun oren voor de donderslagen, uit doodsangst.
+
+================================================================================
+❌ MISMATCH: nl-siregar - Chapter 002 - Verse 20
+Similarity: 91.5%
+================================================================================
+
+Original (294 chars):
+  Bijna rukt de bliksem hun gezicht weg. Telkens wanneer deze hen verlicht, dan lopen zij in (het licht), maar wanneer hij hen in de duisternis laat, dan blijven ze staan. En als Allah het had gewild, d...
+
+Formatted (248 chars):
+  Bijna rukt de bliksem hun gezicht weg. Telkens wanneer deze hen verlicht, dan lopen zij in (het licht), maar wanneer hij hen in de duisternis laat, dan blijven ze staan. En als Allah het had gewild, d...
+
+================================================================================
+❌ MISMATCH: nl-siregar - Chapter 002 - Verse 26
+Similarity: 64.1%
+================================================================================
+
+Original (409 chars):
+  Voorwaar, Allah acht het niet beneden Zich om een mug tot gelijkenis te stellen, of iets dat nietiger is dan dat. Wat betreft degenen die geloven, zij weten dat het de Waarheid van hun Heer is. En wat...
+
+Formatted (193 chars):
+  Voorwaar, Allah acht het niet beneden Zich om een mug tot gelijkenis te stellen, of iets dat nietiger is dan dat. Wat betreft degenen die geloven, zij weten dat het de Waarheid van hun Heer is.
+
+================================================================================
+❌ MISMATCH: nl-siregar - Chapter 002 - Verse 30
+Similarity: 92.1%
+================================================================================
+
+Original (361 chars):
+  En toen jouw Heer tot de Engelen zei: "Voorwaar, Ik zal op aarde een gevolmachtigde aanstellen," zeiden zij: "Gaat U daarop iemand aanstellen," zeiden zij: "Gaat U daarop iemand aanstellen die verderf...
+
+Formatted (308 chars):
+  En toen jouw Heer tot de Engelen zei: "Voorwaar, Ik zal op aarde een gevolmachtigde aanstellen," zeiden zij: "Gaat U daarop iemand aanstellen," zeiden zij: "Gaat U daarop iemand aanstellen die verderf...
+
+================================================================================
+❌ MISMATCH: nl-siregar - Chapter 002 - Verse 33
+Similarity: 99.8%
+================================================================================
+
+Original (246 chars):
+  Hij zei: "O Adam, noem hun de namen ervan." En toen hij hun de namen ervan had genoemd, zei Hij: "Zei Ik jullie niet, dat Ik het onwaarneembare van de hemelen en de aarde ken, en weet wat jullie openl...
+
+Formatted (245 chars):
+  Hij zei: "O Adam, noem hun de namen ervan." En toen hij hun de namen ervan had genoemd, zei Hij: "Zei Ik jullie niet, dat Ik het onwaarneembare van de hemelen en de aarde ken, en weet wat jullie openl...
+
+... and 640 more mismatches for nl-siregar
+
+pr-tagi: 602 mismatches
+
+================================================================================
+❌ MISMATCH: pr-tagi - Chapter 002 - Verse 19
+Similarity: 91.0%
+================================================================================
+
+Original (193 chars):
+  یا همچون بارانی است که از آسمان (فرو ریزد) و در آن تاریکی ها و رعد و برق باشد، و آنها از ترس مرگ، انگشتان خود را در گوشهایشان فرو می برند تا صدای صاعقه را نشنوند، و خداوند به کافران احاطه دارد.
+
+Formatted (163 chars):
+  یا همچون بارانی است که از آسمان (فرو ریزد) و در آن تاریکی ها و رعد و برق باشد، و آنها از ترس مرگ، انگشتان خود را در گوشهایشان فرو می برند. تا صدای صاعقه را نشنوند،
+
+================================================================================
+❌ MISMATCH: pr-tagi - Chapter 002 - Verse 20
+Similarity: 91.1%
+================================================================================
+
+Original (214 chars):
+  نزدیک است که برق چشمانشان را برباید، هرگاه که برای آنها روشن شود در (روشنائی) آن راه می روند و چون تاریک شود(در جای خود) بایستند. و اگر خدا بخواهد گوش و چشمانشان را از بین می برد، چرا که خداوند بر هر ...
+
+Formatted (179 chars):
+  نزدیک است که برق چشمانشان را برباید، هرگاه که برای آنها روشن شود در (روشنائی) آن راه می روند و چون تاریک شود(در جای خود) بایستند. و اگر خدا بخواهد گوش و چشمانشان را از بین می برد،
+
+================================================================================
+❌ MISMATCH: pr-tagi - Chapter 002 - Verse 22
+Similarity: 95.0%
+================================================================================
+
+Original (222 chars):
+  آن کس که زمین را برای شما بگسترد و آسمان را همچون سقفی بالای سر شما قرار داد .و از آسمان آبی فرو فرستاد و بوسیله آن انواع میوه ها را بوجود آورد تا روزی شما باشد. بنا براین برای خدا همتایانی قرار ندهید...
+
+Formatted (201 chars):
+  آن کس که زمین را برای شما بگسترد و آسمان را همچون سقفی بالای سر شما قرار داد .و از آسمان آبی فرو فرستاد و بوسیله آن انواع میوه ها را بوجود آورد تا روزی شما باشد. بنا براین برای خدا همتایانی قرار ندهید...
+
+================================================================================
+❌ MISMATCH: pr-tagi - Chapter 002 - Verse 26
+Similarity: 63.7%
+================================================================================
+
+Original (308 chars):
+  به راستی خداوند از اینکه به پشه ای یا بالاتر از آن مثال بزند شرم نمی کند. آنان که ایمان آورده اند می دانند که آن (مثل) حق است از طرف پروردگارشان و اما آنهای که کافرند می گویند: خداوند از این مثل چه خو...
+
+Formatted (144 chars):
+  به راستی خداوند از اینکه به پشه ای یا بالاتر از آن مثال بزند شرم نمی کند. آنان که ایمان آورده اند می دانند که آن (مثل) حق است از طرف پروردگارشان
+
+================================================================================
+❌ MISMATCH: pr-tagi - Chapter 002 - Verse 30
+Similarity: 71.8%
+================================================================================
+
+Original (277 chars):
+  و(بیاد بیاور) هنگامی را که پروردگارت به فرشتگان گفت:« من در زمین جانشینی قرار خواهم داد». گفتند: «آیا کسی را در آن قرار می دهی که در آن فساد و خونریزی کند؟ ما تسبیح و حمد تو را به جا می آوریم و تو را ...
+
+Formatted (155 chars):
+  و(بیاد بیاور) هنگامی را که پروردگارت به فرشتگان گفت:« من در زمین جانشینی قرار خواهم داد». گفتند: «آیا کسی را در آن قرار می دهی که در آن فساد و خونریزی کند؟
+
+... and 597 more mismatches for pr-tagi
+
+pt-elhayek: 745 mismatches
+
+================================================================================
+❌ MISMATCH: pt-elhayek - Chapter 002 - Verse 19
+Similarity: 90.5%
+================================================================================
+
+Original (231 chars):
+  Ou como (aquele que, surpreendidos por) nuvens do céu, carregadas de chuva, causando trevas, trovões e relâmpagos, tapam os seus ouvidos com os dedos, devido aos estrondos, por temor à morte; mas Deus...
+
+Formatted (191 chars):
+  Ou como (aquele que, surpreendidos por) nuvens do céu, carregadas de chuva, causando trevas, trovões e relâmpagos, tapam os seus ouvidos com os dedos, devido aos estrondos, por temor à morte;
+
+================================================================================
+❌ MISMATCH: pt-elhayek - Chapter 002 - Verse 25
+Similarity: 99.8%
+================================================================================
+
+Original (290 chars):
+  Anuncia (ó Mohammad) os fiéis que praticam o bem que obterão jardins, abaixo dos quais correm os rios. Toda vez queforem agraciados com os seus frutos, dirão: Eis aqui o que nos fora concedido antes! ...
+
+Formatted (291 chars):
+  Anuncia (ó Mohammad) os fiéis que praticam o bem que obterão jardins, abaixo dos quais correm os rios. Toda vez que forem agraciados com os seus frutos, dirão: Eis aqui o que nos fora concedido antes!...
+
+================================================================================
+❌ MISMATCH: pt-elhayek - Chapter 002 - Verse 26
+Similarity: 93.4%
+================================================================================
+
+Original (331 chars):
+  Deus não Se furta em exemplificar com um insignificante mosquito ou com algo maior ou menor do que ele. E os fiéissabem que esta é a verdade emanada de seu Senhor. Quanto aos incrédulos, asseveram: Qu...
+
+Formatted (292 chars):
+  Deus não Se furta em exemplificar com um insignificante mosquito ou com algo maior ou menor do que ele. E os fiéissabem que esta é a verdade emanada de seu Senhor. Quanto aos incrédulos, asseveram: Qu...
+
+================================================================================
+❌ MISMATCH: pt-elhayek - Chapter 002 - Verse 30
+Similarity: 91.2%
+================================================================================
+
+Original (278 chars):
+  (Recorda-te ó Profeta) de quando teu Senhor disse aos anjos: Vou instituir um legatário na terra! Perguntaram-Lhe: Estabelecerás nela quem alí fará corrupção, derramando sangue, enquanto nós celebramo...
+
+Formatted (233 chars):
+  (Recorda-te ó Profeta) de quando teu Senhor disse aos anjos: Vou instituir um legatário na terra! Perguntaram-Lhe: Estabelecerás nela quem alí fará corrupção, derramando sangue, enquanto nós celebramo...
+
+================================================================================
+❌ MISMATCH: pt-elhayek - Chapter 002 - Verse 33
+Similarity: 99.8%
+================================================================================
+
+Original (210 chars):
+  Ele ordenou: Ó Adão, revela-lhes os seus nomes. E quando ele lhes revelou os seus nomes, asseverou (Deus): Não vosdisse que conheço o mistério dos céus e da terra, assim como o que manifestais e o que...
+
+Formatted (211 chars):
+  Ele ordenou: Ó Adão, revela-lhes os seus nomes. E quando ele lhes revelou os seus nomes, asseverou (Deus): Não vos disse que conheço o mistério dos céus e da terra, assim como o que manifestais e o qu...
+
+... and 740 more mismatches for pt-elhayek
+
+ru-ku: 571 mismatches
+
+================================================================================
+❌ MISMATCH: ru-ku - Chapter 002 - Verse 19
+Similarity: 89.3%
+================================================================================
+
+Original (191 chars):
+  Или же они подобны тем, кто оказался под ливнем с неба. Он несет мрак, гром и молнию. Они же в смертельном страхе затыкают уши пальцами от грохота молний. Воистину, Аллах объемлет неверующих.
+
+Formatted (154 chars):
+  Или же они подобны тем, кто оказался под ливнем с неба. Он несет мрак, гром и молнию. Они же в смертельном страхе затыкают уши пальцами от грохота молний.
+
+================================================================================
+❌ MISMATCH: ru-ku - Chapter 002 - Verse 20
+Similarity: 89.9%
+================================================================================
+
+Original (223 chars):
+  Молния готова отнять у них зрение. Когда она вспыхивает, они отправляются в путь, когда же опускается мрак, они останавливаются. Если бы Аллах пожелал, Он лишил бы их слуха и зрения. Воистину, Аллах с...
+
+Formatted (182 chars):
+  Молния готова отнять у них зрение. Когда она вспыхивает, они отправляются в путь, когда же опускается мрак, они останавливаются. Если бы Аллах пожелал, Он лишил бы их слуха и зрения.
+
+================================================================================
+❌ MISMATCH: ru-ku - Chapter 002 - Verse 26
+Similarity: 90.3%
+================================================================================
+
+Original (379 chars):
+  Воистину, Аллах не смущается приводить притчи о комаре или том, что больше него. Те, которые уверовали, знают, что это - истина от их Господа. Те же, которые не уверовали, говорят: «Чего хотел Аллах, ...
+
+Formatted (312 chars):
+  Воистину, Аллах не смущается приводить притчи о комаре или том, что больше него. Те, которые уверовали, знают, что это - истина от их Господа. Те же, которые не уверовали, говорят: «Чего хотел Аллах, ...
+
+================================================================================
+❌ MISMATCH: ru-ku - Chapter 002 - Verse 30
+Similarity: 89.2%
+================================================================================
+
+Original (273 chars):
+  Вот твой Господь сказал ангелам: «Я установлю на земле наместника». Они сказали: «Неужели Ты поселишь там того, кто будет распространять нечестие и проливать кровь, тогда как мы прославляем Тебя хвало...
+
+Formatted (220 chars):
+  Вот твой Господь сказал ангелам: «Я установлю на земле наместника». Они сказали: «Неужели Ты поселишь там того, кто будет распространять нечестие и проливать кровь, тогда как мы прославляем Тебя хвало...
+
+================================================================================
+❌ MISMATCH: ru-ku - Chapter 002 - Verse 33
+Similarity: 85.6%
+================================================================================
+
+Original (211 chars):
+  Он сказал: «О Адам! Поведай им об их именах». Когда Адам поведал им об их именах, Он сказал: «Разве Я не говорил вам, что знаю сокровенное на небесах и земле, и знаю, что вы совершаете открыто и что у...
+
+Formatted (158 chars):
+  Он сказал: «О Адам! Поведай им об их именах». Когда Адам поведал им об их именах, Он сказал: «Разве Я не говорил вам, что знаю сокровенное на небесах и земле,
+
+... and 566 more mismatches for ru-ku
+
+sq-nahi: 534 mismatches
+
+================================================================================
+❌ MISMATCH: sq-nahi - Chapter 002 - Verse 54
+Similarity: 93.0%
+================================================================================
+
+Original (305 chars):
+  dhe kur Musai i tha popullit të vet: “O populli im, ju vetëm vetes i bëtë padrejtësi, kur viçin e pandehet për zot; prandaj, pendohuni te Krijuesi juaj dhe vritni njëri-tjetrin (i pafajshmi – fajtorin...
+
+Formatted (265 chars):
+  dhe kur Musai i tha popullit të vet: “O populli im, ju vetëm vetes i bëtë padrejtësi, kur viçin e pandehet për zot; prandaj, pendohuni te Krijuesi juaj dhe vritni njëri-tjetrin (i pafajshmi – fajtorin...
+
+================================================================================
+❌ MISMATCH: sq-nahi - Chapter 002 - Verse 57
+Similarity: 78.1%
+================================================================================
+
+Original (206 chars):
+  Dhe Ne bëmë që reja t’ju bëjë hije dhe u dërguam – men – (një lloj ushqimi i ëmbël) dhe zogj (si fëllanza): “Hani ushqime të mira me të cilat ju kemi furnizuar!” Ata, neve nuk na dëmtuan, por dëmtuan ...
+
+Formatted (132 chars):
+  Dhe Ne bëmë që reja t’ju bëjë hije dhe u dërguam – men – (një lloj ushqimi i ëmbël) dhe Ata, neve nuk na dëmtuan, por dëmtuan veten.
+
+================================================================================
+❌ MISMATCH: sq-nahi - Chapter 002 - Verse 67
+Similarity: 92.1%
+================================================================================
+
+Original (253 chars):
+  E, kur Musai i tha kombit të vet: “Perëndia, me të vërrtetë ju urdhëron të therrni një lopë”, - ata thanë: “A don të tallesh me ne?” – Zoti më ruajtë!” tha Musai “të bëhem unë me grupin e injorantëve ...
+
+Formatted (216 chars):
+  E, kur Musai i tha kombit të vet: “Perëndia, me të vërrtetë ju urdhëron të therrni një lopë”, - ata thanë: “A don të tallesh “të bëhem unë me grupin e injorantëve (me ata që ia mveshin Perëndisë atë q...
+
+================================================================================
+❌ MISMATCH: sq-nahi - Chapter 002 - Verse 71
+Similarity: 90.5%
+================================================================================
+
+Original (253 chars):
+  Ai (Musai) tha: “Me të vërtetë Ai (Perëndia) thotë se ajo lopë nuk është e lodhur nga lavra, as nga ujitja e tokës; s’ka të metë dhe kurrfarë shenjë në të”. Ata thanë: “Tani na the të vërtetën”. E pre...
+
+Formatted (209 chars):
+  Ai (Musai) tha: “Me të vërtetë Ai (Perëndia) thotë se ajo lopë nuk është e lodhur nga lavra, as nga ujitja e tokës; s’ka të metë dhe kurrfarë shenjë në të”. Ata thanë: “Tani na the të vërtetën”. E pre...
+
+================================================================================
+❌ MISMATCH: sq-nahi - Chapter 002 - Verse 79
+Similarity: 90.3%
+================================================================================
+
+Original (226 chars):
+  mjer ata që me duart e tyre shkruajnë vepër (të rrejshme), e pastaj thonë: “Kjo është prej Zotit” që për këtë të kenë ndonjë dobi të vogël. Dhe mjer ata, që kanë shkruar me duart e tyre, dhe mjer ata ...
+
+Formatted (186 chars):
+  mjer ata që me duart e tyre shkruajnë vepër (të rrejshme), e pastaj thonë: “Kjo është prej Zotit” që për këtë të kenë ndonjë dobi të vogël. Dhe mjer ata, që kanë shkruar me duart e tyre,
+
+... and 529 more mismatches for sq-nahi
+
+sv-bernstrom: 447 mismatches
+
+================================================================================
+❌ MISMATCH: sv-bernstrom - Chapter 002 - Verse 19
+Similarity: 99.6%
+================================================================================
+
+Original (246 chars):
+  Eller vid [dem som råkar ut för] ett våldsamt oväder med regnmoln som förmörkar himlen, åska och blixtar. De sätter fingrarna i öronen för [att inte höra] åskans mullrande, i rädsla för döden - men Gu...
+
+Formatted (244 chars):
+  Eller vid [dem som råkar ut för] ett våldsamt oväder med regnmoln som förmörkar himlen, åska och blixtar. De sätter fingrarna i öronen för [att inte höra] åskans mullrande, i rädsla för döden - men Gu...
+
+================================================================================
+❌ MISMATCH: sv-bernstrom - Chapter 002 - Verse 25
+Similarity: 84.8%
+================================================================================
+
+Original (421 chars):
+  [Muhammad!] Ge dem som tror och lever rättskaffens det glada budskapet att lustgårdar, vattnade av bäckar, väntar dem; var gång de förses med frukt därifrån skall de säga: "Detta är vad vi försågs med...
+
+Formatted (572 chars):
+  [Muhammad!] Ge dem som tror och lever rättskaffens det glada budskapet att lustgårdar, vattnade av bäckar, väntar dem; var gång de förses med frukt därifrån skall de säga: "Detta är vad vi försågs med...
+
+================================================================================
+❌ MISMATCH: sv-bernstrom - Chapter 002 - Verse 30
+Similarity: 99.8%
+================================================================================
+
+Original (323 chars):
+  OCH SE, din Herre sade till änglarna: "Jag skall tillsätta en ställföreträdare på jorden." [Änglarna] sade: "Skall Du tillsätta någon som stör ordningen där och sprider sedefördärv och [till och med] ...
+
+Formatted (322 chars):
+  OCH SE, din Herre sade till änglarna: "Jag skall tillsätta en ställföreträdare på jorden." [Änglarna] sade: "Skall Du tillsätta någon som stör ordningen där och sprider sedefördärv och [till och med] ...
+
+================================================================================
+❌ MISMATCH: sv-bernstrom - Chapter 002 - Verse 33
+Similarity: 99.8%
+================================================================================
+
+Original (240 chars):
+  [Då] sade Han: "Adam! Nämn deras namn för dem." Och när [Adam] hade nämnt namnen för dem, sade [Gud]: "Jag sade er ju att Jag känner allt som är dolt i himlarna och på jorden och att Jag vet vad ni ka...
+
+Formatted (239 chars):
+  [Då] sade Han: "Adam! Nämn deras namn för dem. Och när [Adam] hade nämnt namnen för dem, sade [Gud]: "Jag sade er ju att Jag känner allt som är dolt i himlarna och på jorden och att Jag vet vad ni kan...
+
+================================================================================
+❌ MISMATCH: sv-bernstrom - Chapter 002 - Verse 36
+Similarity: 99.8%
+================================================================================
+
+Original (210 chars):
+  Men Djävulen kom dem att överträda detta [förbud] och orsakade så deras fall. Och Vi sade: "Bort, alla, härifrån! Fiender skall ni vara inbördes! Under en tid skall ni ha er boning och ert uppehälle p...
+
+Formatted (209 chars):
+  Men Djävulen kom dem att överträda detta [förbud] och orsakade så deras fall. Och Vi sade: "Bort, alla, härifrån! Fiender skall ni vara inbördes! Under en tid skall ni ha er boning och ert uppehälle p...
+
+... and 442 more mismatches for sv-bernstrom
+
+sw-barwani: 586 mismatches
+
+================================================================================
+❌ MISMATCH: sw-barwani - Chapter 002 - Verse 54
+Similarity: 90.3%
+================================================================================
+
+Original (293 chars):
+  Na Musa alipo waambia watu wake: Enyi watu wangu! Hakika nyinyi mmezidhulumu nafsi zenu kwa kuchukua kwenu ndama (kumuabudu). Basi tubuni kwa Muumba wenu na ziueni nafsi zenu. Haya ni bora kwenu mbele...
+
+Formatted (241 chars):
+  Na Musa alipo waambia watu wake: Enyi watu wangu! Hakika nyinyi mmezidhulumu nafsi zenu kwa kuchukua kwenu ndama (kumuabudu). Basi tubuni kwa Muumba wenu na ziueni nafsi zenu. Haya ni bora kwenu mbele...
+
+================================================================================
+❌ MISMATCH: sw-barwani - Chapter 002 - Verse 60
+Similarity: 77.7%
+================================================================================
+
+Original (271 chars):
+  Na Musa alipo omba maji kwa ajili ya watu wake, tulimwambia: Lipige jiwe kwa fimbo yako. Mara zikatimbuka chemchem kumi na mbili; kila kabila ikajua mahali pake pa kunywea. Tukawaambia: Kuleni na mnyw...
+
+Formatted (172 chars):
+  Na Musa alipo omba maji kwa ajili ya watu wake, tulimwambia: Lipige jiwe kwa fimbo yako. Mara zikatimbuka chemchem kumi na mbili; kila kabila ikajua mahali pake pa kunywea.
+
+================================================================================
+❌ MISMATCH: sw-barwani - Chapter 002 - Verse 71
+Similarity: 90.2%
+================================================================================
+
+Original (201 chars):
+  Akasema: Yeye anasema: Kuwa huyo ni ng'ombe asiye tiwa kazini kulima ardhi wala kumwagia maji mimea, mzima, hana baka. Wakasema: Sasa umeleta haki. Basi wakamchinja, na walikaribia kuwa wasifanye hayo...
+
+Formatted (165 chars):
+  Akasema: Yeye anasema: Kuwa huyo ni ng'ombe asiye tiwa kazini kulima ardhi wala kumwagia maji mimea, mzima, hana baka. Wakasema: Sasa umeleta haki. Basi wakamchinja,
+
+================================================================================
+❌ MISMATCH: sw-barwani - Chapter 002 - Verse 74
+Similarity: 96.9%
+================================================================================
+
+Original (297 chars):
+  Kisha nyoyo zenu zikawa ngumu baada ya hayo, hata zikawa kama mawe au ngumu zaidi; kwani kuna mawe yanayo timbuka mito, na kuna mengine yanayo pasuka yakatoka maji ndani yake, na kuna mengine huanguka...
+
+Formatted (279 chars):
+  Kisha nyoyo zenu zikawa ngumu baada ya hayo, hata zikawa kama mawe au ngumu zaidi; kwani kuna mawe yanayo timbuka mito, na kuna mengine yanayo pasuka yakatoka maji ndani yake, na kuna mengine huanguka...
+
+================================================================================
+❌ MISMATCH: sw-barwani - Chapter 002 - Verse 76
+Similarity: 80.1%
+================================================================================
+
+Original (217 chars):
+  Na wanapo kutana na wale walio amini husema: Tumeamini. Na wanapo kuwa peke yao, wao kwa wao, husema: Mnawaambia aliyo kufunulieni Mwenyezi Mungu ili wapate kukuhojieni mbele ya Mola wenu Mlezi? Basi ...
+
+Formatted (145 chars):
+  Na wanapo kutana na wale walio amini husema: Tumeamini. Na wanapo kuwa peke yao, wao kwa wao, husema: Mnawaambia aliyo kufunulieni Mwenyezi Mungu
+
+... and 581 more mismatches for sw-barwani
+
+ta-tamil: 572 mismatches
+
+================================================================================
+❌ MISMATCH: ta-tamil - Chapter 002 - Verse 25
+Similarity: 85.8%
+================================================================================
+
+Original (478 chars):
+  (ஆனால்) நம்பிக்கை கொண்டு நற்கருமங்கள் செய்வோருக்கு நன்மாராயங்கள் கூறுவீராக! சதா ஓடிக்கொண்டிருக்கும் ஆறுகளைக் கொண்ட சுவனச் சோலைகள் அவர்களுக்காக உண்டு, அவர்களுக்கு உண்ண அங்கிருந்து ஏதாவது கனி கொடு...
+
+Formatted (636 chars):
+  (ஆனால்) நம்பிக்கை கொண்டு நற்கருமங்கள் செய்வோருக்கு நன்மாராயங்கள் கூறுவீராக! சதா ஓடிக்கொண்டிருக்கும் ஆறுகளைக் கொண்ட சுவனச் சோலைகள் அவர்களுக்காக உண்டு, அவர்களுக்கு உண்ண அங்கிருந்து ஏதாவது கனி கொடு...
+
+================================================================================
+❌ MISMATCH: ta-tamil - Chapter 002 - Verse 54
+Similarity: 76.7%
+================================================================================
+
+Original (503 chars):
+  மூஸா தம் சமூகத்தாரை நோக்கி "என் சமூகத்தாரே! நீங்கள் காளைக் கன்றை(வணக்கத்திற்காக) எடுத்துக் கொண்டதன் மூலம் உங்களுக்கு நீங்களே அக்கிரமம் செய்து கொண்டீர்கள்; ஆகவே, உங்களைப் படைத்தவனிடம் பாவமன்னிப்புக்...
+
+Formatted (313 chars):
+  மூஸா தம் சமூகத்தாரை நோக்கி "என் சமூகத்தாரே! நீங்கள் காளைக் கன்றை(வணக்கத்திற்காக) எடுத்துக் கொண்டதன் மூலம் உங்களுக்கு நீங்களே அக்கிரமம் செய்து கொண்டீர்கள்; ஆகவே, உங்களைப் படைத்தவனிடம் பாவமன்னிப்புக்...
+
+================================================================================
+❌ MISMATCH: ta-tamil - Chapter 002 - Verse 57
+Similarity: 51.7%
+================================================================================
+
+Original (313 chars):
+  இன்னும், உங்கள் மீது மேகம் நிழலிடச் செய்தோம்; மேலும் "மன்னு, ஸல்வா" (என்னும் மேன்மையான உணவுப் பொருள்களை) உங்களுக்காக இறக்கி வைத்து, "நாம் உங்களுக்கு அருளியுள்ள பரிசுத்தமான உணவுகளிலிருந்து புசியுங்கள...
+
+Formatted (232 chars):
+  இன்னும், உங்கள் மீது மேகம் நிழலிடச் செய்தோம்; மேலும் "மன்னு, ஸல்வா" (என்னும் மேன்மையான உணவுப் பொருள்களை) உங்களுக்காக இறக்கி வைத்து, எனினும் அவர்கள் நமக்குத் தீங்கு செய்துவிடவில்லை, மாறாக, தமக்குத் த...
+
+================================================================================
+❌ MISMATCH: ta-tamil - Chapter 002 - Verse 61
+Similarity: 81.0%
+================================================================================
+
+Original (863 chars):
+  இன்னும், "மூஸாவே! ஒரே விதமான உணவை நாங்கள் சகிக்க மாட்டோம். ஆதலால், பூமி விளைவிக்கும் அதன் கீரையையும், அதன் வெள்ளரிக்காயையும், அதன் கோதுமையையும், அதன் பருப்பையும், அதன் வெங்காயத்தையும் எங்களுக்கு வெள...
+
+Formatted (820 chars):
+  இன்னும், "மூஸாவே! ஒரே விதமான உணவை நாங்கள் சகிக்க மாட்டோம். ஆதலால், பூமி விளைவிக்கும் அதன் கீரையையும், அதன் வெள்ளரிக்காயையும், அதன் கோதுமையையும், அதன் பருப்பையும், அதன் வெங்காயத்தையும் எங்களுக்கு வெள...
+
+================================================================================
+❌ MISMATCH: ta-tamil - Chapter 002 - Verse 71
+Similarity: 62.6%
+================================================================================
+
+Original (312 chars):
+  அவர்(மூஸா)"நிச்சயமாக அப்பசுமாடு நிலத்தில் உழவடித்தோ, நிலத்திற்கு நீர் பாய்ச்சவோ பயன்படுத்தப்படாதது, ஆரோக்கியமானது, எவ்விதத்திலும் வடுவில்லாதது என்று இறைவன் கூறுகிறான்" எனக் கூறினார். "இப்பொழுதுதான...
+
+Formatted (311 chars):
+  அவர்(மூஸா)"நிச்சயமாக அப்பசுமாடு நிலத்தில் உழவடித்தோ, நிலத்திற்கு நீர் பாய்ச்சவோ பயன்படுத்தப்படாதது, ஆரோக்கியமானது, எவ்விதத்திலும் வடுவில்லாதது என்று இறைவன் கூறுகிறான்" எனக் கூறினார். இப்பொழுதுதான்...
+
+... and 567 more mismatches for ta-tamil
+
+th-thai: 630 mismatches
+
+================================================================================
+❌ MISMATCH: th-thai - Chapter 002 - Verse 19
+Similarity: 84.5%
+================================================================================
+
+Original (215 chars):
+  หรือดังฝนที่หลั่งลงมาจากฟากฟ้า โดยที่ในฝนนั้นมีทั้งบรรดาความมืด ฟ้าคำรน และฟ้าแลบ พวกเขาจึงเอานิ้วมือของพวกเขาอุดหูไว้ เนื่องจากฟ้าผ่า ทั้งนี้เพราะกลัวความตาย และอัลลอฮฺนั้นทรงล้อม พวกปฏิเสธการศรัทธาเ...
+
+Formatted (159 chars):
+  หรือดังฝนที่หลั่งลงมาจากฟากฟ้า โดยที่ในฝนนั้นมีทั้งบรรดาความมืด ฟ้าคำรน และฟ้าแลบ พวกเขาจึงเอานิ้วมือของพวกเขาอุดหูไว้ เนื่องจากฟ้าผ่า ทั้งนี้เพราะกลัวความตาย。
+
+================================================================================
+❌ MISMATCH: th-thai - Chapter 002 - Verse 20
+Similarity: 89.1%
+================================================================================
+
+Original (254 chars):
+  สายฟ้าแลบแทบจะเฉี่ยวสายตาของพวกเขาไป คราใดที่มันให้แสงสว่างแก่พวกเขา พวกเขาก็เดินไปในแสงสว่างนั้น และเมื่อมันมืดลงแก่พวกเขา พวกเขาก็หยุดยืน แลหากอัลลอฮฺทรงประสงค์แล้ว แท่นอนก็ทรงนำเอาหูและตาของพวกเขาไ...
+
+Formatted (206 chars):
+  สายฟ้าแลบแทบจะเฉี่ยวสายตาของพวกเขาไป คราใดที่มันให้แสงสว่างแก่พวกเขา พวกเขาก็เดินไปในแสงสว่างนั้น และเมื่อมันมืดลงแก่พวกเขา พวกเขาก็หยุดยืน แลหากอัลลอฮฺทรงประสงค์แล้ว แท่นอนก็ทรงนำเอาหูและตาของพวกเขาไ...
+
+================================================================================
+❌ MISMATCH: th-thai - Chapter 002 - Verse 25
+Similarity: 99.9%
+================================================================================
+
+Original (423 chars):
+  และ(มุฮัมมัด) จงแจ้งข่าวดีแก่บรรดาผู้ศรัทธา และประกอบสิ่งที่ดีทั้งหลายว่า แน่นอนพวกเขาจะได้รับบรรดาสวนสวรรค์ ซึ่งมีแม่น้ำหลายสาย ไหลอยู่ภายใต้สวนสวรรค์เหล่านั้น คราใดที่พวกเขาได้รับผลไม้จากสวนสวรรค์นั...
+
+Formatted (424 chars):
+  และ(มุฮัมมัด) จงแจ้งข่าวดีแก่บรรดาผู้ศรัทธา และประกอบสิ่งที่ดีทั้งหลายว่า แน่นอนพวกเขาจะได้รับบรรดาสวนสวรรค์ ซึ่งมีแม่น้ำหลายสาย ไหลอยู่ภายใต้สวนสวรรค์เหล่านั้น คราใดที่พวกเขาได้รับผลไม้จากสวนสวรรค์นั...
+
+================================================================================
+❌ MISMATCH: th-thai - Chapter 002 - Verse 26
+Similarity: 92.0%
+================================================================================
+
+Original (496 chars):
+  แท้จริงอัลลอฮฺไม่ทรงละอาย ในการที่ระองค์จะทรงยกอุทาหรณ์ใด ๆ ขึ้นเปรียบเทียบไม่ว่าจะเป็นริ้นสักตัวหนึ่งแล้วก็สิ่งที่ยิ่งไปกว่านั้นก็ตาม ส่วนบรรดาผู้ที่ศรัทธานั้นพวกเขาย่อมรู้ว่าแท้จริงมัน คือ ความจริงท...
+
+Formatted (424 chars):
+  แท้จริงอัลลอฮฺไม่ทรงละอาย ในการที่ระองค์จะทรงยกอุทาหรณ์ใด ๆ ขึ้นเปรียบเทียบไม่ว่าจะเป็นริ้นสักตัวหนึ่งแล้วก็สิ่งที่ยิ่งไปกว่านั้นก็ตาม ส่วนบรรดาผู้ที่ศรัทธานั้นพวกเขาย่อมรู้ว่าแท้จริงมัน คือ ความจริงท...
+
+================================================================================
+❌ MISMATCH: th-thai - Chapter 002 - Verse 49
+Similarity: 93.3%
+================================================================================
+
+Original (285 chars):
+  และจงรำลึกถึง ขณะที่เราได้ช่วยพวกเจ้าให้พ้นจากพวกพ้องของฟิรอาวน์ โดยที่พวกเขาบังคับขู่เข็ญพวกเจ้า ซึ่งการทรมานอันร้ายแรง พวกเขาเชือดบรรดาลูกผู้ชายของพวกเจ้า และไว้ชีวิตบรรดาลูกผู้ชายของพวกเจ้า และไว้ช...
+
+Formatted (249 chars):
+  และจงรำลึกถึง ขณะที่เราได้ช่วยพวกเจ้าให้พ้นจากพวกพ้องของฟิรอาวน์ โดยที่พวกเขาบังคับขู่เข็ญพวกเจ้า ซึ่งการทรมานอันร้ายแรง พวกเขาเชือดบรรดาลูกผู้ชายของพวกเจ้า และไว้ชีวิตบรรดาลูกผู้หญิงของพวกเจ้า และในเ...
+
+... and 625 more mismatches for th-thai
+
+tr-diyanet: 525 mismatches
+
+================================================================================
+❌ MISMATCH: tr-diyanet - Chapter 002 - Verse 26
+Similarity: 69.3%
+================================================================================
+
+Original (468 chars):
+  Allah sivrisineği ve onun üstününü misal olarak vermekten çekinmez. İnananlar bunun Rablerinden bir gerçek olduğunu bilirler. İnkar edenler ise "Allah bu misalle neyi murad etti?" derler, O, bu misall...
+
+Formatted (248 chars):
+  Allah sivrisineği ve onun üstününü misal olarak vermekten çekinmez. İnananlar bunun Rablerinden bir gerçek olduğunu bilirler. İnkar edenler ise "Allah bu misalle neyi murad etti?" derler, O, bu misall...
+
+================================================================================
+❌ MISMATCH: tr-diyanet - Chapter 002 - Verse 30
+Similarity: 99.8%
+================================================================================
+
+Original (277 chars):
+  Rabbin meleklere "Ben yeryüzünde bir halife var edeceğim" demişti; melekler, "Orada bozgunculuk yapacak, kanlar akıtacak birini mi var edeceksin? Oysa biz Seni överek yüceltiyor ve Seni devamlı takdis...
+
+Formatted (278 chars):
+  Rabbin meleklere "Ben yeryüzünde bir halife var edeceğim" demişti; melekler, "Orada bozgunculuk yapacak, kanlar akıtacak birini mi var edeceksin? "Oysa biz Seni överek yüceltiyor ve Seni devamlı takdi...
+
+================================================================================
+❌ MISMATCH: tr-diyanet - Chapter 002 - Verse 54
+Similarity: 63.8%
+================================================================================
+
+Original (269 chars):
+  Musa milletine "Ey milletim! Buzağıyı tanrı olarak benimsemekle kendinize yazık ettiniz. Yaratanınıza tevbe edin ve nefislerinizi öldürün, bu Yaratanınız katında sizin için hayırlı olur; O daima tevbe...
+
+Formatted (126 chars):
+  Musa milletine "Ey milletim! Yaratanınıza tevbe edin ve nefislerinizi öldürün, bu Yaratanınız katında sizin için hayırlı olur;
+
+================================================================================
+❌ MISMATCH: tr-diyanet - Chapter 002 - Verse 58
+Similarity: 99.7%
+================================================================================
+
+Original (176 chars):
+  "Şu şehre girin, orada dilediğiniz gibi, bol bol yiyin, secde ederek kapısından girin, "bağışla!" deyin, Biz de yanılmalarınızı bağışlarız, iyilere daha da artırırız" demiştik.
+
+Formatted (175 chars):
+  "Şu şehre girin, orada dilediğiniz gibi, bol bol yiyin, secde ederek kapısından girin, "bağışla!" deyin, Biz de yanılmalarınızı bağışlarız, iyilere daha da artırırız demiştik.
+
+================================================================================
+❌ MISMATCH: tr-diyanet - Chapter 002 - Verse 61
+Similarity: 99.9%
+================================================================================
+
+Original (496 chars):
+  "Ey Musa! Bir çeşit yemeğe dayanamayacağız, bizim için Rabbine yalvar, bize, yerin bitirdiği sebze, hıyar, sarımsak, mercimek ve soğan yetiştirsin" demiştiniz de, "Hayırlı olanı daha düşük şeyle mi de...
+
+Formatted (495 chars):
+  "Ey Musa! Bir çeşit yemeğe dayanamayacağız, bizim için Rabbine yalvar, bize, yerin bitirdiği sebze, hıyar, sarımsak, mercimek ve soğan yetiştirsin demiştiniz de, "Hayırlı olanı daha düşük şeyle mi değ...
+
+... and 520 more mismatches for tr-diyanet
+
+ur-gl: 722 mismatches
+
+================================================================================
+❌ MISMATCH: ur-gl - Chapter 002 - Verse 19
+Similarity: 89.8%
+================================================================================
+
+Original (247 chars):
+  یا ان کی مثال مینہ کی سی ہے کہ آسمان سے (برس رہا ہو اور) اس میں اندھیرے پر اندھیرا (چھا رہا) ہو اور (بادل) گرج (رہا) ہو اور بجلی (کوند رہی) ہو تو یہ کڑک سے (ڈر کر) موت کے خوف سے کانوں میں انگلیاں دے ل...
+
+Formatted (203 chars):
+  یا ان کی مثال مینہ کی سی ہے کہ آسمان سے (برس رہا ہو اور) اس میں اندھیرے پر اندھیرا (چھا رہا) ہو اور (بادل) گرج (رہا) ہو اور بجلی (کوند رہی) ہو تو یہ کڑک سے (ڈر کر) موت کے خوف سے کانوں میں انگلیاں دے ل...
+
+================================================================================
+❌ MISMATCH: ur-gl - Chapter 002 - Verse 20
+Similarity: 94.1%
+================================================================================
+
+Original (304 chars):
+  قریب ہے کہ بجلی (کی چمک) ان کی آنکھوں (کی بصارت) کو اچک لے جائے۔ جب بجلی (چمکتی اور) ان پر روشنی ڈالی ہے تو اس میں چل پڑتے ہیں اور جب اندھیرا ہو جاتا ہے تو کھڑے کے کھڑے رہ جاتے ہیں اور اگر الله چاہتا ...
+
+Formatted (272 chars):
+  قریب ہے کہ بجلی (کی چمک) ان کی آنکھوں (کی بصارت) کو اچک لے جائے۔ جب بجلی (چمکتی اور) ان پر روشنی ڈالی ہے تو اس میں چل پڑتے ہیں اور جب اندھیرا ہو جاتا ہے تو کھڑے کے کھڑے رہ جاتے ہیں اور اگر الله چاہتا ...
+
+================================================================================
+❌ MISMATCH: ur-gl - Chapter 002 - Verse 22
+Similarity: 83.4%
+================================================================================
+
+Original (182 chars):
+  جس نے تمھارے لیے زمین کو بچھونا اور آسمان کو چھت بنایا اور آسمان سے مینہ برسا کر تمہارے کھانے کے لیے انواع و اقسام کے میوے پیدا کئے۔ پس کسی کو خدا کا ہمسر نہ بناؤ۔ اور تم جانتے تو ہو
+
+Formatted (132 chars):
+  جس نے تمھارے لیے زمین کو بچھونا اور آسمان کو چھت بنایا اور آسمان سے مینہ برسا کر تمہارے کھانے کے لیے انواع و اقسام کے میوے پیدا کئے.
+
+================================================================================
+❌ MISMATCH: ur-gl - Chapter 002 - Verse 25
+Similarity: 99.7%
+================================================================================
+
+Original (352 chars):
+  اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے، ان کو خوشخبری سنا دو کہ ان کے لیے (نعمت کے) باغ ہیں، جن کے نیچے نہریں بہہ رہی ہیں۔ جب انہیں ان میں سے کسی قسم کا میوہ کھانے کو دیا جائے گا تو کہیں گے، یہ تو...
+
+Formatted (352 chars):
+  اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے، ان کو خوشخبری سنا دو کہ ان کے لیے (نعمت کے) باغ ہیں، جن کے نیچے نہریں بہہ رہی ہیں۔ جب انہیں ان میں سے کسی قسم کا میوہ کھانے کو دیا جائے گا تو کہیں گے، یہ تو...
+
+================================================================================
+❌ MISMATCH: ur-gl - Chapter 002 - Verse 26
+Similarity: 81.9%
+================================================================================
+
+Original (335 chars):
+  الله اس بات سے عار نہیں کرتا کہ مچھر یا اس سے بڑھ کر کسی چیز (مثلاً مکھی مکڑی وغیرہ) کی مثال بیان فرمائے۔ جو مومن ہیں، وہ یقین کرتے ہیں وہ ان کے پروردگار کی طرف سے سچ ہے اور جو کافر ہیں وہ کہتے ہیں کہ...
+
+Formatted (234 chars):
+  الله اس بات سے عار نہیں کرتا کہ مچھر یا اس سے بڑھ کر کسی چیز (مثلاً مکھی مکڑی وغیرہ) کی مثال بیان فرمائے۔ جو مومن ہیں، وہ یقین کرتے ہیں وہ ان کے پروردگار کی طرف سے سچ ہے اور جو کافر ہیں وہ کہتے ہیں کہ...
+
+... and 717 more mismatches for ur-gl
+
+zh-jian: 1000 mismatches
+
+================================================================================
+❌ MISMATCH: zh-jian - Chapter 002 - Verse 19
+Similarity: 99.2%
+================================================================================
+
+Original (59 chars):
+  或者如遭遇倾盆大雨者，雨里有重重黑暗，又有雷和电，他们恐怕震死，故用手指塞住耳朵，以避疾雷。真主是周知不信道的人们的。
+
+Formatted (60 chars):
+  或者如遭遇倾盆大雨者，雨里有重重黑暗，又有雷和电，他们恐怕震死，故用手指塞住耳朵，以避疾雷。 真主是周知不信道的人们的。
+
+================================================================================
+❌ MISMATCH: zh-jian - Chapter 002 - Verse 22
+Similarity: 99.2%
+================================================================================
+
+Original (65 chars):
+  他以大地为你们的席，以天空为你们的幕，并且从云中降下雨水，而借雨水生许多果实，做你们的给养，所以你们不要明知故犯地给真主树立匹敌。
+
+Formatted (66 chars):
+  他以大地为你们的席，以天空为你们的幕，并且从云中降下雨水，而借雨水生许多果实，做你们的给养， 所以你们不要明知故犯地给真主树立匹敌。
+
+================================================================================
+❌ MISMATCH: zh-jian - Chapter 002 - Verse 25
+Similarity: 99.0%
+================================================================================
+
+Original (101 chars):
+  你当向信道而行善的人报喜；他们将享有许多下临诸河的乐园，每当他们得以园里的一种水果为给养的时候，他们都说：这是我们以前所受赐的。其实，他们所受赐的是类似的。他们在乐园里将享有纯洁的配偶，他们将永居其中。
+
+Formatted (103 chars):
+  你当向信道而行善的人报喜；他们将享有许多下临诸河的乐园， 每当他们得以园里的一种水果为给养的时候，他们都说：这是我们以前所受赐的。其实，他们所受赐的是类似的。 他们在乐园里将享有纯洁的配偶，他们将永居其中。
+
+================================================================================
+❌ MISMATCH: zh-jian - Chapter 002 - Verse 26
+Similarity: 99.5%
+================================================================================
+
+Original (105 chars):
+  真主的确不嫌以蚊子或更小的事物设任何譬喻；信道者，都知道那是从他们的主降示的真理；不信道者，却说：真主设这个譬喻的宗旨是甚麽？他以譬喻使许多人入迷途，也以譬喻使许多人上正路；但除悖逆者外，他不以譬喻使人入迷途。
+
+Formatted (106 chars):
+  真主的确不嫌以蚊子或更小的事物设任何譬喻；信道者，都知道那是从他们的主降示的真理； 不信道者，却说：真主设这个譬喻的宗旨是甚麽？他以譬喻使许多人入迷途，也以譬喻使许多人上正路；但除悖逆者外，他不以譬喻使人入迷途。
+
+================================================================================
+❌ MISMATCH: zh-jian - Chapter 002 - Verse 30
+Similarity: 99.3%
+================================================================================
+
+Original (76 chars):
+  当时，你的主对众天神说：我必定在大地上设置一个代理人。他们说：我们赞你超绝，我们赞你清净，你还要在大地上设置作恶和流血者吗？他说：我知道你们所不知道的。
+
+Formatted (77 chars):
+  当时，你的主对众天神说：我必定在大地上设置一个代理人。 他们说：我们赞你超绝，我们赞你清净，你还要在大地上设置作恶和流血者吗？他说：我知道你们所不知道的。
+
+... and 995 more mismatches for zh-jian
+
+================================================================================

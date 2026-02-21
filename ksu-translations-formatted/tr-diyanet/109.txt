@@ -1,6 +1,0 @@
-001_00	De ki: "Ey inkarcılar!"
-002_00	"Ben sizin taptıklarınıza tapmam."
-003_00	"Benim taptığıma da sizler tapmazsınız."
-004_00	"Ben de sizin taptığınıza tapacak değilim."
-005_00	"Benim taptığıma da sizler tapmıyorsunuz."
-006_00	"Sizin dininiz size, benim dinim banadır."

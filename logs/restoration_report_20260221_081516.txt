@@ -1,0 +1,45 @@
+RESTORATION REPORT
+================================================================================
+
+
+th-thai - Chapter 002 - Verse 142
+  Type: truncated
+  Similarity: 99.2%
+  Missing content: ข
+
+
+th-thai - Chapter 002 - Verse 196
+  Type: truncated
+  Similarity: 99.3%
+  Missing content: และ
+
+
+th-thai - Chapter 002 - Verse 235
+  Type: truncated
+  Similarity: 90.0%
+  Missing content: ทรงรู้สิ่งที่อยู่ในจิตใจของพวกเจ้า พวกเจ้าจงสังวรณ์พระองค์ไว้เถิด และพึงรู้ไว้เถิดว่า อัลลอฮ์
+
+
+th-thai - Chapter 002 - Verse 282
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: เ
+
+
+th-thai - Chapter 003 - Verse 154
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: ก
+
+
+th-thai - Chapter 004 - Verse 011
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: า
+
+
+th-thai - Chapter 004 - Verse 012
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: ได้
+

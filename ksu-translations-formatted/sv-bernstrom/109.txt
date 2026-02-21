@@ -1,6 +1,0 @@
-001_00	SÄG: "Ni som förnekar sanningen!
-002_00	Jag dyrkar inte vad ni dyrkar.
-003_00	Inte heller dyrkar ni vad jag dyrkar.
-004_00	Och jag kommer aldrig att dyrka vad ni dyrkar,
-005_00	och ni kommer heller aldrig att dyrka vad jag dyrkar.
-006_00	Ni har er tro - och jag har min tro!"

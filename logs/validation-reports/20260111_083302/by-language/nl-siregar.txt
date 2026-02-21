@@ -1,0 +1,551 @@
+================================================================================
+VALIDATION REPORT: nl-siregar
+================================================================================
+
+Total mismatches: 79
+
+By severity:
+  Critical (<80%):  4
+  Moderate (80-95%): 1
+  Minor (95-99%):   0
+  Trivial (>99%):   74
+
+================================================================================
+ISSUES BY CHAPTER
+================================================================================
+
+
+Chapter 002: 12 issues
+--------------------------------------------------------------------------------
+
+Verse 030 - Similarity: 99.9%
+  Original (361 chars):
+    En toen jouw Heer tot de Engelen zei: "Voorwaar, Ik zal op aarde een gevolmachtigde aanstellen," zei...
+  Formatted (362 chars):
+    En toen jouw Heer tot de Engelen zei: "Voorwaar, Ik zal op aarde een gevolmachtigde aanstellen," zei...
+
+Verse 033 - Similarity: 99.8%
+  Original (246 chars):
+    Hij zei: "O Adam, noem hun de namen ervan." En toen hij hun de namen ervan had genoemd, zei Hij: "Ze...
+  Formatted (247 chars):
+    Hij zei: "O Adam, noem hun de namen ervan." En toen hij hun de namen ervan had genoemd, zei Hij: "Ze...
+
+Verse 058 - Similarity: 99.8%
+  Original (262 chars):
+    En (gedenkt) toen Wij zeiden: "Gaat deze stad binnen en eet daarvan (het land) van de overvloed, zov...
+  Formatted (263 chars):
+    En (gedenkt) toen Wij zeiden: "Gaat deze stad binnen en eet daarvan (het land) van de overvloed, zov...
+
+Verse 061 - Similarity: 99.9%
+  Original (718 chars):
+    En (gedenkt) toen jullie zeiden: "O Môesa! Wij verdragen het niet om van één soort voedsel te leven,...
+  Formatted (717 chars):
+    En (gedenkt) toen jullie zeiden: "O Môesa! Wij verdragen het niet om van één soort voedsel te leven,...
+
+Verse 083 - Similarity: 99.9%
+  Original (376 chars):
+    En (gedenkt) toen Wij het verbond van de Kinderen van Israël aanvardden (zeggent): "Aanbidt niets da...
+  Formatted (377 chars):
+    En (gedenkt) toen Wij het verbond van de Kinderen van Israël aanvardden (zeggent): "Aanbidt niets da...
+
+Verse 136 - Similarity: 99.9%
+  Original (339 chars):
+    Zeg (O Moehammad): "Wij geloven in Allah en wat er aan ons is neergezonden en wat er is neergezonden...
+  Formatted (340 chars):
+    Zeg (O Moehammad): "Wij geloven in Allah en wat er aan ons is neergezonden en wat er is neergezonden...
+
+Verse 151 - Similarity: 99.8%
+  Original (215 chars):
+    Zoals Wij een Boodschapper uit jullie midden zonden, die aan jullie Onze Verzen voorleest, die julli...
+  Formatted (216 chars):
+    Zoals Wij een Boodschapper uit jullie midden zonden, die aan jullie Onze Verzen voorleest, die julli...
+
+Verse 164 - Similarity: 99.8%
+  Original (461 chars):
+    Voorwaar, in de schepping van de hemelen en de aarde en de afwisseling van de nacht en de dag en de ...
+  Formatted (463 chars):
+    Voorwaar, in de schepping van de hemelen en de aarde en de afwisseling van de nacht en de dag en de ...
+
+Verse 177 - Similarity: 99.8%
+  Original (631 chars):
+    Het is geen vroomheid dat jullie je gezichten naar het Oosten en het Westen wenden, maar vroom is wi...
+  Formatted (633 chars):
+    Het is geen vroomheid dat jullie je gezichten naar het Oosten en het Westen wenden, maar vroom is wi...
+
+Verse 249 - Similarity: 99.9%
+  Original (692 chars):
+    En toen Tâlôet met de legers was uitgetrokken, zei hij: "Voorwaar, Allah zal jullie zeker beproeven ...
+  Formatted (691 chars):
+    En toen Tâlôet met de legers was uitgetrokken, zei hij: "Voorwaar, Allah zal jullie zeker beproeven ...
+
+  ... and 2 more issues in this chapter
+
+Chapter 003: 11 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.9%
+  Original (566 chars):
+    Hij is Degene Die het boek aan jou heeft neergezonden, met daarin eenduidige Verzen, zij zijn de gro...
+  Formatted (565 chars):
+    Hij is Degene Die het boek aan jou heeft neergezonden, met daarin eenduidige Verzen, zij zijn de gro...
+
+Verse 015 - Similarity: 99.7%
+  Original (315 chars):
+    Zeg (O Moehammad): "Zal ik jullie over (iets) beters dan dat mededelen? Voor degenen die (Allah) vre...
+  Formatted (317 chars):
+    Zeg (O Moehammad): "Zal ik jullie over (iets) beters dan dat mededelen? Voor degenen die (Allah) vre...
+
+Verse 027 - Similarity: 99.7%
+  Original (197 chars):
+    U doet de dag de nacht bedekken en U doet de nacht de dag bedekken en U brengt de levenden voort uit...
+  Formatted (198 chars):
+    U doet de dag de nacht bedekken en U doet de nacht de dag bedekken en U brengt de levenden voort u i...
+
+Verse 052 - Similarity: 99.8%
+  Original (237 chars):
+    En toen 'Isa ongeloof bij hen ontdekte, zei hij: "Wie zijn mijn helpers (op het rechte Pad) naar All...
+  Formatted (238 chars):
+    En toen 'Isa ongeloof bij hen ontdekte, zei hij: "Wie zijn mijn helpers (op het rechte Pad) naar All...
+
+Verse 061 - Similarity: 99.8%
+  Original (274 chars):
+    Wie dan met jou (Mohammed) over ('Isa) redetwist, nadat de kennis tot jou is gekomen, zeg dan: "Late...
+  Formatted (275 chars):
+    Wie dan met jou (Mohammed) over ('Isa) redetwist, nadat de kennis tot jou is gekomen, zeg dan: "Late...
+
+Verse 064 - Similarity: 99.8%
+  Original (315 chars):
+    Zeg: "O Lieden van de Schrift, komt tot een gelijkluidend woord tussen ons en jullie: dat wij nieman...
+  Formatted (316 chars):
+    Zeg: "O Lieden van de Schrift, komt tot een gelijkluidend woord tussen ons en jullie: dat wij nieman...
+
+Verse 081 - Similarity: 75.2%
+  Original (461 chars):
+    En (gedenkt) toen Allah een overeenkomst aanging met de Profeten (en zei): "Wat ik jullie ook gegeve...
+  Formatted (278 chars):
+    En (gedenkt) toen Allah een overeenkomst aanging met de Profeten (en zei): "Wat ik jullie ook gegeve...
+
+Verse 152 - Similarity: 99.9%
+  Original (455 chars):
+    En voorzekerm Allah heeft Zijn belofte aan jullie vervuld toen jullie met Zijn toestemming jullie vi...
+  Formatted (456 chars):
+    En voorzekerm Allah heeft Zijn belofte aan jullie vervuld toen jullie met Zijn toestemming jullie vi...
+
+Verse 181 - Similarity: 99.8%
+  Original (266 chars):
+    Voorzeker, Allah heeft de uitspraken gehoord van degenen die zeiden: "Voorwaar, Allah is arm en wij ...
+  Formatted (267 chars):
+    Voorzeker, Allah heeft de uitspraken gehoord van degenen die zeiden: "Voorwaar, Allah is arm en wij ...
+
+Verse 185 - Similarity: 99.8%
+  Original (288 chars):
+    Iedere ziet zal de dood proeven, en voorwaar: pas op de Dag der Opstanding zullen jullie je beloning...
+  Formatted (289 chars):
+    Iedere ziet zal de dood proeven, en voorwaar: pas op de Dag der Opstanding zullen jullie je beloning...
+
+  ... and 1 more issues in this chapter
+
+Chapter 004: 6 issues
+--------------------------------------------------------------------------------
+
+Verse 036 - Similarity: 90.8%
+  Original (308 chars):
+    En aanbidt Allah en kent Hem in niets een deelgenoot toe, en weest goed voor de ouders en de verwant...
+  Formatted (256 chars):
+    En aanbidt Allah en kent Hem in niets een deelgenoot toe, en weest goed voor de ouders en de verwant...
+
+Verse 075 - Similarity: 99.8%
+  Original (308 chars):
+    En waarom zouden jullie niet vechten op de Weg van Allah (ter verdediging) van de onderdrukten vAn d...
+  Formatted (309 chars):
+    En waarom zouden jullie niet vechten op de Weg van Allah (ter verdediging) van de onderdrukten vAn d...
+
+Verse 119 - Similarity: 99.8%
+  Original (277 chars):
+    En ik zal hen doen dwalen en ik zal hun ijdelheid opwekken en ik zal hen bevelen de oren van het vee...
+  Formatted (278 chars):
+    En ik zal hen doen dwalen en ik zal hun ijdelheid opwekken en ik zal hen bevelen de oren van het vee...
+
+Verse 129 - Similarity: 99.8%
+  Original (328 chars):
+    En jullie zullen nooit in staat zijn rechtvaardig te zijn voor de vrouwen, hoezeer jullie ook willen...
+  Formatted (329 chars):
+    En jullie zullen nooit in staat zijn rechtvaardig te zijn voor de vrouwen, hoezeer jullie ook willen...
+
+Verse 153 - Similarity: 99.9%
+  Original (410 chars):
+    En de Lieden van de Schrift vragen jou om aan hen een Boek uit de Hemel neer te doen denden; en waar...
+  Formatted (411 chars):
+    En de Lieden van de Schrift vragen jou om aan hen een Boek uit de Hemel neer te doen denden; en waar...
+
+Verse 176 - Similarity: 99.9%
+  Original (612 chars):
+    Zij vragen jou, zeg (O Moehammad): "Allah geeft jullie een antwoord over de Kalâlah: indien een pers...
+  Formatted (611 chars):
+    Zij vragen jou, zeg (O Moehammad): "Allah geeft jullie een antwoord over de Kalâlah: indien een pers...
+
+Chapter 005: 7 issues
+--------------------------------------------------------------------------------
+
+Verse 005 - Similarity: 99.8%
+  Original (585 chars):
+    Op deze dag zijn alle goede (zaken) voor jullie toegestaan gemaakt, en het voedsel (geslachte dieren...
+  Formatted (587 chars):
+    Op deze dag zijn alle goede (zaken) voor jullie toegestaan gemaakt, en het voedsel (geslachte dieren...
+
+Verse 032 - Similarity: 99.8%
+  Original (416 chars):
+    Daarom hebben Wij de Kinderem van Israel voorgeschreven dat voor wie een ziel doodt - niet (als verg...
+  Formatted (418 chars):
+    Daarom hebben Wij de Kinderem van Israel voorgeschreven dat voor wie een ziel doodt - niet (als verg...
+
+Verse 082 - Similarity: 99.9%
+  Original (396 chars):
+    Jij zult zeker vinden dat de mensen die het sterkst in vijandschap tegenover de gelovigen zijn, de J...
+  Formatted (397 chars):
+    Jij zult zeker vinden dat de mensen die het sterkst in vijandschap tegenover de gelovigen zijn, de J...
+
+Verse 103 - Similarity: 99.7%
+  Original (195 chars):
+    Allah heeft (geen bijgeloof) ingesteld zoals Behîrah, Sâ'ibah Washîlah an Hâm; maar het zijn degenen...
+  Formatted (196 chars):
+    Allah heeft (geen bijgeloof) ingesteld zoals Behîrah, Sâ'ibah Washîlah an Hâm; maar het zijn dege ne...
+
+Verse 104 - Similarity: 99.8%
+  Original (238 chars):
+    En toen tot hen werd gczcgd: "Komt tot wat Allah geopenbaard heeft en tot Zijn Boodschapper," zeiden...
+  Formatted (239 chars):
+    En toen tot hen werd gczcgd: "Komt tot wat Allah geopenbaard heeft en tot Zijn Boodschapper," zeiden...
+
+Verse 107 - Similarity: 99.9%
+  Original (370 chars):
+    Maar indien van deze twee ontdekt wordt dat zij schuldig zijn aan zonde (mijneed laat dan twee ander...
+  Formatted (371 chars):
+    Maar indien van deze twee ontdekt wordt dat zij schuldig zijn aan zonde (mijneed laat dan twee ander...
+
+Verse 117 - Similarity: 99.8%
+  Original (240 chars):
+    Ik heb hen niet anders gezegd dan U mij heeft geboden te zeggen: 'Dient Allah, mijn Heer en jullie H...
+  Formatted (241 chars):
+    Ik heb hen niet anders gezegd dan U mij heeft geboden te zeggen: 'Dient Allah, mijn Heer en jullie H...
+
+Chapter 006: 5 issues
+--------------------------------------------------------------------------------
+
+Verse 071 - Similarity: 99.8%
+  Original (429 chars):
+    Zeg: "Roepen wij dat naast Allah aan dat ons geen goed kan doen en ons geen schade kan berokkenen, e...
+  Formatted (431 chars):
+    Zeg: "Roepen wij dat naast Allah aan dat ons geen goed kan doen en ons geen schade kan berokkenen, e...
+
+Verse 093 - Similarity: 99.9%
+  Original (631 chars):
+    En wie is er meer onrechtvaardig dan degene die een leugen tegen Allah heeft verzonnen, of zei: "Er ...
+  Formatted (632 chars):
+    En wie is er meer onrechtvaardig dan degene die een leugen tegen Allah heeft verzonnen, of zei: "Er ...
+
+Verse 111 - Similarity: 99.8%
+  Original (284 chars):
+    En al zouden Wij Engelen tot hen neergezonden hebben en zouden de doden tot hen gesproken hebben en ...
+  Formatted (285 chars):
+    En al zouden Wij Engelen tot hen neergezonden hebben en zouden de doden tot hen gesproken hebben en ...
+
+Verse 128 - Similarity: 99.8%
+  Original (480 chars):
+    En op de Dag waarop Hij allen bijéén zal brengen (zal Hij zeggen:) "O Bemeenschap van Djinn's, julli...
+  Formatted (482 chars):
+    En op de Dag waarop Hij allen bijéén zal brengen (zal Hij zeggen:) "O Bemeenschap van Djinn's, julli...
+
+Verse 130 - Similarity: 72.4%
+  Original (361 chars):
+    "O gemeenschap van djinn's en mensen. zijn er uit jullie midden geen gezanten tot jullie gekomen die...
+  Formatted (205 chars):
+    "O gemeenschap van djinn's en mensen. zijn er uit jullie midden geen gezanten tot jullie gekomen die...
+
+Chapter 007: 8 issues
+--------------------------------------------------------------------------------
+
+Verse 020 - Similarity: 99.8%
+  Original (235 chars):
+    Toen fluisterde de Satan hen in om te onthullen wat er van hun schaamte bedekt was, en hij zei: "Jul...
+  Formatted (234 chars):
+    Toen fluisterde de Satan hen in om te onthullen wat er van hun schaamte bedekt was, en hij zei: "Jul...
+
+Verse 028 - Similarity: 99.8%
+  Original (242 chars):
+    En wanneer zij een gruweldaad bedrijven, dan zeggen zij: "Wij troffen dit bij onze vaderen aan en Al...
+  Formatted (243 chars):
+    En wanneer zij een gruweldaad bedrijven, dan zeggen zij: "Wij troffen dit bij onze vaderen aan en Al...
+
+Verse 032 - Similarity: 99.8%
+  Original (311 chars):
+    Zeg (O Moehammad): "Wie heeft de mooie kleding die Allah voor Zijn dienaren heeft gebracht on de goe...
+  Formatted (312 chars):
+    Zeg (O Moehammad): "Wie heeft de mooie kleding die Allah voor Zijn dienaren heeft gebracht on de goe...
+
+Verse 033 - Similarity: 99.8%
+  Original (295 chars):
+    Zeg: "Mijn Heer heeft slechts de zedeloosheden verboden, wat er openlijk van is en wat er verborgen ...
+  Formatted (296 chars):
+    Zeg: "Mijn Heer heeft slechts de zedeloosheden verboden, wat er openlijk van is en wat er verborgen ...
+
+Verse 075 - Similarity: 99.8%
+  Original (249 chars):
+    De vooraannstaanden, van degenen die hoogmoedig waren onder zijn volk, zeiden tot de nederigen onder...
+  Formatted (250 chars):
+    De vooraannstaanden, van degenen die hoogmoedig waren onder zijn volk, zeiden tot de nederigen onder...
+
+Verse 087 - Similarity: 99.8%
+  Original (221 chars):
+    En als er een groep onder jullie is die gelooft in hetgeen waarmee ik (Sjoe'aib) ben gezonden, en er...
+  Formatted (222 chars):
+    En als er een groep onder jullie is die gelooft in hetgeen waarmee ik (Sjoe'aib) ben gezonden, en er...
+
+Verse 127 - Similarity: 99.8%
+  Original (248 chars):
+    En de vooraanstaanden van het volk van Fir'aun zeiden: "Laat u Môesa en zijn volk verderf op aarde z...
+  Formatted (249 chars):
+    En de vooraanstaanden van het volk van Fir'aun zeiden: "Laat u Môesa en zijn volk verderf op aarde z...
+
+Verse 160 - Similarity: 99.9%
+  Original (490 chars):
+    En Wij verdeelden hen in twaalf stammen als gemeenschappen en Wij openbaarden aan Môesa, toen zijn v...
+  Formatted (491 chars):
+    En Wij verdeelden hen in twaalf stammen als gemeenschappen en Wij openbaarden aan Môesa, toen zijn v...
+
+Chapter 009: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 025 - Similarity: 99.8%
+  Original (286 chars):
+    Voorzeker, Allah heeft jullie reeds in vele veldslagen geholpen en op de dag van Hoenain, toen julli...
+  Formatted (287 chars):
+    Voorzeker, Allah heeft jullie reeds in vele veldslagen geholpen en op de dag van Hoenain, toen julli...
+
+Verse 061 - Similarity: 99.9%
+  Original (345 chars):
+    En onder ben zijn er die de Profeet kwetsen en zij zeggen: "Hij is een oor (dat naar iedereen luiste...
+  Formatted (346 chars):
+    En onder ben zijn er die de Profeet kwetsen en zij zeggen: "Hij is een oor (dat naar iedereen luiste...
+
+Chapter 010: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 013 - Similarity: 99.8%
+  Original (222 chars):
+    En voorwaar, Wij hebben de generaties v??r hen vernietigd tom zij onrecht pleegden, terwijl hun Bood...
+  Formatted (223 chars):
+    En voorwaar, Wij hebben de generaties v??r hen vernietigd tom zij onrecht pleegden, terwijl hun Bood...
+
+Verse 022 - Similarity: 99.9%
+  Original (479 chars):
+    Hij is het die jullie in staat stelt om over land en over de zee te reizen, totdat wanneer jullie in...
+  Formatted (480 chars):
+    Hij is het die jullie in staat stelt om over land en over de zee te reizen, totdat wanneer jullie in...
+
+Verse 031 - Similarity: 99.8%
+  Original (332 chars):
+    Zeg: "Wie schenkt jullie voorzieningen uit de hemel en de aarde," of: "Wie heeft macht over (het sch...
+  Formatted (333 chars):
+    Zeg: "Wie schenkt jullie voorzieningen uit de hemel en de aarde," of: "Wie heeft macht over (het sch...
+
+Verse 090 - Similarity: 99.8%
+  Original (318 chars):
+    En Wij brachten de Kinderen van Israël over de zee, waarop Fir'aun en zijn legefs hen volgden uit ti...
+  Formatted (319 chars):
+    En Wij brachten de Kinderen van Israël over de zee, waarop Fir'aun en zijn legefs hen volgden uit ti...
+
+Chapter 011: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 008 - Similarity: 99.8%
+  Original (283 chars):
+    En wanneer Wij de bestraffing van hen uitstellen tot een bepaald tijdstip, dan zullen zij zeker zegg...
+  Formatted (284 chars):
+    En wanneer Wij de bestraffing van hen uitstellen tot een bepaald tijdstip, dan zullen zij zeker zegg...
+
+Verse 012 - Similarity: 99.8%
+  Original (287 chars):
+    Misschien zou jij een gedeelte van wat aan jou geopenbaard is willen weglaten, en is jouw hart benau...
+  Formatted (288 chars):
+    Misschien zou jij een gedeelte van wat aan jou geopenbaard is willen weglaten, en is jouw hart benau...
+
+Chapter 012: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 066 - Similarity: 99.8%
+  Original (306 chars):
+    Hij (Ya'q-ôeb) zei: "Ik zal hem nooit met jullie mee laten gaan, v??rdat jullie een belofte afleggen...
+  Formatted (307 chars):
+    Hij (Ya'q-ôeb) zei: "Ik zal hem nooit met jullie mee laten gaan, v??rdat jullie een belofte afleggen...
+
+Chapter 014: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 022 - Similarity: 99.9%
+  Original (548 chars):
+    De Satan zei, nadat de zaak besloten was: "Voorwaar, Allah heeft jullie een ware belofte gedaan, en ...
+  Formatted (547 chars):
+    De Satan zei, nadat de zaak besloten was: "Voorwaar, Allah heeft jullie een ware belofte gedaan, en ...
+
+Verse 044 - Similarity: 99.8%
+  Original (326 chars):
+    En waarschuw de mensen voor de Dag dat de bestraffing tot hen komt en waarop degenen die onrecht ple...
+  Formatted (327 chars):
+    En waarschuw de mensen voor de Dag dat de bestraffing tot hen komt en waarop degenen die onrecht ple...
+
+Chapter 016: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 027 - Similarity: 99.8%
+  Original (288 chars):
+    Vervolgens zal Hij hen op de Dag der Opstanding vernederen, en zeggen: "Waar zijn Mijn (zogenaamde)d...
+  Formatted (289 chars):
+    Vervolgens zal Hij hen op de Dag der Opstanding vernederen, en zeggen: "Waar zijn Mijn (zogenaamde)d...
+
+Verse 080 - Similarity: 99.8%
+  Original (309 chars):
+    En Allah maakte voor jullie jullie huizen tot plaatsen om uit te rusten en Hij maakte voor jullie de...
+  Formatted (310 chars):
+    En Allah maakte voor jullie jullie huizen tot plaatsen om uit te rusten en Hij maakte voor jullie de...
+
+Verse 086 - Similarity: 77.1%
+  Original (301 chars):
+    En wanneer degenen die deelgenoten toekenden hun deelgenoten zullen zien, zullen zij zeggen: "Onze H...
+  Formatted (189 chars):
+    En wanneer degenen die deelgenoten toekenden hun deelgenoten zullen zien, zullen zij zeggen: "Onze H...
+
+Verse 106 - Similarity: 99.8%
+  Original (261 chars):
+    Wie aan Allah ongelovig is na geloofd te hebben, behalve wie gedwongen is terwijl zijn hw in het gel...
+  Formatted (262 chars):
+    Wie aan Allah ongelovig is na geloofd te hebben, behalve wie gedwongen is terwijl zijn hw in het gel...
+
+Chapter 017: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 051 - Similarity: 99.8%
+  Original (267 chars):
+    Of een schepping waarvan het in jullie harten het moeilijkst lijkt." Dan zullen zij zeggen: "Wie doe...
+  Formatted (268 chars):
+    Of een schepping waarvan het in jullie harten het moeilijkst lijkt." Dan zullen zij zeggen: "Wie doe...
+
+Verse 064 - Similarity: 99.7%
+  Original (193 chars):
+    En rui van hen op wie jij kan met jouw stem, en val hen aan met je paarden en je voetvolk, en deel r...
+  Formatted (194 chars):
+    En rui van hen op wie jij kan met jouw stem, en val hen aan met je paarden en je voetvolk, en de el ...
+
+Chapter 022: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 005 - Similarity: 99.9%
+  Original (829 chars):
+    O mensen, als jullie in twijfel verkeren over de Opstanding: voorwaar, Wij schiepen jullie uit aarde...
+  Formatted (830 chars):
+    O mensen, als jullie in twijfel verkeren over de Opstanding: voorwaar, Wij schiepen jullie uit aarde...
+
+Chapter 023: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 033 - Similarity: 99.8%
+  Original (277 chars):
+    En de vooraanstanden, die niet geloofden, van zijn volk en die de ontmoeting in het Hiernamaals looc...
+  Formatted (278 chars):
+    En de vooraanstanden, die niet geloofden, van zijn volk en die de ontmoeting in het Hiernamaals looc...
+
+Chapter 024: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 033 - Similarity: 99.9%
+  Original (571 chars):
+    En laat degenen die geen (mogelijkheid) vinden tot het huwelijk kuis blijven, tot Allah hen uit Zijn...
+  Formatted (570 chars):
+    En laat degenen die geen (mogelijkheid) vinden tot het huwelijk kuis blijven, tot Allah hen uit Zijn...
+
+Chapter 026: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 049 - Similarity: 66.8%
+  Original (295 chars):
+    Hij (Fir'aun) zei: "Geloven jullie hem voordat ik jullie toestemming geef? Voorwaar, hij is zeker ju...
+  Formatted (148 chars):
+    Hij (Fir'aun) zei: "Geloven jullie hem voordat ik jullie toestemming geef? Voorwaar, hij is zeker ju...
+
+Chapter 029: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 029 - Similarity: 99.8%
+  Original (285 chars):
+    Is het dan inderdaad niet zo dat jullie de mensen benaderen en op de weg struikroverij bedrijven en ...
+  Formatted (286 chars):
+    Is het dan inderdaad niet zo dat jullie de mensen benaderen en op de weg struikroverij bedrijven en ...
+
+Chapter 031: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 021 - Similarity: 99.8%
+  Original (205 chars):
+    En wanneer tot hen wordt gezegd: "Volgt wat Allah heeft neergezonden," dan zeggen zij: "Nee, wij vol...
+  Formatted (206 chars):
+    En wanneer tot hen wordt gezegd: "Volgt wat Allah heeft neergezonden," dan zeggen zij: "Nee, wij vol...
+
+Chapter 037: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 102 - Similarity: 99.8%
+  Original (300 chars):
+    Toen hij de leeftijd had bereikt waarop hij hem (Ibrâhîm) kon helpen, zei hij: "O mijn zoon, voorwaa...
+  Formatted (301 chars):
+    Toen hij de leeftijd had bereikt waarop hij hem (Ibrâhîm) kon helpen, zei hij: "O mijn zoon, voorwaa...
+
+Chapter 040: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 025 - Similarity: 99.8%
+  Original (213 chars):
+    Toen hij dan lot hen kwam met de Waarheid van Onze Zijde, zeiden zij: "Doodt de zonen van degenen di...
+  Formatted (214 chars):
+    Toen hij dan lot hen kwam met de Waarheid van Onze Zijde, zeiden zij: "Doodt de zonen van degenen di...
+
+Verse 029 - Similarity: 99.8%
+  Original (291 chars):
+    (Môesa zei:) "O mijn volk, voor jullie is vandaag het koninkrijk, (jullie zijn er) als heersers in h...
+  Formatted (292 chars):
+    (Môesa zei:) "O mijn volk, voor jullie is vandaag het koninkrijk, (jullie zijn er) als heersers in h...
+
+Chapter 041: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 014 - Similarity: 99.8%
+  Original (223 chars):
+    Toen de Boodschappers v??r hen en na hen waren gekomen (en zeiden:) "Aanbidt alleen Allah," zeiden z...
+  Formatted (224 chars):
+    Toen de Boodschappers v??r hen en na hen waren gekomen (en zeiden:) "Aanbidt alleen Allah," zeiden z...
+
+Chapter 047: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 016 - Similarity: 99.8%
+  Original (267 chars):
+    En onder hen zijn er die naar jou luisteren; maar wanneer zij bij jou weggaan, zeggen zij tot degene...
+  Formatted (268 chars):
+    En onder hen zijn er die naar jou luisteren; maar wanneer zij bij jou weggaan, zeggen zij tot degene...
+
+Chapter 060: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 99.8%
+  Original (589 chars):
+    Waarlijk, er was voor jullie een goed voorbeeld in Ibrâhîm en degenen die met hem waren, toen zij to...
+  Formatted (591 chars):
+    Waarlijk, er was voor jullie een goed voorbeeld in Ibrâhîm en degenen die met hem waren, toen zij to...
+
+Chapter 066: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.8%
+  Original (272 chars):
+    O jullie die geloven, behoedt julliezelf en jullie gezinsleden voor de Hel, die als brandstof mensen...
+  Formatted (273 chars):
+    O jullie die geloven, behoedt julliezelf en jullie gezinsleden voor de Hel, die als brandstof mensen...

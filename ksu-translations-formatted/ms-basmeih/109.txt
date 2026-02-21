@@ -1,6 +1,0 @@
-001_00	Katakanlah (wahai Muhammad): "Hai orang-orang kafir!
-002_00	"Aku tidak akan menyembah apa yang kamu sembah.
-003_00	"Dan kamu tidak mahu menyembah (Allah) yang aku sembah.
-004_00	"Dan aku tidak akan beribadat secara kamu beribadat.
-005_00	"Dan kamu pula tidak mahu beribadat secara aku beribadat.
-006_00	"Bagi kamu ugama kamu, dan bagiku ugamaku".

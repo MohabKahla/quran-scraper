@@ -1,8 +1,0 @@
-001_00	NI FINNER ert nöje i att överglänsa varandra i rikedom och världsliga framgångar
-002_00	ända till dess ni står vid gravens rand.
-003_00	Ack nej! En dag skall ni få veta [ert misstag]!
-004_00	Ja, en dag skall ni få veta [ert misstag]!
-005_00	Ack, om ni visste det [nu] med full visshet...!
-006_00	Ja, ni skall få skåda helvetets eld!
-007_00	Era egna ögons vittnesbörd skall då ge er visshet,
-008_00	och den Dagen skall ni ställas till svars för [vad ni gjorde av] det goda som skänktes er [i livet]!

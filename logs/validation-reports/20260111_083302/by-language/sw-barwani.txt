@@ -1,0 +1,73 @@
+================================================================================
+VALIDATION REPORT: sw-barwani
+================================================================================
+
+Total mismatches: 7
+
+By severity:
+  Critical (<80%):  0
+  Moderate (80-95%): 0
+  Minor (95-99%):   0
+  Trivial (>99%):   7
+
+================================================================================
+ISSUES BY CHAPTER
+================================================================================
+
+
+Chapter 002: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 262 - Similarity: 99.7%
+  Original (191 chars):
+    Wanao toa mali zao kwa Njia ya Mwenyezi Mungu, kisha hawafuatishii masimbulizi wala udhia kwa walich...
+  Formatted (192 chars):
+    Wanao toa mali zao kwa Njia ya Mwenyezi Mungu, kisha hawafuatishii masimbulizi wala udhia kwa w alic...
+
+Chapter 003: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 061 - Similarity: 99.8%
+  Original (249 chars):
+    Watakao kuhoji katika haya baada ya kukufikilia ilimu hii waambie: Njooni tuwaite watoto wetu na wat...
+  Formatted (250 chars):
+    Watakao kuhoji katika haya baada ya kukufikilia ilimu hii waambie: Njooni tuwaite watoto wetu na wat...
+
+Verse 077 - Similarity: 99.8%
+  Original (239 chars):
+    Hakika wanao uza ahadi ya Mwenyezi Mungu na viapo vyao thamani ndogo, hao hawatakuwa na sehemu ya kh...
+  Formatted (240 chars):
+    Hakika wanao uza ahadi ya Mwenyezi Mungu na viapo vyao thamani ndogo, hao hawatakuwa na sehemu ya kh...
+
+Chapter 005: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 110 - Similarity: 99.8%
+  Original (597 chars):
+    Na pale Mwenyezi Mungu atapo sema: Ewe Isa bin Maryamu! Kumbuka neema yangu juu yako, na juu ya mama...
+  Formatted (599 chars):
+    Na pale Mwenyezi Mungu atapo sema: Ewe Isa bin Maryamu! Kumbuka neema yangu juu yako, na juu ya mama...
+
+Chapter 024: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 031 - Similarity: 99.8%
+  Original (634 chars):
+    Na waambie Waumini wanawake wainamishe macho yao, na wazilinde tupu zao, wala wasionyeshe uzuri wao ...
+  Formatted (637 chars):
+    Na waambie Waumini wanawake wainamishe macho yao, na wazilinde tupu zao, wala wasionyeshe uzuri wao ...
+
+Verse 061 - Similarity: 99.8%
+  Original (608 chars):
+    Si vibaya kwa kipofu, wala si vibaya kwa kiguru, wala si vibaya kwa mgonjwa, wala kwenu nyinyi, mkil...
+  Formatted (610 chars):
+    Si vibaya kwa kipofu, wala si vibaya kwa kiguru, wala si vibaya kwa mgonjwa, wala kwenu nyinyi, mkil...
+
+Chapter 031: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 010 - Similarity: 99.8%
+  Original (236 chars):
+    Ameziumba mbingu bila ya nguzo mnazo ziona; na ameweka katika ardhi milima ili ardhi isikuyumbisheni...
+  Formatted (237 chars):
+    Ameziumba mbingu bila ya nguzo mnazo ziona; na ameweka katika ardhi milima ili ardhi isikuyumbisheni...

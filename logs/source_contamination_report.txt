@@ -1,0 +1,640 @@
+================================================================================
+SOURCE FILE CONTAMINATION ANALYSIS
+================================================================================
+
+Checking translation source files for Arabic text contamination...
+
+
+bn-bengali: 26 contaminated verses
+  Expected script: bengali
+  • 002_074 (file: 002.txt, line 95)
+    Arabic: 55/61 chars (90.2%)
+    Preview: وَإِنَّ مِنۡهَا لَمَا يَشَّقَّقُ فَيَخۡرُجُ مِنۡهُ ٱلۡمَآءُۚ...
+  • 002_076 (file: 002.txt, line 98)
+    Arabic: 89/98 chars (90.8%)
+    Preview: قَالُوٓاْ أَتُحَدِّثُونَهُم بِمَا فَتَحَ ٱللَّهُ عَلَيۡكُمۡ لِيُحَآجُّوكُم بِهِ...
+  • 002_079 (file: 002.txt, line 102)
+    Arabic: 74/83 chars (89.2%)
+    Preview: فَوَيۡلٞ لَّهُم مِّمَّا كَتَبَتۡ أَيۡدِيهِمۡ وَوَيۡلٞ لَّهُم مِّمَّا يَكۡسِبُونَ...
+  ... and 23 more
+
+bs-korkut: 11 contaminated verses
+  Expected script: bosnian
+  • 002_144 (file: 002.txt, line 199)
+    Arabic: 38/42 chars (90.5%)
+    Preview: وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا يَعۡمَلُونَ...
+  • 004_025 (file: 004.txt, line 53)
+    Arabic: 30/110 chars (27.3%)
+    Preview: – To je za onoga od vas koji se boji bluda; – a bolje vam je da se uzdržite! وَأ...
+  • 004_029 (file: 004.txt, line 58)
+    Arabic: 31/35 chars (88.6%)
+    Preview: إِنَّ ٱللَّهَ كَانَ بِكُمۡ رَحِيمٗا...
+  ... and 8 more
+
+es-navio: 1 contaminated verses
+  Expected script: spanish
+  • 002_273 (file: 002.txt, line 443)
+    Arabic: 57/157 chars (36.3%)
+    Preview: Los conocerás por sus señas, ellos no piden a la gente importunándoles. El bien ...
+
+ha-gumi: 1 contaminated verses
+  Expected script: hausa
+  • 006_145 (file: 006.txt, line 202)
+    Arabic: 103/118 chars (87.3%)
+    Preview: أَوۡ فِسۡقًا أُهِلَّ لِغَيۡرِ ٱللَّهِ بِهِۦۚ فَمَنِ ٱضۡطُرَّ غَيۡرَ بَاغٖ وَلَا ...
+
+id-indonesian: 2 contaminated verses
+  Expected script: indonesian
+  • 003_153 (file: 003.txt, line 205)
+    Arabic: 86/97 chars (88.7%)
+    Preview: Fَأَثَٰبَكُمۡ غَمَّۢا بِغَمّٖ لِّكَيۡلَا تَحۡزَنُواْ عَلَىٰ مَا فَاتَكُمۡ وَلَا ...
+  • 005_083 (file: 005.txt, line 150)
+    Arabic: 59/65 chars (90.8%)
+    Preview: يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّٰهِدِينَ ٣٨...
+
+it-piccardo: 3 contaminated verses
+  Expected script: italian
+  • 003_156 (file: 003.txt, line 214)
+    Arabic: 154/236 chars (65.3%)
+    Preview: Allah ne voleva fare un [motivo di] rimpianto nei loro cuori. لَّوۡ كَانُواْ عِن...
+  • 065_006 (file: 065.txt, line 11)
+    Arabic: 157/173 chars (90.8%)
+    Preview: وَإِن كُنَّ أُوْلَٰتِ حَمۡلٖ فَأَنفِقُواْ عَلَيۡهِنَّ حَتَّىٰ يَضَعۡنَ حَمۡلَهُن...
+  • 065_006 (file: 065.txt, line 12)
+    Arabic: 44/48 chars (91.7%)
+    Preview: وَإِن تَعَاسَرۡتُمۡ فَسَتُرۡضِعُ لَهُۥٓ أُخۡرَىٰ...
+
+ku-asan: 7542 contaminated verses
+  Expected script: kurdish
+  • 001_001 (file: 001.txt, line 1)
+    Arabic: 65/91 chars (71.4%)
+    Preview: به ناوی خوای به‌خشنده‌ی میهره‌بان (به ناوی ئه‌و خوایه‌ی كانگای ڕه‌حمه‌ت و سۆزو ب...
+  • 001_002 (file: 001.txt, line 2)
+    Arabic: 82/111 chars (73.9%)
+    Preview: ‌سوپاس و ستایش هه‌ر شایسته‌ی خوایه و بۆ خوایه‌، که خاوه‌ن و په‌روه‌ردگاری هه‌موو...
+  • 001_003 (file: 001.txt, line 3)
+    Arabic: 107/143 chars (74.8%)
+    Preview: به‌خشنده‌ی میهره‌بان‌، کانگای ڕه‌حمه‌ت و میهره‌بانیه (ڕه‌حمه‌تی له دنیادا هه‌موو...
+  ... and 7539 more
+
+ml-abdulhameed: 12 contaminated verses
+  Expected script: malayalam
+  • 002_087 (file: 002.txt, line 117)
+    Arabic: 102/126 chars (81.0%)
+    Preview: അഫകുല്്ലമാ ജാٓءَكُمۡ رَسُولُۢ بِمَا لَا تَهۡوَىٰٓ أَنفُسُكُمُ ٱسۡتَكۡبَرۡتُمۡ فَ...
+  • 002_196 (file: 002.txt, line 283)
+    Arabic: 95/112 chars (84.8%)
+    Preview: ഫമَن كَانَ مِنكُم مَّرِيضًا أَوۡ بِهِۦٓ أَذٗى مِّن رَّأۡسِهِۦ فَفِدۡيَةٞ مِّن صِ...
+  • 002_196 (file: 002.txt, line 284)
+    Arabic: 87/97 chars (89.7%)
+    Preview: فَإِذَآ أَمِنتُمۡ فَمَن تَمَتَّعَ بِٱلۡعُمۡرَةِ إِلَى ٱلۡحَجِّ فَمَا ٱسۡتَيۡسَر...
+  ... and 9 more
+
+ms-basmeih: 13 contaminated verses
+  Expected script: malay
+  • 002_177 (file: 002.txt, line 248)
+    Arabic: 103/112 chars (92.0%)
+    Preview: وَلَٰكِنَّ ٱلۡبِرَّ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَٱلۡمَلَٰٓئِكَ...
+  • 002_177 (file: 002.txt, line 249)
+    Arabic: 123/135 chars (91.1%)
+    Preview: وَءَاتَى ٱلۡمَالَ عَلَىٰ حُبِّهِۦ ذَوِي ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِي...
+  • 002_177 (file: 002.txt, line 250)
+    Arabic: 142/155 chars (91.6%)
+    Preview: وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلۡمُوفُونَ بِعَهۡدِهِمۡ إِذَا عَٰه...
+  ... and 10 more
+
+nl-siregar: 3 contaminated verses
+  Expected script: dutch
+  • 003_153 (file: 003.txt, line 205)
+    Arabic: 86/236 chars (36.4%)
+    Preview: toen vergold Hij jullie met ramp na ramp, opdat jullie niet treuren over wat voo...
+  • 028_015 (file: 028.txt, line 19)
+    Arabic: 33/142 chars (23.2%)
+    Preview: Hij zei: "Dit behoort tot het werk van de Satan: voorwaar, hij is een vijand die...
+  • 028_076 (file: 028.txt, line 94)
+    Arabic: 34/38 chars (89.5%)
+    Preview: إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡفَرِحِينَ...
+
+pr-tagi: 7524 contaminated verses
+  Expected script: persian
+  • 001_001 (file: 001.txt, line 1)
+    Arabic: 24/29 chars (82.8%)
+    Preview: به نام خداوند بخشنده ی مهربان...
+  • 001_002 (file: 001.txt, line 2)
+    Arabic: 40/48 chars (83.3%)
+    Preview: ستایش مخصوص خداوندی است که پروردگار جهانیان است....
+  • 001_003 (file: 001.txt, line 3)
+    Arabic: 16/19 chars (84.2%)
+    Preview: بخشنده ی مهربان است...
+  ... and 7521 more
+
+sq-nahi: 2 contaminated verses
+  Expected script: unknown
+  • 002_237 (file: 002.txt, line 370)
+    Arabic: 38/43 chars (88.4%)
+    Preview: إِنَّ ٱللَّهَ بِمَا تَعۡمَلُونَ بَصِيرٌ ٧٣٢...
+  • 009_037 (file: 009.txt, line 56)
+    Arabic: 74/82 chars (90.2%)
+    Preview: زُيِّنَ لَهُمۡ سُوٓءُ أَعۡمَٰلِهِمۡۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡكَٰفِرِي...
+
+sv-bernstrom: 3 contaminated verses
+  Expected script: unknown
+  • 004_024 (file: 004.txt, line 46)
+    Arabic: 94/104 chars (90.4%)
+    Preview: وَأُحِلَّ لَكُم مَّا وَرَآءَ ذَٰلِكُمۡ أَن تَبۡتَغُواْ بِأَمۡوَٰلِكُم مُّحۡصِنِ...
+  • 004_024 (file: 004.txt, line 47)
+    Arabic: 137/152 chars (90.1%)
+    Preview: فَمَا ٱسۡتَمۡتَعۡتُم بِهِۦ مِنۡهُنَّ فَـَٔاتُوهُنَّ أُجُورَهُنَّ فَرِيضَةٗۚ وَلَ...
+  • 004_024 (file: 004.txt, line 48)
+    Arabic: 33/37 chars (89.2%)
+    Preview: إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمٗا...
+
+ta-tamil: 58 contaminated verses
+  Expected script: unknown
+  • 002_143 (file: 002.txt, line 197)
+    Arabic: 117/131 chars (89.3%)
+    Preview: وَمَا جَعَلۡنَا ٱلۡقِبۡلَةَ ٱلَّتِي كُنتَ عَلَيۡهَآ إِلَّا لِنَعۡلَمَ مَن يَتَّ...
+  • 002_143 (file: 002.txt, line 198)
+    Arabic: 134/151 chars (88.7%)
+    Preview: وَإِن كَانَتۡ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُۗ وَمَا كَانَ ٱللّ...
+  • 002_237 (file: 002.txt, line 369)
+    Arabic: 104/116 chars (89.7%)
+    Preview: إِلَّآ أَن يَعۡفُونَ أَوۡ يَعۡفُوَاْ ٱلَّذِي بِيَدِهِۦ عُقۡدَةُ ٱلنِّكَاحِۚ وَأ...
+  ... and 55 more
+
+th-thai: 3 contaminated verses
+  Expected script: unknown
+  • 002_230 (file: 002.txt, line 348)
+    Arabic: 90/103 chars (87.4%)
+    Preview: ฟَإِن طَلَّقَهَا فَلَا جُنَاحَ عَلَيۡهِمَآ أَن يَتَرَاجَعَآ إِن ظَنَّآ أَن يُ...
+  • 005_012 (file: 005.txt, line 32)
+    Arabic: 123/135 chars (91.1%)
+    Preview: ลَئِنۡ أَقَمۡتُمُ ٱلصَّلَوٰةَ وَءَاتَيۡتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِي وَ...
+  • 005_012 (file: 005.txt, line 33)
+    Arabic: 157/174 chars (90.2%)
+    Preview: لَّأُكَفِّرَنَّ عَنكُمۡ سَيِّـَٔاتِكُمۡ وََلَأُدۡخِلَنَّكُمۡ جَنَّٰتٖ تَجۡرِي مِ...
+
+ur-gl: 7499 contaminated verses
+  Expected script: unknown
+  • 001_001 (file: 001.txt, line 1)
+    Arabic: 42/54 chars (77.8%)
+    Preview: شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے...
+  • 001_002 (file: 001.txt, line 2)
+    Arabic: 52/68 chars (76.5%)
+    Preview: سب طرح کی تعریف خدا ہی کو (سزاوار) ہے جو تمام مخلوقات کا پروردگار ہے...
+  • 001_003 (file: 001.txt, line 3)
+    Arabic: 21/25 chars (84.0%)
+    Preview: بڑا مہربان نہایت رحم والا...
+  ... and 7496 more
+
+================================================================================
+SUMMARY
+================================================================================
+
+Total translations with contamination: 16
+Total contaminated verses: 22703
+
+Contamination breakdown:
+Translation                   Source File     Failure Log      Match
+--------------------------------------------------------------------------------
+bn-bengali                             26               4          ✓
+bs-korkut                              11               0           
+es-navio                                1               0           
+ha-gumi                                 1               0           
+id-indonesian                           2               1          ✓
+it-piccardo                             3               0           
+ku-asan                              7542              68          ✓
+ml-abdulhameed                         12               3          ✓
+ms-basmeih                             13               4          ✓
+nl-siregar                              3               0           
+pr-tagi                              7524              96          ✓
+sq-nahi                                 2               0           
+sv-bernstrom                            3               0           
+ta-tamil                               58               0           
+th-thai                                 3               0           
+ur-gl                                7499               0           
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+1. RE-SCRAPE REQUIRED: Translations with source file contamination
+   These have bad data in the original scraped files and need to be re-scraped:
+   • bn-bengali: 26 verses
+   • bs-korkut: 11 verses
+   • es-navio: 1 verses
+   • ha-gumi: 1 verses
+   • id-indonesian: 2 verses
+   • it-piccardo: 3 verses
+   • ku-asan: 7542 verses
+   • ml-abdulhameed: 12 verses
+   • ms-basmeih: 13 verses
+   • nl-siregar: 3 verses
+   • pr-tagi: 7524 verses
+   • sq-nahi: 2 verses
+   • sv-bernstrom: 3 verses
+   • ta-tamil: 58 verses
+   • th-thai: 3 verses
+   • ur-gl: 7499 verses
+
+2. Files that need manual fixing:
+   Run this to see specific files that need attention:
+
+   bn-bengali:
+     • ksu-translations-formatted/bn-bengali/002.txt (25 verses)
+     • ksu-translations-formatted/bn-bengali/009.txt (1 verses)
+   bs-korkut:
+     • ksu-translations-formatted/bs-korkut/002.txt (1 verses)
+     • ksu-translations-formatted/bs-korkut/004.txt (10 verses)
+   es-navio:
+     • ksu-translations-formatted/es-navio/002.txt (1 verses)
+   ha-gumi:
+     • ksu-translations-formatted/ha-gumi/006.txt (1 verses)
+   id-indonesian:
+     • ksu-translations-formatted/id-indonesian/003.txt (1 verses)
+     • ksu-translations-formatted/id-indonesian/005.txt (1 verses)
+   it-piccardo:
+     • ksu-translations-formatted/it-piccardo/003.txt (1 verses)
+     • ksu-translations-formatted/it-piccardo/065.txt (2 verses)
+   ku-asan:
+     • ksu-translations-formatted/ku-asan/001.txt (7 verses)
+     • ksu-translations-formatted/ku-asan/002.txt (473 verses)
+     • ksu-translations-formatted/ku-asan/003.txt (277 verses)
+     • ksu-translations-formatted/ku-asan/004.txt (295 verses)
+     • ksu-translations-formatted/ku-asan/005.txt (216 verses)
+     • ksu-translations-formatted/ku-asan/006.txt (236 verses)
+     • ksu-translations-formatted/ku-asan/007.txt (282 verses)
+     • ksu-translations-formatted/ku-asan/008.txt (102 verses)
+     • ksu-translations-formatted/ku-asan/009.txt (184 verses)
+     • ksu-translations-formatted/ku-asan/010.txt (145 verses)
+     • ksu-translations-formatted/ku-asan/011.txt (145 verses)
+     • ksu-translations-formatted/ku-asan/012.txt (140 verses)
+     • ksu-translations-formatted/ku-asan/013.txt (65 verses)
+     • ksu-translations-formatted/ku-asan/014.txt (64 verses)
+     • ksu-translations-formatted/ku-asan/015.txt (99 verses)
+     • ksu-translations-formatted/ku-asan/016.txt (152 verses)
+     • ksu-translations-formatted/ku-asan/017.txt (128 verses)
+     • ksu-translations-formatted/ku-asan/018.txt (130 verses)
+     • ksu-translations-formatted/ku-asan/019.txt (100 verses)
+     • ksu-translations-formatted/ku-asan/020.txt (142 verses)
+     • ksu-translations-formatted/ku-asan/021.txt (115 verses)
+     • ksu-translations-formatted/ku-asan/022.txt (103 verses)
+     • ksu-translations-formatted/ku-asan/023.txt (124 verses)
+     • ksu-translations-formatted/ku-asan/024.txt (102 verses)
+     • ksu-translations-formatted/ku-asan/025.txt (79 verses)
+     • ksu-translations-formatted/ku-asan/026.txt (229 verses)
+     • ksu-translations-formatted/ku-asan/027.txt (100 verses)
+     • ksu-translations-formatted/ku-asan/028.txt (110 verses)
+     • ksu-translations-formatted/ku-asan/029.txt (84 verses)
+     • ksu-translations-formatted/ku-asan/030.txt (74 verses)
+     • ksu-translations-formatted/ku-asan/031.txt (43 verses)
+     • ksu-translations-formatted/ku-asan/032.txt (32 verses)
+     • ksu-translations-formatted/ku-asan/033.txt (102 verses)
+     • ksu-translations-formatted/ku-asan/034.txt (68 verses)
+     • ksu-translations-formatted/ku-asan/035.txt (61 verses)
+     • ksu-translations-formatted/ku-asan/036.txt (83 verses)
+     • ksu-translations-formatted/ku-asan/037.txt (183 verses)
+     • ksu-translations-formatted/ku-asan/038.txt (92 verses)
+     • ksu-translations-formatted/ku-asan/039.txt (95 verses)
+     • ksu-translations-formatted/ku-asan/040.txt (100 verses)
+     • ksu-translations-formatted/ku-asan/041.txt (65 verses)
+     • ksu-translations-formatted/ku-asan/042.txt (68 verses)
+     • ksu-translations-formatted/ku-asan/043.txt (90 verses)
+     • ksu-translations-formatted/ku-asan/044.txt (59 verses)
+     • ksu-translations-formatted/ku-asan/045.txt (39 verses)
+     • ksu-translations-formatted/ku-asan/046.txt (46 verses)
+     • ksu-translations-formatted/ku-asan/047.txt (46 verses)
+     • ksu-translations-formatted/ku-asan/048.txt (44 verses)
+     • ksu-translations-formatted/ku-asan/049.txt (28 verses)
+     • ksu-translations-formatted/ku-asan/050.txt (45 verses)
+     • ksu-translations-formatted/ku-asan/051.txt (60 verses)
+     • ksu-translations-formatted/ku-asan/052.txt (50 verses)
+     • ksu-translations-formatted/ku-asan/053.txt (64 verses)
+     • ksu-translations-formatted/ku-asan/054.txt (55 verses)
+     • ksu-translations-formatted/ku-asan/055.txt (78 verses)
+     • ksu-translations-formatted/ku-asan/056.txt (96 verses)
+     • ksu-translations-formatted/ku-asan/057.txt (46 verses)
+     • ksu-translations-formatted/ku-asan/058.txt (35 verses)
+     • ksu-translations-formatted/ku-asan/059.txt (36 verses)
+     • ksu-translations-formatted/ku-asan/060.txt (24 verses)
+     • ksu-translations-formatted/ku-asan/061.txt (18 verses)
+     • ksu-translations-formatted/ku-asan/062.txt (14 verses)
+     • ksu-translations-formatted/ku-asan/063.txt (14 verses)
+     • ksu-translations-formatted/ku-asan/064.txt (21 verses)
+     • ksu-translations-formatted/ku-asan/065.txt (21 verses)
+     • ksu-translations-formatted/ku-asan/066.txt (17 verses)
+     • ksu-translations-formatted/ku-asan/067.txt (30 verses)
+     • ksu-translations-formatted/ku-asan/068.txt (52 verses)
+     • ksu-translations-formatted/ku-asan/069.txt (52 verses)
+     • ksu-translations-formatted/ku-asan/070.txt (44 verses)
+     • ksu-translations-formatted/ku-asan/071.txt (28 verses)
+     • ksu-translations-formatted/ku-asan/072.txt (28 verses)
+     • ksu-translations-formatted/ku-asan/073.txt (24 verses)
+     • ksu-translations-formatted/ku-asan/074.txt (59 verses)
+     • ksu-translations-formatted/ku-asan/075.txt (40 verses)
+     • ksu-translations-formatted/ku-asan/076.txt (31 verses)
+     • ksu-translations-formatted/ku-asan/077.txt (50 verses)
+     • ksu-translations-formatted/ku-asan/078.txt (40 verses)
+     • ksu-translations-formatted/ku-asan/079.txt (46 verses)
+     • ksu-translations-formatted/ku-asan/080.txt (42 verses)
+     • ksu-translations-formatted/ku-asan/081.txt (29 verses)
+     • ksu-translations-formatted/ku-asan/082.txt (19 verses)
+     • ksu-translations-formatted/ku-asan/083.txt (36 verses)
+     • ksu-translations-formatted/ku-asan/084.txt (25 verses)
+     • ksu-translations-formatted/ku-asan/085.txt (22 verses)
+     • ksu-translations-formatted/ku-asan/086.txt (17 verses)
+     • ksu-translations-formatted/ku-asan/087.txt (19 verses)
+     • ksu-translations-formatted/ku-asan/088.txt (26 verses)
+     • ksu-translations-formatted/ku-asan/089.txt (30 verses)
+     • ksu-translations-formatted/ku-asan/090.txt (20 verses)
+     • ksu-translations-formatted/ku-asan/091.txt (15 verses)
+     • ksu-translations-formatted/ku-asan/092.txt (21 verses)
+     • ksu-translations-formatted/ku-asan/093.txt (11 verses)
+     • ksu-translations-formatted/ku-asan/094.txt (8 verses)
+     • ksu-translations-formatted/ku-asan/095.txt (8 verses)
+     • ksu-translations-formatted/ku-asan/096.txt (19 verses)
+     • ksu-translations-formatted/ku-asan/097.txt (5 verses)
+     • ksu-translations-formatted/ku-asan/098.txt (9 verses)
+     • ksu-translations-formatted/ku-asan/099.txt (8 verses)
+     • ksu-translations-formatted/ku-asan/100.txt (11 verses)
+     • ksu-translations-formatted/ku-asan/101.txt (11 verses)
+     • ksu-translations-formatted/ku-asan/102.txt (8 verses)
+     • ksu-translations-formatted/ku-asan/103.txt (3 verses)
+     • ksu-translations-formatted/ku-asan/104.txt (9 verses)
+     • ksu-translations-formatted/ku-asan/105.txt (5 verses)
+     • ksu-translations-formatted/ku-asan/106.txt (4 verses)
+     • ksu-translations-formatted/ku-asan/107.txt (7 verses)
+     • ksu-translations-formatted/ku-asan/108.txt (2 verses)
+     • ksu-translations-formatted/ku-asan/109.txt (6 verses)
+     • ksu-translations-formatted/ku-asan/110.txt (3 verses)
+     • ksu-translations-formatted/ku-asan/111.txt (5 verses)
+     • ksu-translations-formatted/ku-asan/112.txt (4 verses)
+     • ksu-translations-formatted/ku-asan/113.txt (5 verses)
+     • ksu-translations-formatted/ku-asan/114.txt (6 verses)
+   ml-abdulhameed:
+     • ksu-translations-formatted/ml-abdulhameed/002.txt (6 verses)
+     • ksu-translations-formatted/ml-abdulhameed/004.txt (3 verses)
+     • ksu-translations-formatted/ml-abdulhameed/009.txt (1 verses)
+     • ksu-translations-formatted/ml-abdulhameed/046.txt (2 verses)
+   ms-basmeih:
+     • ksu-translations-formatted/ms-basmeih/002.txt (9 verses)
+     • ksu-translations-formatted/ms-basmeih/038.txt (2 verses)
+     • ksu-translations-formatted/ms-basmeih/049.txt (1 verses)
+     • ksu-translations-formatted/ms-basmeih/060.txt (1 verses)
+   nl-siregar:
+     • ksu-translations-formatted/nl-siregar/003.txt (1 verses)
+     • ksu-translations-formatted/nl-siregar/028.txt (2 verses)
+   pr-tagi:
+     • ksu-translations-formatted/pr-tagi/001.txt (7 verses)
+     • ksu-translations-formatted/pr-tagi/002.txt (472 verses)
+     • ksu-translations-formatted/pr-tagi/003.txt (277 verses)
+     • ksu-translations-formatted/pr-tagi/004.txt (295 verses)
+     • ksu-translations-formatted/pr-tagi/005.txt (213 verses)
+     • ksu-translations-formatted/pr-tagi/006.txt (236 verses)
+     • ksu-translations-formatted/pr-tagi/007.txt (283 verses)
+     • ksu-translations-formatted/pr-tagi/008.txt (102 verses)
+     • ksu-translations-formatted/pr-tagi/009.txt (187 verses)
+     • ksu-translations-formatted/pr-tagi/010.txt (143 verses)
+     • ksu-translations-formatted/pr-tagi/011.txt (145 verses)
+     • ksu-translations-formatted/pr-tagi/012.txt (141 verses)
+     • ksu-translations-formatted/pr-tagi/013.txt (65 verses)
+     • ksu-translations-formatted/pr-tagi/014.txt (64 verses)
+     • ksu-translations-formatted/pr-tagi/015.txt (99 verses)
+     • ksu-translations-formatted/pr-tagi/016.txt (152 verses)
+     • ksu-translations-formatted/pr-tagi/017.txt (128 verses)
+     • ksu-translations-formatted/pr-tagi/018.txt (130 verses)
+     • ksu-translations-formatted/pr-tagi/019.txt (100 verses)
+     • ksu-translations-formatted/pr-tagi/020.txt (141 verses)
+     • ksu-translations-formatted/pr-tagi/021.txt (115 verses)
+     • ksu-translations-formatted/pr-tagi/022.txt (103 verses)
+     • ksu-translations-formatted/pr-tagi/023.txt (124 verses)
+     • ksu-translations-formatted/pr-tagi/024.txt (100 verses)
+     • ksu-translations-formatted/pr-tagi/025.txt (79 verses)
+     • ksu-translations-formatted/pr-tagi/026.txt (229 verses)
+     • ksu-translations-formatted/pr-tagi/027.txt (100 verses)
+     • ksu-translations-formatted/pr-tagi/028.txt (110 verses)
+     • ksu-translations-formatted/pr-tagi/029.txt (84 verses)
+     • ksu-translations-formatted/pr-tagi/030.txt (74 verses)
+     • ksu-translations-formatted/pr-tagi/031.txt (42 verses)
+     • ksu-translations-formatted/pr-tagi/032.txt (32 verses)
+     • ksu-translations-formatted/pr-tagi/033.txt (104 verses)
+     • ksu-translations-formatted/pr-tagi/034.txt (66 verses)
+     • ksu-translations-formatted/pr-tagi/035.txt (60 verses)
+     • ksu-translations-formatted/pr-tagi/036.txt (82 verses)
+     • ksu-translations-formatted/pr-tagi/037.txt (183 verses)
+     • ksu-translations-formatted/pr-tagi/038.txt (92 verses)
+     • ksu-translations-formatted/pr-tagi/039.txt (96 verses)
+     • ksu-translations-formatted/pr-tagi/040.txt (99 verses)
+     • ksu-translations-formatted/pr-tagi/041.txt (64 verses)
+     • ksu-translations-formatted/pr-tagi/042.txt (66 verses)
+     • ksu-translations-formatted/pr-tagi/043.txt (89 verses)
+     • ksu-translations-formatted/pr-tagi/044.txt (58 verses)
+     • ksu-translations-formatted/pr-tagi/045.txt (38 verses)
+     • ksu-translations-formatted/pr-tagi/046.txt (45 verses)
+     • ksu-translations-formatted/pr-tagi/047.txt (46 verses)
+     • ksu-translations-formatted/pr-tagi/048.txt (45 verses)
+     • ksu-translations-formatted/pr-tagi/049.txt (28 verses)
+     • ksu-translations-formatted/pr-tagi/050.txt (45 verses)
+     • ksu-translations-formatted/pr-tagi/051.txt (60 verses)
+     • ksu-translations-formatted/pr-tagi/052.txt (49 verses)
+     • ksu-translations-formatted/pr-tagi/053.txt (64 verses)
+     • ksu-translations-formatted/pr-tagi/054.txt (55 verses)
+     • ksu-translations-formatted/pr-tagi/055.txt (77 verses)
+     • ksu-translations-formatted/pr-tagi/056.txt (96 verses)
+     • ksu-translations-formatted/pr-tagi/057.txt (46 verses)
+     • ksu-translations-formatted/pr-tagi/058.txt (35 verses)
+     • ksu-translations-formatted/pr-tagi/059.txt (36 verses)
+     • ksu-translations-formatted/pr-tagi/060.txt (25 verses)
+     • ksu-translations-formatted/pr-tagi/061.txt (18 verses)
+     • ksu-translations-formatted/pr-tagi/062.txt (13 verses)
+     • ksu-translations-formatted/pr-tagi/063.txt (14 verses)
+     • ksu-translations-formatted/pr-tagi/064.txt (21 verses)
+     • ksu-translations-formatted/pr-tagi/065.txt (21 verses)
+     • ksu-translations-formatted/pr-tagi/066.txt (19 verses)
+     • ksu-translations-formatted/pr-tagi/067.txt (30 verses)
+     • ksu-translations-formatted/pr-tagi/068.txt (52 verses)
+     • ksu-translations-formatted/pr-tagi/069.txt (52 verses)
+     • ksu-translations-formatted/pr-tagi/070.txt (44 verses)
+     • ksu-translations-formatted/pr-tagi/071.txt (28 verses)
+     • ksu-translations-formatted/pr-tagi/072.txt (28 verses)
+     • ksu-translations-formatted/pr-tagi/073.txt (24 verses)
+     • ksu-translations-formatted/pr-tagi/074.txt (59 verses)
+     • ksu-translations-formatted/pr-tagi/075.txt (40 verses)
+     • ksu-translations-formatted/pr-tagi/076.txt (31 verses)
+     • ksu-translations-formatted/pr-tagi/077.txt (50 verses)
+     • ksu-translations-formatted/pr-tagi/078.txt (39 verses)
+     • ksu-translations-formatted/pr-tagi/079.txt (46 verses)
+     • ksu-translations-formatted/pr-tagi/080.txt (41 verses)
+     • ksu-translations-formatted/pr-tagi/081.txt (29 verses)
+     • ksu-translations-formatted/pr-tagi/082.txt (19 verses)
+     • ksu-translations-formatted/pr-tagi/083.txt (36 verses)
+     • ksu-translations-formatted/pr-tagi/084.txt (25 verses)
+     • ksu-translations-formatted/pr-tagi/085.txt (22 verses)
+     • ksu-translations-formatted/pr-tagi/086.txt (17 verses)
+     • ksu-translations-formatted/pr-tagi/087.txt (19 verses)
+     • ksu-translations-formatted/pr-tagi/088.txt (26 verses)
+     • ksu-translations-formatted/pr-tagi/089.txt (28 verses)
+     • ksu-translations-formatted/pr-tagi/090.txt (20 verses)
+     • ksu-translations-formatted/pr-tagi/091.txt (15 verses)
+     • ksu-translations-formatted/pr-tagi/092.txt (21 verses)
+     • ksu-translations-formatted/pr-tagi/093.txt (11 verses)
+     • ksu-translations-formatted/pr-tagi/094.txt (8 verses)
+     • ksu-translations-formatted/pr-tagi/095.txt (8 verses)
+     • ksu-translations-formatted/pr-tagi/096.txt (19 verses)
+     • ksu-translations-formatted/pr-tagi/097.txt (5 verses)
+     • ksu-translations-formatted/pr-tagi/098.txt (9 verses)
+     • ksu-translations-formatted/pr-tagi/099.txt (8 verses)
+     • ksu-translations-formatted/pr-tagi/100.txt (11 verses)
+     • ksu-translations-formatted/pr-tagi/101.txt (10 verses)
+     • ksu-translations-formatted/pr-tagi/102.txt (8 verses)
+     • ksu-translations-formatted/pr-tagi/103.txt (2 verses)
+     • ksu-translations-formatted/pr-tagi/104.txt (9 verses)
+     • ksu-translations-formatted/pr-tagi/105.txt (5 verses)
+     • ksu-translations-formatted/pr-tagi/106.txt (4 verses)
+     • ksu-translations-formatted/pr-tagi/107.txt (7 verses)
+     • ksu-translations-formatted/pr-tagi/108.txt (3 verses)
+     • ksu-translations-formatted/pr-tagi/109.txt (6 verses)
+     • ksu-translations-formatted/pr-tagi/110.txt (3 verses)
+     • ksu-translations-formatted/pr-tagi/111.txt (5 verses)
+     • ksu-translations-formatted/pr-tagi/112.txt (4 verses)
+     • ksu-translations-formatted/pr-tagi/113.txt (5 verses)
+     • ksu-translations-formatted/pr-tagi/114.txt (6 verses)
+   sq-nahi:
+     • ksu-translations-formatted/sq-nahi/002.txt (1 verses)
+     • ksu-translations-formatted/sq-nahi/009.txt (1 verses)
+   sv-bernstrom:
+     • ksu-translations-formatted/sv-bernstrom/004.txt (3 verses)
+   ta-tamil:
+     • ksu-translations-formatted/ta-tamil/002.txt (11 verses)
+     • ksu-translations-formatted/ta-tamil/003.txt (2 verses)
+     • ksu-translations-formatted/ta-tamil/004.txt (2 verses)
+     • ksu-translations-formatted/ta-tamil/006.txt (1 verses)
+     • ksu-translations-formatted/ta-tamil/007.txt (7 verses)
+     • ksu-translations-formatted/ta-tamil/009.txt (2 verses)
+     • ksu-translations-formatted/ta-tamil/012.txt (1 verses)
+     • ksu-translations-formatted/ta-tamil/014.txt (1 verses)
+     • ksu-translations-formatted/ta-tamil/016.txt (1 verses)
+     • ksu-translations-formatted/ta-tamil/022.txt (7 verses)
+     • ksu-translations-formatted/ta-tamil/028.txt (9 verses)
+     • ksu-translations-formatted/ta-tamil/035.txt (8 verses)
+     • ksu-translations-formatted/ta-tamil/049.txt (6 verses)
+   th-thai:
+     • ksu-translations-formatted/th-thai/002.txt (1 verses)
+     • ksu-translations-formatted/th-thai/005.txt (2 verses)
+   ur-gl:
+     • ksu-translations-formatted/ur-gl/001.txt (7 verses)
+     • ksu-translations-formatted/ur-gl/002.txt (472 verses)
+     • ksu-translations-formatted/ur-gl/003.txt (274 verses)
+     • ksu-translations-formatted/ur-gl/004.txt (291 verses)
+     • ksu-translations-formatted/ur-gl/005.txt (214 verses)
+     • ksu-translations-formatted/ur-gl/006.txt (236 verses)
+     • ksu-translations-formatted/ur-gl/007.txt (283 verses)
+     • ksu-translations-formatted/ur-gl/008.txt (99 verses)
+     • ksu-translations-formatted/ur-gl/009.txt (183 verses)
+     • ksu-translations-formatted/ur-gl/010.txt (145 verses)
+     • ksu-translations-formatted/ur-gl/011.txt (145 verses)
+     • ksu-translations-formatted/ur-gl/012.txt (141 verses)
+     • ksu-translations-formatted/ur-gl/013.txt (65 verses)
+     • ksu-translations-formatted/ur-gl/014.txt (64 verses)
+     • ksu-translations-formatted/ur-gl/015.txt (99 verses)
+     • ksu-translations-formatted/ur-gl/016.txt (152 verses)
+     • ksu-translations-formatted/ur-gl/017.txt (128 verses)
+     • ksu-translations-formatted/ur-gl/018.txt (130 verses)
+     • ksu-translations-formatted/ur-gl/019.txt (99 verses)
+     • ksu-translations-formatted/ur-gl/020.txt (141 verses)
+     • ksu-translations-formatted/ur-gl/021.txt (115 verses)
+     • ksu-translations-formatted/ur-gl/022.txt (101 verses)
+     • ksu-translations-formatted/ur-gl/023.txt (124 verses)
+     • ksu-translations-formatted/ur-gl/024.txt (100 verses)
+     • ksu-translations-formatted/ur-gl/025.txt (79 verses)
+     • ksu-translations-formatted/ur-gl/026.txt (228 verses)
+     • ksu-translations-formatted/ur-gl/027.txt (100 verses)
+     • ksu-translations-formatted/ur-gl/028.txt (109 verses)
+     • ksu-translations-formatted/ur-gl/029.txt (82 verses)
+     • ksu-translations-formatted/ur-gl/030.txt (73 verses)
+     • ksu-translations-formatted/ur-gl/031.txt (42 verses)
+     • ksu-translations-formatted/ur-gl/032.txt (31 verses)
+     • ksu-translations-formatted/ur-gl/033.txt (102 verses)
+     • ksu-translations-formatted/ur-gl/034.txt (68 verses)
+     • ksu-translations-formatted/ur-gl/035.txt (61 verses)
+     • ksu-translations-formatted/ur-gl/036.txt (82 verses)
+     • ksu-translations-formatted/ur-gl/037.txt (183 verses)
+     • ksu-translations-formatted/ur-gl/038.txt (92 verses)
+     • ksu-translations-formatted/ur-gl/039.txt (96 verses)
+     • ksu-translations-formatted/ur-gl/040.txt (99 verses)
+     • ksu-translations-formatted/ur-gl/041.txt (64 verses)
+     • ksu-translations-formatted/ur-gl/042.txt (66 verses)
+     • ksu-translations-formatted/ur-gl/043.txt (89 verses)
+     • ksu-translations-formatted/ur-gl/044.txt (58 verses)
+     • ksu-translations-formatted/ur-gl/045.txt (38 verses)
+     • ksu-translations-formatted/ur-gl/046.txt (45 verses)
+     • ksu-translations-formatted/ur-gl/047.txt (46 verses)
+     • ksu-translations-formatted/ur-gl/048.txt (45 verses)
+     • ksu-translations-formatted/ur-gl/049.txt (24 verses)
+     • ksu-translations-formatted/ur-gl/050.txt (45 verses)
+     • ksu-translations-formatted/ur-gl/051.txt (60 verses)
+     • ksu-translations-formatted/ur-gl/052.txt (50 verses)
+     • ksu-translations-formatted/ur-gl/053.txt (64 verses)
+     • ksu-translations-formatted/ur-gl/054.txt (55 verses)
+     • ksu-translations-formatted/ur-gl/055.txt (78 verses)
+     • ksu-translations-formatted/ur-gl/056.txt (96 verses)
+     • ksu-translations-formatted/ur-gl/057.txt (45 verses)
+     • ksu-translations-formatted/ur-gl/058.txt (32 verses)
+     • ksu-translations-formatted/ur-gl/059.txt (36 verses)
+     • ksu-translations-formatted/ur-gl/060.txt (24 verses)
+     • ksu-translations-formatted/ur-gl/061.txt (18 verses)
+     • ksu-translations-formatted/ur-gl/062.txt (13 verses)
+     • ksu-translations-formatted/ur-gl/063.txt (14 verses)
+     • ksu-translations-formatted/ur-gl/064.txt (20 verses)
+     • ksu-translations-formatted/ur-gl/065.txt (21 verses)
+     • ksu-translations-formatted/ur-gl/066.txt (18 verses)
+     • ksu-translations-formatted/ur-gl/067.txt (30 verses)
+     • ksu-translations-formatted/ur-gl/068.txt (52 verses)
+     • ksu-translations-formatted/ur-gl/069.txt (52 verses)
+     • ksu-translations-formatted/ur-gl/070.txt (44 verses)
+     • ksu-translations-formatted/ur-gl/071.txt (28 verses)
+     • ksu-translations-formatted/ur-gl/072.txt (28 verses)
+     • ksu-translations-formatted/ur-gl/073.txt (24 verses)
+     • ksu-translations-formatted/ur-gl/074.txt (58 verses)
+     • ksu-translations-formatted/ur-gl/075.txt (40 verses)
+     • ksu-translations-formatted/ur-gl/076.txt (31 verses)
+     • ksu-translations-formatted/ur-gl/077.txt (50 verses)
+     • ksu-translations-formatted/ur-gl/078.txt (40 verses)
+     • ksu-translations-formatted/ur-gl/079.txt (46 verses)
+     • ksu-translations-formatted/ur-gl/080.txt (42 verses)
+     • ksu-translations-formatted/ur-gl/081.txt (29 verses)
+     • ksu-translations-formatted/ur-gl/082.txt (19 verses)
+     • ksu-translations-formatted/ur-gl/083.txt (36 verses)
+     • ksu-translations-formatted/ur-gl/084.txt (25 verses)
+     • ksu-translations-formatted/ur-gl/085.txt (22 verses)
+     • ksu-translations-formatted/ur-gl/086.txt (17 verses)
+     • ksu-translations-formatted/ur-gl/087.txt (19 verses)
+     • ksu-translations-formatted/ur-gl/088.txt (26 verses)
+     • ksu-translations-formatted/ur-gl/089.txt (29 verses)
+     • ksu-translations-formatted/ur-gl/090.txt (20 verses)
+     • ksu-translations-formatted/ur-gl/091.txt (15 verses)
+     • ksu-translations-formatted/ur-gl/092.txt (21 verses)
+     • ksu-translations-formatted/ur-gl/093.txt (11 verses)
+     • ksu-translations-formatted/ur-gl/094.txt (8 verses)
+     • ksu-translations-formatted/ur-gl/095.txt (8 verses)
+     • ksu-translations-formatted/ur-gl/096.txt (19 verses)
+     • ksu-translations-formatted/ur-gl/097.txt (5 verses)
+     • ksu-translations-formatted/ur-gl/098.txt (9 verses)
+     • ksu-translations-formatted/ur-gl/099.txt (8 verses)
+     • ksu-translations-formatted/ur-gl/100.txt (11 verses)
+     • ksu-translations-formatted/ur-gl/101.txt (11 verses)
+     • ksu-translations-formatted/ur-gl/102.txt (8 verses)
+     • ksu-translations-formatted/ur-gl/103.txt (2 verses)
+     • ksu-translations-formatted/ur-gl/104.txt (9 verses)
+     • ksu-translations-formatted/ur-gl/105.txt (5 verses)
+     • ksu-translations-formatted/ur-gl/106.txt (4 verses)
+     • ksu-translations-formatted/ur-gl/107.txt (7 verses)
+     • ksu-translations-formatted/ur-gl/108.txt (3 verses)
+     • ksu-translations-formatted/ur-gl/109.txt (6 verses)
+     • ksu-translations-formatted/ur-gl/110.txt (3 verses)
+     • ksu-translations-formatted/ur-gl/111.txt (5 verses)
+     • ksu-translations-formatted/ur-gl/112.txt (4 verses)
+     • ksu-translations-formatted/ur-gl/113.txt (5 verses)
+     • ksu-translations-formatted/ur-gl/114.txt (6 verses)
+
+================================================================================

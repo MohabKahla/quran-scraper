@@ -1,8 +1,0 @@
-001_00	Cuando la tierra sea sacudida por su propio temblor.
-002_00	Y cuando la tierra expulse lo que pesa en su seno.
-003_00	Y diga el hombre: ¿Qué tiene?
-004_00	Ese día contará lo que sabe
-005_00	porque tu Señor le inspirará.
-006_00	Ese día los hombres saldrán en grupos para ver sus obras:
-007_00	Y el que haya hecho el peso de una brizna de bien, lo verá;
-008_00	y el que haya hecho el peso de una brizna de mal, lo verá.

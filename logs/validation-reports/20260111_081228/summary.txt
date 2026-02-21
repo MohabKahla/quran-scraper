@@ -1,0 +1,58 @@
+================================================================================
+QURAN TRANSLATION VALIDATION REPORT
+================================================================================
+
+Generated: 2026-01-11 08:12:33
+Report location: logs/validation-reports/20260111_081228
+
+================================================================================
+OVERALL SUMMARY
+================================================================================
+
+Total languages validated: 23
+Languages with issues: 22
+Languages perfect: 1
+Total mismatches across all languages: 3682
+
+================================================================================
+BY LANGUAGE
+================================================================================
+
+❌ zh-jian                        -  994 issues (critical:0 moderate:0 minor:81 trivial:913)
+❌ es-navio                       -  365 issues (critical:5 moderate:4 minor:0 trivial:356)
+❌ th-thai                        -  301 issues (critical:0 moderate:0 minor:0 trivial:301)
+❌ ku-asan                        -  236 issues (critical:24 moderate:6 minor:1 trivial:205)
+❌ pr-tagi                        -  194 issues (critical:2 moderate:5 minor:0 trivial:187)
+❌ ur-gl                          -  176 issues (critical:5 moderate:0 minor:0 trivial:171)
+❌ ha-gumi                        -  152 issues (critical:9 moderate:1 minor:0 trivial:142)
+❌ sv-bernstrom                   -  150 issues (critical:0 moderate:0 minor:1 trivial:149)
+❌ bn-bengali                     -  127 issues (critical:1 moderate:5 minor:1 trivial:120)
+❌ bs-korkut                      -  127 issues (critical:5 moderate:1 minor:1 trivial:120)
+❌ pt-elhayek                     -  122 issues (critical:1 moderate:1 minor:0 trivial:120)
+❌ ms-basmeih                     -  119 issues (critical:9 moderate:4 minor:0 trivial:106)
+❌ ta-tamil                       -  116 issues (critical:0 moderate:0 minor:0 trivial:116)
+❌ nl-siregar                     -  112 issues (critical:4 moderate:1 minor:0 trivial:107)
+❌ de-bo                          -   86 issues (critical:4 moderate:3 minor:0 trivial:79)
+❌ id-indonesian                  -   84 issues (critical:4 moderate:1 minor:0 trivial:79)
+❌ tr-diyanet                     -   71 issues (critical:2 moderate:0 minor:0 trivial:69)
+❌ sq-nahi                        -   52 issues (critical:4 moderate:0 minor:0 trivial:48)
+❌ ml-abdulhameed                 -   39 issues (critical:21 moderate:2 minor:0 trivial:16)
+❌ it-piccardo                    -   34 issues (critical:1 moderate:1 minor:0 trivial:32)
+❌ ru-ku                          -   17 issues (critical:1 moderate:0 minor:0 trivial:16)
+❌ sw-barwani                     -    8 issues (critical:0 moderate:0 minor:0 trivial:8)
+✅ uz-sodik                       - Perfect
+
+================================================================================
+RECOMMENDED ACTIONS
+================================================================================
+
+1. Review critical issues (see by-severity/critical.txt)
+2. Run restoration script:
+   python3 scripts/alignment/restore_missing_content_v2.py --all
+
+3. Run word-break fixer for minor issues:
+   python3 scripts/alignment/fix_word_breaks.py --all
+
+4. Re-validate:
+   python3 scripts/validation/generate_validation_reports.py
+

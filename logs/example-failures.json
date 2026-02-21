@@ -1,0 +1,57 @@
+{
+  "translation": "es-navio",
+  "total_failures": 3,
+  "generated_at": "2025-12-07T14:23:45.123456",
+  "failures": [
+    {
+      "verse_key": "002_019",
+      "chapter": 2,
+      "verse_number": 19,
+      "error": "Words added: ['pero', 'también']",
+      "original_translation_splits": {
+        "019_00": "O como el que está en medio de una tormenta donde hay tinieblas, truenos y relámpagos.",
+        "019_01": "El estampido del rayo al caer, les hace taparse los oídos por temor a la muerte.Pero Allah tiene rodeados a los incrédulos."
+      },
+      "arabic_reference_splits": {
+        "019_00": "أَوۡ كَصَيِّبٖ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَٰتٞ وَرَعۡدٞ وَبَرۡقٞ يَجۡعَلُونَ أَصَٰبِعَهُمۡ فِيٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلۡمَوۡتِۚ",
+        "019_01": "وَٱللَّهُ مُحِيطُۢ بِٱلۡكَٰفِرِينَ"
+      },
+      "combined_translation": "O como el que está en medio de una tormenta donde hay tinieblas, truenos y relámpagos. El estampido del rayo al caer, les hace taparse los oídos por temor a la muerte.Pero Allah tiene rodeados a los incrédulos.",
+      "timestamp": "2025-12-07T14:23:30.123456"
+    },
+    {
+      "verse_key": "002_025",
+      "chapter": 2,
+      "verse_number": 25,
+      "error": "Words removed: ['siempre']",
+      "original_translation_splits": {
+        "025_00": "Y dales la buena noticia a los que creen y practican las acciones de bien, de que tendrán jardines por cuyo suelo corren los ríos.",
+        "025_01": "Cada vez que se les provea con frutos de estos jardines para que se alimenten, dirán: Esto es lo mismo que antes se nos daba.",
+        "025_02": "Sin embargo lo que se les dé, sólo será parecido."
+      },
+      "arabic_reference_splits": {
+        "025_00": "وَبَشِّرِ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمۡ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ",
+        "025_01": "كُلَّمَا رُزِقُواْ مِنۡهَا مِن ثَمَرَةٖ رِّزۡقٗا قَالُواْ هَٰذَا ٱلَّذِي رُزِقۡنَا مِن قَبۡلُۖ وَأُتُواْ بِهِۦ مُتَشَٰبِهٗاۖ وَلَهُمۡ فِيهَآ أَزۡوَٰجٞ مُّطَهَّرَةٞۖ",
+        "025_02": "وَهُمۡ فِيهَا خَٰلِدُونَ"
+      },
+      "combined_translation": "Y dales la buena noticia a los que creen y practican las acciones de bien, de que tendrán jardines por cuyo suelo corren los ríos. Cada vez que se les provea con frutos de estos jardines para que se alimenten, dirán: Esto es lo mismo que antes se nos daba. Sin embargo lo que se les dé, sólo será parecido.",
+      "timestamp": "2025-12-07T14:23:32.456789"
+    },
+    {
+      "verse_key": "002_033",
+      "chapter": 2,
+      "verse_number": 33,
+      "error": "Repeated text between splits 0 and 1: {'Dijo'}",
+      "original_translation_splits": {
+        "033_00": "Dijo: ¡Adam!",
+        "033_01": "Dijo: Diles sus nombres."
+      },
+      "arabic_reference_splits": {
+        "033_00": "قَالَ يَٰٓـَٔادَمُ أَنۢبِئۡهُم بِأَسۡمَآئِهِمۡۖ",
+        "033_01": "فَلَمَّآ أَنۢبَأَهُم بِأَسۡمَآئِهِمۡ قَالَ أَلَمۡ أَقُل لَّكُمۡ إِنِّيٓ أَعۡلَمُ غَيۡبَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَأَعۡلَمُ مَا تُبۡدُونَ وَمَا كُنتُمۡ تَكۡتُمُونَ"
+      },
+      "combined_translation": "Dijo: ¡Adam! Dijo: Deles sus nombres.",
+      "timestamp": "2025-12-07T14:23:35.789012"
+    }
+  ]
+}

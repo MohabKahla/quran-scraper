@@ -1,0 +1,895 @@
+{
+  "translation": "de-bo",
+  "total_failures": 52,
+  "generated_at": "2025-12-07T21:23:16.487978",
+  "failures": [
+    {
+      "verse_key": "002_019",
+      "chapter": 2,
+      "verse_number": 19,
+      "error": "Words added: ['die', 'allah', 'umgibt', 'ungläubigen']",
+      "original_translation_splits": {
+        "019_00": "Oder es ist wie ein Gewitterregen, der vom Himmel niedergeht, voller Finsternis, Donner und Blitz.",
+        "019_01": "Sie stecken sich die Finger in die Ohren vor den Donnerschlägen, um dem Tod zu entfliehen,"
+      },
+      "arabic_reference_splits": {
+        "019_00": "أَوۡ كَصَيِّبٖ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَٰتٞ وَرَعۡدٞ وَبَرۡقٞ يَجۡعَلُونَ أَصَٰبِعَهُمۡ فِيٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلۡمَوۡتِۚ",
+        "019_01": "وَٱللَّهُ مُحِيطُۢ بِٱلۡكَٰفِرِينَ ٩١"
+      },
+      "combined_translation": "Oder es ist wie ein Gewitterregen, der vom Himmel niedergeht, voller Finsternis, Donner und Blitz. Sie stecken sich die Finger in die Ohren vor den Donnerschlägen, um dem Tod zu entfliehen,",
+      "timestamp": "2025-12-07T21:23:16.408862"
+    },
+    {
+      "verse_key": "002_057",
+      "chapter": 2,
+      "verse_number": 57,
+      "error": "Words added: ['und', 'sie', 'sie', 'taten', 'taten', 'uns', 'kein', 'unrecht', 'unrecht', 'sondern', 'selbst']",
+      "original_translation_splits": {
+        "057_00": "Und Wir ließen die Wolken euch überschatten und sandten das Manna und die Wachteln auf euch hinab: \"Eßt von",
+        "057_01": "den guten Dingen, mit denen Wir euch versorgt haben."
+      },
+      "arabic_reference_splits": {
+        "057_00": "وَظَلَّلۡنَا عَلَيۡكُمُ ٱلۡغَمَامَ وَأَنزَلۡنَا عَلَيۡكُمُ ٱلۡمَنَّ وَٱلسَّلۡوَىٰۖ كُلُواْ مِن طَيِّبَٰتِ مَا رَزَقۡنَٰكُمۡۚ",
+        "057_01": "وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ ٧٥"
+      },
+      "combined_translation": "Und Wir ließen die Wolken euch überschatten und sandten das Manna und die Wachteln auf euch hinab: \"Eßt von den guten Dingen, mit denen Wir euch versorgt haben.",
+      "timestamp": "2025-12-07T21:23:16.411372"
+    },
+    {
+      "verse_key": "002_118",
+      "chapter": 2,
+      "verse_number": 118,
+      "error": "Words added: ['die', 'ein', 'zeichen', 'wir', 'haben', 'für', 'volk', 'klar', 'gemacht', 'das', 'überzeugt', 'ist']",
+      "original_translation_splits": {
+        "118_00": "Und diejenigen, die nicht Bescheid wissen, sagen: \"O würde Allah doch zu uns sprechen oder käme zu uns ein Zeichen!\" Dergleichen Worte führten schon diejenigen, die vor ihnen waren.",
+        "118_01": "Ihre Herzen sind einander ähnlich."
+      },
+      "arabic_reference_splits": {
+        "118_00": "وَقَالَ ٱلَّذِينَ لَا يَعۡلَمُونَ لَوۡلَا يُكَلِّمُنَا ٱللَّهُ أَوۡ تَأۡتِينَآ ءَايَةٞۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ مِن قَبۡلِهِم مِّثۡلَ قَوۡلِهِمۡۘ تَشَٰبَهَتۡ قُلُوبُهُمۡۗ",
+        "118_01": "قَدۡ بَيَّنَّا ٱلۡأٓيَٰتِ لِقَوۡمٖ يُوقِنُونَ ٨١١"
+      },
+      "combined_translation": "Und diejenigen, die nicht Bescheid wissen, sagen: \"O würde Allah doch zu uns sprechen oder käme zu uns ein Zeichen!\" Dergleichen Worte führten schon diejenigen, die vor ihnen waren. Ihre Herzen sind einander ähnlich.",
+      "timestamp": "2025-12-07T21:23:16.413937"
+    },
+    {
+      "verse_key": "002_173",
+      "chapter": 2,
+      "verse_number": 173,
+      "error": "Words added: ['allah', 'ist', 'in', 'wahrheit', 'allverzeihend', 'barmherzig']",
+      "original_translation_splits": {
+        "173_00": "Verboten hat Er euch nur (den Genuß von) Verendetem, Blut, Schweinefleisch und dem, worüber ein anderer (Name) als Allah(s) angerufen worden ist.",
+        "173_01": "Wer sich aber in einer Zwangslage befindet, ohne zu begehren oder das Maß zu überschreiten, für den ist es keine Sünde."
+      },
+      "arabic_reference_splits": {
+        "173_00": "إِنَّمَا حَرَّمَ عَلَيۡكُمُ ٱلۡمَيۡتَةَ وَٱلدَّمَ وَلَحۡمَ ٱلۡخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيۡرِ ٱللَّهِۖ فَمَنِ ٱضۡطُرَّ غَيۡرَ بَاغٖ وَلَا عَادٖ فَلَآ إِثۡمَ عَلَيۡهِۚ",
+        "173_01": "إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ ٣٧١"
+      },
+      "combined_translation": "Verboten hat Er euch nur (den Genuß von) Verendetem, Blut, Schweinefleisch und dem, worüber ein anderer (Name) als Allah(s) angerufen worden ist. Wer sich aber in einer Zwangslage befindet, ohne zu begehren oder das Maß zu überschreiten, für den ist es keine Sünde.",
+      "timestamp": "2025-12-07T21:23:16.416688"
+    },
+    {
+      "verse_key": "002_212",
+      "chapter": 2,
+      "verse_number": 212,
+      "error": "Words added: ['zui', 'n', 'denjenigen', 'allah', 'versorgt', 'wen', 'er', 'will', 'ohne', 'rechnung']; Words removed: ['ausgeschmückt', 'denen', 'die', 'sind', 'über', 'diejenigen', 'gottesfürchtig', 'werden', 'am', 'tag', 'der', 'auferstehung', 'ihnen', 'stehen']",
+      "original_translation_splits": {
+        "212_00": "Ausgeschmückt ist denen, die ungläubig sind, das diesseitige Leben, und sie spotten über diejenigen, die glauben.",
+        "212_01": "Aber diejenigen, die gottesfürchtig sind, werden am Tag der Auferstehung über ihnen stehen."
+      },
+      "arabic_reference_splits": {
+        "212_00": "زُيِّنَ لِلَّذِينَ كَفَرُواْ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَيَسۡخَرُونَ مِنَ ٱلَّذِينَ ءَامَنُواْۘ وَٱلَّذِينَ ٱتَّقَوۡاْ فَوۡقَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِۗ",
+        "212_01": "وَٱللَّهُ يَرۡزُقُ مَن يَشَآءُ بِغَيۡرِ حِسَابٖ ٢١٢"
+      },
+      "combined_translation": "Ausgeschmückt ist denen, die ungläubig sind, das diesseitige Leben, und sie spotten über diejenigen, die glauben. Aber diejenigen, die gottesfürchtig sind, werden am Tag der Auferstehung über ihnen stehen.",
+      "timestamp": "2025-12-07T21:23:16.418879"
+    },
+    {
+      "verse_key": "002_216",
+      "chapter": 2,
+      "verse_number": 216,
+      "error": "Words added: ['allah', 'weiß', 'ihr', 'nicht', 'wisst']; Words removed: ['ist', 'ist', 'euch', 'euch', 'es', 'vielleicht', 'etwas', 'für', 'lieb', 'schlecht']",
+      "original_translation_splits": {
+        "216_00": "Vorgeschrieben ist euch zu kämpfen, obwohl es euch zuwider ist.",
+        "216_01": "Aber vielleicht ist euch etwas zuwider, während es gut für euch ist, und vielleicht ist euch etwas lieb, während es schlecht für euch ist."
+      },
+      "arabic_reference_splits": {
+        "216_00": "كُتِبَ عَلَيۡكُمُ ٱلۡقِتَالُ وَهُوَ كُرۡهٞ لَّكُمۡۖ وَعَسَىٰٓ أَن تَكۡرَهُواْ شَيۡـٔٗا وَهُوَ خَيۡرٞ لَّكُمۡۖ وَعَسَىٰٓ أَن تُحِبُّواْ شَيۡـٔٗا وَهُوَ شَرّٞ لَّكُمۡۚ",
+        "216_01": "وَٱللَّهُ يَعۡلَمُ وَأَنتُمۡ لَا تَعۡلَمُونَ ٦١٢"
+      },
+      "combined_translation": "Vorgeschrieben ist euch zu kämpfen, obwohl es euch zuwider ist. Aber vielleicht ist euch etwas zuwider, während es gut für euch ist, und vielleicht ist euch etwas lieb, während es schlecht für euch ist.",
+      "timestamp": "2025-12-07T21:23:16.420903"
+    },
+    {
+      "verse_key": "002_221",
+      "chapter": 2,
+      "verse_number": 221,
+      "error": "Words added: ['und', 'sie', 'er', 'erklärt', 'seine', 'zeichen', 'den', 'menschen', 'damit', 'sich', 'erinnern']",
+      "original_translation_splits": {
+        "221_00": "Und heiratet Götzendienerinnen nicht, bevor sie glauben. Und eine gläubige Sklavin ist fürwahr besser als eine Götzendienerin, auch wenn diese euch gefallen sollte.",
+        "221_01": "Und verheiratet nicht (gläubige Frauen) mit Götzendienern, bevor sie glauben.",
+        "221_02": "Und ein gläubiger Sklave ist fürwahr besser als ein Götzendiener, auch wenn dieser euch gefallen sollte."
+      },
+      "arabic_reference_splits": {
+        "221_00": "وَلَا تَنكِحُواْ ٱلۡمُشۡرِكَٰتِ حَتَّىٰ يُؤۡمِنَّۚ وَلَأَمَةٞ مُّؤۡمِنَةٌ خَيۡرٞ مِّن مُّشۡرِكَةٖ وَلَوۡ أَعۡجَبَتۡكُمۡۗ وَلَا تُنكِحُواْ ٱلۡمُشۡرِكِينَ حَتَّىٰ يُؤۡمِنُواْۚ",
+        "221_01": "وَلَعَبۡدٞ مُّؤۡمِنٌ خَيۡرٞ مِّن مُّشۡرِكٖ وَلَوۡ أَعۡجَبَكُمۡۗ أُوْلَٰٓئِكَ يَدۡعُونَ إِلَى ٱلنَّارِۖ وَٱللَّهُ يَدۡعُوٓاْ إِلَى ٱلۡجَنَّةِ وَٱلۡمَغۡفِرَةِ بِإِذۡنِهِۦۖ",
+        "221_02": "وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمۡ يَتَذَكَّرُونَ ١٢٢"
+      },
+      "combined_translation": "Und heiratet Götzendienerinnen nicht, bevor sie glauben. Und eine gläubige Sklavin ist fürwahr besser als eine Götzendienerin, auch wenn diese euch gefallen sollte. Und verheiratet nicht (gläubige Frauen) mit Götzendienern, bevor sie glauben. Und ein gläubiger Sklave ist fürwahr besser als ein Götzendiener, auch wenn dieser euch gefallen sollte.",
+      "timestamp": "2025-12-07T21:23:16.423342"
+    },
+    {
+      "verse_key": "002_229",
+      "chapter": 2,
+      "verse_number": 229,
+      "error": "Words added: ['die', 'die', 'die', 'und', 'es', 'allahs', 'grenzen', 'für', 'wer', 'überschreitet', 'sind', 'ungerechten']",
+      "original_translation_splits": {
+        "229_00": "Die (widerrufliche) Scheidung ist zweimal (erlaubt).",
+        "229_01": "Dann (sollen die Frauen) in rechtlicher Weise behalten oder in ordentlicher Weise freigegeben (werden).",
+        "229_02": "Und es ist euch nicht erlaubt, etwas von dem, was ihr ihnen gegeben habt, (wieder) zu nehmen, außer wenn die beiden fürchten, daß sie Allahs Grenzen nicht einhalten werden.",
+        "229_03": "Wenn ihr aber befürchtet, daß die beiden Allahs Grenzen nicht einhalten werden, dann ist für die beiden keine Sünde in dem, womit (an Geld) sie sich löst."
+      },
+      "arabic_reference_splits": {
+        "229_00": "ٱلطَّلَٰقُ مَرَّتَانِۖ فَإِمۡسَاكُۢ بِمَعۡرُوفٍ أَوۡ تَسۡرِيحُۢ بِإِحۡسَٰنٖۗ",
+        "229_01": "وَلَا يَحِلُّ لَكُمۡ أَن تَأۡخُذُواْ مِمَّآ ءَاتَيۡتُمُوهُنَّ شَيۡـًٔا إِلَّآ أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِۖ",
+        "229_02": "فَإِنۡ خِفۡتُمۡ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَلَا جُنَاحَ عَلَيۡهِمَا فِيمَا ٱفۡتَدَتۡ بِهِۦۗ تِلۡكَ حُدُودُ ٱللَّهِ فَلَا تَعۡتَدُوهَاۚ",
+        "229_03": "وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ ٩٢٢"
+      },
+      "combined_translation": "Die (widerrufliche) Scheidung ist zweimal (erlaubt). Dann (sollen die Frauen) in rechtlicher Weise behalten oder in ordentlicher Weise freigegeben (werden). Und es ist euch nicht erlaubt, etwas von dem, was ihr ihnen gegeben habt, (wieder) zu nehmen, außer wenn die beiden fürchten, daß sie Allahs Grenzen nicht einhalten werden. Wenn ihr aber befürchtet, daß die beiden Allahs Grenzen nicht einhalten werden, dann ist für die beiden keine Sünde in dem, womit (an Geld) sie sich löst.",
+      "timestamp": "2025-12-07T21:23:16.425766"
+    },
+    {
+      "verse_key": "002_231",
+      "chapter": 2,
+      "verse_number": 231,
+      "error": "Words added: ['und', 'und', 'daß', 'über', 'fürchtet', 'allah', 'allah', 'wißt', 'alle', 'dinge', 'bescheid', 'weiß']",
+      "original_translation_splits": {
+        "231_00": "Und wenn ihr euch von Frauen scheidet und sie dann ihre festgesetzte Zeit erreichen, so behaltet sie in rechtlicher Weise oder gebt sie in rechtlicher Weise frei.",
+        "231_01": "Doch behaltet sie nicht mit der Absicht der Schädigung, so daß ihr übertretet.",
+        "231_02": "Wer dies tut, der fügt sich ja selbst Unrecht zu.",
+        "231_03": "Und macht euch nicht über Allahs Zeichen lustig. Und gedenkt Allahs Gunst an euch und dessen, was Er von dem Buch und an Weisheit auf euch herabgesandt hat, um euch damit zu ermahnen."
+      },
+      "arabic_reference_splits": {
+        "231_00": "وَإِذَا طَلَّقۡتُمُ ٱلنِّسَآءَ فَبَلَغۡنَ أَجَلَهُنَّ فَأَمۡسِكُوهُنَّ بِمَعۡرُوفٍ أَوۡ سَرِّحُوهُنَّ بِمَعۡرُوفٖۚ وَلَا تُمۡسِكُوهُنَّ ضِرَارٗا لِّتَعۡتَدُواْۚ",
+        "231_01": "وَمَن يَفۡعَلۡ ذَٰلِكَ فَقَدۡ ظَلَمَ نَفۡسَهُۥۚ وَلَا تَتَّخِذُوٓاْ ءَايَٰتِ ٱللَّهِ هُزُوٗاۚ",
+        "231_02": "وَٱذۡكُرُواْ نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡ وَمَآ أَنزَلَ عَلَيۡكُم مِّنَ ٱلۡكِتَٰبِ وَٱلۡحِكۡمَةِ يَعِظُكُم بِهِۦۚ",
+        "231_03": "وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمٞ ١٣٢"
+      },
+      "combined_translation": "Und wenn ihr euch von Frauen scheidet und sie dann ihre festgesetzte Zeit erreichen, so behaltet sie in rechtlicher Weise oder gebt sie in rechtlicher Weise frei. Doch behaltet sie nicht mit der Absicht der Schädigung, so daß ihr übertretet. Wer dies tut, der fügt sich ja selbst Unrecht zu. Und macht euch nicht über Allahs Zeichen lustig. Und gedenkt Allahs Gunst an euch und dessen, was Er von dem Buch und an Weisheit auf euch herabgesandt hat, um euch damit zu ermahnen.",
+      "timestamp": "2025-12-07T21:23:16.427882"
+    },
+    {
+      "verse_key": "002_259",
+      "chapter": 2,
+      "verse_number": 259,
+      "error": "Words removed: ['an', 'an', 'die', 'die', 'die', 'er', 'sagte', 'wie', 'allah', 'machen', 'nachdem', 'sie', 'sie', 'für', 'hierauf', 'und', 'und', 'und', 'und', 'ich', 'schau', 'schau', 'deinen', 'esel', 'damit', 'wir', 'wir', 'dich', 'zu', 'zu', 'einem', 'zeichen', 'menschen', 'knochen', 'zusammensetzen', 'mit', 'fleisch', 'bekleiden', 'es', 'ihm', 'klar', 'geworden', 'war', 'weiß', 'jetzt', 'daß', 'allem', 'macht', 'hat']",
+      "original_translation_splits": {
+        "259_00": "Oder (kennst du nicht) einen ähnlichen, denjenigen, der an einer Stadt vorbeikam, die wüst in Trümmern lag? Er sagte: \"Wie sollte Allah diese (Stadt) wieder lebendig machen, nachdem sie ausgestorben ist?\" Da ließ Allah ihn (für) hundert Jahre tot sein.",
+        "259_01": "Hierauf erweckte Er ihn und sagte: \"Wie lange hast du verweilt?\" Er sagte: \"Ich verweilte einen Tag oder den Teil eines Tages.\" Er sagte: \"Nein! Vielmehr verweiltest du hundert Jahre. Nun schau deine Speise und dein Getränk an! Sie sind nicht verfault.",
+        "259_02": "Und schau deinen Esel an! - Und damit Wir dich zu einem Zeichen machen für die Menschen. Und schau die Knochen an, wie Wir sie zusammensetzen und sie hierauf mit Fleisch bekleiden!\" Nachdem es ihm klar geworden war, sagte er: \"Ich weiß (jetzt), daß Allah zu allem die Macht hat.\"",
+        "259_03": "Und schau deinen Esel an! - Und damit Wir dich zu einem Zeichen machen für die Menschen. Und schau die Knochen an, wie Wir sie zusammensetzen und sie hierauf mit Fleisch bekleiden!\" Nachdem es ihm klar geworden war, sagte er: \"Ich weiß (jetzt), daß Allah zu allem die Macht hat.\""
+      },
+      "arabic_reference_splits": {
+        "259_00": "أَوۡ كَٱلَّذِي مَرَّ عَلَىٰ قَرۡيَةٖ وَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحۡيِۦ هَٰذِهِ ٱللَّهُ بَعۡدَ مَوۡتِهَاۖ فَأَمَاتَهُ ٱللَّهُ مِاْئَةَ عَامٖ ثُمَّ بَعَثَهُۥۖ",
+        "259_01": "قَالَ كَمۡ لَبِثۡتَۖ قَالَ لَبِثۡتُ يَوۡمًا أَوۡ بَعۡضَ يَوۡمٖۖ قَالَ بَل لَّبِثۡتَ مِاْئَةَ عَامٖ فَٱنظُرۡ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمۡ يَتَسَنَّهۡۖ",
+        "259_02": "وَٱنظُرۡ إِلَىٰ حِمَارِكَ وَلِنَجۡعَلَكَ ءَايَةٗ لِّلنَّاسِۖ وَٱنظُرۡ إِلَى ٱلۡعِظَامِ كَيۡفَ نُنشِزُهَا ثُمَّ نَكۡسُوهَا لَحۡمٗاۚ",
+        "259_03": "فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعۡلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ ٩٥٢"
+      },
+      "combined_translation": "Oder (kennst du nicht) einen ähnlichen, denjenigen, der an einer Stadt vorbeikam, die wüst in Trümmern lag? Er sagte: \"Wie sollte Allah diese (Stadt) wieder lebendig machen, nachdem sie ausgestorben ist?\" Da ließ Allah ihn (für) hundert Jahre tot sein. Hierauf erweckte Er ihn und sagte: \"Wie lange hast du verweilt?\" Er sagte: \"Ich verweilte einen Tag oder den Teil eines Tages.\" Er sagte: \"Nein! Vielmehr verweiltest du hundert Jahre. Nun schau deine Speise und dein Getränk an! Sie sind nicht verfault. Und schau deinen Esel an! - Und damit Wir dich zu einem Zeichen machen für die Menschen. Und schau die Knochen an, wie Wir sie zusammensetzen und sie hierauf mit Fleisch bekleiden!\" Nachdem es ihm klar geworden war, sagte er: \"Ich weiß (jetzt), daß Allah zu allem die Macht hat.\" Und schau deinen Esel an! - Und damit Wir dich zu einem Zeichen machen für die Menschen. Und schau die Knochen an, wie Wir sie zusammensetzen und sie hierauf mit Fleisch bekleiden!\" Nachdem es ihm klar geworden war, sagte er: \"Ich weiß (jetzt), daß Allah zu allem die Macht hat.\"",
+      "timestamp": "2025-12-07T21:23:16.429880"
+    },
+    {
+      "verse_key": "002_265",
+      "chapter": 2,
+      "verse_number": 265,
+      "error": "Words added: ['und', 'derjenigen']; Words removed: ['jener', 'aber']",
+      "original_translation_splits": {
+        "265_00": "Das Gleichnis jener aber, die ihren Besitz im Trachten nach Allahs Zufriedenheit und aus ihrer Gewißheit ausgeben, ist das eines Gartens auf einer Anhöhe, den ein heftiger Regenguß trifft, und da bringt er seinen Ernteertrag zweifach (hervor).",
+        "265_01": "Und wenn ihn kein heftiger Regenguß trifft, so doch Sprühregen."
+      },
+      "arabic_reference_splits": {
+        "265_00": "وَمَثَلُ ٱلَّذِينَ يُنفِقُونَ أَمۡوَٰلَهُمُ ٱبۡتِغَآءَ مَرۡضَاتِ ٱللَّهِ وَتَثۡبِيتٗا مِّنۡ أَنفُسِهِمۡ كَمَثَلِ جَنَّةِۭ بِرَبۡوَةٍ أَصَابَهَا وَابِلٞ",
+        "265_01": "فَـَٔاتَتۡ أُكُلَهَا ضِعۡفَيۡنِ فَإِن لَّمۡ يُصِبۡهَا وَابِلٞ فَطَلّٞۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٌ ٥٦٢"
+      },
+      "combined_translation": "Das Gleichnis jener aber, die ihren Besitz im Trachten nach Allahs Zufriedenheit und aus ihrer Gewißheit ausgeben, ist das eines Gartens auf einer Anhöhe, den ein heftiger Regenguß trifft, und da bringt er seinen Ernteertrag zweifach (hervor). Und wenn ihn kein heftiger Regenguß trifft, so doch Sprühregen.",
+      "timestamp": "2025-12-07T21:23:16.431842"
+    },
+    {
+      "verse_key": "003_187",
+      "chapter": 3,
+      "verse_number": 187,
+      "error": "Words added: ['781']",
+      "original_translation_splits": {
+        "187_00": "Und (gedenkt,) als Allah mit denjenigen, denen die Schrift gegeben worden war, ein Abkommen traf: \"Ihr sollt sie den Menschen ganz gewiß klar machen und",
+        "187_01": "sie nicht verborgen halten! Da warfen sie sie hinter ihren Rücken und verkauften sie für einen geringen Preis; wie schlimm ist das, was sie erkaufen!"
+      },
+      "arabic_reference_splits": {
+        "187_00": "وَإِذۡ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكۡتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمۡ وَٱشۡتَرَوۡاْ بِهِۦ ثَمَنٗا قَلِيلٗاۖ",
+        "187_01": "فَبِئۡسَ مَا يَشۡتَرُونَ ٧٨١"
+      },
+      "combined_translation": "Und (gedenkt,) als Allah mit denjenigen, denen die Schrift gegeben worden war, ein Abkommen traf: \"Ihr sollt sie den Menschen ganz gewiß klar machen und sie nicht verborgen halten! Da warfen sie sie hinter ihren Rücken und verkauften sie für einen geringen Preis; wie schlimm ist das, was sie erkaufen!",
+      "timestamp": "2025-12-07T21:23:16.433711"
+    },
+    {
+      "verse_key": "004_012",
+      "chapter": 4,
+      "verse_number": 12,
+      "error": "Words added: ['und', 'und', 'allah', 'ist', 'allwissend', 'allweise']",
+      "original_translation_splits": {
+        "012_00": "Und euch steht die Hälfte vom dem zu, was eure Gattinnen hinterlassen, wenn sie keine Kinder haben. Wenn sie jedoch Kinder haben, dann steht euch ein Viertel von dem zu, was sie hinterlassen.",
+        "012_01": "(Das alles) nach (Abzug) eines (etwaigen) Vermächtnisses, das sie festgesetzt haben, oder einer Schuld.",
+        "012_02": "Und ihnen steht ein Viertel von dem zu, was ihr hinterlaßt, wenn ihr keine Kinder habt.",
+        "012_03": "Wenn ihr jedoch Kinder habt, dann steht ihnen ein Achtel von dem zu, was ihr hinterlaßt.",
+        "012_04": "(Das alles) nach (Abzug) eines (etwaigen) Vermächtnisses, das ihr festgesetzt habt, oder einer Schuld.",
+        "012_05": "Und wenn ein Mann oder eine Frau ohne Eltern oder Kinder beerbt wird und er (bzw. sie) einen (Halb)bruder oder eine (Halb)schwester (mütterlicherseits) hat, dann steht jedem von beiden ein Sechstel zu."
+      },
+      "arabic_reference_splits": {
+        "012_00": "۞وَلَكُمۡ نِصۡفُ مَا تَرَكَ أَزۡوَٰجُكُمۡ إِن لَّمۡ يَكُن لَّهُنَّ وَلَدٞۚ فَإِن كَانَ لَهُنَّ وَلَدٞ فَلَكُمُ ٱلرُّبُعُ مِمَّا تَرَكۡنَۚ",
+        "012_01": "مِنۢ بَعۡدِ وَصِيَّةٖ يُوصِينَ بِهَآ أَوۡ دَيۡنٖۚ وَلَهُنَّ ٱلرُّبُعُ مِمَّا تَرَكۡتُمۡ إِن لَّمۡ يَكُن لَّكُمۡ وَلَدٞۚ",
+        "012_02": "فَإِن كَانَ لَكُمۡ وَلَدٞ فَلَهُنَّ ٱلثُّمُنُ مِمَّا تَرَكۡتُمۚ مِّنۢ بَعۡدِ وَصِيَّةٖ تُوصُونَ بِهَآ أَوۡ دَيۡنٖۗ",
+        "012_03": "وَإِن كَانَ رَجُلٞ يُورَثُ كَلَٰلَةً أَوِ ٱمۡرَأَةٞ وَلَهُۥٓ أَخٌ أَوۡ أُخۡتٞ فَلِكُلِّ وَٰحِدٖ مِّنۡهُمَا ٱلسُّدُسُۚ",
+        "012_04": "فَإِن كَانُوٓاْ أَكۡثَرَ مِن ذَٰلِكَ فَهُمۡ شُرَكَآءُ فِي ٱلثُّلُثِۚ مِنۢ بَعۡدِ وَصِيَّةٖ يُوصَىٰ بِهَآ أَوۡ دَيۡنٍ غَيۡرَ مُضَآرّٖۚ وَصِيَّةٗ مِّنَ ٱللَّهِۗ",
+        "012_05": "وَٱللَّهُ عَلِيمٌ حَلِيمٞ ٢١"
+      },
+      "combined_translation": "Und euch steht die Hälfte vom dem zu, was eure Gattinnen hinterlassen, wenn sie keine Kinder haben. Wenn sie jedoch Kinder haben, dann steht euch ein Viertel von dem zu, was sie hinterlassen. (Das alles) nach (Abzug) eines (etwaigen) Vermächtnisses, das sie festgesetzt haben, oder einer Schuld. Und ihnen steht ein Viertel von dem zu, was ihr hinterlaßt, wenn ihr keine Kinder habt. Wenn ihr jedoch Kinder habt, dann steht ihnen ein Achtel von dem zu, was ihr hinterlaßt. (Das alles) nach (Abzug) eines (etwaigen) Vermächtnisses, das ihr festgesetzt habt, oder einer Schuld. Und wenn ein Mann oder eine Frau ohne Eltern oder Kinder beerbt wird und er (bzw. sie) einen (Halb)bruder oder eine (Halb)schwester (mütterlicherseits) hat, dann steht jedem von beiden ein Sechstel zu.",
+      "timestamp": "2025-12-07T21:23:16.435438"
+    },
+    {
+      "verse_key": "004_024",
+      "chapter": 4,
+      "verse_number": 24,
+      "error": "Words removed: ['und', 'ist', 'gewiß', 'allah', 'allwissend', 'allweise']",
+      "original_translation_splits": {
+        "024_00": "Und (verboten sind euch) von den Frauen die verheirateten, außer denjenigen, die eure rechte Hand besitzt.",
+        "024_01": "(Dies gilt) als Allahs Vorschrift für euch. Erlaubt ist euch, was darüber hinausgeht, (nämlich) daß ihr mit eurem Besitz (Frauen) begehrt zur Ehe und nicht zur Hurerei (Frauen).",
+        "024_02": "Welche von ihnen ihr dann genossen habt, denen gebt ihren Lohn als Pflichtteil. Es liegt aber keine Sünde für euch darin, daß ihr, nachdem der Pflichtteil (festgelegt) ist, (darüberhinausgehend) euch miteinander einigt.",
+        "024_03": "Gewiß, Allah ist Allwissend und Allweise."
+      },
+      "arabic_reference_splits": {
+        "024_00": "۞وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلَّا مَا مَلَكَتۡ أَيۡمَٰنُكُمۡۖ كِتَٰبَ ٱللَّهِ عَلَيۡكُمۡۚ",
+        "024_01": "وَأُحِلَّ لَكُم مَّا وَرَآءَ ذَٰلِكُمۡ أَن تَبۡتَغُواْ بِأَمۡوَٰلِكُم مُّحۡصِنِينَ غَيۡرَ مُسَٰفِحِينَۚ",
+        "024_02": "فَمَا ٱسۡتَمۡتَعۡتُم بِهِۦ مِنۡهُنَّ فَـَٔاتُوهُنَّ أُجُورَهُنَّ فَرِيضَةٗۚ وَلَا جُنَاحَ عَلَيۡكُمۡ فِيمَا تَرَٰضَيۡتُم بِهِۦ مِنۢ بَعۡدِ ٱلۡفَرِيضَةِۚ",
+        "024_03": "إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمٗا ٤٢"
+      },
+      "combined_translation": "Und (verboten sind euch) von den Frauen die verheirateten, außer denjenigen, die eure rechte Hand besitzt. (Dies gilt) als Allahs Vorschrift für euch. Erlaubt ist euch, was darüber hinausgeht, (nämlich) daß ihr mit eurem Besitz (Frauen) begehrt zur Ehe und nicht zur Hurerei (Frauen). Welche von ihnen ihr dann genossen habt, denen gebt ihren Lohn als Pflichtteil. Es liegt aber keine Sünde für euch darin, daß ihr, nachdem der Pflichtteil (festgelegt) ist, (darüberhinausgehend) euch miteinander einigt. Gewiß, Allah ist Allwissend und Allweise.",
+      "timestamp": "2025-12-07T21:23:16.437166"
+    },
+    {
+      "verse_key": "005_067",
+      "chapter": 5,
+      "verse_number": 67,
+      "error": "Words added: ['yā', 'ayyuhā', 'al', 'al', 'al', 'rasūlu', 'balligh', 'mā', 'unzila', 'ilayka', 'min', 'rabbika', 'inna', 'allāha', 'lā', 'yahdī', 'qawma', 'kāfirīn']; Words removed: ['o', 'du', 'du', 'du', 'gesandter', 'übermittele', 'was', 'zu', 'dir', 'als', 'offenbarung', 'von', 'deinem', 'herrn', 'herabgesandt', 'worden', 'ist', 'wenn', 'es', 'nicht', 'nicht', 'tust', 'so', 'hast', 'seine', 'botschaft', 'übermittelt', 'allah', 'wird', 'dich', 'vor', 'den', 'menschen', 'schützen']",
+      "original_translation_splits": {
+        "067_00": "O du Gesandter, übermittele, was zu dir (als Offenbarung) von deinem Herrn herabgesandt worden ist! Wenn du es nicht tust, so hast du Seine Botschaft nicht übermittelt.",
+        "067_01": "Allah wird dich vor den Menschen schützen."
+      },
+      "arabic_reference_splits": {
+        "067_00": "۞يَٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغۡ مَآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَۖ وَإِن لَّمۡ تَفۡعَلۡ فَمَا بَلَّغۡتَ رِسَالَتَهُۥۚ وَٱللَّهُ يَعۡصِمُكَ مِنَ ٱلنَّاسِۗ",
+        "067_01": "إِنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡكَٰفِرِينَ ٧٦"
+      },
+      "combined_translation": "O du Gesandter, übermittele, was zu dir (als Offenbarung) von deinem Herrn herabgesandt worden ist! Wenn du es nicht tust, so hast du Seine Botschaft nicht übermittelt. Allah wird dich vor den Menschen schützen.",
+      "timestamp": "2025-12-07T21:23:16.438960"
+    },
+    {
+      "verse_key": "007_022",
+      "chapter": 7,
+      "verse_number": 22,
+      "error": "Words added: ['sie', 'von', 'baum', 'und', 'riefen', 'hatte', 'euch', 'euch', 'euer', 'herr', 'nicht', 'gesagt', 'dass', 'ihr', 'diesem', 'fernhalten', 'sollt']",
+      "original_translation_splits": {
+        "022_00": "So verführte er sie trügerisch.",
+        "022_01": "Als sie dann von dem Baum gekostet hatten, zeigte sich ihnen ihre Blöße offenkundig,"
+      },
+      "arabic_reference_splits": {
+        "022_00": "فَدَلَّىٰهُمَا بِغُرُورٖۚ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتۡ لَهُمَا سَوۡءَٰتُهُمَا وَطَفِقَا يَخۡصِفَانِ عَلَيۡهِمَا مِن وَرَقِ ٱلۡجَنَّةِۖ",
+        "022_01": "وَنَادَىٰهُمَا رَبُّهُمَآ أَلَمۡ أَنۡهَكُمَا عَن تِلۡكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيۡطَٰنَ لَكُمَا عَدُوّٞ مُّبِينٞ ٢٢"
+      },
+      "combined_translation": "So verführte er sie trügerisch. Als sie dann von dem Baum gekostet hatten, zeigte sich ihnen ihre Blöße offenkundig,",
+      "timestamp": "2025-12-07T21:23:16.440512"
+    },
+    {
+      "verse_key": "007_033",
+      "chapter": 7,
+      "verse_number": 33,
+      "error": "Words added: ['was', 'und', 'daß', 'ihr', 'ihr', 'allah', 'sagt', 'über', 'nicht', 'wisst']",
+      "original_translation_splits": {
+        "033_00": "Sag: Mein Herr hat nur die Abscheulichkeiten verboten, was von ihnen offen und was verborgen ist; und (auch) die Sünde und die Gewalttätigkeit ohne",
+        "033_01": "Recht, und, daß ihr Allah (etwas) beigesellt, wofür Er keine Ermächtigung herabgesandt hat,"
+      },
+      "arabic_reference_splits": {
+        "033_00": "قُلۡ إِنَّمَا حَرَّمَ رَبِّيَ ٱلۡفَوَٰحِشَ مَا ظَهَرَ مِنۡهَا وَمَا بَطَنَ وَٱلۡإِثۡمَ وَٱلۡبَغۡيَ بِغَيۡرِ ٱلۡحَقِّ وَأَن تُشۡرِكُواْ بِٱللَّهِ مَا لَمۡ يُنَزِّلۡ بِهِۦ سُلۡطَٰنٗا",
+        "033_01": "وَأَن تَقُولُواْ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ ٣٣"
+      },
+      "combined_translation": "Sag: Mein Herr hat nur die Abscheulichkeiten verboten, was von ihnen offen und was verborgen ist; und (auch) die Sünde und die Gewalttätigkeit ohne Recht, und, daß ihr Allah (etwas) beigesellt, wofür Er keine Ermächtigung herabgesandt hat,",
+      "timestamp": "2025-12-07T21:23:16.441957"
+    },
+    {
+      "verse_key": "007_146",
+      "chapter": 7,
+      "verse_number": 146,
+      "error": "Words added: ['von', 'zeichen', 'sie', 'und', 'das', 'ist', 'weil', 'unsere', 'für', 'lügen', 'erklärt', 'haben', 'waren', 'ihnen', 'abgeneigt']",
+      "original_translation_splits": {
+        "146_00": "Ich werde von meinen Zeichen diejenigen abwenden, die auf der Erde ohne Recht hochmütig sind.",
+        "146_01": "Wenn sie auch jedes Zeichen sehen, glauben sie nicht daran.",
+        "146_02": "Und wenn sie den Weg der Besonnenheit sehen, nehmen sie ihn sich nicht zum Weg."
+      },
+      "arabic_reference_splits": {
+        "146_00": "سَأَصۡرِفُ عَنۡ ءَايَٰتِيَ ٱلَّذِينَ يَتَكَبَّرُونَ فِي ٱلۡأَرۡضِ بِغَيۡرِ ٱلۡحَقِّ وَإِن يَرَوۡاْ كُلَّ ءَايَةٖ لَّا يُؤۡمِنُواْ بِهَا",
+        "146_01": "وَإِن يَرَوۡاْ سَبِيلَ ٱلرُّشۡدِ لَا يَتَّخِذُوهُ سَبِيلٗا وَإِن يَرَوۡاْ سَبِيلَ ٱلۡغَيِّ يَتَّخِذُوهُ سَبِيلٗاۚ",
+        "146_02": "ذَٰلِكَ بِأَنَّهُمۡ كَذَّبُواْ بِـَٔايَٰتِنَا وَكَانُواْ عَنۡهَا غَٰفِلِينَ ٦٤١"
+      },
+      "combined_translation": "Ich werde von meinen Zeichen diejenigen abwenden, die auf der Erde ohne Recht hochmütig sind. Wenn sie auch jedes Zeichen sehen, glauben sie nicht daran. Und wenn sie den Weg der Besonnenheit sehen, nehmen sie ihn sich nicht zum Weg.",
+      "timestamp": "2025-12-07T21:23:16.443405"
+    },
+    {
+      "verse_key": "007_150",
+      "chapter": 7,
+      "verse_number": 150,
+      "error": "Words added: ['volk', 'und', 'sagte', 'er', 'bruder', 'mein', 'gewiß', 'der', 'hat', 'mich', 'mich', 'schwach', 'gemacht', 'beinahe', 'hätten', 'sie', 'getötet']",
+      "original_translation_splits": {
+        "150_00": "Als Musa zu seinem Volk zornig und bekümmert zurückkam, sagte er: \"Wie schlimm ist das, was ihr nach mir an meiner Stelle begangen habt!",
+        "150_01": "Wollt ihr den Befehl eures Herrn beschleunigen?",
+        "150_02": "Er warf die Tafeln hin und ergriff seinen Bruder beim Kopf, indem er ihn an sich zog."
+      },
+      "arabic_reference_splits": {
+        "150_00": "وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوۡمِهِۦ غَضۡبَٰنَ أَسِفٗا قَالَ بِئۡسَمَا خَلَفۡتُمُونِي مِنۢ بَعۡدِيٓۖ أَعَجِلۡتُمۡ أَمۡرَ رَبِّكُمۡۖ",
+        "150_01": "وَأَلۡقَى ٱلۡأَلۡوَاحَ وَأَخَذَ بِرَأۡسِ أَخِيهِ يَجُرُّهُۥٓ إِلَيۡهِۚ",
+        "150_02": "قَالَ ٱبۡنَ أُمَّ إِنَّ ٱلۡقَوۡمَ ٱسۡتَضۡعَفُونِي وَكَادُواْ يَقۡتُلُونَنِي فَلَا تُشۡمِتۡ بِيَ ٱلۡأَعۡدَآءَ وَلَا تَجۡعَلۡنِي مَعَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ ٠٥١"
+      },
+      "combined_translation": "Als Musa zu seinem Volk zornig und bekümmert zurückkam, sagte er: \"Wie schlimm ist das, was ihr nach mir an meiner Stelle begangen habt! Wollt ihr den Befehl eures Herrn beschleunigen? Er warf die Tafeln hin und ergriff seinen Bruder beim Kopf, indem er ihn an sich zog.",
+      "timestamp": "2025-12-07T21:23:16.444853"
+    },
+    {
+      "verse_key": "007_179",
+      "chapter": 7,
+      "verse_number": 179,
+      "error": "Words removed: ['die', 'sie', 'jene', 'sind', 'irren', 'noch', 'weiter', 'ab', 'überhaupt', 'unachtsamen']",
+      "original_translation_splits": {
+        "179_00": "Wir haben ja schon viele von den Ginn und den Menschen für die Hölle erschaffen. Sie haben Herzen, mit denen sie nicht verstehen; sie haben Augen, mit denen sie nicht sehen; und sie haben Ohren, mit denen sie nicht hören.",
+        "179_01": "Jene sind wie das Vieh. Aber nein! Sie irren noch weiter ab. Jene sind (überhaupt) die Unachtsamen.",
+        "179_02": "Sie irren noch weiter ab. Jene sind (überhaupt) die Unachtsamen."
+      },
+      "arabic_reference_splits": {
+        "179_00": "وَلَقَدۡ ذَرَأۡنَا لِجَهَنَّمَ كَثِيرٗا مِّنَ ٱلۡجِنِّ وَٱلۡإِنسِۖ",
+        "179_01": "لَهُمۡ قُلُوبٞ لَّا يَفۡقَهُونَ بِهَا وَلَهُمۡ أَعۡيُنٞ لَّا يُبۡصِرُونَ بِهَا وَلَهُمۡ ءَاذَانٞ لَّا يَسۡمَعُونَ بِهَآۚ أُوْلَٰٓئِكَ كَٱلۡأَنۡعَٰمِ بَلۡ هُمۡ أَضَلُّۚ",
+        "179_02": "أُوْلَٰٓئِكَ هُمُ ٱلۡغَٰفِلُونَ ٩٧١"
+      },
+      "combined_translation": "Wir haben ja schon viele von den Ginn und den Menschen für die Hölle erschaffen. Sie haben Herzen, mit denen sie nicht verstehen; sie haben Augen, mit denen sie nicht sehen; und sie haben Ohren, mit denen sie nicht hören. Jene sind wie das Vieh. Aber nein! Sie irren noch weiter ab. Jene sind (überhaupt) die Unachtsamen. Sie irren noch weiter ab. Jene sind (überhaupt) die Unachtsamen.",
+      "timestamp": "2025-12-07T21:23:16.446318"
+    },
+    {
+      "verse_key": "009_093",
+      "chapter": 9,
+      "verse_number": 93,
+      "error": "Words added: ['إ', 'ن', 'ن', 'ن', 'م', 'م', 'ا', 'ٱلس', 'ب', 'ب', 'ب', 'يل', 'ع', 'ع', 'ع', 'ل', 'ى', 'ٱل', 'ٱل', 'ذ', 'ذ', 'ين', 'ي', 'ي', 'س', 'ت', 'ـ', 'ون', 'ون', 'ك', 'ك', 'و', 'و', 'و', 'ه', 'ه', 'ر', 'ض', 'وا', 'وا', 'أ', 'خ', 'ال', 'ف', 'ط', 'ٱلل']; Words removed: ['eine', 'möglichkeit', 'zu', 'zu', 'belangen', 'gibt', 'es', 'nur', 'gegen', 'diejenigen', 'die', 'dich', 'um', 'erlaubnis', 'bitten', 'obwohl', 'sie', 'sie', 'reich', 'sind', 'waren', 'damit', 'zufrieden', 'zusammen', 'mit', 'den', 'zurückbleibenden', 'frauen', 'sein']",
+      "original_translation_splits": {
+        "093_00": "Eine Möglichkeit (zu belangen) gibt es nur gegen diejenigen, die dich um Erlaubnis bitten, obwohl sie reich sind.",
+        "093_01": "Sie waren damit zufrieden, (zusammen) mit den zurückbleibenden Frauen zu sein."
+      },
+      "arabic_reference_splits": {
+        "093_00": "۞إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَسۡتَـٔۡذِنُونَكَ وَهُمۡ أَغۡنِيَآءُۚ",
+        "093_01": "رَضُواْ بِأَن يَكُونُواْ مَعَ ٱلۡخَوَالِفِ وَطَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمۡ فَهُمۡ لَا يَعۡلَمُونَ ٣٩"
+      },
+      "combined_translation": "Eine Möglichkeit (zu belangen) gibt es nur gegen diejenigen, die dich um Erlaubnis bitten, obwohl sie reich sind. Sie waren damit zufrieden, (zusammen) mit den zurückbleibenden Frauen zu sein.",
+      "timestamp": "2025-12-07T21:23:16.447776"
+    },
+    {
+      "verse_key": "010_074",
+      "chapter": 10,
+      "verse_number": 74,
+      "error": "Words added: ['wir', 'so', 'versiegeln', 'die', 'herzen', 'der', 'übertreter']",
+      "original_translation_splits": {
+        "074_00": "Hierauf schickten Wir nach ihm Gesandte zu ihrem (jeweiligen) Volk; sie kamen mit den klaren Beweisen zu ihnen.",
+        "074_01": "Aber sie waren nicht bereit, an das zu glauben, was sie zuvor für Lüge erklärt hatten."
+      },
+      "arabic_reference_splits": {
+        "074_00": "ثُمَّ بَعَثۡنَا مِنۢ بَعۡدِهِۦ رُسُلًا إِلَىٰ قَوۡمِهِمۡ فَجَآءُوهُم بِٱلۡبَيِّنَٰتِ فَمَا كَانُواْ لِيُؤۡمِنُواْ بِمَا كَذَّبُواْ بِهِۦ مِن قَبۡلُۚ",
+        "074_01": "كَذَٰلِكَ نَطۡبَعُ عَلَىٰ قُلُوبِ ٱلۡمُعۡتَدِينَ ٤٧"
+      },
+      "combined_translation": "Hierauf schickten Wir nach ihm Gesandte zu ihrem (jeweiligen) Volk; sie kamen mit den klaren Beweisen zu ihnen. Aber sie waren nicht bereit, an das zu glauben, was sie zuvor für Lüge erklärt hatten.",
+      "timestamp": "2025-12-07T21:23:16.455588"
+    },
+    {
+      "verse_key": "012_023",
+      "chapter": 12,
+      "verse_number": 23,
+      "error": "Words added: ['die', 'gewiß', 'ungerechten', 'werden', 'nicht', 'erfolgreich', 'sein']",
+      "original_translation_splits": {
+        "023_00": "Und diejenige, in deren Haus er war, versuchte, ihn zu verführen'. Sie schloß die Türen ab und sagte: \"Da bin ich für dich!\" Er sagte: \"Allah schütze mich (davor)!",
+        "023_01": "Er, mein Herr, hat mir einen schönen Aufenthalt bereitet."
+      },
+      "arabic_reference_splits": {
+        "023_00": "وَرَٰوَدَتۡهُ ٱلَّتِي هُوَ فِي بَيۡتِهَا عَن نَّفۡسِهِۦ وَغَلَّقَتِ ٱلۡأَبۡوَٰبَ وَقَالَتۡ هَيۡتَ لَكَۚ قَالَ مَعَاذَ ٱللَّهِۖ إِنَّهُۥ رَبِّيٓ أَحۡسَنَ مَثۡوَايَۖ",
+        "023_01": "إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ ٣٢"
+      },
+      "combined_translation": "Und diejenige, in deren Haus er war, versuchte, ihn zu verführen'. Sie schloß die Türen ab und sagte: \"Da bin ich für dich!\" Er sagte: \"Allah schütze mich (davor)! Er, mein Herr, hat mir einen schönen Aufenthalt bereitet.",
+      "timestamp": "2025-12-07T21:23:16.456764"
+    },
+    {
+      "verse_key": "012_088",
+      "chapter": 12,
+      "verse_number": 88,
+      "error": "Words added: ['almosen', 'in', 'wahrheit', 'allah', 'belohnt', 'die', 'die', 'geben']",
+      "original_translation_splits": {
+        "088_00": "Als sie (wieder) bei ihm eintraten, sagten sie: \"O hoher Herr, Unheil ist uns und unseren Angehörigen widerfahren. Und wir haben (nur) Ware von geringem Wert gebracht.",
+        "088_01": "So gib uns (dennoch) volles Maß und gib (es) uns als Almosen."
+      },
+      "arabic_reference_splits": {
+        "088_00": "فَلَمَّا دَخَلُواْ عَلَيۡهِ قَالُواْ يَٰٓأَيُّهَا ٱلۡعَزِيزُ مَسَّنَا وَأَهۡلَنَا ٱلضُّرُّ وَجِئۡنَا بِبِضَٰعَةٖ مُّزۡجَىٰةٖ فَأَوۡفِ لَنَا ٱلۡكَيۡلَ وَتَصَدَّقۡ عَلَيۡنَآۖ",
+        "088_01": "إِنَّ ٱللَّهَ يَجۡزِي ٱلۡمُتَصَدِّقِينَ ٨٨"
+      },
+      "combined_translation": "Als sie (wieder) bei ihm eintraten, sagten sie: \"O hoher Herr, Unheil ist uns und unseren Angehörigen widerfahren. Und wir haben (nur) Ware von geringem Wert gebracht. So gib uns (dennoch) volles Maß und gib (es) uns als Almosen.",
+      "timestamp": "2025-12-07T21:23:16.457941"
+    },
+    {
+      "verse_key": "013_017",
+      "chapter": 13,
+      "verse_number": 17,
+      "error": "Words added: ['danach']; Words removed: ['da', 'nach']",
+      "original_translation_splits": {
+        "017_00": "Er läßt vom Himmel Wasser herabkommen, und dann fließen Täler entsprechend ihrem Maß, daraufhin trägt die Flut aufschwellenden Schaum. Und aus dem, worüber man das Feuer anzündet, im Trachten (da)nach(,) Schmuck oder Gerät (anzufertigen, entsteht) ein ähnlicher Schaum.",
+        "017_01": "So prägt Allah (im Gleichnis) das Wahre und das Falsche.",
+        "017_02": "Was nun den Schaum angeht, so vergeht er nutzlos. Was aber den Menschen nützt, das bleibt in der Erde. So prägt Allah die Gleichnisse."
+      },
+      "arabic_reference_splits": {
+        "017_00": "أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَسَالَتۡ أَوۡدِيَةُۢ بِقَدَرِهَا فَٱحۡتَمَلَ ٱلسَّيۡلُ زَبَدٗا رَّابِيٗاۖ",
+        "017_01": "وَمِمَّا يُوقِدُونَ عَلَيۡهِ فِي ٱلنَّارِ ٱبۡتِغَآءَ حِلۡيَةٍ أَوۡ مَتَٰعٖ زَبَدٞ مِّثۡلُهُۥۚ كَذَٰلِكَ يَضۡرِبُ ٱللَّهُ ٱلۡحَقَّ وَٱلۡبَٰطِلَۚ",
+        "017_02": "فَأَمَّا ٱلزَّبَدُ فَيَذۡهَبُ جُفَآءٗۖ وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ فَيَمۡكُثُ فِي ٱلۡأَرۡضِۚ كَذَٰلِكَ يَضۡرِبُ ٱللَّهُ ٱلۡأَمۡثَالَ ٧١"
+      },
+      "combined_translation": "Er läßt vom Himmel Wasser herabkommen, und dann fließen Täler entsprechend ihrem Maß, daraufhin trägt die Flut aufschwellenden Schaum. Und aus dem, worüber man das Feuer anzündet, im Trachten (da)nach(,) Schmuck oder Gerät (anzufertigen, entsteht) ein ähnlicher Schaum. So prägt Allah (im Gleichnis) das Wahre und das Falsche. Was nun den Schaum angeht, so vergeht er nutzlos. Was aber den Menschen nützt, das bleibt in der Erde. So prägt Allah die Gleichnisse.",
+      "timestamp": "2025-12-07T21:23:16.459133"
+    },
+    {
+      "verse_key": "013_018",
+      "chapter": 13,
+      "verse_number": 18,
+      "error": "Words added: ['ulaika', 'lahum', 'suu', 'ul', 'hisabi', 'wa', 'ma', 'waahum', 'jahannam']",
+      "original_translation_splits": {
+        "018_00": "Für diejenigen, die auf ihren Herrn hören, ist das Beste.",
+        "018_01": "Diejenigen aber, die nicht auf Ihn hören, wenn sie alles hätten, was auf der Erde ist, und noch einmal das Gleiche dazu, würden sie sich sicherlich damit loskaufen."
+      },
+      "arabic_reference_splits": {
+        "018_00": "لِلَّذِينَ ٱسۡتَجَابُواْ لِرَبِّهِمُ ٱلۡحُسۡنَىٰۚ وَٱلَّذِينَ لَمۡ يَسۡتَجِيبُواْ لَهُۥ لَوۡ أَنَّ لَهُم مَّا فِي ٱلۡأَرۡضِ جَمِيعٗا وَمِثۡلَهُۥ مَعَهُۥ لَٱفۡتَدَوۡاْ بِهِۦٓۚ",
+        "018_01": "أُوْلَٰٓئِكَ لَهُمۡ سُوٓءُ ٱلۡحِسَابِ وَمَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمِهَادُ ٨١"
+      },
+      "combined_translation": "Für diejenigen, die auf ihren Herrn hören, ist das Beste. Diejenigen aber, die nicht auf Ihn hören, wenn sie alles hätten, was auf der Erde ist, und noch einmal das Gleiche dazu, würden sie sich sicherlich damit loskaufen.",
+      "timestamp": "2025-12-07T21:23:16.460307"
+    },
+    {
+      "verse_key": "016_028",
+      "chapter": 16,
+      "verse_number": 28,
+      "error": "Words removed: ['die']",
+      "original_translation_splits": {
+        "028_00": "die die Engel abberufen, während sie sich selbst Unrecht zugefügt haben.",
+        "028_01": "Doch, Allah weiß Bescheid über das, was ihr zu tun pflegtet."
+      },
+      "arabic_reference_splits": {
+        "028_00": "ٱلَّذِينَ تَتَوَفَّىٰهُمُ ٱلۡمَلَٰٓئِكَةُ ظَالِمِيٓ أَنفُسِهِمۡۖ فَأَلۡقَوُاْ ٱلسَّلَمَ مَا كُنَّا نَعۡمَلُ مِن سُوٓءِۭۚ بَلَىٰٓۚ",
+        "028_01": "إِنَّ ٱللَّهَ عَلِيمُۢ بِمَا كُنتُمۡ تَعۡمَلُونَ ٨٢"
+      },
+      "combined_translation": "die die Engel abberufen, während sie sich selbst Unrecht zugefügt haben. Doch, Allah weiß Bescheid über das, was ihr zu tun pflegtet.",
+      "timestamp": "2025-12-07T21:23:16.461478"
+    },
+    {
+      "verse_key": "017_064",
+      "chapter": 17,
+      "verse_number": 64,
+      "error": "Words added: ['und', 'ihnen', 'was', 'der', 'satan', 'verspricht', 'ist', 'nur', 'täuschung']",
+      "original_translation_splits": {
+        "064_00": "Und errege, wen von ihnen du (erregen) kannst, mit deiner Stimme, und biete gegen sie deine Reiterei und dein Fußvolk auf, und",
+        "064_01": "habe Anteil an ihrem Besitz und ihren Kindern, und mache ihnen Versprechungen."
+      },
+      "arabic_reference_splits": {
+        "064_00": "وَٱسۡتَفۡزِزۡ مَنِ ٱسۡتَطَعۡتَ مِنۡهُم بِصَوۡتِكَ وَأَجۡلِبۡ عَلَيۡهِم بِخَيۡلِكَ وَرَجِلِكَ وَشَارِكۡهُمۡ فِي ٱلۡأَمۡوَٰلِ وَٱلۡأَوۡلَٰدِ وَعِدۡهُمۡۚ",
+        "064_01": "وَمَا يَعِدُهُمُ ٱلشَّيۡطَٰنُ إِلَّا غُرُورًا ٤٦"
+      },
+      "combined_translation": "Und errege, wen von ihnen du (erregen) kannst, mit deiner Stimme, und biete gegen sie deine Reiterei und dein Fußvolk auf, und habe Anteil an ihrem Besitz und ihren Kindern, und mache ihnen Versprechungen.",
+      "timestamp": "2025-12-07T21:23:16.463704"
+    },
+    {
+      "verse_key": "017_093",
+      "chapter": 17,
+      "verse_number": 93,
+      "error": "Words added: ['cul', 'subhana', 'rabbi', 'hal', 'kuntu', 'illa', 'basharan', 'rasulan', '39']",
+      "original_translation_splits": {
+        "093_00": "oder (bis) du ein Haus aus Gold hast oder in den Himmel aufsteigst.",
+        "093_01": "Und wir werden nicht an deinen Aufstieg glauben, bis du auf uns ein Buch herabsendest, das wir (selbst) lesen (können).."
+      },
+      "arabic_reference_splits": {
+        "093_00": "أَوۡ يَكُونَ لَكَ بَيۡتٞ مِّن زُخۡرُفٍ أَوۡ تَرۡقَىٰ فِي ٱلسَّمَآءِ وَلَن نُّؤۡمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيۡنَا كِتَٰبٗا نَّقۡرَؤُهُۥۗ",
+        "093_01": "قُلۡ سُبۡحَانَ رَبِّي هَلۡ كُنتُ إِلَّا بَشَرٗا رَّسُولٗا ٣٩"
+      },
+      "combined_translation": "oder (bis) du ein Haus aus Gold hast oder in den Himmel aufsteigst. Und wir werden nicht an deinen Aufstieg glauben, bis du auf uns ein Buch herabsendest, das wir (selbst) lesen (können)..",
+      "timestamp": "2025-12-07T21:23:16.464804"
+    },
+    {
+      "verse_key": "022_040",
+      "chapter": 22,
+      "verse_number": 40,
+      "error": "Words added: ['diejenigen']; Words removed: ['ihnen']",
+      "original_translation_splits": {
+        "040_00": "(ihnen), die zu Unrecht aus ihren Wohnstätten vertrieben wurden, nur weil sie sagen: Unser Herr ist Allah.",
+        "040_01": "Und wenn Allah nicht die einen Menschen durch die anderen abgewehrt hätte, so wären fürwahr Mönchsklausen, Kirchen, Bethäuser und Gebetsstätten zerstört worden, in denen Allahs Name häufig genannt wird.",
+        "040_02": "Und Allah wird ganz gewiß denjenigen helfen, die Ihm helfen. Allah ist wahrlich Stark und Allmächtig."
+      },
+      "arabic_reference_splits": {
+        "040_00": "ٱلَّذِينَ أُخۡرِجُواْ مِن دِيَٰرِهِم بِغَيۡرِ حَقٍّ إِلَّآ أَن يَقُولُواْ رَبُّنَا ٱللَّهُۗ",
+        "040_01": "وَلَوۡلَا دَفۡعُ ٱللَّهِ ٱلنَّاسَ بَعۡضَهُم بِبَعۡضٖ لَّهُدِّمَتۡ صَوَٰمِعُ وَبِيَعٞ وَصَلَوَٰتٞ وَمَسَٰجِدُ يُذۡكَرُ فِيهَا ٱسۡمُ ٱللَّهِ كَثِيرٗاۗ",
+        "040_02": "وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓۚ إِنَّ ٱللَّهَ لَقَوِيٌّ عَزِيزٌ ٠٤"
+      },
+      "combined_translation": "(ihnen), die zu Unrecht aus ihren Wohnstätten vertrieben wurden, nur weil sie sagen: Unser Herr ist Allah. Und wenn Allah nicht die einen Menschen durch die anderen abgewehrt hätte, so wären fürwahr Mönchsklausen, Kirchen, Bethäuser und Gebetsstätten zerstört worden, in denen Allahs Name häufig genannt wird. Und Allah wird ganz gewiß denjenigen helfen, die Ihm helfen. Allah ist wahrlich Stark und Allmächtig.",
+      "timestamp": "2025-12-07T21:23:16.465901"
+    },
+    {
+      "verse_key": "023_033",
+      "chapter": 23,
+      "verse_number": 33,
+      "error": "Words added: ['und', 'ihr', 'was', 'trinkt', 'trinkt']",
+      "original_translation_splits": {
+        "033_00": "Und die führende Schar aus seinem Volk, die ungläubig war und die Begegnung mit dem Jenseits für Lüge erklärte und der Wir im diesseitigen Leben üppigen",
+        "033_01": "Wohlstand verliehen hatten, sagte: \"Dieser ist nur ein menschliches Wesen wie ihr, das von dem ißt, was ihr eßt,"
+      },
+      "arabic_reference_splits": {
+        "033_00": "وَقَالَ ٱلۡمَلَأُ مِن قَوۡمِهِ ٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِلِقَآءِ ٱلۡأٓخِرَةِ وَأَتۡرَفۡنَٰهُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا مَا هَٰذَآ إِلَّا بَشَرٞ مِّثۡلُكُمۡ",
+        "033_01": "يَأۡكُلُ مِمَّا تَأۡكُلُونَ مِنۡهُ وَيَشۡرَبُ مِمَّا تَشۡرَبُونَ ٣٣"
+      },
+      "combined_translation": "Und die führende Schar aus seinem Volk, die ungläubig war und die Begegnung mit dem Jenseits für Lüge erklärte und der Wir im diesseitigen Leben üppigen Wohlstand verliehen hatten, sagte: \"Dieser ist nur ein menschliches Wesen wie ihr, das von dem ißt, was ihr eßt,",
+      "timestamp": "2025-12-07T21:23:16.466999"
+    },
+    {
+      "verse_key": "024_031",
+      "chapter": 24,
+      "verse_number": 31,
+      "error": "Words removed: ['zu', 'gläubigen', 'sie', 'schmuck', 'nicht', 'was', 'auf', 'aneinanderschlagen', 'damit', 'bekannt', 'wird', 'von', 'ihrem', 'verborgen', 'tragen', 'wendet', 'euch', 'euch', 'alle', 'reumütig', 'allah', 'ihr', 'daß', 'es', 'wohl', 'ergehen', 'möge']",
+      "original_translation_splits": {
+        "031_00": "Und sag zu den gläubigen Frauen, sie sollen ihre Blicke senken und ihre Scham hüten, ihren Schmuck nicht offen zeigen, außer dem, was (sonst) sichtbar ist.",
+        "031_01": "Und sie sollen ihre Kopftücher auf den Brustschlitz ihres Gewandes schlagen und ihren Schmuck nicht offen zeigen, außer ihren Ehegatten, ihren Vätern, den Vätern ihrer Ehegatten, ihren Söhnen, den Söhnen ihrer Ehegatten, ihren Brüdern, den Söhnen ihrer Brüder und den Söhnen ihrer Schwestern, ihren Frauen, denen, die ihre rechte Hand besitzt, den männlichen Gefolgsleuten, die keinen (Geschlechts)trieb (mehr) haben, den Kindern, die auf die Blöße der Frauen (noch) nicht aufmerksam geworden sind.",
+        "031_02": "Und sie sollen ihre Füße nicht aneinanderschlagen, damit (nicht) bekannt wird, was sie von ihrem Schmuck verborgen tragen.",
+        "031_03": "Wendet euch alle reumütig Allah zu, ihr Gläubigen, auf daß es euch wohl ergehen möge!",
+        "031_04": "aneinanderschlagen, damit (nicht) bekannt wird, was sie von ihrem Schmuck verborgen tragen. Wendet euch alle reumütig Allah zu, ihr Gläubigen, auf daß es euch wohl ergehen möge!"
+      },
+      "arabic_reference_splits": {
+        "031_00": "وَقُل لِّلۡمُؤۡمِنَٰتِ يَغۡضُضۡنَ مِنۡ أَبۡصَٰرِهِنَّ وَيَحۡفَظۡنَ فُرُوجَهُنَّ وَلَا يُبۡدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنۡهَاۖ",
+        "031_01": "وَلۡيَضۡرِبۡنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّۖ",
+        "031_02": "وَلَا يُبۡدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوۡ ءَابَآئِهِنَّ أَوۡ ءَابَآءِ بُعُولَتِهِنَّ أَوۡ أَبۡنَآئِهِنَّ أَوۡ أَبۡنَآءِ بُعُولَتِهِنَّ أَوۡ إِخۡوَٰنِهِنَّ أَوۡ بَنِيٓ إِخۡوَٰنِهِنَّ أَوۡ بَنِيٓ أَخَوَٰتِهِنَّ",
+        "031_03": "أَوۡ نِسَآئِهِنَّ أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيۡرِ أُوْلِي ٱلۡإِرۡبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفۡلِ ٱلَّذِينَ لَمۡ يَظۡهَرُواْ عَلَىٰ عَوۡرَٰتِ ٱلنِّسَآءِۖ",
+        "031_04": "وَلَا يَضۡرِبۡنَ بِأَرۡجُلِهِنَّ لِيُعۡلَمَ مَا يُخۡفِينَ مِن زِينَتِهِنَّۚ وَتُوبُوٓاْ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلۡمُؤۡمِنُونَ لَعَلَّكُمۡ تُفۡلِحُونَ ١٣"
+      },
+      "combined_translation": "Und sag zu den gläubigen Frauen, sie sollen ihre Blicke senken und ihre Scham hüten, ihren Schmuck nicht offen zeigen, außer dem, was (sonst) sichtbar ist. Und sie sollen ihre Kopftücher auf den Brustschlitz ihres Gewandes schlagen und ihren Schmuck nicht offen zeigen, außer ihren Ehegatten, ihren Vätern, den Vätern ihrer Ehegatten, ihren Söhnen, den Söhnen ihrer Ehegatten, ihren Brüdern, den Söhnen ihrer Brüder und den Söhnen ihrer Schwestern, ihren Frauen, denen, die ihre rechte Hand besitzt, den männlichen Gefolgsleuten, die keinen (Geschlechts)trieb (mehr) haben, den Kindern, die auf die Blöße der Frauen (noch) nicht aufmerksam geworden sind. Und sie sollen ihre Füße nicht aneinanderschlagen, damit (nicht) bekannt wird, was sie von ihrem Schmuck verborgen tragen. Wendet euch alle reumütig Allah zu, ihr Gläubigen, auf daß es euch wohl ergehen möge! aneinanderschlagen, damit (nicht) bekannt wird, was sie von ihrem Schmuck verborgen tragen. Wendet euch alle reumütig Allah zu, ihr Gläubigen, auf daß es euch wohl ergehen möge!",
+      "timestamp": "2025-12-07T21:23:16.468120"
+    },
+    {
+      "verse_key": "024_039",
+      "chapter": 24,
+      "verse_number": 39,
+      "error": "Words added: ['ist', 'allah', 'und', 'schnell', 'im', 'rechnen']",
+      "original_translation_splits": {
+        "039_00": "Die Werke derjenigen aber, die ungläubig sind, sind wie eine Luftspiegelung in einer Ebene, die der Durstige für Wasser hält.",
+        "039_01": "Wenn er dann dorthin kommt, findet er, daß es nichts ist; aber er findet Allah da, Der ihm dann seine Abrechnung in vollem Maß zukommen läßt."
+      },
+      "arabic_reference_splits": {
+        "039_00": "وَٱلَّذِينَ كَفَرُوٓاْ أَعۡمَٰلُهُمۡ كَسَرَابِۭ بِقِيعَةٖ يَحۡسَبُهُ ٱلظَّمۡـَٔانُ مَآءً حَتَّىٰٓ إِذَا جَآءَهُۥ لَمۡ يَجِدۡهُ شَيۡـٔٗا وَوَجَدَ ٱللَّهَ عِندَهُۥ فَوَفَّىٰهُ حِسَابَهُۥۗ",
+        "039_01": "وَٱللَّهُ سَرِيعُ ٱلۡحِسَابِ ٩٣"
+      },
+      "combined_translation": "Die Werke derjenigen aber, die ungläubig sind, sind wie eine Luftspiegelung in einer Ebene, die der Durstige für Wasser hält. Wenn er dann dorthin kommt, findet er, daß es nichts ist; aber er findet Allah da, Der ihm dann seine Abrechnung in vollem Maß zukommen läßt.",
+      "timestamp": "2025-12-07T21:23:16.469159"
+    },
+    {
+      "verse_key": "024_041",
+      "chapter": 24,
+      "verse_number": 41,
+      "error": "Words added: ['allah', 'und', 'ist', 'allwissend', 'über', 'das', 'was', 'sie', 'tun']",
+      "original_translation_splits": {
+        "041_00": "Siehst du nicht, daß (alle) Allah preisen, die in den Himmeln und auf der Erde sind, und (auch) die Vögel mit ausgebreiteten Flügeln?",
+        "041_01": "Jeder kennt ja sein Gebet und sein Preisen."
+      },
+      "arabic_reference_splits": {
+        "041_00": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ يُسَبِّحُ لَهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَٱلطَّيۡرُ صَٰٓفَّٰتٖۖ كُلّٞ قَدۡ عَلِمَ صَلَاتَهُۥ وَتَسۡبِيحَهُۥۗ",
+        "041_01": "وَٱللَّهُ عَلِيمُۢ بِمَا يَفۡعَلُونَ ١٤"
+      },
+      "combined_translation": "Siehst du nicht, daß (alle) Allah preisen, die in den Himmeln und auf der Erde sind, und (auch) die Vögel mit ausgebreiteten Flügeln? Jeder kennt ja sein Gebet und sein Preisen.",
+      "timestamp": "2025-12-07T21:23:16.470236"
+    },
+    {
+      "verse_key": "024_058",
+      "chapter": 24,
+      "verse_number": 58,
+      "error": "Words added: ['yā', 'ayyuhā', 'alladhīna', 'alladhīna', 'alladhīna', 'āmanū', 'liyas', 'taʾdhin', 'kum', 'kum', 'malakat', 'aymānukum', 'wa', 'wa', 'wa', 'wa', 'lam', 'yaʿlu', 'l', 'l', 'l', 'ḥulūm', 'min', 'min', 'min', 'fī', 'thalāthati', 'mawāqīt', 'qabli', 'ṣalāti', 'ṣalāti', 'fajr', 'ḥīna', 'taḍaʿūna', 'thiyābakum', 'al', 'ẓuhri', 'baʿda', 'ʿishāʾ', 'laysa', 'ʿalaykum', 'lā', 'ʿalayhim', 'junāḥun', 'baʿdahunna', 'ṭawāf']; Words removed: ['o', 'die', 'die', 'die', 'die', 'die', 'die', 'ihr', 'ihr', 'ihr', 'glaubt', 'diejenigen', 'diejenigen', 'eure', 'eure', 'rechte', 'hand', 'an', 'sklaven', 'besitzt', 'und', 'und', 'und', 'von', 'von', 'euch', 'euch', 'euch', 'euch', 'euch', 'euch', 'noch', 'noch', 'nicht', 'geschlechtsreife', 'erreicht', 'haben', 'sollen', 'zu', 'drei', 'drei', 'zeiten', 'zeiten', 'zeiten', 'um', 'erlaubnis', 'bitten', 'vor', 'dem', 'dem', 'gebet', 'in', 'in', 'der', 'der', 'morgendäm', 'merung', 'wenn', 'zur', 'zeit', 'mittagshitze', 'gewänder', 'ablegt', 'nach', 'abendgebet', 'das', 'das', 'sind', 'denen', 'blößen', 'sichtbar', 'sein', 'könnten', 'es', 'ist', 'außerhalb', 'dieser', 'weder', 'für', 'für', 'sie', 'sie', 'eine', 'sünde', 'gehen', 'oft', 'unter', 'umher', 'tut', 'untereinander', 'so', 'macht', 'allah', 'zeichen', 'klar']",
+      "original_translation_splits": {
+        "058_00": "O die ihr glaubt, diejenigen, die eure rechte Hand (an Sklaven) besitzt, und diejenigen von euch, die noch nicht die Geschlechtsreife erreicht haben, sollen euch zu drei Zeiten um Erlaubnis bitten: vor dem Gebet (in) der Morgendäm merung, wenn ihr zur Zeit der Mittagshitze eure Gewänder ablegt, und nach dem Abendgebet.",
+        "058_01": "Das sind drei (Zeiten, in denen die) Blößen von euch (sichtbar sein könnten).",
+        "058_02": "Es ist außerhalb dieser (Zeiten) weder für euch noch für sie eine Sünde.",
+        "058_03": "Sie gehen oft unter euch umher, und das tut ihr untereinander. So macht Allah euch die Zeichen klar."
+      },
+      "arabic_reference_splits": {
+        "058_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لِيَسۡتَـٔۡذِنكُمُ ٱلَّذِينَ مَلَكَتۡ أَيۡمَٰنُكُمۡ وَٱلَّذِينَ لَمۡ يَبۡلُغُواْ ٱلۡحُلُمَ مِنكُمۡ ثَلَٰثَ مَرَّٰتٖۚ",
+        "058_01": "مِّن قَبۡلِ صَلَوٰةِ ٱلۡفَجۡرِ وَحِينَ تَضَعُونَ ثِيَابَكُم مِّنَ ٱلظَّهِيرَةِ وَمِنۢ بَعۡدِ صَلَوٰةِ ٱلۡعِشَآءِۚ ثَلَٰثُ عَوۡرَٰتٖ لَّكُمۡۚ",
+        "058_02": "لَيۡسَ عَلَيۡكُمۡ وَلَا عَلَيۡهِمۡ جُنَاحُۢ بَعۡدَهُنَّۚ طَوَّٰفُونَ عَلَيۡكُم بَعۡضُكُمۡ عَلَىٰ بَعۡضٖۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلۡأٓيَٰتِۗ",
+        "058_03": "وَٱللَّهُ عَلِيمٌ حَكِيمٞ ٨٥"
+      },
+      "combined_translation": "O die ihr glaubt, diejenigen, die eure rechte Hand (an Sklaven) besitzt, und diejenigen von euch, die noch nicht die Geschlechtsreife erreicht haben, sollen euch zu drei Zeiten um Erlaubnis bitten: vor dem Gebet (in) der Morgendäm merung, wenn ihr zur Zeit der Mittagshitze eure Gewänder ablegt, und nach dem Abendgebet. Das sind drei (Zeiten, in denen die) Blößen von euch (sichtbar sein könnten). Es ist außerhalb dieser (Zeiten) weder für euch noch für sie eine Sünde. Sie gehen oft unter euch umher, und das tut ihr untereinander. So macht Allah euch die Zeichen klar.",
+      "timestamp": "2025-12-07T21:23:16.471275"
+    },
+    {
+      "verse_key": "029_017",
+      "chapter": 29,
+      "verse_number": 17,
+      "error": "Words added: ['versorgen']; Words removed: ['versor', 'gen']",
+      "original_translation_splits": {
+        "017_00": "Ihr dient anstatt Allahs nur Götzen und schafft (dabei nur) ungeheuerliche Lüge. Gewiß, diejenigen, denen ihr anstatt Allahs dient, vermögen euch nicht zu versor gen.",
+        "017_01": "Sucht darum bei Allah die Versorgung und dient Ihm und dankt Ihm. Zu Ihm werdet ihr zurückgebracht."
+      },
+      "arabic_reference_splits": {
+        "017_00": "إِنَّمَا تَعۡبُدُونَ مِن دُونِ ٱللَّهِ أَوۡثَٰنٗا وَتَخۡلُقُونَ إِفۡكًاۚ",
+        "017_01": "إِنَّ ٱلَّذِينَ تَعۡبُدُونَ مِن دُونِ ٱللَّهِ لَا يَمۡلِكُونَ لَكُمۡ رِزۡقٗا فَٱبۡتَغُواْ عِندَ ٱللَّهِ ٱلرِّزۡقَ وَٱعۡبُدُوهُ وَٱشۡكُرُواْ لَهُۥٓۖ إِلَيۡهِ تُرۡجَعُونَ ٧١"
+      },
+      "combined_translation": "Ihr dient anstatt Allahs nur Götzen und schafft (dabei nur) ungeheuerliche Lüge. Gewiß, diejenigen, denen ihr anstatt Allahs dient, vermögen euch nicht zu versor gen. Sucht darum bei Allah die Versorgung und dient Ihm und dankt Ihm. Zu Ihm werdet ihr zurückgebracht.",
+      "timestamp": "2025-12-07T21:23:16.472330"
+    },
+    {
+      "verse_key": "029_063",
+      "chapter": 29,
+      "verse_number": 63,
+      "error": "Words added: ['begreifen']; Words removed: ['be', 'greifen']",
+      "original_translation_splits": {
+        "063_00": "Und wenn du sie fragst, wer vom Himmel Wasser herabkommen läßt und dann damit die Erde nach ihrem Tod wieder lebendig macht, sagen sie ganz gewiß: \"Allah.\" Sag: (Alles) Lob gehört Allah!",
+        "063_01": "Aber nein! Die meisten von ihnen be greifen nicht."
+      },
+      "arabic_reference_splits": {
+        "063_00": "وَلَئِن سَأَلۡتَهُم مَّن نَّزَّلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَحۡيَا بِهِ ٱلۡأَرۡضَ مِنۢ بَعۡدِ مَوۡتِهَا لَيَقُولُنَّ ٱللَّهُۚ قُلِ ٱلۡحَمۡدُ لِلَّهِۚ",
+        "063_01": "بَلۡ أَكۡثَرُهُمۡ لَا يَعۡقِلُونَ ٣٦"
+      },
+      "combined_translation": "Und wenn du sie fragst, wer vom Himmel Wasser herabkommen läßt und dann damit die Erde nach ihrem Tod wieder lebendig macht, sagen sie ganz gewiß: \"Allah.\" Sag: (Alles) Lob gehört Allah! Aber nein! Die meisten von ihnen be greifen nicht.",
+      "timestamp": "2025-12-07T21:23:16.473366"
+    },
+    {
+      "verse_key": "031_015",
+      "chapter": 31,
+      "verse_number": 15,
+      "error": "Words added: ['rechtlicher']; Words removed: ['rechtli', 'cher']",
+      "original_translation_splits": {
+        "015_00": "Wenn sie sich aber darum bemühen, daß du Mir das beigesellst, wovon du kein Wissen hast, dann gehorche ihnen nicht, doch geh mit ihnen im Diesseits in rechtli cher Weise um.",
+        "015_01": "Und folge dem Weg dessen, der sich Mir reuig zuwendet. Zu Mir wird hierauf eure Rückkehr sein, da werde Ich euch kundtun, was ihr zu tun pflegtet."
+      },
+      "arabic_reference_splits": {
+        "015_00": "وَإِن جَٰهَدَاكَ عَلَىٰٓ أَن تُشۡرِكَ بِي مَا لَيۡسَ لَكَ بِهِۦ عِلۡمٞ فَلَا تُطِعۡهُمَاۖ وَصَاحِبۡهُمَا فِي ٱلدُّنۡيَا مَعۡرُوفٗاۖ وَٱتَّبِعۡ سَبِيلَ مَنۡ أَنَابَ إِلَيَّۚ",
+        "015_01": "ثُمَّ إِلَيَّ مَرۡجِعُكُمۡ فَأُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ ٥١"
+      },
+      "combined_translation": "Wenn sie sich aber darum bemühen, daß du Mir das beigesellst, wovon du kein Wissen hast, dann gehorche ihnen nicht, doch geh mit ihnen im Diesseits in rechtli cher Weise um. Und folge dem Weg dessen, der sich Mir reuig zuwendet. Zu Mir wird hierauf eure Rückkehr sein, da werde Ich euch kundtun, was ihr zu tun pflegtet.",
+      "timestamp": "2025-12-07T21:23:16.474414"
+    },
+    {
+      "verse_key": "033_013",
+      "chapter": 33,
+      "verse_number": 13,
+      "error": "Words added: ['und', 'nicht', 'sie', 'sie', 'bitten', 'den', 'propheten', 'um', 'erlaubnis', 'indem', 'sagen', 'wenn', 'wir', 'zurückkehren', 'werden', 'die', 'ungläubigen', 'uns', 'mehr', 'angreifen']",
+      "original_translation_splits": {
+        "013_00": "Und als eine Gruppe von ihnen sagte: \"O ihr Leute von Yatrib, ihr könnt euch (hier) nicht aufhalten.",
+        "013_01": "Kehrt zurück."
+      },
+      "arabic_reference_splits": {
+        "013_00": "وَإِذۡ قَالَت طَّآئِفَةٞ مِّنۡهُمۡ يَٰٓأَهۡلَ يَثۡرِبَ لَا مُقَامَ لَكُمۡ فَٱرۡجِعُواْۚ",
+        "013_01": "وَيَسۡتَـٔۡذِنُ فَرِيقٞ مِّنۡهُمُ ٱلنَّبِيَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوۡرَةٞ وَمَا هِيَ بِعَوۡرَةٍۖ إِن يُرِيدُونَ إِلَّا فِرَارٗا ٣١"
+      },
+      "combined_translation": "Und als eine Gruppe von ihnen sagte: \"O ihr Leute von Yatrib, ihr könnt euch (hier) nicht aufhalten. Kehrt zurück.",
+      "timestamp": "2025-12-07T21:23:16.475453"
+    },
+    {
+      "verse_key": "033_019",
+      "chapter": 33,
+      "verse_number": 19,
+      "error": "Words removed: ['und', 'ist', 'jene', 'haben', 'nicht', 'wirklich', 'geglaubt', 'darum', 'läßt', 'allah', 'allah', 'ihre', 'werke', 'hinfällig', 'werden', 'dies', 'ein', 'leichtes']",
+      "original_translation_splits": {
+        "019_00": "und sind dabei habsüchtig euch gegenüber.",
+        "019_01": "Wenn dann die Angst gewichen ist, verletzen sie euch mit scharfen Zungen aus Habsucht nach dem (erbeuteten) Gut. Jene haben nicht (wirklich) geglaubt; darum läßt Allah ihre Werke hinfällig werden; und dies ist Allah ein leichtes.",
+        "019_02": "Wenn dann die Angst gewichen ist, verletzen sie euch mit scharfen Zungen aus Habsucht nach dem (erbeuteten) Gut. Jene haben nicht (wirklich) geglaubt; darum läßt Allah ihre Werke hinfällig werden; und dies ist Allah ein leichtes."
+      },
+      "arabic_reference_splits": {
+        "019_00": "أَشِحَّةً عَلَيۡكُمۡۖ فَإِذَا جَآءَ ٱلۡخَوۡفُ رَأَيۡتَهُمۡ يَنظُرُونَ إِلَيۡكَ تَدُورُ أَعۡيُنُهُمۡ كَٱلَّذِي يُغۡشَىٰ عَلَيۡهِ مِنَ ٱلۡمَوۡتِۖ",
+        "019_01": "فَإِذَا ذَهَبَ ٱلۡخَوۡفُ سَلَقُوكُم بِأَلۡسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى ٱلۡخَيۡرِۚ أُوْلَٰٓئِكَ لَمۡ يُؤۡمِنُواْ فَأَحۡبَطَ ٱللَّهُ أَعۡمَٰلَهُمۡۚ",
+        "019_02": "وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٗا ٩١"
+      },
+      "combined_translation": "und sind dabei habsüchtig euch gegenüber. Wenn dann die Angst gewichen ist, verletzen sie euch mit scharfen Zungen aus Habsucht nach dem (erbeuteten) Gut. Jene haben nicht (wirklich) geglaubt; darum läßt Allah ihre Werke hinfällig werden; und dies ist Allah ein leichtes. Wenn dann die Angst gewichen ist, verletzen sie euch mit scharfen Zungen aus Habsucht nach dem (erbeuteten) Gut. Jene haben nicht (wirklich) geglaubt; darum läßt Allah ihre Werke hinfällig werden; und dies ist Allah ein leichtes.",
+      "timestamp": "2025-12-07T21:23:16.476436"
+    },
+    {
+      "verse_key": "033_035",
+      "chapter": 33,
+      "verse_number": 35,
+      "error": "Words added: ['fastende']; Words removed: ['männer', 'und', 'und', 'und', 'und', 'frauen', 'frauen', 'fa', 'stende', 'die', 'ihre', 'scham', 'hüten', 'hüten', 'allahs', 'viel', 'gedenkende', 'gedenkende', 'für', 'all', 'sie', 'hat', 'allah', 'vergebung', 'großartigen', 'lohn', 'bereitet']",
+      "original_translation_splits": {
+        "035_00": "Gewiß, muslimische Männer und muslimische Frauen, gläubige Männer und gläubige Frauen, ergebene Männer und ergebene Frauen, wahrhaftige Männer und wahrhaftige Frauen, standhafte Männer und",
+        "035_01": "standhafte Frauen, demütige Männer und demütige Frauen, Almosen gebende Männer und Almosen gebende Frauen, fa stende Männer und fastende Frauen, Männer, die ihre Scham hüten und Frauen, die (ihre Scham) hüten, und Allahs viel gedenkende Männer und gedenkende Frauen für (all) sie hat Allah Vergebung und großartigen Lohn bereitet.",
+        "035_02": "hüten und Frauen, die (ihre Scham) hüten, und Allahs viel gedenkende Männer und gedenkende Frauen für (all) sie hat Allah Vergebung und großartigen Lohn bereitet."
+      },
+      "arabic_reference_splits": {
+        "035_00": "إِنَّ ٱلۡمُسۡلِمِينَ وَٱلۡمُسۡلِمَٰتِ وَٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ وَٱلۡقَٰنِتِينَ وَٱلۡقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ",
+        "035_01": "وَٱلۡخَٰشِعِينَ وَٱلۡخَٰشِعَٰتِ وَٱلۡمُتَصَدِّقِينَ وَٱلۡمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلۡحَٰفِظِينَ فُرُوجَهُمۡ وَٱلۡحَٰفِظَٰتِ",
+        "035_02": "وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرٗا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغۡفِرَةٗ وَأَجۡرًا عَظِيمٗا ٥٣"
+      },
+      "combined_translation": "Gewiß, muslimische Männer und muslimische Frauen, gläubige Männer und gläubige Frauen, ergebene Männer und ergebene Frauen, wahrhaftige Männer und wahrhaftige Frauen, standhafte Männer und standhafte Frauen, demütige Männer und demütige Frauen, Almosen gebende Männer und Almosen gebende Frauen, fa stende Männer und fastende Frauen, Männer, die ihre Scham hüten und Frauen, die (ihre Scham) hüten, und Allahs viel gedenkende Männer und gedenkende Frauen für (all) sie hat Allah Vergebung und großartigen Lohn bereitet. hüten und Frauen, die (ihre Scham) hüten, und Allahs viel gedenkende Männer und gedenkende Frauen für (all) sie hat Allah Vergebung und großartigen Lohn bereitet.",
+      "timestamp": "2025-12-07T21:23:16.477416"
+    },
+    {
+      "verse_key": "033_050",
+      "chapter": 33,
+      "verse_number": 50,
+      "error": "Words removed: ['wir', 'haben', 'gattinnen', 'was', 'was', 'rechte', 'hand', 'an', 'sklavinnen', 'besitzt', 'allah', 'und', 'und', 'und', 'ist', 'wohl', 'ihnen', 'hinsichtlich', 'ihrer', 'dessen', 'ihre', 'verpflichtend', 'gemacht', 'damit', 'für', 'dich', 'kein', 'grund', 'zur', 'bedrängnis', 'bestehe', 'allvergebend', 'barmherzig']",
+      "original_translation_splits": {
+        "050_00": "O Prophet, Wir haben dir (zu heiraten) erlaubt: deine Gattinnen, denen du ihren Lohn gegeben hast, das, was deine rechte Hand (an Sklavinnen) besitzt von dem, was Allah dir als Beute",
+        "050_01": "zugeteilt hat, die Töchter deiner Onkel väterlicherseits und die Töchter deiner Tanten väterlicherseits, die Töchter deiner Onkel mütterlicherseits und die Töchter deiner Tanten mütterlicherseits, die mit dir ausgewandert sind; auch eine (jede) gläubige Frau, wenn sie sich dem Propheten (ohne Gegenforderung) schenkt und falls der Prophet sie heiraten will: Dies ist dir vorbehalten unter Ausschluß der (übrigen) Gläubigen -",
+        "050_02": "Wir wissen wohl, was Wir ihnen hinsichtlich ihrer Gattinnen und dessen, was ihre rechte Hand (an Sklavinnen) besitzt, verpflichtend gemacht haben -, damit für dich kein Grund zur Bedrängnis bestehe. Und Allah ist Allvergebend und Barmherzig.",
+        "050_03": "wohl, was Wir ihnen hinsichtlich ihrer Gattinnen und dessen, was ihre rechte Hand (an Sklavinnen) besitzt, verpflichtend gemacht haben -, damit für dich kein Grund zur Bedrängnis bestehe. Und Allah ist Allvergebend und Barmherzig."
+      },
+      "arabic_reference_splits": {
+        "050_00": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِنَّآ أَحۡلَلۡنَا لَكَ أَزۡوَٰجَكَ ٱلَّٰتِيٓ ءَاتَيۡتَ أُجُورَهُنَّ وَمَا مَلَكَتۡ يَمِينُكَ",
+        "050_01": "مِمَّآ أَفَآءَ ٱللَّهُ عَلَيۡكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّٰتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَٰلَٰتِكَ ٱلَّٰتِي هَاجَرۡنَ مَعَكَ",
+        "050_02": "وَٱمۡرَأَةٗ مُّؤۡمِنَةً إِن وَهَبَتۡ نَفۡسَهَا لِلنَّبِيِّ إِنۡ أَرَادَ ٱلنَّبِيُّ أَن يَسۡتَنكِحَهَا خَالِصَةٗ لَّكَ مِن دُونِ ٱلۡمُؤۡمِنِينَۗ",
+        "050_03": "قَدۡ عَلِمۡنَا مَا فَرَضۡنَا عَلَيۡهِمۡ فِيٓ أَزۡوَٰجِهِمۡ وَمَا مَلَكَتۡ أَيۡمَٰنُهُمۡ لِكَيۡلَا يَكُونَ عَلَيۡكَ حَرَجٞۗ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا ٠٥"
+      },
+      "combined_translation": "O Prophet, Wir haben dir (zu heiraten) erlaubt: deine Gattinnen, denen du ihren Lohn gegeben hast, das, was deine rechte Hand (an Sklavinnen) besitzt von dem, was Allah dir als Beute zugeteilt hat, die Töchter deiner Onkel väterlicherseits und die Töchter deiner Tanten väterlicherseits, die Töchter deiner Onkel mütterlicherseits und die Töchter deiner Tanten mütterlicherseits, die mit dir ausgewandert sind; auch eine (jede) gläubige Frau, wenn sie sich dem Propheten (ohne Gegenforderung) schenkt und falls der Prophet sie heiraten will: Dies ist dir vorbehalten unter Ausschluß der (übrigen) Gläubigen - Wir wissen wohl, was Wir ihnen hinsichtlich ihrer Gattinnen und dessen, was ihre rechte Hand (an Sklavinnen) besitzt, verpflichtend gemacht haben -, damit für dich kein Grund zur Bedrängnis bestehe. Und Allah ist Allvergebend und Barmherzig. wohl, was Wir ihnen hinsichtlich ihrer Gattinnen und dessen, was ihre rechte Hand (an Sklavinnen) besitzt, verpflichtend gemacht haben -, damit für dich kein Grund zur Bedrängnis bestehe. Und Allah ist Allvergebend und Barmherzig.",
+      "timestamp": "2025-12-07T21:23:16.478402"
+    },
+    {
+      "verse_key": "033_052",
+      "chapter": 33,
+      "verse_number": 52,
+      "error": "Words added: ['ausnahme']; Words removed: ['aus', 'nahme']",
+      "original_translation_splits": {
+        "052_00": "Darüber hinaus ist dir weder erlaubt, Frauen zu heiraten noch sie gegen (andere) Gattinnen einzutauschen, auch wenn ihre Schönheit dir gefallen sollte, mit Aus nahme dessen, was deine rechte Hand (an Sklavinnen) besitzt.",
+        "052_01": "Und Allah ist Wächter über alles."
+      },
+      "arabic_reference_splits": {
+        "052_00": "لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعۡدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنۡ أَزۡوَٰجٖ وَلَوۡ أَعۡجَبَكَ حُسۡنُهُنَّ إِلَّا مَا مَلَكَتۡ يَمِينُكَۗ",
+        "052_01": "وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ رَّقِيبٗا ٢٥"
+      },
+      "combined_translation": "Darüber hinaus ist dir weder erlaubt, Frauen zu heiraten noch sie gegen (andere) Gattinnen einzutauschen, auch wenn ihre Schönheit dir gefallen sollte, mit Aus nahme dessen, was deine rechte Hand (an Sklavinnen) besitzt. Und Allah ist Wächter über alles.",
+      "timestamp": "2025-12-07T21:23:16.479388"
+    },
+    {
+      "verse_key": "035_001",
+      "chapter": 35,
+      "verse_number": 1,
+      "error": "Words added: ['alles', 'allah', 'in', 'wahrheit', 'ist', 'über', 'mächtig']",
+      "original_translation_splits": {
+        "001_00": "(Alles) Lob gehört Allah, dem Erschaffer der Himmel und der Erde, Der die Engel zu Gesandten gemacht hat mit Flügeln, (je) zwei, drei und vier!",
+        "001_01": "Er fügt der Schöpfung hinzu, was Er will."
+      },
+      "arabic_reference_splits": {
+        "001_00": "ٱلۡحَمۡدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ جَاعِلِ ٱلۡمَلَٰٓئِكَةِ رُسُلًا أُوْلِيٓ أَجۡنِحَةٖ مَّثۡنَىٰ وَثُلَٰثَ وَرُبَٰعَۚ يَزِيدُ فِي ٱلۡخَلۡقِ مَا يَشَآءُۚ",
+        "001_01": "إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ ١"
+      },
+      "combined_translation": "(Alles) Lob gehört Allah, dem Erschaffer der Himmel und der Erde, Der die Engel zu Gesandten gemacht hat mit Flügeln, (je) zwei, drei und vier! Er fügt der Schöpfung hinzu, was Er will.",
+      "timestamp": "2025-12-07T21:23:16.480372"
+    },
+    {
+      "verse_key": "041_047",
+      "chapter": 41,
+      "verse_number": 47,
+      "error": "Words added: ['keine', 'und', 'am', 'tag', 'an', 'dem', 'er', 'sie', 'sie', 'ruft', 'wo', 'sind', 'meine', 'teilhaber', 'werden', 'sagen', 'wir', 'haben', 'dir', 'antwort', 'gegeben']",
+      "original_translation_splits": {
+        "047_00": "Ihm ist das Wissen um die Stunde vorbehalten.",
+        "047_01": "Keine Früchte kommen aus ihren Hüllen hervor und kein weibliches Wesen wird schwanger und kommt nieder, außer mit Seinem Wissen."
+      },
+      "arabic_reference_splits": {
+        "047_00": "۞إِلَيۡهِ يُرَدُّ عِلۡمُ ٱلسَّاعَةِۚ وَمَا تَخۡرُجُ مِن ثَمَرَٰتٖ مِّنۡ أَكۡمَامِهَا وَمَا تَحۡمِلُ مِنۡ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلۡمِهِۦۚ",
+        "047_01": "وَيَوۡمَ يُنَادِيهِمۡ أَيۡنَ شُرَكَآءِي قَالُوٓاْ ءَاذَنَّٰكَ مَامِنَّا مِن شَهِيدٖ ٧٤"
+      },
+      "combined_translation": "Ihm ist das Wissen um die Stunde vorbehalten. Keine Früchte kommen aus ihren Hüllen hervor und kein weibliches Wesen wird schwanger und kommt nieder, außer mit Seinem Wissen.",
+      "timestamp": "2025-12-07T21:23:16.481351"
+    },
+    {
+      "verse_key": "042_005",
+      "chapter": 42,
+      "verse_number": 5,
+      "error": "Words added: ['der', 'der', 'wahrlich', 'allah', 'ist', 'allverzeihende', 'barmherzige']",
+      "original_translation_splits": {
+        "005_00": "Beinahe brechen die Himmel auseinander von oben her.",
+        "005_01": "Und die Engel lobpreisen ihren Herrn und bitten (Ihn) um Vergebung für diejenigen, die auf der Erde sind."
+      },
+      "arabic_reference_splits": {
+        "005_00": "تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرۡنَ مِن فَوۡقِهِنَّۚ وَٱلۡمَلَٰٓئِكَةُ يُسَبِّحُونَ بِحَمۡدِ رَبِّهِمۡ وَيَسۡتَغۡفِرُونَ لِمَن فِي ٱلۡأَرۡضِۗ",
+        "005_01": "أَلَآ إِنَّ ٱللَّهَ هُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ ٥"
+      },
+      "combined_translation": "Beinahe brechen die Himmel auseinander von oben her. Und die Engel lobpreisen ihren Herrn und bitten (Ihn) um Vergebung für diejenigen, die auf der Erde sind.",
+      "timestamp": "2025-12-07T21:23:16.482295"
+    },
+    {
+      "verse_key": "042_011",
+      "chapter": 42,
+      "verse_number": 11,
+      "error": "Words added: ['er', 'ist', 'der', 'der', 'und', 'hörende', 'sehende']",
+      "original_translation_splits": {
+        "011_00": "(Er ist) der Erschaffer der Himmel und der Erde.",
+        "011_01": "Er hat euch aus euch selbst Gattinnen gemacht, und auch aus dem Vieh Paare, wodurch Er euch vermehrt."
+      },
+      "arabic_reference_splits": {
+        "011_00": "فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ جَعَلَ لَكُم مِّنۡ أَنفُسِكُمۡ أَزۡوَٰجٗا وَمِنَ ٱلۡأَنۡعَٰمِ أَزۡوَٰجٗا يَذۡرَؤُكُمۡ فِيهِۚ لَيۡسَ كَمِثۡلِهِۦ شَيۡءٞۖ",
+        "011_01": "وَهُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ ١١"
+      },
+      "combined_translation": "(Er ist) der Erschaffer der Himmel und der Erde. Er hat euch aus euch selbst Gattinnen gemacht, und auch aus dem Vieh Paare, wodurch Er euch vermehrt.",
+      "timestamp": "2025-12-07T21:23:16.483235"
+    },
+    {
+      "verse_key": "045_017",
+      "chapter": 45,
+      "verse_number": 17,
+      "error": "Words added: ['إ', 'ن', 'ن', 'ر', 'ب', 'ب', 'ك', 'ي', 'ي', 'ي', 'ي', 'ي', 'ق', 'ق', 'ض', 'ه', 'م', 'م', 'م', 'و', 'ٱل', 'ة', 'ف', 'يم', 'ا']",
+      "original_translation_splits": {
+        "017_00": "Und Wir gaben ihnen klare Beweise in der Angelegenheit (der Religion).",
+        "017_01": "Sie wurden aber erst uneinig, nachdem das Wissen zu ihnen gekommen war - aus Mißgunst untereinander."
+      },
+      "arabic_reference_splits": {
+        "017_00": "وَءَاتَيۡنَٰهُم بَيِّنَٰتٖ مِّنَ ٱلۡأَمۡرِۖ فَمَا ٱخۡتَلَفُوٓاْ إِلَّا مِنۢ بَعۡدِ مَا جَآءَهُمُ ٱلۡعِلۡمُ بَغۡيَۢا بَيۡنَهُمۡۚ",
+        "017_01": "إِنَّ رَبَّكَ يَقۡضِي بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كَانُواْ فِيهِ يَخۡتَلِفُونَ ٧١"
+      },
+      "combined_translation": "Und Wir gaben ihnen klare Beweise in der Angelegenheit (der Religion). Sie wurden aber erst uneinig, nachdem das Wissen zu ihnen gekommen war - aus Mißgunst untereinander.",
+      "timestamp": "2025-12-07T21:23:16.484176"
+    },
+    {
+      "verse_key": "046_033",
+      "chapter": 46,
+      "verse_number": 33,
+      "error": "Words added: ['lebendig']; Words removed: ['le', 'bendig']",
+      "original_translation_splits": {
+        "033_00": "Sehen sie denn nicht, daß Allah, Der die Himmel und die Erde erschaffen hat und bei ihrer Erschaffung nicht ermüdet ist, (auch) die Macht hat, die Toten wieder le bendig zu machen?",
+        "033_01": "Ja doch, gewiß, Er hat zu allem die Macht."
+      },
+      "arabic_reference_splits": {
+        "033_00": "أَوَلَمۡ يَرَوۡاْ أَنَّ ٱللَّهَ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَلَمۡ يَعۡيَ بِخَلۡقِهِنَّ بِقَٰدِرٍ عَلَىٰٓ أَن يُحۡـِۧيَ ٱلۡمَوۡتَىٰۚ بَلَىٰٓۚ",
+        "033_01": "إِنَّهُۥ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ ٣٣"
+      },
+      "combined_translation": "Sehen sie denn nicht, daß Allah, Der die Himmel und die Erde erschaffen hat und bei ihrer Erschaffung nicht ermüdet ist, (auch) die Macht hat, die Toten wieder le bendig zu machen? Ja doch, gewiß, Er hat zu allem die Macht.",
+      "timestamp": "2025-12-07T21:23:16.485117"
+    },
+    {
+      "verse_key": "047_015",
+      "chapter": 47,
+      "verse_number": 15,
+      "error": "Words removed: ['das', 'der', 'sind', 'wasser', 'wird', 'und', 'trinken', 'diese', 'denn', 'jemandem', 'gleich', 'im', 'höllen', 'feuer', 'ewig', 'bleibt', 'dem', 'heißes', 'zu', 'gegeben', 'seine', 'gedärme', 'zerreißt']",
+      "original_translation_splits": {
+        "015_00": "Das Gleichnis des (Paradies)gartens, der den Gottesfürchtigen versprochen ist: Darin sind Bäche mit Wasser, das nicht schal wird, und Bäche mit Milch, deren Geschmack sich nicht ändert, und Bäche mit Wein, der köstlich ist für diejenigen, die (davon) trinken, und Bäche mit geklärtem Honig.",
+        "015_01": "Und sie haben darin von allen Früchten und Vergebung von ihrem Herrn. (Sind diese denn) jemandem gleich, der im (Höllen)feuer ewig bleibt und dem heißes Wasser zu trinken gegeben wird, das seine Gedärme zerreißt?",
+        "015_02": "(Sind diese denn) jemandem gleich, der im (Höllen)feuer ewig bleibt und dem heißes Wasser zu trinken gegeben wird, das seine Gedärme zerreißt?"
+      },
+      "arabic_reference_splits": {
+        "015_00": "مَّثَلُ ٱلۡجَنَّةِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۖ",
+        "015_01": "فِيهَآ أَنۡهَٰرٞ مِّن مَّآءٍ غَيۡرِ ءَاسِنٖ وَأَنۡهَٰرٞ مِّن لَّبَنٖ لَّمۡ يَتَغَيَّرۡ طَعۡمُهُۥ وَأَنۡهَٰرٞ مِّنۡ خَمۡرٖ لَّذَّةٖ لِّلشَّٰرِبِينَ وَأَنۡهَٰرٞ مِّنۡ عَسَلٖ مُّصَفّٗىۖ",
+        "015_02": "وَلَهُمۡ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغۡفِرَةٞ مِّن رَّبِّهِمۡۖ كَمَنۡ هُوَ خَٰلِدٞ فِي ٱلنَّارِ وَسُقُواْ مَآءً حَمِيمٗا فَقَطَّعَ أَمۡعَآءَهُمۡ ٥١"
+      },
+      "combined_translation": "Das Gleichnis des (Paradies)gartens, der den Gottesfürchtigen versprochen ist: Darin sind Bäche mit Wasser, das nicht schal wird, und Bäche mit Milch, deren Geschmack sich nicht ändert, und Bäche mit Wein, der köstlich ist für diejenigen, die (davon) trinken, und Bäche mit geklärtem Honig. Und sie haben darin von allen Früchten und Vergebung von ihrem Herrn. (Sind diese denn) jemandem gleich, der im (Höllen)feuer ewig bleibt und dem heißes Wasser zu trinken gegeben wird, das seine Gedärme zerreißt? (Sind diese denn) jemandem gleich, der im (Höllen)feuer ewig bleibt und dem heißes Wasser zu trinken gegeben wird, das seine Gedärme zerreißt?",
+      "timestamp": "2025-12-07T21:23:16.486061"
+    },
+    {
+      "verse_key": "058_012",
+      "chapter": 58,
+      "verse_number": 12,
+      "error": "Words added: ['ihr', 'wenn', 'ist', 'und', 'es', 'nicht', 'tut', 'so', 'allah', 'verzeihend', 'barmherzig']",
+      "original_translation_splits": {
+        "012_00": "O die ihr glaubt, wenn ihr mit dem Gesandten vertraulich sprechen wollt, dann gebt schon vor eurem vertraulichen Gespräch ein Almosen.",
+        "012_01": "Das ist besser und reiner für euch."
+      },
+      "arabic_reference_splits": {
+        "012_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا نَٰجَيۡتُمُ ٱلرَّسُولَ فَقَدِّمُواْ بَيۡنَ يَدَيۡ نَجۡوَىٰكُمۡ صَدَقَةٗۚ ذَٰلِكَ خَيۡرٞ لَّكُمۡ وَأَطۡهَرُۚ",
+        "012_01": "فَإِن لَّمۡ تَجِدُواْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ ٢١"
+      },
+      "combined_translation": "O die ihr glaubt, wenn ihr mit dem Gesandten vertraulich sprechen wollt, dann gebt schon vor eurem vertraulichen Gespräch ein Almosen. Das ist besser und reiner für euch.",
+      "timestamp": "2025-12-07T21:23:16.487023"
+    },
+    {
+      "verse_key": "063_004",
+      "chapter": 63,
+      "verse_number": 4,
+      "error": "Words removed: ['sie', 'sie', 'meinen', 'jeder', 'schrei', 'sei', 'gegen']",
+      "original_translation_splits": {
+        "004_00": "Und wenn du sie siehst, gefällt dir ihr Äußeres, und wenn sie reden, hörst du ihren Worten zu. Sie sind wie angelehnte Hölzer. Sie meinen, jeder Schrei sei gegen sie.",
+        "004_01": "Sie sind die (wahren) Feinde; so sieh dich vor ihnen vor. Allah bekämpfe sie! Wie sie sich (doch) abwendig machen lassen!"
+      },
+      "arabic_reference_splits": {
+        "004_00": "۞وَإِذَا رَأَيۡتَهُمۡ تُعۡجِبُكَ أَجۡسَامُهُمۡۖ وَإِن يَقُولُواْ تَسۡمَعۡ لِقَوۡلِهِمۡۖ كَأَنَّهُمۡ خُشُبٞ مُّسَنَّدَةٞۖ يَحۡسَبُونَ كُلَّ صَيۡحَةٍ عَلَيۡهِمۡۚ",
+        "004_01": "هُمُ ٱلۡعَدُوُّ فَٱحۡذَرۡهُمۡۚ قَٰتَلَهُمُ ٱللَّهُۖ أَنَّىٰ يُؤۡفَكُونَ ٤"
+      },
+      "combined_translation": "Und wenn du sie siehst, gefällt dir ihr Äußeres, und wenn sie reden, hörst du ihren Worten zu. Sie sind wie angelehnte Hölzer. Sie meinen, jeder Schrei sei gegen sie. Sie sind die (wahren) Feinde; so sieh dich vor ihnen vor. Allah bekämpfe sie! Wie sie sich (doch) abwendig machen lassen!",
+      "timestamp": "2025-12-07T21:23:16.487976"
+    }
+  ]
+}

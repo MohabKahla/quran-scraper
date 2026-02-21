@@ -1,0 +1,313 @@
+================================================================================
+VALIDATION REPORT: sq-nahi
+================================================================================
+
+Total mismatches: 38
+
+By severity:
+  Critical (<80%):  0
+  Moderate (80-95%): 0
+  Minor (95-99%):   0
+  Trivial (>99%):   38
+
+================================================================================
+ISSUES BY CHAPTER
+================================================================================
+
+
+Chapter 002: 7 issues
+--------------------------------------------------------------------------------
+
+Verse 057 - Similarity: 99.8%
+  Original (206 chars):
+    Dhe Ne bëmë që reja t’ju bëjë hije dhe u dërguam – men – (një lloj ushqimi i ëmbël) dhe zogj (si fël...
+  Formatted (207 chars):
+    Dhe Ne bëmë që reja t’ju bëjë hije dhe u dërguam – men – (një lloj ushqimi i ëmbël) dhe zogj (si fël...
+
+Verse 067 - Similarity: 99.8%
+  Original (253 chars):
+    E, kur Musai i tha kombit të vet: “Perëndia, me të vërrtetë ju urdhëron të therrni një lopë”, - ata ...
+  Formatted (254 chars):
+    E, kur Musai i tha kombit të vet: “Perëndia, me të vërrtetë ju urdhëron të therrni një lopë”, - ata ...
+
+Verse 151 - Similarity: 99.8%
+  Original (248 chars):
+    Sikundër që ua kam plotësuar dhuntinë Time, ashtu (dhunti) ju kam dërguar një Pejgamber, nga mesi ju...
+  Formatted (249 chars):
+    Sikundër që ua kam plotësuar dhuntinë Time, ashtu (dhunti) ju kam dërguar një Pejgamber, nga mesi ju...
+
+Verse 158 - Similarity: 99.8%
+  Original (232 chars):
+    Safaja dhe Merva janë shenja të fesë së Perëndisë, prandaj ai që viziton Qaben ose bën Umre, s’ka ku...
+  Formatted (233 chars):
+    Safaja dhe Merva janë shenja të fesë së Perëndisë, prandaj ai që viziton Qaben ose bën Umre, s’ka ku...
+
+Verse 159 - Similarity: 99.8%
+  Original (247 chars):
+    Me të vërtetë, ata që fshehin dokumenta Tona të qarta, që i kemi shpallur Ne, dhe orientimin e drejt...
+  Formatted (248 chars):
+    Me të vërtetë, ata që fshehin dokumenta Tona të qarta, që i kemi shpallur Ne, dhe orientimin e drejt...
+
+Verse 164 - Similarity: 99.8%
+  Original (446 chars):
+    Me të vërtetë në krijimin e qiejve dhe të Tokës, në ndryshim të natës dhe të ditës; në anijet që lun...
+  Formatted (448 chars):
+    Me të vërtetë në krijimin e qiejve dhe të Tokës, në ndryshim të natës dhe të ditës; në anijet që lun...
+
+Verse 177 - Similarity: 99.8%
+  Original (687 chars):
+    Mirësia, nuk është të kthyerit e fytyrës suaj kah lindja dhe perëndimi, por, mirësi është kur (njeri...
+  Formatted (690 chars):
+    Mirësia, nuk është të kthyerit e fytyrës suaj kah lindja dhe perëndimi, por, mirësi është kur (njeri...
+
+Chapter 003: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 061 - Similarity: 99.8%
+  Original (274 chars):
+    Kushdo që të bëjë polemikë me ty për çështje të Isait, pasi të ka ardhur njohuria, thuaj: “Ejani, (e...
+  Formatted (275 chars):
+    Kushdo që të bëjë polemikë me ty për çështje të Isait, pasi të ka ardhur njohuria, thuaj: “Ejani, (e...
+
+Verse 064 - Similarity: 99.8%
+  Original (304 chars):
+    Thuaj: “O ithtarët e Librit, kujtonie tregimin, që është për ne dhe për ju: “T’i shërbejmë vetëm Per...
+  Formatted (305 chars):
+    Thuaj: “O ithtarët e Librit, kujtonie tregimin, që është për ne dhe për ju: “T’i shërbejmë vetëm Per...
+
+Chapter 004: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 015 - Similarity: 99.8%
+  Original (221 chars):
+    Për ato gra tuaja që bëjnë kurvni, kërkoni që të dëshmojnë për këtë gjë katër vetë prej jush; nëse d...
+  Formatted (222 chars):
+    Për ato gra tuaja që bëjnë kurvni, kërkoni që të dëshmojnë për këtë gjë katër vetë prej jush; nëse d...
+
+Chapter 005: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 110 - Similarity: 99.8%
+  Original (633 chars):
+    (Kujtoje o Muhammed!), kur Perëndia tha: “O Isa, i biri i Merjemës, kutjoje mirësinë Time ndaj teje ...
+  Formatted (635 chars):
+    (Kujtoje o Muhammed!), kur Perëndia tha: “O Isa, i biri i Merjemës, kutjoje mirësinë Time ndaj teje ...
+
+Verse 112 - Similarity: 99.7%
+  Original (153 chars):
+    E, kur apostujt thanë: “O Isa, i biri i Merjemës, a mundet Zot’i yt të na zbresë një sofër prej qiel...
+  Formatted (154 chars):
+    E, kur apostujt thanë: “O Isa, i biri i Merjemës, a mundet Zot’i yt të na zb resë një sofër prej qie...
+
+Verse 116 - Similarity: 99.8%
+  Original (274 chars):
+    E, kur Perëndia thotë: “O Isa, i bir’i Merjemës, a mos ti u ke thënë njerëzve: “Merrmëni mua dhe nën...
+  Formatted (275 chars):
+    E, kur Perëndia thotë: “O Isa, i bir’i Merjemës, a mos ti u ke thënë njerëzve: “Merrmëni mu a dhe në...
+
+Chapter 006: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 146 - Similarity: 99.7%
+  Original (364 chars):
+    Na ua kei ndaluar Hebrenjve të gjitha shtazët që kanë thonj (kthetra), ndërsa nga lopët e delet, për...
+  Formatted (366 chars):
+    Na ua kei ndaluar Hebrenjve të gjitha shtazët që kanë thonj (kthetra), ndërsa nga lopët e delet, për...
+
+Chapter 007: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 087 - Similarity: 99.7%
+  Original (158 chars):
+    Nëse, një grup i juaj beson në profetninë time, a një grup tjetër nuk beson, duroni, derisa Perëndia...
+  Formatted (159 chars):
+    Nëse, një grup i juaj beson në profetninë time, a një grup tjetër nuk beson, du roni, derisa Perëndi...
+
+Chapter 010: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 022 - Similarity: 99.9%
+  Original (393 chars):
+    Ai ua mundëson të udhëtoni nëpër tokë dhe det. E, kur ju të gjendeni në barkë (anije) dhe ajo lundro...
+  Formatted (394 chars):
+    Ai ua mundëson të udhëtoni nëpër tokë dhe det. E, kur ju të gjendeni në barkë (anije) dhe ajo lundro...
+
+Chapter 011: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 043 - Similarity: 99.8%
+  Original (237 chars):
+    (I biri) tha: “Unë do të strehohem në bjeshkën, e cila do të më ruajë nga uji”, (e Nuhu) tha: “Sot a...
+  Formatted (238 chars):
+    (I biri) tha: “Unë do të strehohem në bjeshkën, e cila do të më ruajë nga uji”, (e Nuhu) tha: “Sot a...
+
+Chapter 013: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 016 - Similarity: 99.8%
+  Original (488 chars):
+    Thuaj: “Kush është Zoti i qiellërave dhe i Tokës?” – dhe përgjigju: “Perëndia!” Thuaj: “A mos vallë,...
+  Formatted (490 chars):
+    Thuaj: “Kush është Zoti i qiellërave dhe i Tokës?” – dhe përgjigju: “Perëndia!” Thuaj: “A mos vallë,...
+
+Chapter 014: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 011 - Similarity: 99.8%
+  Original (239 chars):
+    Pejgamberët e tyre, u thanë: “Na jemi vetëm njerëz si ju, por Perëndia e cilëson (me pejgamberllëk) ...
+  Formatted (240 chars):
+    Pejgamberët e tyre, u thanë: “Na jemi vetëm njerëz si ju, por Perëndia e cilëson (me pejgamberllëk) ...
+
+Verse 037 - Similarity: 99.8%
+  Original (296 chars):
+    O Zoti ynë, unë, me të vërtetë, i kam vendosur disa pasardhës të mi në një luginë ë nuk mbillet, te ...
+  Formatted (297 chars):
+    O Zoti ynë, unë, me të vërtetë, i kam vendosur disa pasardhës të mi në një luginë ë nuk mbillet, te ...
+
+Verse 044 - Similarity: 99.8%
+  Original (303 chars):
+    Ti, paralajmëroji njerëzit për Ditën që atyre do t’u vie dënimi, e zullumqarët do të thonë: “O Zoti ...
+  Formatted (304 chars):
+    Ti, paralajmëroji njerëzit për Ditën që atyre do t’u vie dënimi, e zullumqarët do të thonë: “O Zoti ...
+
+Chapter 016: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 027 - Similarity: 99.8%
+  Original (281 chars):
+    Pasta (Perëndia) i poshtëron ata në Ditën e Kijametit dhe u thotë: “Ku janë shokët e Mi (të cilët i ...
+  Formatted (282 chars):
+    Pasta (Perëndia) i poshtëron ata në Ditën e Kijametit dhe u thotë: “Ku janë shokët e Mi (të cilët i ...
+
+Verse 028 - Similarity: 99.8%
+  Original (215 chars):
+    të cilëve, engjëjt ua marrin shpirtin, duke i bërë vetes ata zullum, e do të shfaqin përulshmëri (du...
+  Formatted (216 chars):
+    të cilëve, engjëjt ua marrin shpirtin, duke i bërë vetes ata zullum, e do të shfaqin përulshmëri (du...
+
+Chapter 024: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 061 - Similarity: 99.9%
+  Original (745 chars):
+    Nuk është mëkat për të verbërin, as nuk është mëkat për të çalin, as për të sëmurin s’ka mëkat, as p...
+  Formatted (747 chars):
+    Nuk është mëkat për të verbërin, as nuk është mëkat për të çalin, as për të sëmurin s’ka mëkat, as p...
+
+Chapter 028: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.8%
+  Original (213 chars):
+    Dhe, Na, e kemi inspiruar nënën e Musait: “Jepi gji, e kur të frikësohesh (për jetën e tij) hudhe në...
+  Formatted (214 chars):
+    Dhe, Na, e kemi inspiruar nënën e Musait: “Jepi gji, e kur të frikësohesh (për jetën e tij) hudhe në...
+
+Verse 038 - Similarity: 99.8%
+  Original (239 chars):
+    Dhe, Faraoni tha: “O parësi, unë nuk di që për ju ka tjetër zot përveç meje, e ti, o Haman (ministër...
+  Formatted (240 chars):
+    Dhe, Faraoni tha: “O parësi, unë nuk di që për ju ka tjetër zot përveç meje, e ti, o Haman (ministër...
+
+Chapter 034: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 031 - Similarity: 99.7%
+  Original (368 chars):
+    Dhe, ata që nuk besojnë, thonë: “Na, nuk do të besojmë kurrësesi në këtë Kur’an, as në ato që kanë q...
+  Formatted (370 chars):
+    Dhe, ata që nuk besojnë, thonë: “Na, nuk do të besojmë kurrësesi në këtë Kur’an, as në ato që kanë q...
+
+Chapter 037: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 102 - Similarity: 99.8%
+  Original (247 chars):
+    Dhe kur fëmija u rrit aq sa t’i ndihmojë në punë, Ibrahimi i tha: “O djali im, kam parë ëndërr se du...
+  Formatted (248 chars):
+    Dhe kur fëmija u rrit aq sa t’i ndihmojë në punë, Ibrahimi i tha: “O djali im, kam parë ëndërr se du...
+
+Chapter 040: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 029 - Similarity: 99.8%
+  Original (251 chars):
+    O populli im, sot juve u përket pushteti në lartësitë e Tokës, por kush do të na mbrojë nga goditja ...
+  Formatted (252 chars):
+    O populli im, sot juve u përket pushteti në lartësitë e Tokës, por kush do të na mbrojë nga goditja ...
+
+Chapter 046: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 015 - Similarity: 99.9%
+  Original (524 chars):
+    Njeriut i kemi rekomanduar mirësi (sjellje të mira) ndaj prindërve të vet. Nëna e ka mbajtur me mund...
+  Formatted (525 chars):
+    Njeriut i kemi rekomanduar mirësi (sjellje të mira) ndaj prindërve të vet. Nëna e ka mbajtur me mund...
+
+Chapter 047: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 016 - Similarity: 99.8%
+  Original (241 chars):
+    Në mes tyre ka (edhe të atillë) që të përgjojnë ty, e posa të largohen prej teje, i pyesin ata të ci...
+  Formatted (242 chars):
+    Në mes tyre ka (edhe të atillë) që të përgjojnë ty, e posa të largohen prej teje, i pyesin ata të ci...
+
+Chapter 048: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 99.8%
+  Original (221 chars):
+    Ai është që sjell qetësi në zemrat e besimtarëve për t’ua forcuar (edhe më tepër) besimin, krahas be...
+  Formatted (222 chars):
+    Ai është që sjell qetësi në zemrat e besimtarëve për t’ua forcuar (edhe më tepër) besimin, krahas be...
+
+Verse 005 - Similarity: 99.7%
+  Original (189 chars):
+    për t’i shpie besimtarët dhe besimtaret në kopshtije nëpër të cilat rrjedhin lumenjtë, ku do të qënd...
+  Formatted (190 chars):
+    për t’i shpie besimtarët dhe besimtaret në kopshtije nëpër të cilat rrjedhin lumenjtë, ku do t ë qën...
+
+Chapter 057: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 99.8%
+  Original (304 chars):
+    Ai ka krijuar qiejt dhe Tokën për gjashtë ditë (periudha kohore), dhe pastaj mbisundoi Arshin (Gjith...
+  Formatted (305 chars):
+    Ai ka krijuar qiejt dhe Tokën për gjashtë ditë (periudha kohore), dhe pastaj mbisundoi Arshin (Gjith...
+
+Chapter 061: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 014 - Similarity: 99.8%
+  Original (399 chars):
+    O besimtarë, bëhuni ndihmësit e besimit të Perëndisë, ashtu siç u ka thënë Isai, i biri i Merjemës, ...
+  Formatted (401 chars):
+    O besimtarë, bëhuni ndihmësit e besimit të Perëndisë, ashtu siç u ka thënë Isai, i biri i Merjemës, ...
+
+Chapter 062: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 009 - Similarity: 99.7%
+  Original (174 chars):
+    O besimtarë, kur të thirreni për lutje ditën e premte, nxitoni për ta përmendur Perëndinë (namazi i ...
+  Formatted (175 chars):
+    O besimtarë, kur të thirreni për lutje ditën e premte, nxitoni për ta përmendur Perëndi në (namazi i...
+
+Chapter 063: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.7%
+  Original (188 chars):
+    Ata thonë: “Mos u jepni kurrgjë atyre që janë te Profeti i Perëndisë, përderisa të largohen (prej ti...
+  Formatted (189 chars):
+    Ata thonë: “Mos u jepni kurrgjë atyre që janë te Profeti i Perëndisë, përderisa të largohen (p rej t...
+
+Verse 008 - Similarity: 99.8%
+  Original (213 chars):
+    Ata thonë: “Nëse kthehemi në Medinë, padyshim të fuqishmit do t’i dëbojnë të dobëtit nga ajo (Medina...
+  Formatted (214 chars):
+    Ata thonë: “Nëse kthehemi në Medinë, padyshim të fuqishmit do t’i dëbojnë të dobëtit nga ajo (Medina...

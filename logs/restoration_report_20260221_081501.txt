@@ -1,0 +1,109 @@
+RESTORATION REPORT
+================================================================================
+
+
+bs-korkut - Chapter 002 - Verse 261
+  Type: truncated
+  Similarity: 64.7%
+  Missing content: –
+
+
+bs-korkut - Chapter 003 - Verse 073
+  Type: truncated
+  Similarity: 99.4%
+  Missing content: "
+
+
+bs-korkut - Chapter 004 - Verse 036
+  Type: missing_verse
+
+
+bs-korkut - Chapter 005 - Verse 048
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: l
+
+
+bs-korkut - Chapter 005 - Verse 060
+  Type: truncated
+  Similarity: 74.4%
+  Missing content: Oni koje je Allah prokleo i na koje se rasrdio i u majmune i svinje pretvorio, oni koji su se šejtanu klanjali – njih čeka najgore mjesto, jer oni su najdalje s Pravoga puta odlutali.
+
+
+bs-korkut - Chapter 006 - Verse 031
+  Type: truncated
+  Similarity: 99.4%
+  Missing content: ,
+
+
+bs-korkut - Chapter 006 - Verse 054
+  Type: truncated
+  Similarity: 72.6%
+  Missing content: Gospodar vaš je sam Sebi propisao da bude milostiv: ako neko od vas kakvo ružno djelo iz lahkomislenosti učini, pa se poslije pokaje i popravi – pa, Allah će doista oprostiti i samilostan biti.
+
+
+bs-korkut - Chapter 006 - Verse 108
+  Type: truncated
+  Similarity: 41.3%
+  Missing content: –
+
+
+bs-korkut - Chapter 009 - Verse 083
+  Type: truncated
+  Similarity: 85.6%
+  Missing content: Bili ste zadovoljni što ste prvi put izostali, zato ostanite s onima koji ionako ne idu u boj.
+
+
+bs-korkut - Chapter 009 - Verse 095
+  Type: truncated
+  Similarity: 97.8%
+  Missing content: se
+
+
+bs-korkut - Chapter 012 - Verse 006
+  Type: truncated
+  Similarity: 81.7%
+  Missing content: –
+
+
+bs-korkut - Chapter 018 - Verse 026
+  Type: truncated
+  Similarity: 81.6%
+  Missing content: Oni nemaju drugog zaštitnika osim Njega, a On ne uzima nikoga u odlukama Svojim kao ortaka.
+
+
+bs-korkut - Chapter 027 - Verse 044
+  Type: truncated
+  Similarity: 80.4%
+  Missing content: Ova je dvorana uglačanim staklom popločana!" – reče on. – "
+
+
+bs-korkut - Chapter 033 - Verse 006
+  Type: truncated
+  Similarity: 93.0%
+  Missing content: prijateljima svojim možete oporukom nešto ostaviti.
+
+
+bs-korkut - Chapter 039 - Verse 038
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: ,
+
+
+bs-korkut - Chapter 040 - Verse 007
+  Type: truncated
+  Similarity: 99.5%
+  Missing content: :
+
+
+bs-korkut - Chapter 040 - Verse 029
+  Type: truncated
+  Similarity: 99.3%
+  Missing content: "
+
+
+bs-korkut - Chapter 048 - Verse 020
+  Type: truncated
+  Similarity: 96.6%
+  Missing content: bi
+

@@ -1,8 +1,0 @@
-001_00	Il rivaleggiare vi distrarrà.
-002_00	finché visiterete le tombe.
-003_00	Invece no! Ben presto saprete.
-004_00	E ancora no! Ben presto saprete.
-005_00	No! Se solo sapeste con certezza…
-006_00	Pre-Eg. n.Di versetti. Il nome della sura deriva dal vers. In nome di Allah, il Compassionevole, il Misericordioso. Vedrete certamente la Fornace.
-007_00	Lo vedrete con l'occhio della certezza.
-008_00	quindi in quel Giorno, sarete interrogati sui piaceri.

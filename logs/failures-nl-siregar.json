@@ -1,0 +1,1253 @@
+{
+  "translation": "nl-siregar",
+  "total_failures": 74,
+  "generated_at": "2025-12-08T07:50:25.745740",
+  "failures": [
+    {
+      "verse_key": "002_019",
+      "chapter": 2,
+      "verse_number": 19,
+      "error": "Words added: ['de', 'allah', 'omringt', 'ongelovigen']",
+      "original_translation_splits": {
+        "019_00": "Of als (de gelijkenis, met) een regenstorm uit de hemel met daarin duisternissen, donder en bliksem.",
+        "019_01": "Zij stoppen hun vingers in hun oren voor de donderslagen, uit doodsangst."
+      },
+      "arabic_reference_splits": {
+        "019_00": "أَوۡ كَصَيِّبٖ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَٰتٞ وَرَعۡدٞ وَبَرۡقٞ يَجۡعَلُونَ أَصَٰبِعَهُمۡ فِيٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلۡمَوۡتِۚ",
+        "019_01": "وَٱللَّهُ مُحِيطُۢ بِٱلۡكَٰفِرِينَ ٩١"
+      },
+      "combined_translation": "Of als (de gelijkenis, met) een regenstorm uit de hemel met daarin duisternissen, donder en bliksem. Zij stoppen hun vingers in hun oren voor de donderslagen, uit doodsangst.",
+      "timestamp": "2025-12-08T07:50:25.629786"
+    },
+    {
+      "verse_key": "002_030",
+      "chapter": 2,
+      "verse_number": 30,
+      "error": "Words removed: ['aanstellen', 'zeiden', 'zij', 'gaat', 'u', 'daarop', 'iemand']",
+      "original_translation_splits": {
+        "030_00": "En toen jouw Heer tot de Engelen zei: \"Voorwaar, Ik zal op aarde een gevolmachtigde aanstellen,\" zeiden zij: \"Gaat U daarop iemand aanstellen,\" zeiden zij: \"Gaat U daarop iemand aanstellen",
+        "030_01": "die verderf zal zaaien en bloed zal vergieten, terwijl wij U roemen met de lofprijzing die U toekomt en wij U heiligen?"
+      },
+      "arabic_reference_splits": {
+        "030_00": "وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَٰٓئِكَةِ إِنِّي جَاعِلٞ فِي ٱلۡأَرۡضِ خَلِيفَةٗۖ",
+        "030_01": "قَالُوٓاْ أَتَجۡعَلُ فِيهَا مَن يُفۡسِدُ فِيهَا وَيَسۡفِكُ ٱلدِّمَآءَ وَنَحۡنُ نُسَبِّحُ بِحَمۡدِكَ وَنُقَدِّسُ لَكَۖ قَالَ إِنِّيٓ أَعۡلَمُ مَا لَا تَعۡلَمُونَ ٠٣"
+      },
+      "combined_translation": "En toen jouw Heer tot de Engelen zei: \"Voorwaar, Ik zal op aarde een gevolmachtigde aanstellen,\" zeiden zij: \"Gaat U daarop iemand aanstellen,\" zeiden zij: \"Gaat U daarop iemand aanstellen die verderf zal zaaien en bloed zal vergieten, terwijl wij U roemen met de lofprijzing die U toekomt en wij U heiligen?",
+      "timestamp": "2025-12-08T07:50:25.632285"
+    },
+    {
+      "verse_key": "002_061",
+      "chapter": 2,
+      "verse_number": 61,
+      "error": "Words added: ['voortdurend']; Words removed: ['voortdurent']",
+      "original_translation_splits": {
+        "061_00": "En (gedenkt) toen jullie zeiden: \"O Môesa!",
+        "061_01": "Wij verdragen het niet om van één soort voedsel te leven, roep daarom voor ons jouw Heer aan, opdat Hij voor on voortbrengt van wat de aarde doet groeien van haar groenten, haar komkommers, haar knoflook, haar linzen en haar uien.",
+        "061_02": "Hij zei: \"Willen jullie dat wat minderwaardig is, nemen in plaats van het betere? Gaat naar een ander land, en voorwaar, voor jullie zal er zijn wat jullie vroegen.\"",
+        "061_03": "En er werd over hen vernedering en ellende gebracht en zij keerden terug onder de toorn van Allah.",
+        "061_04": "Dat was omdat zij voortdurent Allah's Tekenen verwierpen en de Profeten dooden, zonder het recht te hebben. Dit was omdat zij opstandig waren en overtredingen plachten te begaan."
+      },
+      "arabic_reference_splits": {
+        "061_00": "وَإِذۡ قُلۡتُمۡ يَٰمُوسَىٰ لَن نَّصۡبِرَ عَلَىٰ طَعَامٖ وَٰحِدٖ",
+        "061_01": "فَٱدۡعُ لَنَا رَبَّكَ يُخۡرِجۡ لَنَا مِمَّا تُنۢبِتُ ٱلۡأَرۡضُ مِنۢ بَقۡلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَاۖ",
+        "061_02": "قَالَ أَتَسۡتَبۡدِلُونَ ٱلَّذِي هُوَ أَدۡنَىٰ بِٱلَّذِي هُوَ خَيۡرٌۚ ٱهۡبِطُواْ مِصۡرٗا فَإِنَّ لَكُم مَّا سَأَلۡتُمۡۗ",
+        "061_03": "وَضُرِبَتۡ عَلَيۡهِمُ ٱلذِّلَّةُ وَٱلۡمَسۡكَنَةُ وَبَآءُو بِغَضَبٖ مِّنَ ٱللَّهِۚ",
+        "061_04": "ذَٰلِكَ بِأَنَّهُمۡ كَانُواْ يَكۡفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقۡتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيۡرِ ٱلۡحَقِّۚ ذَٰلِكَ بِمَا عَصَواْ وَّكَانُواْ يَعۡتَدُونَ ١٦"
+      },
+      "combined_translation": "En (gedenkt) toen jullie zeiden: \"O Môesa! Wij verdragen het niet om van één soort voedsel te leven, roep daarom voor ons jouw Heer aan, opdat Hij voor on voortbrengt van wat de aarde doet groeien van haar groenten, haar komkommers, haar knoflook, haar linzen en haar uien. Hij zei: \"Willen jullie dat wat minderwaardig is, nemen in plaats van het betere? Gaat naar een ander land, en voorwaar, voor jullie zal er zijn wat jullie vroegen.\" En er werd over hen vernedering en ellende gebracht en zij keerden terug onder de toorn van Allah. Dat was omdat zij voortdurent Allah's Tekenen verwierpen en de Profeten dooden, zonder het recht te hebben. Dit was omdat zij opstandig waren en overtredingen plachten te begaan.",
+      "timestamp": "2025-12-08T07:50:25.634856"
+    },
+    {
+      "verse_key": "002_083",
+      "chapter": 2,
+      "verse_number": 83,
+      "error": "Words added: ['aanvaardden', 'zeggend', 'verwanten']; Words removed: ['en', 'de', 'aanvardden', 'zeggent', 'verwand']",
+      "original_translation_splits": {
+        "083_00": "En (gedenkt) toen Wij het verbond van de Kinderen van Israël aanvardden (zeggent): \"Aanbidt niets dan Allah, en betracht goedheid jegens de ouders, en de verwand, en de wees, en de",
+        "083_01": "en spreekt het goede tot de mensen en onderhoudt de shalât en geeft de zakât."
+      },
+      "arabic_reference_splits": {
+        "083_00": "وَإِذۡ أَخَذۡنَا مِيثَٰقَ بَنِيٓ إِسۡرَٰٓءِيلَ لَا تَعۡبُدُونَ إِلَّا ٱللَّهَ وَبِٱلۡوَٰلِدَيۡنِ إِحۡسَانٗا وَذِي ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ",
+        "083_01": "وَقُولُواْ لِلنَّاسِ حُسۡنٗا وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيۡتُمۡ إِلَّا قَلِيلٗا مِّنكُمۡ وَأَنتُم مُّعۡرِضُونَ ٣٨"
+      },
+      "combined_translation": "En (gedenkt) toen Wij het verbond van de Kinderen van Israël aanvardden (zeggent): \"Aanbidt niets dan Allah, en betracht goedheid jegens de ouders, en de verwand, en de wees, en de en spreekt het goede tot de mensen en onderhoudt de shalât en geeft de zakât.",
+      "timestamp": "2025-12-08T07:50:25.637758"
+    },
+    {
+      "verse_key": "002_142",
+      "chapter": 2,
+      "verse_number": 142,
+      "error": "Words added: ['zeggen']; Words removed: ['zeggeh']",
+      "original_translation_splits": {
+        "142_00": "De dwazen onder de mensen zullen zeggeh: \"Wat heeft hen zich doen afwenden van hun Qiblah (gebedsrichting) die zij gewoonlijk",
+        "142_01": "in acht namen? Zeg: Aan Allah behoort het Oosten en het Westen"
+      },
+      "arabic_reference_splits": {
+        "142_00": "۞سَيَقُولُ ٱلسُّفَهَآءُ مِنَ ٱلنَّاسِ مَا وَلَّىٰهُمۡ عَن قِبۡلَتِهِمُ ٱلَّتِي كَانُواْ عَلَيۡهَاۚ قُل لِّلَّهِ ٱلۡمَشۡرِقُ وَٱلۡمَغۡرِبُۚ",
+        "142_01": "يَهۡدِي مَن يَشَآءُ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ ٢٤١"
+      },
+      "combined_translation": "De dwazen onder de mensen zullen zeggeh: \"Wat heeft hen zich doen afwenden van hun Qiblah (gebedsrichting) die zij gewoonlijk in acht namen? Zeg: Aan Allah behoort het Oosten en het Westen",
+      "timestamp": "2025-12-08T07:50:25.642391"
+    },
+    {
+      "verse_key": "002_170",
+      "chapter": 2,
+      "verse_number": 170,
+      "error": "Words added: ['zij', 'vaderen', 'of', 'nu', 'de', 'waarheid', 'niet', 'begrijpen', 'terwijl', 'hun', 'niets', 'begrepen']",
+      "original_translation_splits": {
+        "170_00": "En wanneer tot hen gezegd wordt: \"Volgt wat Allah heeft neergezonden,\" dan zeggen zij: \"Maar wij volgen dat (pad",
+        "170_01": "van afgoderij) waarop wij onze vaderen aantroffen."
+      },
+      "arabic_reference_splits": {
+        "170_00": "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُواْ مَآ أَنزَلَ ٱللَّهُ قَالُواْ بَلۡ نَتَّبِعُ مَآ أَلۡفَيۡنَا عَلَيۡهِ ءَابَآءَنَآۚ",
+        "170_01": "أَوَلَوۡ كَانَ ءَابَآؤُهُمۡ لَا يَعۡقِلُونَ شَيۡـٔٗا وَلَا يَهۡتَدُونَ ٠٧١"
+      },
+      "combined_translation": "En wanneer tot hen gezegd wordt: \"Volgt wat Allah heeft neergezonden,\" dan zeggen zij: \"Maar wij volgen dat (pad van afgoderij) waarop wij onze vaderen aantroffen.",
+      "timestamp": "2025-12-08T07:50:25.646965"
+    },
+    {
+      "verse_key": "002_196",
+      "chapter": 2,
+      "verse_number": 196,
+      "error": "Words added: ['de', 'de', 'voor', 'is', 'dat', 'niet', 'zijn', 'heeft', 'wie', 'van', 'in', 'familie', 'nabijheid', 'heilige', 'moskee']",
+      "original_translation_splits": {
+        "196_00": "En verricht de Haddj en de 'Oemrah voor Allah.",
+        "196_01": "En indien iemand dan verhinderd is, laat die dan een offerdier (slachten) dat makkelijk te vinden is, en escheert jullie hoofden niet tot het offerdier zijn slachtplaats heeft bereikt.",
+        "196_02": "(Voor) wie van jullie ziek is of iets aan zijn hoofd heeft, dat hem last bezorgt (en waardoor scheren noodzakelijk is) is er Fidyah (een vervangende plicht): het vasten of het voeden (van armen) of het slachten van een offerdier.",
+        "196_03": "En wanneer jullie in veiligheid zijn en (het betreft) degene die de Haddj op de Tamattoe'-wijze verricht, laat hem dan offeren wat makkelijk te vinden is.",
+        "196_04": "Maar degene die niets vindt, (voor hem geldt) dan het vasten: drie dagen gedurende de Haddj en zeven (dagen) wanneer jullie teruggekeerd, dat is tien bijelkaar."
+      },
+      "arabic_reference_splits": {
+        "196_00": "وَأَتِمُّواْ ٱلۡحَجَّ وَٱلۡعُمۡرَةَ لِلَّهِۚ فَإِنۡ أُحۡصِرۡتُمۡ فَمَا ٱسۡتَيۡسَرَ مِنَ ٱلۡهَدۡيِۖ وَلَا تَحۡلِقُواْ رُءُوسَكُمۡ حَتَّىٰ يَبۡلُغَ ٱلۡهَدۡيُ مَحِلَّهُۥۚ",
+        "196_01": "فَمَن كَانَ مِنكُم مَّرِيضًا أَوۡ بِهِۦٓ أَذٗى مِّن رَّأۡسِهِۦ فَفِدۡيَةٞ مِّن صِيَامٍ أَوۡ صَدَقَةٍ أَوۡ نُسُكٖۚ",
+        "196_02": "فَإِذَآ أَمِنتُمۡ فَمَن تَمَتَّعَ بِٱلۡعُمۡرَةِ إِلَى ٱلۡحَجِّ فَمَا ٱسۡتَيۡسَرَ مِنَ ٱلۡهَدۡيِۚ",
+        "196_03": "فَمَن لَّمۡ يَجِدۡ فَصِيَامُ ثَلَٰثَةِ أَيَّامٖ فِي ٱلۡحَجِّ وَسَبۡعَةٍ إِذَا رَجَعۡتُمۡۗ تِلۡكَ عَشَرَةٞ كَامِلَةٞۗ",
+        "196_04": "ذَٰلِكَ لِمَن لَّمۡ يَكُنۡ أَهۡلُهُۥ حَاضِرِي ٱلۡمَسۡجِدِ ٱلۡحَرَامِۚ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ ٦٩١"
+      },
+      "combined_translation": "En verricht de Haddj en de 'Oemrah voor Allah. En indien iemand dan verhinderd is, laat die dan een offerdier (slachten) dat makkelijk te vinden is, en escheert jullie hoofden niet tot het offerdier zijn slachtplaats heeft bereikt. (Voor) wie van jullie ziek is of iets aan zijn hoofd heeft, dat hem last bezorgt (en waardoor scheren noodzakelijk is) is er Fidyah (een vervangende plicht): het vasten of het voeden (van armen) of het slachten van een offerdier. En wanneer jullie in veiligheid zijn en (het betreft) degene die de Haddj op de Tamattoe'-wijze verricht, laat hem dan offeren wat makkelijk te vinden is. Maar degene die niets vindt, (voor hem geldt) dan het vasten: drie dagen gedurende de Haddj en zeven (dagen) wanneer jullie teruggekeerd, dat is tien bijelkaar.",
+      "timestamp": "2025-12-08T07:50:25.649241"
+    },
+    {
+      "verse_key": "002_259",
+      "chapter": 2,
+      "verse_number": 259,
+      "error": "Words removed: ['toen', 'hij', 'dat', 'en', 'en', 'en', 'in', 'zei', 'hoe', 'allah', 'hem', 'ik', 'kijk', 'naar', 'wij', 'de', 'de', 'mens', 'maken', 'beenderen', 'elkaar', 'zetten', 'met', 'vlees', 'bedekken', 'dit', 'duidelijk', 'werd', 'weet', 'almachtig', 'is', 'over', 'alle', 'dingen']",
+      "original_translation_splits": {
+        "259_00": "Of degene die, toen hij langs een dorp kwam dat verlaten was en in ruïnes lag, zei: \"Hoe kan Allah het na haar dood weer doen herleven?\" Toen deed Allah hem",
+        "259_01": "voor honderd jaar dood zijn, en wekte hem weer op. Hij zei: \"Hoe lang verbleef jij hier?\" Hij zei: \"Ik verbleef hier een dag of een gedeelte van een dag.\" Hij (Allah) zei: \"Nee, jij verbleef hier honderd jaar; kijk naar je voedsel en je drank, zij zijn niet bedorven; en kijk naar je ezel, zodat Wij jou tot een Teken voor de mens maken.",
+        "259_02": "En kijk naar hoe Wij de beenderen in elkaar zetten en met vlees bedekken.\" En toen hem dit duidelijk werd, zei hij: \"Ik weet dat Allah Almachtig is over alle dingen.\"",
+        "259_03": "de mens maken. En kijk naar hoe Wij de beenderen in elkaar zetten en met vlees bedekken.\" En toen hem dit duidelijk werd, zei hij: \"Ik weet dat Allah Almachtig is over alle dingen.\""
+      },
+      "arabic_reference_splits": {
+        "259_00": "أَوۡ كَٱلَّذِي مَرَّ عَلَىٰ قَرۡيَةٖ وَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحۡيِۦ هَٰذِهِ ٱللَّهُ بَعۡدَ مَوۡتِهَاۖ فَأَمَاتَهُ ٱللَّهُ مِاْئَةَ عَامٖ ثُمَّ بَعَثَهُۥۖ",
+        "259_01": "قَالَ كَمۡ لَبِثۡتَۖ قَالَ لَبِثۡتُ يَوۡمًا أَوۡ بَعۡضَ يَوۡمٖۖ قَالَ بَل لَّبِثۡتَ مِاْئَةَ عَامٖ فَٱنظُرۡ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمۡ يَتَسَنَّهۡۖ",
+        "259_02": "وَٱنظُرۡ إِلَىٰ حِمَارِكَ وَلِنَجۡعَلَكَ ءَايَةٗ لِّلنَّاسِۖ وَٱنظُرۡ إِلَى ٱلۡعِظَامِ كَيۡفَ نُنشِزُهَا ثُمَّ نَكۡسُوهَا لَحۡمٗاۚ",
+        "259_03": "فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعۡلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ ٩٥٢"
+      },
+      "combined_translation": "Of degene die, toen hij langs een dorp kwam dat verlaten was en in ruïnes lag, zei: \"Hoe kan Allah het na haar dood weer doen herleven?\" Toen deed Allah hem voor honderd jaar dood zijn, en wekte hem weer op. Hij zei: \"Hoe lang verbleef jij hier?\" Hij zei: \"Ik verbleef hier een dag of een gedeelte van een dag.\" Hij (Allah) zei: \"Nee, jij verbleef hier honderd jaar; kijk naar je voedsel en je drank, zij zijn niet bedorven; en kijk naar je ezel, zodat Wij jou tot een Teken voor de mens maken. En kijk naar hoe Wij de beenderen in elkaar zetten en met vlees bedekken.\" En toen hem dit duidelijk werd, zei hij: \"Ik weet dat Allah Almachtig is over alle dingen.\" de mens maken. En kijk naar hoe Wij de beenderen in elkaar zetten en met vlees bedekken.\" En toen hem dit duidelijk werd, zei hij: \"Ik weet dat Allah Almachtig is over alle dingen.\"",
+      "timestamp": "2025-12-08T07:50:25.655680"
+    },
+    {
+      "verse_key": "003_014",
+      "chapter": 3,
+      "verse_number": 14,
+      "error": "Words added: ['zuienen', 'liefden', 'goude', 'bezittingen']; Words removed: ['gouden', 'bezittengen']",
+      "original_translation_splits": {
+        "014_00": "Voor de mensen is de liefde voor begeerlijke (zaken) als vrouwen aantrekkelijk gemaakt, (evenals de liefde voor) zonen, omvangrijke gouden en zilveren bezittengen, gemerkte paarden en kudden dieren en akkers.",
+        "014_01": "Dat is de genieting van het wereldse leven."
+      },
+      "arabic_reference_splits": {
+        "014_00": "زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ وَٱلۡبَنِينَ وَٱلۡقَنَٰطِيرِ ٱلۡمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلۡفِضَّةِ وَٱلۡخَيۡلِ ٱلۡمُسَوَّمَةِ وَٱلۡأَنۡعَٰمِ وَٱلۡحَرۡثِۗ",
+        "014_01": "ذَٰلِكَ مَتَٰعُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَٱللَّهُ عِندَهُۥ حُسۡنُ ٱلۡمَـَٔابِ ٤١"
+      },
+      "combined_translation": "Voor de mensen is de liefde voor begeerlijke (zaken) als vrouwen aantrekkelijk gemaakt, (evenals de liefde voor) zonen, omvangrijke gouden en zilveren bezittengen, gemerkte paarden en kudden dieren en akkers. Dat is de genieting van het wereldse leven.",
+      "timestamp": "2025-12-08T07:50:25.658930"
+    },
+    {
+      "verse_key": "004_023",
+      "chapter": 4,
+      "verse_number": 23,
+      "error": "Words added: ['barmhartig']; Words removed: ['barmhatig']",
+      "original_translation_splits": {
+        "023_00": "Voor jullie verboden (om te trouwen zijn): jullie moeders en jullie dochters en jullie zusters, en jullie vaders zusters en jullie moeders zusters en dochters van jullie broeders en",
+        "023_01": "dochters van jullie zusters en de zoogmoeders van jullie en jullie zusters van (dezelfde) zoogmoeder en de moeders van jullie vrouwen en jullie stiefdochters die onder jullie voogdij stun van vrouwen (de moeders van de stiefdochters) waarmee jullie geslachtsgemeenschap hadden.",
+        "023_02": "Wanneer jullie nog geen geslachtsgemeenschap met hen hadden is er geen overtreding (om met hen te trouwen), en de (voomalige) vrouwen van jullie zonen die uit jullie voortkomen en het huwen van twee zusters gezamenlijk, behalve als het reeds (voor de openbaring) gebeurd is.",
+        "023_03": "Voorwaar, Allah is Vergevensgezind, Meest Barmhatig."
+      },
+      "arabic_reference_splits": {
+        "023_00": "حُرِّمَتۡ عَلَيۡكُمۡ أُمَّهَٰتُكُمۡ وَبَنَاتُكُمۡ وَأَخَوَٰتُكُمۡ وَعَمَّٰتُكُمۡ وَخَٰلَٰتُكُمۡ وَبَنَاتُ ٱلۡأَخِ وَبَنَاتُ ٱلۡأُخۡتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِيٓ أَرۡضَعۡنَكُمۡ",
+        "023_01": "وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمۡ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِي فِي حُجُورِكُم مِّن نِّسَآئِكُمُ ٱلَّٰتِي دَخَلۡتُم بِهِنَّ",
+        "023_02": "فَإِن لَّمۡ تَكُونُواْ دَخَلۡتُم بِهِنَّ فَلَا جُنَاحَ عَلَيۡكُمۡ وَحَلَٰٓئِلُ أَبۡنَآئِكُمُ ٱلَّذِينَ مِنۡ أَصۡلَٰبِكُمۡ",
+        "023_03": "وَأَن تَجۡمَعُواْ بَيۡنَ ٱلۡأُخۡتَيۡنِ إِلَّا مَا قَدۡ سَلَفَۗ إِنَّ ٱللَّهَ كَانَ غَفُورٗا رَّحِيمٗا ٣٢"
+      },
+      "combined_translation": "Voor jullie verboden (om te trouwen zijn): jullie moeders en jullie dochters en jullie zusters, en jullie vaders zusters en jullie moeders zusters en dochters van jullie broeders en dochters van jullie zusters en de zoogmoeders van jullie en jullie zusters van (dezelfde) zoogmoeder en de moeders van jullie vrouwen en jullie stiefdochters die onder jullie voogdij stun van vrouwen (de moeders van de stiefdochters) waarmee jullie geslachtsgemeenschap hadden. Wanneer jullie nog geen geslachtsgemeenschap met hen hadden is er geen overtreding (om met hen te trouwen), en de (voomalige) vrouwen van jullie zonen die uit jullie voortkomen en het huwen van twee zusters gezamenlijk, behalve als het reeds (voor de openbaring) gebeurd is. Voorwaar, Allah is Vergevensgezind, Meest Barmhatig.",
+      "timestamp": "2025-12-08T07:50:25.660355"
+    },
+    {
+      "verse_key": "004_024",
+      "chapter": 4,
+      "verse_number": 24,
+      "error": "Words added: ['toegestaan']; Words removed: ['teogestaan']",
+      "original_translation_splits": {
+        "024_00": "En (ook verboden zijn:) de getrouwde vrouwen, behalve de slavinnen onder jullie gezag.",
+        "024_01": "Als een beslissing van Allah voor jullie.",
+        "024_02": "Het is voor jullie teogestaan wat daar buiten valt.",
+        "024_03": "Opdat jullie naar (hen) streven met jullie bezittingen, op eerbare wijze, niet ontuchtige. En voor wat jullie van hen genieten: geeft hun hun bruidschat, als verplichting. En er is geen zonde in wat jullie overeenkomen na de bepaling (van de bruidschat). Voorwaar, Allah is Alwetend, Alwijs."
+      },
+      "arabic_reference_splits": {
+        "024_00": "۞وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلَّا مَا مَلَكَتۡ أَيۡمَٰنُكُمۡۖ كِتَٰبَ ٱللَّهِ عَلَيۡكُمۡۚ",
+        "024_01": "وَأُحِلَّ لَكُم مَّا وَرَآءَ ذَٰلِكُمۡ أَن تَبۡتَغُواْ بِأَمۡوَٰلِكُم مُّحۡصِنِينَ غَيۡرَ مُسَٰفِحِينَۚ",
+        "024_02": "فَمَا ٱسۡتَمۡتَعۡتُم بِهِۦ مِنۡهُنَّ فَـَٔاتُوهُنَّ أُجُورَهُنَّ فَرِيضَةٗۚ وَلَا جُنَاحَ عَلَيۡكُمۡ فِيمَا تَرَٰضَيۡتُم بِهِۦ مِنۢ بَعۡدِ ٱلۡفَرِيضَةِۚ",
+        "024_03": "إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمٗا ٤٢"
+      },
+      "combined_translation": "En (ook verboden zijn:) de getrouwde vrouwen, behalve de slavinnen onder jullie gezag. Als een beslissing van Allah voor jullie. Het is voor jullie teogestaan wat daar buiten valt. Opdat jullie naar (hen) streven met jullie bezittingen, op eerbare wijze, niet ontuchtige. En voor wat jullie van hen genieten: geeft hun hun bruidschat, als verplichting. En er is geen zonde in wat jullie overeenkomen na de bepaling (van de bruidschat). Voorwaar, Allah is Alwetend, Alwijs.",
+      "timestamp": "2025-12-08T07:50:25.662173"
+    },
+    {
+      "verse_key": "004_025",
+      "chapter": 4,
+      "verse_number": 25,
+      "error": "Words added: ['het']; Words removed: ['hot']",
+      "original_translation_splits": {
+        "025_00": "En wie niet van jullie in staat is te huwen met vrije gelovige vrouwen: hij kan de gelovige vrouwen onder de slavinnen waar jullie over beschikken trouwen.",
+        "025_01": "En Allah kent jullie geloof hot best.",
+        "025_02": "Jullie komen uit elkaar voort. Trouwt hen dus met verlof van hun familie en geeft hun hun bruidschatten volgens de voorschriften, zij behoren eerbaar te zijn en niet ontuchtig en (behoren zich) pen vriend te nemen.",
+        "025_03": "En indien zij getrouwd zijn en indien zij (dan) overspel plegen: zij krijgen dan de halve bestraffing van de vrije getrouwde vrouw. Dit is voor degenen onder jullie die bang zijn overspel te plegen.",
+        "025_04": "En het is beter voor jullie, indien jullie geduld hebben. En Allah is Vergevensgezind, Meest Genadevol."
+      },
+      "arabic_reference_splits": {
+        "025_00": "وَمَن لَّمۡ يَسۡتَطِعۡ مِنكُمۡ طَوۡلًا أَن يَنكِحَ ٱلۡمُحۡصَنَٰتِ ٱلۡمُؤۡمِنَٰتِ فَمِن مَّا مَلَكَتۡ أَيۡمَٰنُكُم مِّن فَتَيَٰتِكُمُ ٱلۡمُؤۡمِنَٰتِۚ",
+        "025_01": "وَٱللَّهُ أَعۡلَمُ بِإِيمَٰنِكُمۚ بَعۡضُكُم مِّنۢ بَعۡضٖۚ",
+        "025_02": "فَٱنكِحُوهُنَّ بِإِذۡنِ أَهۡلِهِنَّ وَءَاتُوهُنَّ أُجُورَهُنَّ بِٱلۡمَعۡرُوفِ مُحۡصَنَٰتٍ غَيۡرَ مُسَٰفِحَٰتٖ وَلَا مُتَّخِذَٰتِ أَخۡدَانٖۚ",
+        "025_03": "فَإِذَآ أُحۡصِنَّ فَإِنۡ أَتَيۡنَ بِفَٰحِشَةٖ فَعَلَيۡهِنَّ نِصۡفُ مَا عَلَى ٱلۡمُحۡصَنَٰتِ مِنَ ٱلۡعَذَابِۚ ذَٰلِكَ لِمَنۡ خَشِيَ ٱلۡعَنَتَ مِنكُمۡۚ",
+        "025_04": "وَأَن تَصۡبِرُواْ خَيۡرٞ لَّكُمۡۗ وَٱللَّهُ غَفُورٞ رَّحِيمٞ ٥٢"
+      },
+      "combined_translation": "En wie niet van jullie in staat is te huwen met vrije gelovige vrouwen: hij kan de gelovige vrouwen onder de slavinnen waar jullie over beschikken trouwen. En Allah kent jullie geloof hot best. Jullie komen uit elkaar voort. Trouwt hen dus met verlof van hun familie en geeft hun hun bruidschatten volgens de voorschriften, zij behoren eerbaar te zijn en niet ontuchtig en (behoren zich) pen vriend te nemen. En indien zij getrouwd zijn en indien zij (dan) overspel plegen: zij krijgen dan de halve bestraffing van de vrije getrouwde vrouw. Dit is voor degenen onder jullie die bang zijn overspel te plegen. En het is beter voor jullie, indien jullie geduld hebben. En Allah is Vergevensgezind, Meest Genadevol.",
+      "timestamp": "2025-12-08T07:50:25.675860"
+    },
+    {
+      "verse_key": "004_069",
+      "chapter": 4,
+      "verse_number": 69,
+      "error": "Words added: ['metgezellen']; Words removed: ['metge', 'zellen']",
+      "original_translation_splits": {
+        "069_00": "En wie Allah en de Boodschapper gehoorzaamt: zij zijn met degenen van de Profeten en de waarachtigen en de martelaren en de oprechten die Allah begunstigd heeft.",
+        "069_01": "Zij zijn de beste metge zellen!"
+      },
+      "arabic_reference_splits": {
+        "069_00": "وَمَن يُطِعِ ٱللَّهَ وَٱلرَّسُولَ فَأُوْلَٰٓئِكَ مَعَ ٱلَّذِينَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِم مِّنَ ٱلنَّبِيِّـۧنَ وَٱلصِّدِّيقِينَ وَٱلشُّهَدَآءِ وَٱلصَّٰلِحِينَۚ",
+        "069_01": "وَحَسُنَ أُوْلَٰٓئِكَ رَفِيقٗا ٩٦"
+      },
+      "combined_translation": "En wie Allah en de Boodschapper gehoorzaamt: zij zijn met degenen van de Profeten en de waarachtigen en de martelaren en de oprechten die Allah begunstigd heeft. Zij zijn de beste metge zellen!",
+      "timestamp": "2025-12-08T07:50:25.679304"
+    },
+    {
+      "verse_key": "004_128",
+      "chapter": 4,
+      "verse_number": 128,
+      "error": "Words added: ['en']; Words removed: ['an']",
+      "original_translation_splits": {
+        "128_00": "En indien een vrouw van haar echtgenoot slechtheid of afkeer vreest, dan is er geen zonde voor hen indien zij onderling tot een verzoening komen en de verzoening is beter, maar mensen worden gekenmerkt door gierigheid.",
+        "128_01": "En indien jullie het goede doen an (Allah) vrezen: voorwaar, Allah is Alwetend over wat jullie doen."
+      },
+      "arabic_reference_splits": {
+        "128_00": "وَإِنِ ٱمۡرَأَةٌ خَافَتۡ مِنۢ بَعۡلِهَا نُشُوزًا أَوۡ إِعۡرَاضٗا فَلَا جُنَاحَ عَلَيۡهِمَآ أَن يُصۡلِحَا بَيۡنَهُمَا صُلۡحٗاۚ وَٱلصُّلۡحُ خَيۡرٞۗ",
+        "128_01": "وَأُحۡضِرَتِ ٱلۡأَنفُسُ ٱلشُّحَّۚ وَإِن تُحۡسِنُواْ وَتَتَّقُواْ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعۡمَلُونَ خَبِيرٗا ٨٢١"
+      },
+      "combined_translation": "En indien een vrouw van haar echtgenoot slechtheid of afkeer vreest, dan is er geen zonde voor hen indien zij onderling tot een verzoening komen en de verzoening is beter, maar mensen worden gekenmerkt door gierigheid. En indien jullie het goede doen an (Allah) vrezen: voorwaar, Allah is Alwetend over wat jullie doen.",
+      "timestamp": "2025-12-08T07:50:25.680373"
+    },
+    {
+      "verse_key": "005_004",
+      "chapter": 5,
+      "verse_number": 4,
+      "error": "Words added: ['naam']; Words removed: ['nam']",
+      "original_translation_splits": {
+        "004_00": "En zij vragen jou wat hun toegestaan is.",
+        "004_01": "Zeg: \"Jullie toegestaan zijn alle goede (soorten voedsel) en wat jullie krijgen met behulp van roofdieren die jullie leren (vangen) zoals Allah jullie leerde.\" Eet van wat zij voor jullie gevangen hebben, en spreekt er de Nam van Allah over uit (bij het loslaten van de afgerichte dieren)."
+      },
+      "arabic_reference_splits": {
+        "004_00": "يَسۡـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمۡۖ قُلۡ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَمَا عَلَّمۡتُم مِّنَ ٱلۡجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُۖ",
+        "004_01": "فَكُلُواْ مِمَّآ أَمۡسَكۡنَ عَلَيۡكُمۡ وَٱذۡكُرُواْ ٱسۡمَ ٱللَّهِ عَلَيۡهِۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ ٤"
+      },
+      "combined_translation": "En zij vragen jou wat hun toegestaan is. Zeg: \"Jullie toegestaan zijn alle goede (soorten voedsel) en wat jullie krijgen met behulp van roofdieren die jullie leren (vangen) zoals Allah jullie leerde.\" Eet van wat zij voor jullie gevangen hebben, en spreekt er de Nam van Allah over uit (bij het loslaten van de afgerichte dieren).",
+      "timestamp": "2025-12-08T07:50:25.681418"
+    },
+    {
+      "verse_key": "005_005",
+      "chapter": 5,
+      "verse_number": 5,
+      "error": "Words added: ['toegestaan', 'vóór', 'eerbaarheid', 'geen', 'geen']; Words removed: ['toegestam', 'v', 'r', 'eerbaairheid', 'seen', 'seen']",
+      "original_translation_splits": {
+        "005_00": "Op deze dag zijn alle goede (zaken) voor jullie toegestaan gemaakt, en het voedsel (geslachte dieren) van de Lieden van de Schrift is",
+        "005_01": "jullie toegestam en jullie voedsel is hun toegestaan. (Toegestaan om mee te trouwen zijn:) de eerbare vrouwen onder de gelovige vrouwen en de eerbare vrouwen onder degenen die de Schrift v??r jullie gegeven is; indien jullie hun hun bruidschatten geven, in eerbaairheid handelend en niet in ontucht en neemt Seen minnaressen.",
+        "005_02": "En degene die het geloof verwerpt: zijn werk draagt waarlijk geen vrucht en hij behoort in het Hiernamaals tot de verliezers.",
+        "005_03": "ontucht en neemt Seen minnaressen. En degene die het geloof verwerpt: zijn werk draagt waarlijk geen vrucht en hij behoort in het Hiernamaals tot de verliezers."
+      },
+      "arabic_reference_splits": {
+        "005_00": "ٱلۡيَوۡمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُۖ وَطَعَامُ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ حِلّٞ لَّكُمۡ وَطَعَامُكُمۡ حِلّٞ لَّهُمۡۖ",
+        "005_01": "وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلۡمُؤۡمِنَٰتِ وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ إِذَآ ءَاتَيۡتُمُوهُنَّ أُجُورَهُنَّ",
+        "005_02": "مُحۡصِنِينَ غَيۡرَ مُسَٰفِحِينَ وَلَا مُتَّخِذِيٓ أَخۡدَانٖۗ",
+        "005_03": "وَمَن يَكۡفُرۡ بِٱلۡإِيمَٰنِ فَقَدۡ حَبِطَ عَمَلُهُۥ وَهُوَ فِي ٱلۡأٓخِرَةِ مِنَ ٱلۡخَٰسِرِينَ ٥"
+      },
+      "combined_translation": "Op deze dag zijn alle goede (zaken) voor jullie toegestaan gemaakt, en het voedsel (geslachte dieren) van de Lieden van de Schrift is jullie toegestam en jullie voedsel is hun toegestaan. (Toegestaan om mee te trouwen zijn:) de eerbare vrouwen onder de gelovige vrouwen en de eerbare vrouwen onder degenen die de Schrift v??r jullie gegeven is; indien jullie hun hun bruidschatten geven, in eerbaairheid handelend en niet in ontucht en neemt Seen minnaressen. En degene die het geloof verwerpt: zijn werk draagt waarlijk geen vrucht en hij behoort in het Hiernamaals tot de verliezers. ontucht en neemt Seen minnaressen. En degene die het geloof verwerpt: zijn werk draagt waarlijk geen vrucht en hij behoort in het Hiernamaals tot de verliezers.",
+      "timestamp": "2025-12-08T07:50:25.682946"
+    },
+    {
+      "verse_key": "005_006",
+      "chapter": 5,
+      "verse_number": 6,
+      "error": "Words added: ['و', 'ل', 'ل', 'ل', 'ل', 'ي', 'ي', 'ت', 'ت', 'ت', 'م', 'م', 'م', 'م', 'ن', 'ع', 'ع', 'ع', 'ه', 'ۥ', 'ك', 'ك', 'ك', 'ش', 'ر', 'ون', '٦']",
+      "original_translation_splits": {
+        "006_00": "O jullie die geloven!",
+        "006_01": "Wanneer jullie je voorbereiden op de shalât, wast dan jullie gezichten en jullie handen tot de ellebogen en wrijft over jullie hoofden en wast jullie voeten tot de enkels.",
+        "006_02": "Indien jullie Djoenoeb zijn, reinigt jullie dan.",
+        "006_03": "En indien jullie ziek zijn, of op reis, of als een van jullie van het toilet gekomen is, of jullie hebben jullie vrouwen aangeraakts en jullie vinden dan geen water: verricht dan Tayammoem met schone aarde.",
+        "006_04": "En wrijft ermee over jullie gezichten en jullie handen. Allah wil het jullie niet moeilijk maken, maar Hij wil jullie reinigen, zodat Hij Zijn genieting voor jullie vervolmaakt."
+      },
+      "arabic_reference_splits": {
+        "006_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا قُمۡتُمۡ إِلَى ٱلصَّلَوٰةِ فَٱغۡسِلُواْ وُجُوهَكُمۡ وَأَيۡدِيَكُمۡ إِلَى ٱلۡمَرَافِقِ",
+        "006_01": "وَٱمۡسَحُواْ بِرُءُوسِكُمۡ وَأَرۡجُلَكُمۡ إِلَى ٱلۡكَعۡبَيۡنِۚ وَإِن كُنتُمۡ جُنُبٗا فَٱطَّهَّرُواْۚ",
+        "006_02": "وَإِن كُنتُم مَّرۡضَىٰٓ أَوۡ عَلَىٰ سَفَرٍ أَوۡ جَآءَ أَحَدٞ مِّنكُم مِّنَ ٱلۡغَآئِطِ أَوۡ لَٰمَسۡتُمُ ٱلنِّسَآءَ فَلَمۡ تَجِدُواْ مَآءٗ فَتَيَمَّمُواْ صَعِيدٗا طَيِّبٗا",
+        "006_03": "فَٱمۡسَحُواْ بِوُجُوهِكُمۡ وَأَيۡدِيكُم مِّنۡهُۚ مَا يُرِيدُ ٱللَّهُ لِيَجۡعَلَ عَلَيۡكُم مِّنۡ حَرَجٖ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمۡ",
+        "006_04": "وَلِيُتِمَّ نِعۡمَتَهُۥ عَلَيۡكُمۡ لَعَلَّكُمۡ تَشۡكُرُونَ ٦"
+      },
+      "combined_translation": "O jullie die geloven! Wanneer jullie je voorbereiden op de shalât, wast dan jullie gezichten en jullie handen tot de ellebogen en wrijft over jullie hoofden en wast jullie voeten tot de enkels. Indien jullie Djoenoeb zijn, reinigt jullie dan. En indien jullie ziek zijn, of op reis, of als een van jullie van het toilet gekomen is, of jullie hebben jullie vrouwen aangeraakts en jullie vinden dan geen water: verricht dan Tayammoem met schone aarde. En wrijft ermee over jullie gezichten en jullie handen. Allah wil het jullie niet moeilijk maken, maar Hij wil jullie reinigen, zodat Hij Zijn genieting voor jullie vervolmaakt.",
+      "timestamp": "2025-12-08T07:50:25.687309"
+    },
+    {
+      "verse_key": "005_008",
+      "chapter": 5,
+      "verse_number": 8,
+      "error": "Words added: ['van', 'weerhouden']; Words removed: ['niet', 'we', 'brengen']",
+      "original_translation_splits": {
+        "008_00": "O jullie die geloven! Weest standvastig voor Allah als rechtvaardige getuigen. En laat de haat van een volk jullie er niet we brengen niet rechtvaardig te wezen.",
+        "008_01": "Weest rechtvaardig, dat is het dichtst bij Taqwa. En vreest Allah."
+      },
+      "arabic_reference_splits": {
+        "008_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُونُواْ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلۡقِسۡطِۖ وَلَا يَجۡرِمَنَّكُمۡ شَنَـَٔانُ قَوۡمٍ عَلَىٰٓ أَلَّا تَعۡدِلُواْۚ",
+        "008_01": "ٱعۡدِلُواْ هُوَ أَقۡرَبُ لِلتَّقۡوَىٰۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ خَبِيرُۢ بِمَا تَعۡمَلُونَ ٨"
+      },
+      "combined_translation": "O jullie die geloven! Weest standvastig voor Allah als rechtvaardige getuigen. En laat de haat van een volk jullie er niet we brengen niet rechtvaardig te wezen. Weest rechtvaardig, dat is het dichtst bij Taqwa. En vreest Allah.",
+      "timestamp": "2025-12-08T07:50:25.688391"
+    },
+    {
+      "verse_key": "005_020",
+      "chapter": 5,
+      "verse_number": 20,
+      "error": "Words added: ['voor', 'jullie']; Words removed: ['voorjullie']",
+      "original_translation_splits": {
+        "020_00": "En (gedenkt) toen Môesa tot zijn volk zei: \"O mijn volk, gedenkt de genieting van Allah voorjullie, toen Hij Profeten uit",
+        "020_01": "jullie midden voortbracht en jullie koninkrijken gaf en aan jullie gaf wat aan niet één (volk) in de werelden gegeven was."
+      },
+      "arabic_reference_splits": {
+        "020_00": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦ يَٰقَوۡمِ ٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ إِذۡ جَعَلَ فِيكُمۡ أَنۢبِيَآءَ وَجَعَلَكُم مُّلُوكٗا",
+        "020_01": "وَءَاتَىٰكُم مَّا لَمۡ يُؤۡتِ أَحَدٗا مِّنَ ٱلۡعَٰلَمِينَ ٠٢"
+      },
+      "combined_translation": "En (gedenkt) toen Môesa tot zijn volk zei: \"O mijn volk, gedenkt de genieting van Allah voorjullie, toen Hij Profeten uit jullie midden voortbracht en jullie koninkrijken gaf en aan jullie gaf wat aan niet één (volk) in de werelden gegeven was.",
+      "timestamp": "2025-12-08T07:50:25.689444"
+    },
+    {
+      "verse_key": "005_023",
+      "chapter": 5,
+      "verse_number": 23,
+      "error": "Words added: ['allah', 'en', 'en', 'zijn', 'wanneer', 'jullie', 'jullie', 'op', 'laat', 'vertrouwen', 'als', 'gelovigen']; Words removed: ['on', 'waneer']",
+      "original_translation_splits": {
+        "023_00": "Twee mannen van degenen die (Allah) vreesden en aan wie Allah van Zijn gunsten gegeven had, zeiden.",
+        "023_01": "\"Val hen aan via de poort on waneer jullie dan binnengetreden zijn, dan zullen jullie waarlijk winnaars zijn."
+      },
+      "arabic_reference_splits": {
+        "023_00": "قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِمَا ٱدۡخُلُواْ عَلَيۡهِمُ ٱلۡبَابَ فَإِذَا دَخَلۡتُمُوهُ فَإِنَّكُمۡ غَٰلِبُونَۚ",
+        "023_01": "وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓاْ إِن كُنتُم مُّؤۡمِنِينَ ٣٢"
+      },
+      "combined_translation": "Twee mannen van degenen die (Allah) vreesden en aan wie Allah van Zijn gunsten gegeven had, zeiden. \"Val hen aan via de poort on waneer jullie dan binnengetreden zijn, dan zullen jullie waarlijk winnaars zijn.",
+      "timestamp": "2025-12-08T07:50:25.690490"
+    },
+    {
+      "verse_key": "005_027",
+      "chapter": 5,
+      "verse_number": 27,
+      "error": "Words added: ['waarheid', 'offer']; Words removed: ['warheid', 'otter']",
+      "original_translation_splits": {
+        "027_00": "Vertel hen de warheid over het verhaal over de twee zonen van Adam: toen zij een offer brachten, werd het van één van hen (Abel) aanvaard en van de ander (Kaïn) werd het niet aanvaard.",
+        "027_01": "Hij (Kaïn) zei: \"Ik zal jou doden.\" Hij (Abel) zei: \"Voorwaar, Allah aanvaardt alleen het otter van de Moettaqeen."
+      },
+      "arabic_reference_splits": {
+        "027_00": "۞وَٱتۡلُ عَلَيۡهِمۡ نَبَأَ ٱبۡنَيۡ ءَادَمَ بِٱلۡحَقِّ إِذۡ قَرَّبَا قُرۡبَانٗا فَتُقُبِّلَ مِنۡ أَحَدِهِمَا وَلَمۡ يُتَقَبَّلۡ مِنَ ٱلۡأٓخَرِ قَالَ لَأَقۡتُلَنَّكَۖ",
+        "027_01": "قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلۡمُتَّقِينَ ٧٢"
+      },
+      "combined_translation": "Vertel hen de warheid over het verhaal over de twee zonen van Adam: toen zij een offer brachten, werd het van één van hen (Abel) aanvaard en van de ander (Kaïn) werd het niet aanvaard. Hij (Kaïn) zei: \"Ik zal jou doden.\" Hij (Abel) zei: \"Voorwaar, Allah aanvaardt alleen het otter van de Moettaqeen.",
+      "timestamp": "2025-12-08T07:50:25.691588"
+    },
+    {
+      "verse_key": "005_083",
+      "chapter": 5,
+      "verse_number": 83,
+      "error": "Words added: ['wanneer', 'zij', 'aan']; Words removed: ['wannccrzij', 'zan']",
+      "original_translation_splits": {
+        "083_00": "En wannccrzij horen wat zan de Boodschapper geopenbaard is, zie jij hun ogen van de tranen overvloeien, omdat zij de Waarheid herkennen.",
+        "083_01": "Zij zeggen: \"Onze Heer, wij geloven, schrijf ons dus op bij de getuigen."
+      },
+      "arabic_reference_splits": {
+        "083_00": "وَإِذَا سَمِعُواْ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعۡيُنَهُمۡ تَفِيضُ مِنَ ٱلدَّمۡعِ مِمَّا عَرَفُواْ مِنَ ٱلۡحَقِّۖ",
+        "083_01": "يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّٰهِدِينَ ٣٨"
+      },
+      "combined_translation": "En wannccrzij horen wat zan de Boodschapper geopenbaard is, zie jij hun ogen van de tranen overvloeien, omdat zij de Waarheid herkennen. Zij zeggen: \"Onze Heer, wij geloven, schrijf ons dus op bij de getuigen.",
+      "timestamp": "2025-12-08T07:50:25.692654"
+    },
+    {
+      "verse_key": "005_094",
+      "chapter": 5,
+      "verse_number": 94,
+      "error": "Words added: ['faman', 'i', 'tada', 'ba', 'da', 'dhalika', 'falahu', 'adhabun', 'alim']",
+      "original_translation_splits": {
+        "094_00": "O jullie die geloven!",
+        "094_01": "Allah wil jullie alleen maar beproeven met wat ven de jachtbuit, die in het bereik ligt van jullie handen en jullie speren, opdat Allah degene die Hem in het verborgene vreest toetst."
+      },
+      "arabic_reference_splits": {
+        "094_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَيَبۡلُوَنَّكُمُ ٱللَّهُ بِشَيۡءٖ مِّنَ ٱلصَّيۡدِ تَنَالُهُۥٓ أَيۡدِيكُمۡ وَرِمَاحُكُمۡ لِيَعۡلَمَ ٱللَّهُ مَن يَخَافُهُۥ بِٱلۡغَيۡبِۚ",
+        "094_01": "فَمَنِ ٱعۡتَدَىٰ بَعۡدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٞ ٤٩"
+      },
+      "combined_translation": "O jullie die geloven! Allah wil jullie alleen maar beproeven met wat ven de jachtbuit, die in het bereik ligt van jullie handen en jullie speren, opdat Allah degene die Hem in het verborgene vreest toetst.",
+      "timestamp": "2025-12-08T07:50:25.694328"
+    },
+    {
+      "verse_key": "005_104",
+      "chapter": 5,
+      "verse_number": 104,
+      "error": "Words added: ['gezegd', 'leefregels', 'volgden']; Words removed: ['gczcgd', 'leafregels', 'volgen']",
+      "original_translation_splits": {
+        "104_00": "En toen tot hen werd gczcgd: \"Komt tot wat Allah geopenbaard heeft en tot Zijn Boodschapper,\" zeiden zij: \"Ons is",
+        "104_01": "voldoende wat wij (aan leafregels) bij onze vaderen vonden. En dat terwijl hun vaderen niets wisten en geen Leiding volgen?"
+      },
+      "arabic_reference_splits": {
+        "104_00": "وَإِذَا قِيلَ لَهُمۡ تَعَالَوۡاْ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ قَالُواْ حَسۡبُنَا مَا وَجَدۡنَا عَلَيۡهِ ءَابَآءَنَآۚ",
+        "104_01": "أَوَلَوۡ كَانَ ءَابَآؤُهُمۡ لَا يَعۡلَمُونَ شَيۡـٔٗا وَلَا يَهۡتَدُونَ ٤٠١"
+      },
+      "combined_translation": "En toen tot hen werd gczcgd: \"Komt tot wat Allah geopenbaard heeft en tot Zijn Boodschapper,\" zeiden zij: \"Ons is voldoende wat wij (aan leafregels) bij onze vaderen vonden. En dat terwijl hun vaderen niets wisten en geen Leiding volgen?",
+      "timestamp": "2025-12-08T07:50:25.695369"
+    },
+    {
+      "verse_key": "006_019",
+      "chapter": 6,
+      "verse_number": 19,
+      "error": "Words removed: ['en', 'ook', 'een', 'ieder', 'die', 'erdoor', 'bereikt', 'wordt']",
+      "original_translation_splits": {
+        "019_00": "Zeg (O Moehammad): \"Welke zaak vormt de grootste getuigenis?\" Zeg: \"Allah is Getuige over mij en jullie en deze Koran is aan mij geopenbaard om ermee jullie te vermanen en (ook) een ieder die erdoor bereikt wordt.",
+        "019_01": "Zouden jullie kunnen getuigen dat er naast Allah andere goden zijn?"
+      },
+      "arabic_reference_splits": {
+        "019_00": "قُلۡ أَيُّ شَيۡءٍ أَكۡبَرُ شَهَٰدَةٗۖ قُلِ ٱللَّهُۖ شَهِيدُۢ بَيۡنِي وَبَيۡنَكُمۡۚ وَأُوحِيَ إِلَيَّ هَٰذَا ٱلۡقُرۡءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَۚ",
+        "019_01": "أَئِنَّكُمۡ لَتَشۡهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخۡرَىٰۚ قُل لَّآ أَشۡهَدُۚ قُلۡ إِنَّمَا هُوَ إِلَٰهٞ وَٰحِدٞ وَإِنَّنِي بَرِيٓءٞ مِّمَّا تُشۡرِكُونَ ٩١"
+      },
+      "combined_translation": "Zeg (O Moehammad): \"Welke zaak vormt de grootste getuigenis?\" Zeg: \"Allah is Getuige over mij en jullie en deze Koran is aan mij geopenbaard om ermee jullie te vermanen en (ook) een ieder die erdoor bereikt wordt. Zouden jullie kunnen getuigen dat er naast Allah andere goden zijn?",
+      "timestamp": "2025-12-08T07:50:25.696359"
+    },
+    {
+      "verse_key": "006_114",
+      "chapter": 6,
+      "verse_number": 114,
+      "error": "Words removed: ['zeg', 'o', 'moehammad', 'de', 'tot', 'behoor', 'dus', 'zeker', 'niet', 'twijfelaars']",
+      "original_translation_splits": {
+        "114_00": "(Zeg, O Moehammad:) \"Zal ik dan een andere Rechter dan Allah zoeken, terwijl Hij het is Die het Boek (de Koran) tot hen heeft neergezonden als een uiteenzetting?\" En degenen aan wie Wij de Schrift hebben gegeven weten dat het een neerzending met de Waarheid van jouw Heer is.",
+        "114_01": "Behoor dus zeker niet tot de twijfelaars."
+      },
+      "arabic_reference_splits": {
+        "114_00": "أَفَغَيۡرَ ٱللَّهِ أَبۡتَغِي حَكَمٗا وَهُوَ ٱلَّذِيٓ أَنزَلَ إِلَيۡكُمُ ٱلۡكِتَٰبَ مُفَصَّلٗاۚ",
+        "114_01": "وَٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَعۡلَمُونَ أَنَّهُۥ مُنَزَّلٞ مِّن رَّبِّكَ بِٱلۡحَقِّۖ فَلَا تَكُونَنَّ مِنَ ٱلۡمُمۡتَرِينَ ٤١١"
+      },
+      "combined_translation": "(Zeg, O Moehammad:) \"Zal ik dan een andere Rechter dan Allah zoeken, terwijl Hij het is Die het Boek (de Koran) tot hen heeft neergezonden als een uiteenzetting?\" En degenen aan wie Wij de Schrift hebben gegeven weten dat het een neerzending met de Waarheid van jouw Heer is. Behoor dus zeker niet tot de twijfelaars.",
+      "timestamp": "2025-12-08T07:50:25.698745"
+    },
+    {
+      "verse_key": "006_124",
+      "chapter": 6,
+      "verse_number": 124,
+      "error": "Words added: ['zij']; Words removed: ['zei']",
+      "original_translation_splits": {
+        "124_00": "En wanneer er een Teken tot hen komt, dan zeggen zei: \"Wij zullen nooit geloven tot aan ons hetzelfde is gegeven als wat aan Allah's Boodschappers is gegeven.\" Allah weet beter waar Hij Zijn Boodschap brengt.",
+        "124_01": "Bij Allah zullen degenen die misdaden pleegden gedaan door kleinering"
+      },
+      "arabic_reference_splits": {
+        "124_00": "وَإِذَا جَآءَتۡهُمۡ ءَايَةٞ قَالُواْ لَن نُّؤۡمِنَ حَتَّىٰ نُؤۡتَىٰ مِثۡلَ مَآ أُوتِيَ رُسُلُ ٱللَّهِۘ ٱللَّهُ أَعۡلَمُ حَيۡثُ يَجۡعَلُ رِسَالَتَهُۥۗ",
+        "124_01": "سَيُصِيبُ ٱلَّذِينَ أَجۡرَمُواْ صَغَارٌ عِندَ ٱللَّهِ وَعَذَابٞ شَدِيدُۢ بِمَا كَانُواْ يَمۡكُرُونَ ٤٢١"
+      },
+      "combined_translation": "En wanneer er een Teken tot hen komt, dan zeggen zei: \"Wij zullen nooit geloven tot aan ons hetzelfde is gegeven als wat aan Allah's Boodschappers is gegeven.\" Allah weet beter waar Hij Zijn Boodschap brengt. Bij Allah zullen degenen die misdaden pleegden gedaan door kleinering",
+      "timestamp": "2025-12-08T07:50:25.699735"
+    },
+    {
+      "verse_key": "006_146",
+      "chapter": 6,
+      "verse_number": 146,
+      "error": "Words added: ['en', 'en', 'de', 'de', 'verboden', 'wij', 'van', 'runderen', 'schapen', 'hebben', 'hun', 'vetten']",
+      "original_translation_splits": {
+        "146_00": "En voor de Joden verboden Wij alle (dieren) met (ongesplitste) hoeven.",
+        "146_01": "En voorwaar, Wij zijn zeker waarachtig.",
+        "146_02": "Zo vergolden Wij hun vanwege hun begerigheid."
+      },
+      "arabic_reference_splits": {
+        "146_00": "وَعَلَى ٱلَّذِينَ هَادُواْ حَرَّمۡنَا كُلَّ ذِي ظُفُرٖۖ",
+        "146_01": "وَمِنَ ٱلۡبَقَرِ وَٱلۡغَنَمِ حَرَّمۡنَا عَلَيۡهِمۡ شُحُومَهُمَآ إِلَّا مَا حَمَلَتۡ ظُهُورُهُمَآ أَوِ ٱلۡحَوَايَآ أَوۡ مَا ٱخۡتَلَطَ بِعَظۡمٖۚ",
+        "146_02": "ذَٰلِكَ جَزَيۡنَٰهُم بِبَغۡيِهِمۡۖ وَإِنَّا لَصَٰدِقُونَ ٦٤١"
+      },
+      "combined_translation": "En voor de Joden verboden Wij alle (dieren) met (ongesplitste) hoeven. En voorwaar, Wij zijn zeker waarachtig. Zo vergolden Wij hun vanwege hun begerigheid.",
+      "timestamp": "2025-12-08T07:50:25.700700"
+    },
+    {
+      "verse_key": "007_027",
+      "chapter": 7,
+      "verse_number": 27,
+      "error": "Words added: ['o', 'kinderen']; Words removed: ['0okinderen']",
+      "original_translation_splits": {
+        "027_00": "0OKinderen van Adam, laat de Satan jullie niet in verzoeking brengen, zoals hij jullie voorouders uit de tuin heeft verdreven; hij nam hun kleding van hen weg om hen hun schaamte te tonen.",
+        "027_01": "Hij en zijn aanhangers zien jullie van waar jullie hen niet zien. Voorwaar, Wij hebben de Satans tot leiders gemaakt voor degenen die niet geloven."
+      },
+      "arabic_reference_splits": {
+        "027_00": "يَٰبَنِيٓ ءَادَمَ لَا يَفۡتِنَنَّكُمُ ٱلشَّيۡطَٰنُ كَمَآ أَخۡرَجَ أَبَوَيۡكُم مِّنَ ٱلۡجَنَّةِ يَنزِعُ عَنۡهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوۡءَٰتِهِمَآۚ",
+        "027_01": "إِنَّهُۥ يَرَىٰكُمۡ هُوَ وَقَبِيلُهُۥ مِنۡ حَيۡثُ لَا تَرَوۡنَهُمۡۗ إِنَّا جَعَلۡنَا ٱلشَّيَٰطِينَ أَوۡلِيَآءَ لِلَّذِينَ لَا يُؤۡمِنُونَ ٧٢"
+      },
+      "combined_translation": "0OKinderen van Adam, laat de Satan jullie niet in verzoeking brengen, zoals hij jullie voorouders uit de tuin heeft verdreven; hij nam hun kleding van hen weg om hen hun schaamte te tonen. Hij en zijn aanhangers zien jullie van waar jullie hen niet zien. Voorwaar, Wij hebben de Satans tot leiders gemaakt voor degenen die niet geloven.",
+      "timestamp": "2025-12-08T07:50:25.701689"
+    },
+    {
+      "verse_key": "007_033",
+      "chapter": 7,
+      "verse_number": 33,
+      "error": "Words removed: ['en']",
+      "original_translation_splits": {
+        "033_00": "Zeg: \"Mijn Heer heeft slechts de zedeloosheden verboden, wat er openlijk van is en wat er verborgen van is; en de zonde; en de",
+        "033_01": "en dat jullie over Allah zeggen wat jullie niet weten."
+      },
+      "arabic_reference_splits": {
+        "033_00": "قُلۡ إِنَّمَا حَرَّمَ رَبِّيَ ٱلۡفَوَٰحِشَ مَا ظَهَرَ مِنۡهَا وَمَا بَطَنَ وَٱلۡإِثۡمَ وَٱلۡبَغۡيَ بِغَيۡرِ ٱلۡحَقِّ وَأَن تُشۡرِكُواْ بِٱللَّهِ مَا لَمۡ يُنَزِّلۡ بِهِۦ سُلۡطَٰنٗا",
+        "033_01": "وَأَن تَقُولُواْ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ ٣٣"
+      },
+      "combined_translation": "Zeg: \"Mijn Heer heeft slechts de zedeloosheden verboden, wat er openlijk van is en wat er verborgen van is; en de zonde; en de en dat jullie over Allah zeggen wat jullie niet weten.",
+      "timestamp": "2025-12-08T07:50:25.702623"
+    },
+    {
+      "verse_key": "007_037",
+      "chapter": 7,
+      "verse_number": 37,
+      "error": "Words added: ['te']; Words removed: ['to']",
+      "original_translation_splits": {
+        "037_00": "Wie zijn dan onrechtvaardiger dan degenen die een leugen over Allah hebben verzonnen en die Zijn Verzen geloochend hebben?",
+        "037_01": "Zij zijn degenen die door hun aandeel in het Boek (Lauhoelmahfoezh) getroffen worden, totdat wanneer Onze gezanten (de Engelen) tot hen komen die hen wegnemen. Zij zeiden: \"Waar is hetgeen dat jullie plachten to aanbidden naast Allah?\"",
+        "037_02": "Zij zeiden: \"Zij zijn van ons weggegaan,\" on zij getuigden over zichzelf dat zij ongelovigen waren."
+      },
+      "arabic_reference_splits": {
+        "037_00": "فَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوۡ كَذَّبَ بِـَٔايَٰتِهِۦٓۚ أُوْلَٰٓئِكَ يَنَالُهُمۡ نَصِيبُهُم مِّنَ ٱلۡكِتَٰبِۖ",
+        "037_01": "حَتَّىٰٓ إِذَا جَآءَتۡهُمۡ رُسُلُنَا يَتَوَفَّوۡنَهُمۡ قَالُوٓاْ أَيۡنَ مَا كُنتُمۡ تَدۡعُونَ مِن دُونِ ٱللَّهِۖ",
+        "037_02": "قَالُواْ ضَلُّواْ عَنَّا وَشَهِدُواْ عَلَىٰٓ أَنفُسِهِمۡ أَنَّهُمۡ كَانُواْ كَٰفِرِينَ ٧٣"
+      },
+      "combined_translation": "Wie zijn dan onrechtvaardiger dan degenen die een leugen over Allah hebben verzonnen en die Zijn Verzen geloochend hebben? Zij zijn degenen die door hun aandeel in het Boek (Lauhoelmahfoezh) getroffen worden, totdat wanneer Onze gezanten (de Engelen) tot hen komen die hen wegnemen. Zij zeiden: \"Waar is hetgeen dat jullie plachten to aanbidden naast Allah?\" Zij zeiden: \"Zij zijn van ons weggegaan,\" on zij getuigden over zichzelf dat zij ongelovigen waren.",
+      "timestamp": "2025-12-08T07:50:25.704049"
+    },
+    {
+      "verse_key": "007_044",
+      "chapter": 7,
+      "verse_number": 44,
+      "error": "Words added: ['aangetroffen']; Words removed: ['aaagetroffen']",
+      "original_translation_splits": {
+        "044_00": "En de bewoners van het Paradijs roepen tot de bewoners van de Hel: \"Wij hebben waarlijk aangetroffen wat onze Heer ons heeft beloofd, hebben jullie dan ook werkelijk aaagetroffen wat jullie Heer jullie heeft aangezegd?\" Zij zeiden: \"Ja\".",
+        "044_01": "Dan verkondigt een omroeper onder hen dat de vloek van Allah op de onrechtplegers rust."
+      },
+      "arabic_reference_splits": {
+        "044_00": "وَنَادَىٰٓ أَصۡحَٰبُ ٱلۡجَنَّةِ أَصۡحَٰبَ ٱلنَّارِ أَن قَدۡ وَجَدۡنَا مَا وَعَدَنَا رَبُّنَا حَقّٗا فَهَلۡ وَجَدتُّم مَّا وَعَدَ رَبُّكُمۡ حَقّٗاۖ قَالُواْ نَعَمۡۚ",
+        "044_01": "فَأَذَّنَ مُؤَذِّنُۢ بَيۡنَهُمۡ أَن لَّعۡنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ ٤٤"
+      },
+      "combined_translation": "En de bewoners van het Paradijs roepen tot de bewoners van de Hel: \"Wij hebben waarlijk aangetroffen wat onze Heer ons heeft beloofd, hebben jullie dan ook werkelijk aaagetroffen wat jullie Heer jullie heeft aangezegd?\" Zij zeiden: \"Ja\". Dan verkondigt een omroeper onder hen dat de vloek van Allah op de onrechtplegers rust.",
+      "timestamp": "2025-12-08T07:50:25.705018"
+    },
+    {
+      "verse_key": "007_046",
+      "chapter": 7,
+      "verse_number": 46,
+      "error": "Words added: ['bewoners']; Words removed: ['bowoners']",
+      "original_translation_splits": {
+        "046_00": "En tussen hen is een afscheiding en op de A'raf bevinden zich mannen, zij kennen allen door hun kenmerken; zij roepen",
+        "046_01": "tot de bowoners van het Paradijs: Salamoen 'alaikoem.\" (Vrede zij met jullie) Zij zijn haar nog niet binnengegaan terwijl zij (dat) begeren."
+      },
+      "arabic_reference_splits": {
+        "046_00": "وَبَيۡنَهُمَا حِجَابٞۚ وَعَلَى ٱلۡأَعۡرَافِ رِجَالٞ يَعۡرِفُونَ كُلَّۢا بِسِيمَىٰهُمۡۚ وَنَادَوۡاْ أَصۡحَٰبَ ٱلۡجَنَّةِ أَن سَلَٰمٌ عَلَيۡكُمۡۚ",
+        "046_01": "لَمۡ يَدۡخُلُوهَا وَهُمۡ يَطۡمَعُونَ ٦٤"
+      },
+      "combined_translation": "En tussen hen is een afscheiding en op de A'raf bevinden zich mannen, zij kennen allen door hun kenmerken; zij roepen tot de bowoners van het Paradijs: Salamoen 'alaikoem.\" (Vrede zij met jullie) Zij zijn haar nog niet binnengegaan terwijl zij (dat) begeren.",
+      "timestamp": "2025-12-08T07:50:25.705975"
+    },
+    {
+      "verse_key": "007_051",
+      "chapter": 7,
+      "verse_number": 51,
+      "error": "Words removed: ['on']",
+      "original_translation_splits": {
+        "051_00": "(Zij zijn) degenen die hun godsdienst als vermaak en spel beschouwden en degenen die bedrogen zijn door het wereldse leven.",
+        "051_01": "Op de Dag (der Opstanding) vergeten Wij hen zoals zij de ontmoeting met deze Dag van hen vergaten, on omdat zij Onze Tekenen plachten te ontkennen."
+      },
+      "arabic_reference_splits": {
+        "051_00": "ٱلَّذِينَ ٱتَّخَذُواْ دِينَهُمۡ لَهۡوٗا وَلَعِبٗا وَغَرَّتۡهُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَاۚ",
+        "051_01": "فَٱلۡيَوۡمَ نَنسَىٰهُمۡ كَمَا نَسُواْ لِقَآءَ يَوۡمِهِمۡ هَٰذَا وَمَا كَانُواْ بِـَٔايَٰتِنَا يَجۡحَدُونَ ١٥"
+      },
+      "combined_translation": "(Zij zijn) degenen die hun godsdienst als vermaak en spel beschouwden en degenen die bedrogen zijn door het wereldse leven. Op de Dag (der Opstanding) vergeten Wij hen zoals zij de ontmoeting met deze Dag van hen vergaten, on omdat zij Onze Tekenen plachten te ontkennen.",
+      "timestamp": "2025-12-08T07:50:25.706881"
+    },
+    {
+      "verse_key": "007_053",
+      "chapter": 7,
+      "verse_number": 53,
+      "error": "Words added: ['van']; Words removed: ['ven']",
+      "original_translation_splits": {
+        "053_00": "Zij wachten op niets anders dan het gevolg ervan.",
+        "053_01": "De Dag waarop het gevolg ervan komt, zeggen degenen die het (Boek) daarvoor hadden vergeten: \"Waarlijk, de Boodschappers van onze Heer kwamen tot ons met de Waarheid: zijn er voor ons dan nog voorsprekers die ten gunste ven ons spreken?\"",
+        "053_02": "Of kunnen wij (naar de aarde) worden teruggebracht? Dan zullen wij anders handelen dan wij plachten te handelen. Waarlijk, zij hebben zichzelf verlies toegebracht en van hen weggegaan is wat zij plachten te verzinnen."
+      },
+      "arabic_reference_splits": {
+        "053_00": "هَلۡ يَنظُرُونَ إِلَّا تَأۡوِيلَهُۥۚ",
+        "053_01": "يَوۡمَ يَأۡتِي تَأۡوِيلُهُۥ يَقُولُ ٱلَّذِينَ نَسُوهُ مِن قَبۡلُ قَدۡ جَآءَتۡ رُسُلُ رَبِّنَا بِٱلۡحَقِّ فَهَل لَّنَا مِن شُفَعَآءَ فَيَشۡفَعُواْ لَنَآ",
+        "053_02": "أَوۡ نُرَدُّ فَنَعۡمَلَ غَيۡرَ ٱلَّذِي كُنَّا نَعۡمَلُۚ قَدۡ خَسِرُوٓاْ أَنفُسَهُمۡ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ ٣٥"
+      },
+      "combined_translation": "Zij wachten op niets anders dan het gevolg ervan. De Dag waarop het gevolg ervan komt, zeggen degenen die het (Boek) daarvoor hadden vergeten: \"Waarlijk, de Boodschappers van onze Heer kwamen tot ons met de Waarheid: zijn er voor ons dan nog voorsprekers die ten gunste ven ons spreken?\" Of kunnen wij (naar de aarde) worden teruggebracht? Dan zullen wij anders handelen dan wij plachten te handelen. Waarlijk, zij hebben zichzelf verlies toegebracht en van hen weggegaan is wat zij plachten te verzinnen.",
+      "timestamp": "2025-12-08T07:50:25.707779"
+    },
+    {
+      "verse_key": "007_143",
+      "chapter": 7,
+      "verse_number": 143,
+      "error": "Words added: ['zien', 'maar']; Words removed: ['zei', 'hij']",
+      "original_translation_splits": {
+        "143_00": "En toen Môesa op de met Ons afgesproken tijd was gekomen en zijn Heer tot hem had gesproken, zei hij: \"Mijn Heer, Toon U aan mij.\" Hij zei: \"Jij zult Mij nimmer",
+        "143_01": "Hij zei: \"Kijk naar de berg, als deze op zijn plaats blijft, dan zul je Mij zien.\"",
+        "143_02": "En toen zijn Heer zich aan de berg zichtbaar maakte, maakte Hij deze tot pulver, en Môesa viel bewusteloos ter aarde. En toen hij weer bij bewustzijn was gekomen, zei hij: \"Heilig bent U, ik wend mij berouwvol tot U en ik ben de eerste van de gelovigen.\""
+      },
+      "arabic_reference_splits": {
+        "143_00": "وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ أَرِنِيٓ أَنظُرۡ إِلَيۡكَۚ",
+        "143_01": "قَالَ لَن تَرَىٰنِي وَلَٰكِنِ ٱنظُرۡ إِلَى ٱلۡجَبَلِ فَإِنِ ٱسۡتَقَرَّ مَكَانَهُۥ فَسَوۡفَ تَرَىٰنِيۚ",
+        "143_02": "فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلۡجَبَلِ جَعَلَهُۥ دَكّٗا وَخَرَّ مُوسَىٰ صَعِقٗاۚ فَلَمَّآ أَفَاقَ قَالَ سُبۡحَٰنَكَ تُبۡتُ إِلَيۡكَ وَأَنَا۠ أَوَّلُ ٱلۡمُؤۡمِنِينَ ٣٤١"
+      },
+      "combined_translation": "En toen Môesa op de met Ons afgesproken tijd was gekomen en zijn Heer tot hem had gesproken, zei hij: \"Mijn Heer, Toon U aan mij.\" Hij zei: \"Jij zult Mij nimmer Hij zei: \"Kijk naar de berg, als deze op zijn plaats blijft, dan zul je Mij zien.\" En toen zijn Heer zich aan de berg zichtbaar maakte, maakte Hij deze tot pulver, en Môesa viel bewusteloos ter aarde. En toen hij weer bij bewustzijn was gekomen, zei hij: \"Heilig bent U, ik wend mij berouwvol tot U en ik ben de eerste van de gelovigen.\"",
+      "timestamp": "2025-12-08T07:50:25.708700"
+    },
+    {
+      "verse_key": "007_145",
+      "chapter": 7,
+      "verse_number": 145,
+      "error": "Words added: ['s', 'أ', 'و', 'ر', 'يك', 'م', 'د', 'ار', 'ٱل', 'ف', 'س', 'ق', 'ين', '٥٤١']",
+      "original_translation_splits": {
+        "145_00": "En Wij schreven hem voor in de Tafelen over alle zaken, als een vermaning en als een uiteenzetting over alle zaken (en Wij zeiden:) \"Grijpt dit",
+        "145_01": "stevig vast en beveel jouw volk dat zij zich er op de beste manier aan houden,"
+      },
+      "arabic_reference_splits": {
+        "145_00": "وَكَتَبۡنَا لَهُۥ فِي ٱلۡأَلۡوَاحِ مِن كُلِّ شَيۡءٖ مَّوۡعِظَةٗ وَتَفۡصِيلٗا لِّكُلِّ شَيۡءٖ فَخُذۡهَا بِقُوَّةٖ وَأۡمُرۡ قَوۡمَكَ يَأۡخُذُواْ بِأَحۡسَنِهَاۚ",
+        "145_01": "سَأُوْرِيكُمۡ دَارَ ٱلۡفَٰسِقِينَ ٥٤١"
+      },
+      "combined_translation": "En Wij schreven hem voor in de Tafelen over alle zaken, als een vermaning en als een uiteenzetting over alle zaken (en Wij zeiden:) \"Grijpt dit stevig vast en beveel jouw volk dat zij zich er op de beste manier aan houden,",
+      "timestamp": "2025-12-08T07:50:25.709628"
+    },
+    {
+      "verse_key": "007_176",
+      "chapter": 7,
+      "verse_number": 176,
+      "error": "Words added: ['naar']; Words removed: ['naw']",
+      "original_translation_splits": {
+        "176_00": "En als Wij het hadden gewild, dan zouden Wij hem daarmee (met Onze Verzen) hebben verheven, maar hij neigde naw de aarde en volgde zijn hegeerte.",
+        "176_01": "Zijn gelijkenis is als de gelijkenis van de hond; als je hem wegjaagt, dan hijgt hij, en als je hem met rust laat dan hijgt hij.",
+        "176_02": "Dat is de gelijkenis van het volk dat Onze Verzen loochent, vertel daarom de geschiedenissen. Hopelijk zullen zij nadenken."
+      },
+      "arabic_reference_splits": {
+        "176_00": "وَلَوۡ شِئۡنَا لَرَفَعۡنَٰهُ بِهَا وَلَٰكِنَّهُۥٓ أَخۡلَدَ إِلَى ٱلۡأَرۡضِ وَٱتَّبَعَ هَوَىٰهُۚ",
+        "176_01": "فَمَثَلُهُۥ كَمَثَلِ ٱلۡكَلۡبِ إِن تَحۡمِلۡ عَلَيۡهِ يَلۡهَثۡ أَوۡ تَتۡرُكۡهُ يَلۡهَثۚ ذَّٰلِكَ مَثَلُ ٱلۡقَوۡمِ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَاۚ",
+        "176_02": "فَٱقۡصُصِ ٱلۡقَصَصَ لَعَلَّهُمۡ يَتَفَكَّرُونَ ٦٧١"
+      },
+      "combined_translation": "En als Wij het hadden gewild, dan zouden Wij hem daarmee (met Onze Verzen) hebben verheven, maar hij neigde naw de aarde en volgde zijn hegeerte. Zijn gelijkenis is als de gelijkenis van de hond; als je hem wegjaagt, dan hijgt hij, en als je hem met rust laat dan hijgt hij. Dat is de gelijkenis van het volk dat Onze Verzen loochent, vertel daarom de geschiedenissen. Hopelijk zullen zij nadenken.",
+      "timestamp": "2025-12-08T07:50:25.710524"
+    },
+    {
+      "verse_key": "007_195",
+      "chapter": 7,
+      "verse_number": 195,
+      "error": "Words added: ['qul', 'id', 'ū', 'shurakā', 'akum', 'thumma', 'kīdūnī', 'falā', 'tunẓirūn']",
+      "original_translation_splits": {
+        "195_00": "Hebben zij voeten waarmee zij lopen? Of hebben zij handen waarmee zij grijpen?",
+        "195_01": "Of hebben zij ogen waarmee zij zien? Of hebben zij oren waarmee zij horen?"
+      },
+      "arabic_reference_splits": {
+        "195_00": "أَلَهُمۡ أَرۡجُلٞ يَمۡشُونَ بِهَآۖ أَمۡ لَهُمۡ أَيۡدٖ يَبۡطِشُونَ بِهَآۖ أَمۡ لَهُمۡ أَعۡيُنٞ يُبۡصِرُونَ بِهَآۖ أَمۡ لَهُمۡ ءَاذَانٞ يَسۡمَعُونَ بِهَاۗ",
+        "195_01": "قُلِ ٱدۡعُواْ شُرَكَآءَكُمۡ ثُمَّ كِيدُونِ فَلَا تُنظِرُونِ ٥٩١"
+      },
+      "combined_translation": "Hebben zij voeten waarmee zij lopen? Of hebben zij handen waarmee zij grijpen? Of hebben zij ogen waarmee zij zien? Of hebben zij oren waarmee zij horen?",
+      "timestamp": "2025-12-08T07:50:25.711414"
+    },
+    {
+      "verse_key": "008_070",
+      "chapter": 8,
+      "verse_number": 70,
+      "error": "Words added: ['allah', 'is', 'en', 'vergevend', 'barmhartig']",
+      "original_translation_splits": {
+        "070_00": "O Profeet, zeg tot de gevangenen die zich in jouw handen bevinden: \"Als Allah doet weten dat er iets van goedheid in jullie harten is,",
+        "070_01": "dan zal Hij jullie iets beters geven dan wat van jullie is afgenomen, en dan zal Hij jullie vergeven."
+      },
+      "arabic_reference_splits": {
+        "070_00": "يَٰٓأَيُّهَا ٱلنَّبِيُّ قُل لِّمَن فِيٓ أَيۡدِيكُم مِّنَ ٱلۡأَسۡرَىٰٓ إِن يَعۡلَمِ ٱللَّهُ فِي قُلُوبِكُمۡ خَيۡرٗا يُؤۡتِكُمۡ خَيۡرٗا مِّمَّآ أُخِذَ مِنكُمۡ وَيَغۡفِرۡ لَكُمۡۚ",
+        "070_01": "وَٱللَّهُ غَفُورٞ رَّحِيمٞ ٠٧"
+      },
+      "combined_translation": "O Profeet, zeg tot de gevangenen die zich in jouw handen bevinden: \"Als Allah doet weten dat er iets van goedheid in jullie harten is, dan zal Hij jullie iets beters geven dan wat van jullie is afgenomen, en dan zal Hij jullie vergeven.",
+      "timestamp": "2025-12-08T07:50:25.712322"
+    },
+    {
+      "verse_key": "008_074",
+      "chapter": 8,
+      "verse_number": 74,
+      "error": "Words added: ['hen']; Words removed: ['ben']",
+      "original_translation_splits": {
+        "074_00": "En degenen die geloven en zijn uitgeweken en hebben gestreden op de Weg van Allah, en degenen die onderdak hebben gegeven en hulp hebben verleend: zij zijn het die de ware gelovigen zijn.",
+        "074_01": "Voor ben is er vergeving en een edele voorziening."
+      },
+      "arabic_reference_splits": {
+        "074_00": "وَٱلَّذِينَ ءَامَنُواْ وَهَاجَرُواْ وَجَٰهَدُواْ فِي سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَواْ وَّنَصَرُوٓاْ أُوْلَٰٓئِكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقّٗاۚ",
+        "074_01": "لَّهُم مَّغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ ٤٧"
+      },
+      "combined_translation": "En degenen die geloven en zijn uitgeweken en hebben gestreden op de Weg van Allah, en degenen die onderdak hebben gegeven en hulp hebben verleend: zij zijn het die de ware gelovigen zijn. Voor ben is er vergeving en een edele voorziening.",
+      "timestamp": "2025-12-08T07:50:25.713196"
+    },
+    {
+      "verse_key": "008_075",
+      "chapter": 8,
+      "verse_number": 75,
+      "error": "Words added: ['met']; Words removed: ['rnet']",
+      "original_translation_splits": {
+        "075_00": "En degenen die daarna gelovig zijn geworden en zijn uitgeweken en samen rnet jullie hebben gestreden: zij zijn degenen die tot jullie behoren.",
+        "075_01": "En de bloedverwanten hebben voorrang boven de anderen in het Boek van Allah."
+      },
+      "arabic_reference_splits": {
+        "075_00": "وَٱلَّذِينَ ءَامَنُواْ مِنۢ بَعۡدُ وَهَاجَرُواْ وَجَٰهَدُواْ مَعَكُمۡ فَأُوْلَٰٓئِكَ مِنكُمۡۚ وَأُوْلُواْ ٱلۡأَرۡحَامِ بَعۡضُهُمۡ أَوۡلَىٰ بِبَعۡضٖ فِي كِتَٰبِ ٱللَّهِۚ",
+        "075_01": "إِنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمُۢ ٥٧"
+      },
+      "combined_translation": "En degenen die daarna gelovig zijn geworden en zijn uitgeweken en samen rnet jullie hebben gestreden: zij zijn degenen die tot jullie behoren. En de bloedverwanten hebben voorrang boven de anderen in het Boek van Allah.",
+      "timestamp": "2025-12-08T07:50:25.714058"
+    },
+    {
+      "verse_key": "009_013",
+      "chapter": 9,
+      "verse_number": 13,
+      "error": "Words added: ['f', 'ٱلل', 'ه', 'ه', 'أ', 'أ', 'ح', 'ق', 'ن', 'ن', 'ن', 'ت', 'خ', 'ش', 'و', 'إ', 'ك', 'نت', 'م', 'م', 'م', 'ؤ', 'ين', '٣١']",
+      "original_translation_splits": {
+        "013_00": "Waarom bestrijden jullie een volk dat hun eden breekt niet?",
+        "013_01": "Terwijl zij van plan zijn om de Boodschapper te verdrijven, en zij jullie het eerst aanvallen?"
+      },
+      "arabic_reference_splits": {
+        "013_00": "أَلَا تُقَٰتِلُونَ قَوۡمٗا نَّكَثُوٓاْ أَيۡمَٰنَهُمۡ وَهَمُّواْ بِإِخۡرَاجِ ٱلرَّسُولِ وَهُم بَدَءُوكُمۡ أَوَّلَ مَرَّةٍۚ أَتَخۡشَوۡنَهُمۡۚ",
+        "013_01": "فَٱللَّهُ أَحَقُّ أَن تَخۡشَوۡهُ إِن كُنتُم مُّؤۡمِنِينَ ٣١"
+      },
+      "combined_translation": "Waarom bestrijden jullie een volk dat hun eden breekt niet? Terwijl zij van plan zijn om de Boodschapper te verdrijven, en zij jullie het eerst aanvallen?",
+      "timestamp": "2025-12-08T07:50:25.714917"
+    },
+    {
+      "verse_key": "009_019",
+      "chapter": 9,
+      "verse_number": 19,
+      "error": "Words added: ['gelijk']; Words removed: ['gefijk']",
+      "original_translation_splits": {
+        "019_00": "Stellen jullie het geven van drinken aan de bedevaartgangers en het onderhouden van de Masdjid al Harâm (de gewijde Moskee In Mekkah) gefijk aan (de aanbidding door) degene die in Allah en het Hiernamaals gelooft en die strijdt op de Weg van Allah?",
+        "019_01": "Zij zijn niet gelijk bij Allah."
+      },
+      "arabic_reference_splits": {
+        "019_00": "۞أَجَعَلۡتُمۡ سِقَايَةَ ٱلۡحَآجِّ وَعِمَارَةَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ كَمَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَجَٰهَدَ فِي سَبِيلِ ٱللَّهِۚ لَا يَسۡتَوُۥنَ عِندَ ٱللَّهِۗ",
+        "019_01": "وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ ٩١"
+      },
+      "combined_translation": "Stellen jullie het geven van drinken aan de bedevaartgangers en het onderhouden van de Masdjid al Harâm (de gewijde Moskee In Mekkah) gefijk aan (de aanbidding door) degene die in Allah en het Hiernamaals gelooft en die strijdt op de Weg van Allah? Zij zijn niet gelijk bij Allah.",
+      "timestamp": "2025-12-08T07:50:25.715819"
+    },
+    {
+      "verse_key": "009_024",
+      "chapter": 9,
+      "verse_number": 24,
+      "error": "Words added: ['dan']; Words removed: ['den', 'aḥabbā', 'ilaykum', 'min', 'allāhi', 'wa', 'wa', 'rasūlihi', 'jihād', 'fī', 'sabīlihi', 'fa', 'tarabbasū', 'ḥattā', 'ya', 'tīya', 'allāhu', 'bi', 'amrihi']",
+      "original_translation_splits": {
+        "024_00": "Zeg: \"Als jullie vaders en jullie zonen en jullie broeders en jullie echtgenotes en jullie familie en de bezittingen die jullie verworven hebben en de handel waarvan jullie verlies vrezen en de huizen die jullie behagen, jullie dierbaarder zijn den Allah en Zijn Boodschapper en het strijden op Zijn Weg, wacht dan tot Allah met Zijn beschikking komt.",
+        "024_01": "Aḥabbā ilaykum min Allāhi wa Rasūlihi wa jihād fī sabīlihi fa tarabbasū ḥattā ya'tīya Allāhu bi-amrihi."
+      },
+      "arabic_reference_splits": {
+        "024_00": "قُلۡ إِن كَانَ ءَابَآؤُكُمۡ وَأَبۡنَآؤُكُمۡ وَإِخۡوَٰنُكُمۡ وَأَزۡوَٰجُكُمۡ وَعَشِيرَتُكُمۡ وَأَمۡوَٰلٌ ٱقۡتَرَفۡتُمُوهَا وَتِجَٰرَةٞ تَخۡشَوۡنَ كَسَادَهَا وَمَسَٰكِنُ تَرۡضَوۡنَهَآ",
+        "024_01": "أَحَبَّ إِلَيۡكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٖ فِي سَبِيلِهِۦ فَتَرَبَّصُواْ حَتَّىٰ يَأۡتِيَ ٱللَّهُ بِأَمۡرِهِۦۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ ٤٢"
+      },
+      "combined_translation": "Zeg: \"Als jullie vaders en jullie zonen en jullie broeders en jullie echtgenotes en jullie familie en de bezittingen die jullie verworven hebben en de handel waarvan jullie verlies vrezen en de huizen die jullie behagen, jullie dierbaarder zijn den Allah en Zijn Boodschapper en het strijden op Zijn Weg, wacht dan tot Allah met Zijn beschikking komt. Aḥabbā ilaykum min Allāhi wa Rasūlihi wa jihād fī sabīlihi fa tarabbasū ḥattā ya'tīya Allāhu bi-amrihi.",
+      "timestamp": "2025-12-08T07:50:25.716684"
+    },
+    {
+      "verse_key": "009_052",
+      "chapter": 9,
+      "verse_number": 52,
+      "error": "Words added: ['fatarabbasuoo', 'inna', 'ma', 'akum', 'mutarabbisoon', '٢٥']",
+      "original_translation_splits": {
+        "052_00": "Zeg: \"Jullie venuchten slechts voor ons één van de twee goede dingen.",
+        "052_01": "En wij verwachten dat Allah jullie met een bestraffing van Zijn kant zal treffen, of (met een bestraffing) door ons."
+      },
+      "arabic_reference_splits": {
+        "052_00": "قُلۡ هَلۡ تَرَبَّصُونَ بِنَآ إِلَّآ إِحۡدَى ٱلۡحُسۡنَيَيۡنِۖ وَنَحۡنُ نَتَرَبَّصُ بِكُمۡ أَن يُصِيبَكُمُ ٱللَّهُ بِعَذَابٖ مِّنۡ عِندِهِۦٓ أَوۡ بِأَيۡدِينَاۖ",
+        "052_01": "فَتَرَبَّصُوٓاْ إِنَّا مَعَكُم مُّتَرَبِّصُونَ ٢٥"
+      },
+      "combined_translation": "Zeg: \"Jullie venuchten slechts voor ons één van de twee goede dingen. En wij verwachten dat Allah jullie met een bestraffing van Zijn kant zal treffen, of (met een bestraffing) door ons.",
+      "timestamp": "2025-12-08T07:50:25.717545"
+    },
+    {
+      "verse_key": "009_114",
+      "chapter": 9,
+      "verse_number": 114,
+      "error": "Words added: ['ibrâhîm', 'was', 'een', 'in', 'zeer', 'berouwvolle', 'geduldige']",
+      "original_translation_splits": {
+        "114_00": "En Ibrâhîm's verzoek om vergeving voor zijn vader was slechts vanwege een belofte die hij aan hem had gedaan.",
+        "114_01": "Toen het hem dan duidelijk was geworden dat hij een vijand van Allah was, verbrak hij (de band) met hem."
+      },
+      "arabic_reference_splits": {
+        "114_00": "وَمَا كَانَ ٱسۡتِغۡفَارُ إِبۡرَٰهِيمَ لِأَبِيهِ إِلَّا عَن مَّوۡعِدَةٖ وَعَدَهَآ إِيَّاهُ فَلَمَّا تَبَيَّنَ لَهُۥٓ أَنَّهُۥ عَدُوّٞ لِّلَّهِ تَبَرَّأَ مِنۡهُۚ",
+        "114_01": "إِنَّ إِبۡرَٰهِيمَ لَأَوَّٰهٌ حَلِيمٞ ٤١١"
+      },
+      "combined_translation": "En Ibrâhîm's verzoek om vergeving voor zijn vader was slechts vanwege een belofte die hij aan hem had gedaan. Toen het hem dan duidelijk was geworden dat hij een vijand van Allah was, verbrak hij (de band) met hem.",
+      "timestamp": "2025-12-08T07:50:25.718429"
+    },
+    {
+      "verse_key": "010_013",
+      "chapter": 10,
+      "verse_number": 13,
+      "error": "Words added: ['wij', 'de', 'zo', 'vergoeden', 'mensen', 'die', 'misdadig', 'zijn']",
+      "original_translation_splits": {
+        "013_00": "En voorwaar, Wij hebben de generaties v??r hen vernietigd tom zij onrecht pleegden, terwijl hun Boodschappers tot",
+        "013_01": "hen waren gekomen met de duidelijke bewijzen, maar zij geloofden niet."
+      },
+      "arabic_reference_splits": {
+        "013_00": "وَلَقَدۡ أَهۡلَكۡنَا ٱلۡقُرُونَ مِن قَبۡلِكُمۡ لَمَّا ظَلَمُواْ وَجَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ وَمَا كَانُواْ لِيُؤۡمِنُواْۚ",
+        "013_01": "كَذَٰلِكَ نَجۡزِي ٱلۡقَوۡمَ ٱلۡمُجۡرِمِينَ ٣١"
+      },
+      "combined_translation": "En voorwaar, Wij hebben de generaties v??r hen vernietigd tom zij onrecht pleegden, terwijl hun Boodschappers tot hen waren gekomen met de duidelijke bewijzen, maar zij geloofden niet.",
+      "timestamp": "2025-12-08T07:50:25.723673"
+    },
+    {
+      "verse_key": "011_029",
+      "chapter": 11,
+      "verse_number": 29,
+      "error": "Words added: ['en', 'volk', 'ik', 'jullie', 'ongelovigen', 'zie', 'als', 'een']; Words removed: ['ongerlovigen']",
+      "original_translation_splits": {
+        "029_00": "En: \"O mijn volk, ik vraag jullie hiervoor geen rijkdom, mijn beloning is slechts bij Allah.",
+        "029_01": "En ik zal de ongerlovigen nimmer wegjagen."
+      },
+      "arabic_reference_splits": {
+        "029_00": "وَيَٰقَوۡمِ لَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مَالًاۖ إِنۡ أَجۡرِيَ إِلَّا عَلَى ٱللَّهِۚ وَمَآ أَنَا۠ بِطَارِدِ ٱلَّذِينَ ءَامَنُوٓاْۚ",
+        "029_01": "إِنَّهُم مُّلَٰقُواْ رَبِّهِمۡ وَلَٰكِنِّيٓ أَرَىٰكُمۡ قَوۡمٗا تَجۡهَلُونَ ٩٢"
+      },
+      "combined_translation": "En: \"O mijn volk, ik vraag jullie hiervoor geen rijkdom, mijn beloning is slechts bij Allah. En ik zal de ongerlovigen nimmer wegjagen.",
+      "timestamp": "2025-12-08T07:50:25.724502"
+    },
+    {
+      "verse_key": "012_023",
+      "chapter": 12,
+      "verse_number": 23,
+      "error": "Words added: ['إ', 'ن', 'ه', 'ۥ', 'ل', 'ل', 'ل', 'ا', 'ي', 'ف', 'ح', 'ٱلظ', 'م', 'ون', '٣٢']",
+      "original_translation_splits": {
+        "023_00": "En zij in wier huis bij verbleef, probeerde hem te verleiden, tegen zijn wil en zij sloot de deuren en zij zei: \"Kom hier.\" Hij zei: \"(ik zoek mijn) toe vlucht bij Allah.",
+        "023_01": "Voorwaar, Hij is mijn Heer, (Hij geeft mij) mijn beste plaats."
+      },
+      "arabic_reference_splits": {
+        "023_00": "وَرَٰوَدَتۡهُ ٱلَّتِي هُوَ فِي بَيۡتِهَا عَن نَّفۡسِهِۦ وَغَلَّقَتِ ٱلۡأَبۡوَٰبَ وَقَالَتۡ هَيۡتَ لَكَۚ قَالَ مَعَاذَ ٱللَّهِۖ إِنَّهُۥ رَبِّيٓ أَحۡسَنَ مَثۡوَايَۖ",
+        "023_01": "إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ ٣٢"
+      },
+      "combined_translation": "En zij in wier huis bij verbleef, probeerde hem te verleiden, tegen zijn wil en zij sloot de deuren en zij zei: \"Kom hier.\" Hij zei: \"(ik zoek mijn) toe vlucht bij Allah. Voorwaar, Hij is mijn Heer, (Hij geeft mij) mijn beste plaats.",
+      "timestamp": "2025-12-08T07:50:25.725353"
+    },
+    {
+      "verse_key": "016_036",
+      "chapter": 16,
+      "verse_number": 36,
+      "error": "Words added: ['fasiru', 'fi', 'al', 'ard', 'faandhuru', 'kayfa', 'kana', 'aqibatu']",
+      "original_translation_splits": {
+        "036_00": "En voorzeker.",
+        "036_01": "Aanbidt Allah en houdt afstand van de Thagoet."
+      },
+      "arabic_reference_splits": {
+        "036_00": "وَلَقَدۡ بَعَثۡنَا فِي كُلِّ أُمَّةٖ رَّسُولًا أَنِ ٱعۡبُدُواْ ٱللَّهَ وَٱجۡتَنِبُواْ ٱلطَّٰغُوتَۖ فَمِنۡهُم مَّنۡ هَدَى ٱللَّهُ وَمِنۡهُم مَّنۡ حَقَّتۡ عَلَيۡهِ ٱلضَّلَٰلَةُۚ",
+        "036_01": "فَسِيرُواْ فِي ٱلۡأَرۡضِ فَٱنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُكَذِّبِينَ ٦٣"
+      },
+      "combined_translation": "En voorzeker. Aanbidt Allah en houdt afstand van de Thagoet.",
+      "timestamp": "2025-12-08T07:50:25.726193"
+    },
+    {
+      "verse_key": "017_057",
+      "chapter": 17,
+      "verse_number": 57,
+      "error": "Words added: ['de', 'een', 'heer', 'van', 'in', 'feite', 'is', 'straf', 'jouw', 'was', 'waarschuwing']",
+      "original_translation_splits": {
+        "057_00": "Zij (de veelgodenaanbidders) zijn degenen die aanroepen, (en zij die aangeroepen worden) zoeken naar een middel tot hun Heer.",
+        "057_01": "Wie van hen het dichtst bij (hun Heer) zijn en op Zijn Barmhartigheid hopen"
+      },
+      "arabic_reference_splits": {
+        "057_00": "أُوْلَٰٓئِكَ ٱلَّذِينَ يَدۡعُونَ يَبۡتَغُونَ إِلَىٰ رَبِّهِمُ ٱلۡوَسِيلَةَ أَيُّهُمۡ أَقۡرَبُ وَيَرۡجُونَ رَحۡمَتَهُۥ وَيَخَافُونَ عَذَابَهُۥٓۚ",
+        "057_01": "إِنَّ عَذَابَ رَبِّكَ كَانَ مَحۡذُورٗا ٧٥"
+      },
+      "combined_translation": "Zij (de veelgodenaanbidders) zijn degenen die aanroepen, (en zij die aangeroepen worden) zoeken naar een middel tot hun Heer. Wie van hen het dichtst bij (hun Heer) zijn en op Zijn Barmhartigheid hopen",
+      "timestamp": "2025-12-08T07:50:25.727848"
+    },
+    {
+      "verse_key": "017_064",
+      "chapter": 17,
+      "verse_number": 64,
+      "error": "Words added: ['en', 'hen', 'wat', 'de', 'duivel', 'belooft', 'is', 'niets', 'dan', 'bedrog']",
+      "original_translation_splits": {
+        "064_00": "En rui van hen op wie jij kan met jouw stem, en val hen aan met je paarden en je",
+        "064_01": "voetvolk, en deel rijkdommem en kinderen met hen en doe hen beloften."
+      },
+      "arabic_reference_splits": {
+        "064_00": "وَٱسۡتَفۡزِزۡ مَنِ ٱسۡتَطَعۡتَ مِنۡهُم بِصَوۡتِكَ وَأَجۡلِبۡ عَلَيۡهِم بِخَيۡلِكَ وَرَجِلِكَ وَشَارِكۡهُمۡ فِي ٱلۡأَمۡوَٰلِ وَٱلۡأَوۡلَٰدِ وَعِدۡهُمۡۚ",
+        "064_01": "وَمَا يَعِدُهُمُ ٱلشَّيۡطَٰنُ إِلَّا غُرُورًا ٤٦"
+      },
+      "combined_translation": "En rui van hen op wie jij kan met jouw stem, en val hen aan met je paarden en je voetvolk, en deel rijkdommem en kinderen met hen en doe hen beloften.",
+      "timestamp": "2025-12-08T07:50:25.728688"
+    },
+    {
+      "verse_key": "017_110",
+      "chapter": 17,
+      "verse_number": 110,
+      "error": "Words added: ['en', 'en', 'verhoog', 'je', 'je', 'stem', 'niet', 'niet', 'in', 'gebed', 'fluister', 'maar', 'zoek', 'een', 'weg', 'tussen', 'die', 'twee']",
+      "original_translation_splits": {
+        "110_00": "Zeg: \"Roept Allah aan of roept de Barmhartige aan.",
+        "110_01": "Waarbij jullie Hem ook aanroepen: aan Hem behoren de Schone Namen."
+      },
+      "arabic_reference_splits": {
+        "110_00": "قُلِ ٱدۡعُواْ ٱللَّهَ أَوِ ٱدۡعُواْ ٱلرَّحۡمَٰنَۖ أَيّٗا مَّا تَدۡعُواْ فَلَهُ ٱلۡأَسۡمَآءُ ٱلۡحُسۡنَىٰۚ",
+        "110_01": "وَلَا تَجۡهَرۡ بِصَلَاتِكَ وَلَا تُخَافِتۡ بِهَا وَٱبۡتَغِ بَيۡنَ ذَٰلِكَ سَبِيلٗا ٠١١"
+      },
+      "combined_translation": "Zeg: \"Roept Allah aan of roept de Barmhartige aan. Waarbij jullie Hem ook aanroepen: aan Hem behoren de Schone Namen.",
+      "timestamp": "2025-12-08T07:50:25.729492"
+    },
+    {
+      "verse_key": "022_028",
+      "chapter": 22,
+      "verse_number": 28,
+      "error": "Words added: ['f', 'ك', 'ل', 'وا', 'وا', 'م', 'م', 'ن', 'ه', 'ا', 'ا', 'و', 'أ', 'ط', 'ع', 'ٱل', 'ٱل', 'ب', 'ئ', 'س', 'ف', 'ق', 'ير', '٨٢']",
+      "original_translation_splits": {
+        "028_00": "Zodat zij getuigen zijn van de voordelen voor hen.",
+        "028_01": "En de Naam van Allah uitspreken op de bekende dagen over het slachtvee waarmee Hij hen voorzien heeft."
+      },
+      "arabic_reference_splits": {
+        "028_00": "لِّيَشۡهَدُواْ مَنَٰفِعَ لَهُمۡ وَيَذۡكُرُواْ ٱسۡمَ ٱللَّهِ فِيٓ أَيَّامٖ مَّعۡلُومَٰتٍ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلۡأَنۡعَٰمِۖ",
+        "028_01": "فَكُلُواْ مِنۡهَا وَأَطۡعِمُواْ ٱلۡبَآئِسَ ٱلۡفَقِيرَ ٨٢"
+      },
+      "combined_translation": "Zodat zij getuigen zijn van de voordelen voor hen. En de Naam van Allah uitspreken op de bekende dagen over het slachtvee waarmee Hij hen voorzien heeft.",
+      "timestamp": "2025-12-08T07:50:25.730312"
+    },
+    {
+      "verse_key": "023_091",
+      "chapter": 23,
+      "verse_number": 91,
+      "error": "Words added: ['s', 'ب', 'ح', 'ن', 'ٱلل', 'ه', 'ع', 'م', 'ا', 'ي', 'ص', 'ف', 'ون', '١٩']",
+      "original_translation_splits": {
+        "091_00": "Allah heeft zich geen kind genomen en er is geen god naast Hem!",
+        "091_01": "Dan zou iedere god weggaan met wat hij schiep"
+      },
+      "arabic_reference_splits": {
+        "091_00": "مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٖ وَمَا كَانَ مَعَهُۥ مِنۡ إِلَٰهٍۚ إِذٗا لَّذَهَبَ كُلُّ إِلَٰهِۭ بِمَا خَلَقَ وَلَعَلَا بَعۡضُهُمۡ عَلَىٰ بَعۡضٖۚ",
+        "091_01": "سُبۡحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ ١٩"
+      },
+      "combined_translation": "Allah heeft zich geen kind genomen en er is geen god naast Hem! Dan zou iedere god weggaan met wat hij schiep",
+      "timestamp": "2025-12-08T07:50:25.731117"
+    },
+    {
+      "verse_key": "024_004",
+      "chapter": 24,
+      "verse_number": 4,
+      "error": "Words added: ['want']; Words removed: ['went']",
+      "original_translation_splits": {
+        "004_00": "En degenen die eerzame vrouwen beschuldigen (van ontucht) en vervolgens geen vier getuigen brengen: slaat hen met tachtig slagen.",
+        "004_01": "En aanvaardt nooit getuigenissen van hen, went zij zijn degenen die zwam zonden begaan."
+      },
+      "arabic_reference_splits": {
+        "004_00": "وَٱلَّذِينَ يَرۡمُونَ ٱلۡمُحۡصَنَٰتِ ثُمَّ لَمۡ يَأۡتُواْ بِأَرۡبَعَةِ شُهَدَآءَ فَٱجۡلِدُوهُمۡ ثَمَٰنِينَ جَلۡدَةٗ وَلَا تَقۡبَلُواْ لَهُمۡ شَهَٰدَةً أَبَدٗاۚ",
+        "004_01": "وَأُوْلَٰٓئِكَ هُمُ ٱلۡفَٰسِقُونَ ٤"
+      },
+      "combined_translation": "En degenen die eerzame vrouwen beschuldigen (van ontucht) en vervolgens geen vier getuigen brengen: slaat hen met tachtig slagen. En aanvaardt nooit getuigenissen van hen, went zij zijn degenen die zwam zonden begaan.",
+      "timestamp": "2025-12-08T07:50:25.731972"
+    },
+    {
+      "verse_key": "024_027",
+      "chapter": 24,
+      "verse_number": 27,
+      "error": "Words added: ['jullie', 'jullie', 'dat', 'is', 'beter', 'voor', 'opdat', 'zich', 'herinneren']",
+      "original_translation_splits": {
+        "027_00": "O jullie die geloven!",
+        "027_01": "Gaat geen huizen binnen, behalve jullie huizen, totdat jullie toestemming hebben gevraagd"
+      },
+      "arabic_reference_splits": {
+        "027_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَدۡخُلُواْ بُيُوتًا غَيۡرَ بُيُوتِكُمۡ حَتَّىٰ تَسۡتَأۡنِسُواْ وَتُسَلِّمُواْ عَلَىٰٓ أَهۡلِهَاۚ",
+        "027_01": "ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ لَعَلَّكُمۡ تَذَكَّرُونَ ٧٢"
+      },
+      "combined_translation": "O jullie die geloven! Gaat geen huizen binnen, behalve jullie huizen, totdat jullie toestemming hebben gevraagd",
+      "timestamp": "2025-12-08T07:50:25.732827"
+    },
+    {
+      "verse_key": "024_028",
+      "chapter": 24,
+      "verse_number": 28,
+      "error": "Words added: ['dan']; Words removed: ['den']",
+      "original_translation_splits": {
+        "028_00": "Maar als jullie niemand daar (thuis) in vinden: gaat er den niet binnen totdat jullie toestemming hebben gekregen.",
+        "028_01": "En als tegen jullie wordt gezegd: \"Gaat terug,\" gaat dan terug, want dat is reiner voor jullie."
+      },
+      "arabic_reference_splits": {
+        "028_00": "فَإِن لَّمۡ تَجِدُواْ فِيهَآ أَحَدٗا فَلَا تَدۡخُلُوهَا حَتَّىٰ يُؤۡذَنَ لَكُمۡۖ وَإِن قِيلَ لَكُمُ ٱرۡجِعُواْ فَٱرۡجِعُواْۖ هُوَ أَزۡكَىٰ لَكُمۡۚ",
+        "028_01": "وَٱللَّهُ بِمَا تَعۡمَلُونَ عَلِيمٞ ٨٢"
+      },
+      "combined_translation": "Maar als jullie niemand daar (thuis) in vinden: gaat er den niet binnen totdat jullie toestemming hebben gekregen. En als tegen jullie wordt gezegd: \"Gaat terug,\" gaat dan terug, want dat is reiner voor jullie.",
+      "timestamp": "2025-12-08T07:50:25.733657"
+    },
+    {
+      "verse_key": "024_039",
+      "chapter": 24,
+      "verse_number": 39,
+      "error": "Words added: ['en', 'de', 'allah', 'is', 'snel', 'in', 'afrekening']",
+      "original_translation_splits": {
+        "039_00": "En degenen die ongelovig zijn: hun daden zijn als een luchtspiegeling op de woestijnvlakte.",
+        "039_01": "De dorstige denkt water (te vinden) totdat hij daar komt en er niets vindt."
+      },
+      "arabic_reference_splits": {
+        "039_00": "وَٱلَّذِينَ كَفَرُوٓاْ أَعۡمَٰلُهُمۡ كَسَرَابِۭ بِقِيعَةٖ يَحۡسَبُهُ ٱلظَّمۡـَٔانُ مَآءً حَتَّىٰٓ إِذَا جَآءَهُۥ لَمۡ يَجِدۡهُ شَيۡـٔٗا وَوَجَدَ ٱللَّهَ عِندَهُۥ فَوَفَّىٰهُ حِسَابَهُۥۗ",
+        "039_01": "وَٱللَّهُ سَرِيعُ ٱلۡحِسَابِ ٩٣"
+      },
+      "combined_translation": "En degenen die ongelovig zijn: hun daden zijn als een luchtspiegeling op de woestijnvlakte. De dorstige denkt water (te vinden) totdat hij daar komt en er niets vindt.",
+      "timestamp": "2025-12-08T07:50:25.734457"
+    },
+    {
+      "verse_key": "029_045",
+      "chapter": 29,
+      "verse_number": 45,
+      "error": "Words added: ['voorwaar']; Words removed: ['voorwaat']",
+      "original_translation_splits": {
+        "045_00": "Draag voor (O Moehammad) wat aan jou in het Boek geopenbaard is en onderhoud de shalât.",
+        "045_01": "Voorwaat, de shalât weerhoudt van de gruweldaad en het verwerpelijke."
+      },
+      "arabic_reference_splits": {
+        "045_00": "ٱتۡلُ مَآ أُوحِيَ إِلَيۡكَ مِنَ ٱلۡكِتَٰبِ وَأَقِمِ ٱلصَّلَوٰةَۖ إِنَّ ٱلصَّلَوٰةَ تَنۡهَىٰ عَنِ ٱلۡفَحۡشَآءِ وَٱلۡمُنكَرِۗ وَلَذِكۡرُ ٱللَّهِ أَكۡبَرُۗ",
+        "045_01": "وَٱللَّهُ يَعۡلَمُ مَا تَصۡنَعُونَ ٥٤"
+      },
+      "combined_translation": "Draag voor (O Moehammad) wat aan jou in het Boek geopenbaard is en onderhoud de shalât. Voorwaat, de shalât weerhoudt van de gruweldaad en het verwerpelijke.",
+      "timestamp": "2025-12-08T07:50:25.735255"
+    },
+    {
+      "verse_key": "033_009",
+      "chapter": 33,
+      "verse_number": 9,
+      "error": "Words added: ['gekomen']; Words removed: ['geko', 'men']",
+      "original_translation_splits": {
+        "009_00": "Ojullie die geloven, gedenkt de genade van Allah aan jullie, toen een leger tot jullie was geko men.",
+        "009_01": "Wij zonden toen een (verwoestende) wind tegen hen en een leger (van Engelen) dat jullie niet zagen."
+      },
+      "arabic_reference_splits": {
+        "009_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ إِذۡ جَآءَتۡكُمۡ جُنُودٞ فَأَرۡسَلۡنَا عَلَيۡهِمۡ رِيحٗا وَجُنُودٗا لَّمۡ تَرَوۡهَاۚ",
+        "009_01": "وَكَانَ ٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرًا ٩"
+      },
+      "combined_translation": "Ojullie die geloven, gedenkt de genade van Allah aan jullie, toen een leger tot jullie was geko men. Wij zonden toen een (verwoestende) wind tegen hen en een leger (van Engelen) dat jullie niet zagen.",
+      "timestamp": "2025-12-08T07:50:25.736055"
+    },
+    {
+      "verse_key": "033_035",
+      "chapter": 33,
+      "verse_number": 35,
+      "error": "Words added: ['allah']; Words removed: ['allalh']",
+      "original_translation_splits": {
+        "035_00": "Voorwaar, de mannen die zich hebben overgegeven (aan Allalh) en de vrouwen die zich hebben overgegeven, en de gelovige mannen en de gelovige vrouwen, en de gehoorzame mannen en de gehoorzame vrouwen, en de waarachtige mannen",
+        "035_01": "en de waarachtige vrouwen, en de geduldige mannen en de geduldige vrouwen, en de ootmoedige mannen en de ootmoedige vrouwen, en de bijdragen gevende mannen en de bijdragen gevende vrouwen, en de vastende mannen en de vastende vrouwen en de mannen die over hun kuisheid waken en de vrouwen die (daarover) waken,",
+        "035_02": "en de mannen die Allah veelvuldig gedenken en de vrouwen die gedenken: Allah heeft voor hen vergeving bereid en een geweldige beloning."
+      },
+      "arabic_reference_splits": {
+        "035_00": "إِنَّ ٱلۡمُسۡلِمِينَ وَٱلۡمُسۡلِمَٰتِ وَٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ وَٱلۡقَٰنِتِينَ وَٱلۡقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ",
+        "035_01": "وَٱلۡخَٰشِعِينَ وَٱلۡخَٰشِعَٰتِ وَٱلۡمُتَصَدِّقِينَ وَٱلۡمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلۡحَٰفِظِينَ فُرُوجَهُمۡ وَٱلۡحَٰفِظَٰتِ",
+        "035_02": "وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرٗا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغۡفِرَةٗ وَأَجۡرًا عَظِيمٗا ٥٣"
+      },
+      "combined_translation": "Voorwaar, de mannen die zich hebben overgegeven (aan Allalh) en de vrouwen die zich hebben overgegeven, en de gelovige mannen en de gelovige vrouwen, en de gehoorzame mannen en de gehoorzame vrouwen, en de waarachtige mannen en de waarachtige vrouwen, en de geduldige mannen en de geduldige vrouwen, en de ootmoedige mannen en de ootmoedige vrouwen, en de bijdragen gevende mannen en de bijdragen gevende vrouwen, en de vastende mannen en de vastende vrouwen en de mannen die over hun kuisheid waken en de vrouwen die (daarover) waken, en de mannen die Allah veelvuldig gedenken en de vrouwen die gedenken: Allah heeft voor hen vergeving bereid en een geweldige beloning.",
+      "timestamp": "2025-12-08T07:50:25.736864"
+    },
+    {
+      "verse_key": "033_037",
+      "chapter": 33,
+      "verse_number": 37,
+      "error": "Words added: ['en', 'allah', 'was', 'van', 'het', 'bevel', 'maf', 'ulan', '73']",
+      "original_translation_splits": {
+        "037_00": "En (gedenk) toen jij (O Moehammad) zei tot degene die door Allah begenadigd was en aan wie jij genade had gegeven: \"Hou jouw echtgenote bij jou,",
+        "037_01": "en vrees Allah.\" Toen jij in je hart verborgen hield wat Allah openbaar wilde maken, en jij de mensen vreesde, terwijl Allah er meer recht op",
+        "037_02": "had dat je Hem vreesde. Toen Zaid geen behoefte meer aan haar had, toen hebben Wij jou met haar gehuwd, zodat er voor de gelovigen geen",
+        "037_03": "belemmering zou bestaan met betrekking tot de (voormalige) vrouwen van hun aangenomen kinderen, wanneer zij geen behoefte meer aan hen hebben."
+      },
+      "arabic_reference_splits": {
+        "037_00": "وَإِذۡ تَقُولُ لِلَّذِيٓ أَنۡعَمَ ٱللَّهُ عَلَيۡهِ وَأَنۡعَمۡتَ عَلَيۡهِ أَمۡسِكۡ عَلَيۡكَ زَوۡجَكَ وَٱتَّقِ ٱللَّهَ",
+        "037_01": "وَتُخۡفِي فِي نَفۡسِكَ مَا ٱللَّهُ مُبۡدِيهِ وَتَخۡشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخۡشَىٰهُۖ",
+        "037_02": "فَلَمَّا قَضَىٰ زَيۡدٞ مِّنۡهَا وَطَرٗا زَوَّجۡنَٰكَهَا لِكَيۡ لَا يَكُونَ عَلَى ٱلۡمُؤۡمِنِينَ حَرَجٞ فِيٓ أَزۡوَٰجِ أَدۡعِيَآئِهِمۡ إِذَا قَضَوۡاْ مِنۡهُنَّ وَطَرٗاۚ",
+        "037_03": "وَكَانَ أَمۡرُ ٱللَّهِ مَفۡعُولٗا ٧٣"
+      },
+      "combined_translation": "En (gedenk) toen jij (O Moehammad) zei tot degene die door Allah begenadigd was en aan wie jij genade had gegeven: \"Hou jouw echtgenote bij jou, en vrees Allah.\" Toen jij in je hart verborgen hield wat Allah openbaar wilde maken, en jij de mensen vreesde, terwijl Allah er meer recht op had dat je Hem vreesde. Toen Zaid geen behoefte meer aan haar had, toen hebben Wij jou met haar gehuwd, zodat er voor de gelovigen geen belemmering zou bestaan met betrekking tot de (voormalige) vrouwen van hun aangenomen kinderen, wanneer zij geen behoefte meer aan hen hebben.",
+      "timestamp": "2025-12-08T07:50:25.737647"
+    },
+    {
+      "verse_key": "034_031",
+      "chapter": 34,
+      "verse_number": 31,
+      "error": "Words removed: ['degenen', 'degenen', 'die', 'die', 'zijn', 'zeggen', 'wij', 'niet', 'als', 'zouden', 'volgelingen', 'waren', 'waren', 'tot', 'hoogmoedig', 'jullie', 'ons', 'hadden', 'misleid', 'dan', 'zeker', 'gelovigen', 'geweest']",
+      "original_translation_splits": {
+        "031_00": "En degenen die ongelovig zijn, zeggen: \"Wij zullen nooit in deze Koran geloven, en niet in wat erv??r was.\" En als jij (O Moehammad) de onrechtplegers zouden kunnen zien, wanneer Zij voorgeleid worden bij hun Heer.",
+        "031_01": "Zij zullen elkaar woorden verwijten. Degenen die volgelingen waren, zeggen tot degenen die hoogmoedig waren: \"Als jullie ons niet hadden misleid, dan zouden wij zeker gelovigen zijn geweest.\"",
+        "031_02": "Degenen die volgelingen waren, zeggen tot degenen die hoogmoedig waren: \"Als jullie ons niet hadden misleid, dan zouden wij zeker gelovigen zijn geweest\""
+      },
+      "arabic_reference_splits": {
+        "031_00": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لَن نُّؤۡمِنَ بِهَٰذَا ٱلۡقُرۡءَانِ وَلَا بِٱلَّذِي بَيۡنَ يَدَيۡهِۗ",
+        "031_01": "وَلَوۡ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ مَوۡقُوفُونَ عِندَ رَبِّهِمۡ يَرۡجِعُ بَعۡضُهُمۡ إِلَىٰ بَعۡضٍ ٱلۡقَوۡلَ",
+        "031_02": "يَقُولُ ٱلَّذِينَ ٱسۡتُضۡعِفُواْ لِلَّذِينَ ٱسۡتَكۡبَرُواْ لَوۡلَآ أَنتُمۡ لَكُنَّا مُؤۡمِنِينَ ١٣"
+      },
+      "combined_translation": "En degenen die ongelovig zijn, zeggen: \"Wij zullen nooit in deze Koran geloven, en niet in wat erv??r was.\" En als jij (O Moehammad) de onrechtplegers zouden kunnen zien, wanneer Zij voorgeleid worden bij hun Heer. Zij zullen elkaar woorden verwijten. Degenen die volgelingen waren, zeggen tot degenen die hoogmoedig waren: \"Als jullie ons niet hadden misleid, dan zouden wij zeker gelovigen zijn geweest.\" Degenen die volgelingen waren, zeggen tot degenen die hoogmoedig waren: \"Als jullie ons niet hadden misleid, dan zouden wij zeker gelovigen zijn geweest\"",
+      "timestamp": "2025-12-08T07:50:25.738430"
+    },
+    {
+      "verse_key": "034_037",
+      "chapter": 34,
+      "verse_number": 37,
+      "error": "Words added: ['nog']; Words removed: ['noch']",
+      "original_translation_splits": {
+        "037_00": "En noch jullie bezittingen, noch jullie kinderen zijn het die jullie dichter bij Ons brengen, maar wie gelooft en goede werken verricht:",
+        "037_01": "zij zijn degenen voor wie er een veelvoudige beloning is voor wat zij gedaan hebben, en zij zulten in de verblijfplaatsen veilig zijn."
+      },
+      "arabic_reference_splits": {
+        "037_00": "وَمَآ أَمۡوَٰلُكُمۡ وَلَآ أَوۡلَٰدُكُم بِٱلَّتِي تُقَرِّبُكُمۡ عِندَنَا زُلۡفَىٰٓ إِلَّا مَنۡ ءَامَنَ وَعَمِلَ صَٰلِحٗا فَأُوْلَٰٓئِكَ لَهُمۡ جَزَآءُ ٱلضِّعۡفِ بِمَا عَمِلُواْ",
+        "037_01": "وَهُمۡ فِي ٱلۡغُرُفَٰتِ ءَامِنُونَ ٧٣"
+      },
+      "combined_translation": "En noch jullie bezittingen, noch jullie kinderen zijn het die jullie dichter bij Ons brengen, maar wie gelooft en goede werken verricht: zij zijn degenen voor wie er een veelvoudige beloning is voor wat zij gedaan hebben, en zij zulten in de verblijfplaatsen veilig zijn.",
+      "timestamp": "2025-12-08T07:50:25.739231"
+    },
+    {
+      "verse_key": "035_010",
+      "chapter": 35,
+      "verse_number": 10,
+      "error": "Words added: ['en', 'de', 'degenen', 'die', 'slechte', 'daden', 'beramen', 'voor', 'hen', 'is', 'er', 'een', 'zware', 'straf']",
+      "original_translation_splits": {
+        "010_00": "Wie eer wenst: aan Allah behoort alle eer.",
+        "010_01": "Tot Hem stijgt het goede woord op, en de goede daad verheft dit (woord)."
+      },
+      "arabic_reference_splits": {
+        "010_00": "مَن كَانَ يُرِيدُ ٱلۡعِزَّةَ فَلِلَّهِ ٱلۡعِزَّةُ جَمِيعًاۚ إِلَيۡهِ يَصۡعَدُ ٱلۡكَلِمُ ٱلطَّيِّبُ وَٱلۡعَمَلُ ٱلصَّٰلِحُ يَرۡفَعُهُۥۚ",
+        "010_01": "وَٱلَّذِينَ يَمۡكُرُونَ ٱلسَّيِّـَٔاتِ لَهُمۡ عَذَابٞ شَدِيدٞۖ وَمَكۡرُ أُوْلَٰٓئِكَ هُوَ يَبُورُ ٠١"
+      },
+      "combined_translation": "Wie eer wenst: aan Allah behoort alle eer. Tot Hem stijgt het goede woord op, en de goede daad verheft dit (woord).",
+      "timestamp": "2025-12-08T07:50:25.740013"
+    },
+    {
+      "verse_key": "037_102",
+      "chapter": 37,
+      "verse_number": 102,
+      "error": "Words added: ['s', 'ت', 'ج', 'د', 'ن', 'ن', 'ن', 'ي', 'إ', 'ش', 'ا', 'ء', 'ٱلل', 'ه', 'م', 'ٱلص', 'ب', 'ر', 'ين', '٢٠١']",
+      "original_translation_splits": {
+        "102_00": "Toen hij de leeftijd had bereikt waarop hij hem (Ibrâhîm) kon helpen, zei hij: \"O mijn zoon, voorwaar, ik heb in een droom gezien dat ik jou zal offeren,",
+        "102_01": "zeg mij hoe jij daarover denkt,"
+      },
+      "arabic_reference_splits": {
+        "102_00": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعۡيَ قَالَ يَٰبُنَيَّ إِنِّيٓ أَرَىٰ فِي ٱلۡمَنَامِ أَنِّيٓ أَذۡبَحُكَ فَٱنظُرۡ مَاذَا تَرَىٰۚ قَالَ يَٰٓأَبَتِ ٱفۡعَلۡ مَا تُؤۡمَرُۖ",
+        "102_01": "سَتَجِدُنِيٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ ٢٠١"
+      },
+      "combined_translation": "Toen hij de leeftijd had bereikt waarop hij hem (Ibrâhîm) kon helpen, zei hij: \"O mijn zoon, voorwaar, ik heb in een droom gezien dat ik jou zal offeren, zeg mij hoe jij daarover denkt,",
+      "timestamp": "2025-12-08T07:50:25.740819"
+    },
+    {
+      "verse_key": "039_049",
+      "chapter": 39,
+      "verse_number": 49,
+      "error": "Words added: ['b', 'ل', 'ل', 'ل', 'ل', 'ه', 'ه', 'ي', 'ي', 'ف', 'ت', 'ن', 'ن', 'ة', 'و', 'ك', 'ك', 'أ', 'ث', 'ر', 'م', 'م', 'ا', 'ع', 'ون', '٩']",
+      "original_translation_splits": {
+        "049_00": "En wanneer tegenspoed de mens treft, dan roept hij Ons aan; maar wanneer Wij hem een genieting van Ons schenken, dan zegt",
+        "049_01": "hij: \"Dat is mij slechts wegens mijn kennis gegeven.\""
+      },
+      "arabic_reference_splits": {
+        "049_00": "فَإِذَا مَسَّ ٱلۡإِنسَٰنَ ضُرّٞ دَعَانَا ثُمَّ إِذَا خَوَّلۡنَٰهُ نِعۡمَةٗ مِّنَّا قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلۡمِۭۚ",
+        "049_01": "بَلۡ هِيَ فِتۡنَةٞ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ ٩٤"
+      },
+      "combined_translation": "En wanneer tegenspoed de mens treft, dan roept hij Ons aan; maar wanneer Wij hem een genieting van Ons schenken, dan zegt hij: \"Dat is mij slechts wegens mijn kennis gegeven.\"",
+      "timestamp": "2025-12-08T07:50:25.741660"
+    },
+    {
+      "verse_key": "042_011",
+      "chapter": 42,
+      "verse_number": 11,
+      "error": "Words added: ['de', 'de', 'hij', 'is', 'alhorende', 'alziende']",
+      "original_translation_splits": {
+        "011_00": "De Schepper van de hemelen en de aarde, Hij heeft voor jullie van julliezelf en van de dieren paren geschapen.",
+        "011_01": "Hij vermenigvuldigt jullie, niets is aan Hem gelijk."
+      },
+      "arabic_reference_splits": {
+        "011_00": "فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ جَعَلَ لَكُم مِّنۡ أَنفُسِكُمۡ أَزۡوَٰجٗا وَمِنَ ٱلۡأَنۡعَٰمِ أَزۡوَٰجٗا يَذۡرَؤُكُمۡ فِيهِۚ لَيۡسَ كَمِثۡلِهِۦ شَيۡءٞۖ",
+        "011_01": "وَهُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ ١١"
+      },
+      "combined_translation": "De Schepper van de hemelen en de aarde, Hij heeft voor jullie van julliezelf en van de dieren paren geschapen. Hij vermenigvuldigt jullie, niets is aan Hem gelijk.",
+      "timestamp": "2025-12-08T07:50:25.742469"
+    },
+    {
+      "verse_key": "047_015",
+      "chapter": 47,
+      "verse_number": 15,
+      "error": "Words removed: ['het', 'van', 'van', 'van', 'paradijs', 'dat', 'aan', 'aan', 'de', 'de', 'de', 'rivieren', 'rivieren', 'zijn', 'zijn', 'water', 'water', 'en', 'melk', 'waarvan', 'smaak', 'niet', 'niet', 'verandert', 'in', 'in', 'in', 'er', 'bedorven', 'hen', 'die', 'hun', 'hun', 'heer', 'gelijk', 'ellende', 'eeuwig', 'levenden', 'hel', 'wie', 'kokend', 'wordt', 'gegoten', 'ingewanden', 'dan', 'stukken', 'snijdt']",
+      "original_translation_splits": {
+        "015_00": "Is het (geluk van) het Paradijs dat aan de Moettaqôen beloofd is, waarin rivieren zijn met versblijvend water, en van melk waarvan de smaak niet verandert,",
+        "015_01": "In het Paradijs zijn er rivieren van water, niet bedorven, en rivieren van melk waarvan de smaak niet verandert, en rivieren van Khamr, als een genieting voor hen die drinken, en rivieren van zuivere honing, en waarin voor hen allerlei vruchten zijn en vergeving van hun Heer; gelijk (aan de ellende van) hen die eeuwig levenden in de Hel zijn, in wie kokend water wordt gegoten, dat hun ingewanden dan aan stukken snijdt?",
+        "015_02": "hun Heer; gelijk (aan de ellende van) hen die eeuwig levenden in de Hel zijn, in wie kokend water wordt gegoten, dat hun ingewanden dan aan stukken snijdt?"
+      },
+      "arabic_reference_splits": {
+        "015_00": "مَّثَلُ ٱلۡجَنَّةِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۖ",
+        "015_01": "فِيهَآ أَنۡهَٰرٞ مِّن مَّآءٍ غَيۡرِ ءَاسِنٖ وَأَنۡهَٰرٞ مِّن لَّبَنٖ لَّمۡ يَتَغَيَّرۡ طَعۡمُهُۥ وَأَنۡهَٰرٞ مِّنۡ خَمۡرٖ لَّذَّةٖ لِّلشَّٰرِبِينَ وَأَنۡهَٰرٞ مِّنۡ عَسَلٖ مُّصَفّٗىۖ",
+        "015_02": "وَلَهُمۡ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغۡفِرَةٞ مِّن رَّبِّهِمۡۖ كَمَنۡ هُوَ خَٰلِدٞ فِي ٱلنَّارِ وَسُقُواْ مَآءً حَمِيمٗا فَقَطَّعَ أَمۡعَآءَهُمۡ ٥١"
+      },
+      "combined_translation": "Is het (geluk van) het Paradijs dat aan de Moettaqôen beloofd is, waarin rivieren zijn met versblijvend water, en van melk waarvan de smaak niet verandert, In het Paradijs zijn er rivieren van water, niet bedorven, en rivieren van melk waarvan de smaak niet verandert, en rivieren van Khamr, als een genieting voor hen die drinken, en rivieren van zuivere honing, en waarin voor hen allerlei vruchten zijn en vergeving van hun Heer; gelijk (aan de ellende van) hen die eeuwig levenden in de Hel zijn, in wie kokend water wordt gegoten, dat hun ingewanden dan aan stukken snijdt? hun Heer; gelijk (aan de ellende van) hen die eeuwig levenden in de Hel zijn, in wie kokend water wordt gegoten, dat hun ingewanden dan aan stukken snijdt?",
+      "timestamp": "2025-12-08T07:50:25.743275"
+    },
+    {
+      "verse_key": "058_012",
+      "chapter": 58,
+      "verse_number": 12,
+      "error": "Words added: ['f', 'إ', 'إ', 'ن', 'ن', 'ل', 'م', 'ت', 'ج', 'د', 'وا', 'ف', 'ف', 'ٱلل', 'ه', 'غ', 'ور', 'ر', 'ح', 'يم', '٢١']",
+      "original_translation_splits": {
+        "012_00": "O jullie die geloven, wanneer jullie een persoonlijk gesprek met de Boodschapper willen voeren, geeft dan v??r jullie gesprek iets uit aan liefdadigheid.",
+        "012_01": "Dat is beter voor jullie, en reiner."
+      },
+      "arabic_reference_splits": {
+        "012_00": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا نَٰجَيۡتُمُ ٱلرَّسُولَ فَقَدِّمُواْ بَيۡنَ يَدَيۡ نَجۡوَىٰكُمۡ صَدَقَةٗۚ ذَٰلِكَ خَيۡرٞ لَّكُمۡ وَأَطۡهَرُۚ",
+        "012_01": "فَإِن لَّمۡ تَجِدُواْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ ٢١"
+      },
+      "combined_translation": "O jullie die geloven, wanneer jullie een persoonlijk gesprek met de Boodschapper willen voeren, geeft dan v??r jullie gesprek iets uit aan liefdadigheid. Dat is beter voor jullie, en reiner.",
+      "timestamp": "2025-12-08T07:50:25.744100"
+    },
+    {
+      "verse_key": "059_006",
+      "chapter": 59,
+      "verse_number": 6,
+      "error": "Words added: ['و', 'ٱلل', 'ه', 'ع', 'ل', 'ل', 'ى', 'ك', 'ش', 'ي', 'ء', 'ق', 'د', 'ير', '٦']",
+      "original_translation_splits": {
+        "006_00": "Wat Allah aan buit (al Fay) van hen (o.a.",
+        "006_01": "de Bani Nadhîr) aan Zijn Boodschapper geeft: jullie hebben daartoe geen paarden en geen lastdieren aangespoord."
+      },
+      "arabic_reference_splits": {
+        "006_00": "وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنۡهُمۡ فَمَآ أَوۡجَفۡتُمۡ عَلَيۡهِ مِنۡ خَيۡلٖ وَلَا رِكَابٖ وَلَٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ مَن يَشَآءُۚ",
+        "006_01": "وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ ٦"
+      },
+      "combined_translation": "Wat Allah aan buit (al Fay) van hen (o.a. de Bani Nadhîr) aan Zijn Boodschapper geeft: jullie hebben daartoe geen paarden en geen lastdieren aangespoord.",
+      "timestamp": "2025-12-08T07:50:25.744885"
+    },
+    {
+      "verse_key": "064_009",
+      "chapter": 64,
+      "verse_number": 9,
+      "error": "Words added: ['de', 'dat', 'is', 'grote', 'overwinning']",
+      "original_translation_splits": {
+        "009_00": "(Gedenkt) de Dag waarop Hij jullie zal bijeenbrengen voor de Dag van de samenkomst.",
+        "009_01": "Dat is de Dag van de oplichterij.",
+        "009_02": "En wie dan in Allah gelooft en goede daden verricht: Hij (Allah) zal zijn zonden uitwissen en hem Tuinen (het Paradijs) doen binnengaan waar de rivieren onder door stromen."
+      },
+      "arabic_reference_splits": {
+        "009_00": "يَوۡمَ يَجۡمَعُكُمۡ لِيَوۡمِ ٱلۡجَمۡعِۖ ذَٰلِكَ يَوۡمُ ٱلتَّغَابُنِۗ",
+        "009_01": "وَمَن يُؤۡمِنۢ بِٱللَّهِ وَيَعۡمَلۡ صَٰلِحٗا يُكَفِّرۡ عَنۡهُ سَيِّـَٔاتِهِۦ وَيُدۡخِلۡهُ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۚ",
+        "009_02": "ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ ٩"
+      },
+      "combined_translation": "(Gedenkt) de Dag waarop Hij jullie zal bijeenbrengen voor de Dag van de samenkomst. Dat is de Dag van de oplichterij. En wie dan in Allah gelooft en goede daden verricht: Hij (Allah) zal zijn zonden uitwissen en hem Tuinen (het Paradijs) doen binnengaan waar de rivieren onder door stromen.",
+      "timestamp": "2025-12-08T07:50:25.745738"
+    }
+  ]
+}

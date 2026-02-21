@@ -1,9 +1,0 @@
-001_00	Wehe jedem Stichler und Nörgler,
-002_00	der Besitz zusammenträgt und ihn zählt und immer wieder zählt,
-003_00	wobei er meint, daß sein Besitz ihn ewig leben ließe!
-004_00	Keineswegs! Er wird ganz gewiß in al-Hutama geworfen werden.
-005_00	Was läßt dich wissen, was al-Hutama ist?
-006_00	(Sie ist) Allahs entfachtes Feuer,
-007_00	das Einblick in die Herzen gewinnt.
-008_00	Gewiß, es wird sie einschließen
-009_00	in langgestreckten Säulen.

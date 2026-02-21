@@ -1,5 +1,0 @@
-001_00	Doğrusu, Biz, Kuran'ı kadir gecesinde indirmişizdir.
-002_00	Kadir gecesinin ne olduğunu sen bilir misin?
-003_00	Kadir gecesi bin aydan hayırlıdır.
-004_00	Melekler ve Cebrail o gecede Rablerinin izniyle her türlü iş için inerler.
-005_00	O gece, tan yerinin ağarmasına kadar bir esenliktir.

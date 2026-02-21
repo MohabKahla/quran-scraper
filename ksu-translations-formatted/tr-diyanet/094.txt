@@ -1,8 +1,0 @@
-001_00	Senin gönlünü açmadık mı?
-002_00	Belini büken yükünü üzerinden almadık mı?
-003_00	Belini büken yükünü üzerinden almadık mı?
-004_00	Senin şanını yükseltmedik mi?
-005_00	Elbette güçlükle beraber şüphesiz bir kolaylık vardır.
-006_00	Gerçekten, güçlükle beraber bir kolaylık vardır.
-007_00	Öyleyse, bir işi bitirince diğerine giriş;
-008_00	Ve ümit edeceğini yalnız Rabbinden iste.

@@ -1,5 +1,0 @@
-001_00	Ebu Leheb'in elleri kurusun; kurudu da!
-002_00	Malı ve kazandığı kendisine fayda vermedi.
-003_00	Alevli ateşe yaslanacaktır.
-004_00	Karısı da, boynunda bir ip olduğu halde ona odun taşıyacaktır.
-005_00	Karısı da, boynunda bir ip olduğu halde ona odun taşıyacaktır.

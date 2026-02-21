@@ -1,9 +1,0 @@
-001_00	Ole wake kila safihi, msengenyaji!
-002_00	Aliye kusanya mali na kuyahisabu.
-003_00	Anadhani ya kuwa mali yake yatambakisha milele!
-004_00	Hasha! Atavurumishwa katika H'ut'ama.
-005_00	Na nani atakujuvya ni nini H'ut'ama?
-006_00	Moto wa Mwenyezi Mungu ulio washwa.
-007_00	Ambao unapanda nyoyoni.
-008_00	Hakika huo utafungiwa nao
-009_00	Kwenye nguzo zilio nyooshwa.

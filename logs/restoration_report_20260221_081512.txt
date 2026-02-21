@@ -1,0 +1,93 @@
+RESTORATION REPORT
+================================================================================
+
+
+ml-abdulhameed - Chapter 002 - Verse 049
+  Type: truncated
+  Similarity: 99.5%
+  Missing content: ു
+
+
+ml-abdulhameed - Chapter 002 - Verse 061
+  Type: truncated
+  Similarity: 99.2%
+  Missing content: ിക്ക
+
+
+ml-abdulhameed - Chapter 002 - Verse 071
+  Type: truncated
+  Similarity: 76.4%
+  Missing content: അങ്ങനെ അവര് അതിനെ അറുത്തു. അവര്ക്കത് നിറവേറ്റുക എളുപ്പമായിരുന്നില്ല.
+
+
+ml-abdulhameed - Chapter 002 - Verse 249
+  Type: truncated
+  Similarity: 99.9%
+  Missing content: മ
+
+
+ml-abdulhameed - Chapter 002 - Verse 255
+  Type: truncated
+  Similarity: 99.3%
+  Missing content: ന്
+
+
+ml-abdulhameed - Chapter 002 - Verse 258
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ത
+
+
+ml-abdulhameed - Chapter 003 - Verse 112
+  Type: truncated
+  Similarity: 98.8%
+  Missing content: ിക്ക
+
+
+ml-abdulhameed - Chapter 003 - Verse 152
+  Type: truncated
+  Similarity: 99.0%
+  Missing content: ിക്ക
+
+
+ml-abdulhameed - Chapter 004 - Verse 006
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ത
+
+
+ml-abdulhameed - Chapter 004 - Verse 024
+  Type: truncated
+  Similarity: 26.6%
+  Missing content: (മറ്റുള്ളവരുടെ) വിവാഹബന്ധത്തിലിരിക്കുന്ന സ്ത്രീകളും (നിങ്ങള്ക്ക് നിഷിദ്ധമാക്കപ്പെട്ടിരിക്കുന്നു.) നിങ്ങളുടെ കൈകള് ഉടമപ്പെടുത്തിയവര് (അടിമസ്ത്രീകള്) ഒഴികെ. നിങ്ങളുടെ മേല് അല്ലാഹുവിന്റെ നിയമമത്രെ ഇത്. അതിന്നപ്പുറമുള്ള സ്ത്രീകളുമായി നിങ്ങളുടെ ധനം (മഹ്റായി) നല്കിക്കൊണ്ട് നിങ്ങള് (വിവാഹബന്ധം) തേടുന്നത് നിങ്ങള്ക്ക് അനുവദിക്കപ്പെട്ടിരിക്കുന്നു. നിങ്ങള് വൈവാഹിക ജീവിതം ലക്ഷ്യമാക്കുന്നവരായിരിക്കണം. നീചവൃത്തി ആഗ്രഹിക്കുന്നവരാകരുത്. അങ്ങനെ അവരില് നിന്ന് നിങ്ങള് വല്ല സുഖവുമനുഭവിച്ചാല് അവര്ക്കുള്ള വിവാഹമൂല്യം ഒരു ബാധ്യത എന്ന നിലയില് നിങ്ങള് നല്കേണ്ടതാണ്.
+
+
+ml-abdulhameed - Chapter 004 - Verse 088
+  Type: truncated
+  Similarity: 99.3%
+  Missing content: ത്
+
+
+ml-abdulhameed - Chapter 004 - Verse 173
+  Type: truncated
+  Similarity: 98.3%
+  Missing content: ിക്ക
+
+
+ml-abdulhameed - Chapter 027 - Verse 040
+  Type: truncated
+  Similarity: 99.4%
+  Missing content: ില
+
+
+ml-abdulhameed - Chapter 033 - Verse 019
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ത
+
+
+ml-abdulhameed - Chapter 035 - Verse 018
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: പ
+

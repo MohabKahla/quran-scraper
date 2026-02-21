@@ -1,7 +1,0 @@
-001_00	Je! Umemwona anaye kadhibisha Malipo?
-002_00	Huyo ndiye anaye msukuma yatima,
-003_00	Wala hahimizi kumlisha masikini.
-004_00	Basi, ole wao wanao sali,
-005_00	Ambao wanapuuza Sala zao;
-006_00	Ambao wanajionyesha,
-007_00	Nao huku wanazuia msaada.

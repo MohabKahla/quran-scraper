@@ -1,0 +1,1359 @@
+================================================================================
+VALIDATION REPORT: es-navio
+================================================================================
+
+Total mismatches: 283
+
+By severity:
+  Critical (<80%):  5
+  Moderate (80-95%): 4
+  Minor (95-99%):   0
+  Trivial (>99%):   274
+
+================================================================================
+ISSUES BY CHAPTER
+================================================================================
+
+
+Chapter 002: 43 issues
+--------------------------------------------------------------------------------
+
+Verse 061 - Similarity: 99.9%
+  Original (582 chars):
+    Y cuando dijisteis: ¡Musa! No soportaremos más comer un único alimento, así que pide a tu Señor que ...
+  Formatted (583 chars):
+    Y cuando dijisteis: ¡Musa! No soportaremos más comer un único alimento, así que pide a tu Señor que ...
+
+Verse 076 - Similarity: 99.8%
+  Original (254 chars):
+    Cuando se encuentran con los que creen dicen: Creemos; pero cuando se quedan a solas entre ellos dic...
+  Formatted (255 chars):
+    Cuando se encuentran con los que creen dicen: Creemos; pero cuando se quedan a solas entre ellos dic...
+
+Verse 085 - Similarity: 99.7%
+  Original (593 chars):
+    Luego fuisteis de tal condición que os matasteis unos a otros y expulsásteis a una parte de los vues...
+  Formatted (596 chars):
+    Luego fuisteis de tal condición que os matasteis unos a otros y expulsásteis a una parte de los vues...
+
+Verse 089 - Similarity: 99.8%
+  Original (248 chars):
+    Y ahora que les ha llegado un libro de Allah, que es una confirmación de lo que ya tenían, no creen ...
+  Formatted (249 chars):
+    Y ahora que les ha llegado un libro de Allah, que es una confirmación de lo que ya tenían, no creen ...
+
+Verse 091 - Similarity: 99.8%
+  Original (311 chars):
+    Y cuando se les dice: ¡Creed en lo que Allah ha hecho descender!Dicen: Creemos en lo que se nos hizo...
+  Formatted (312 chars):
+    Y cuando se les dice: ¡Creed en lo que Allah ha hecho descender!Dicen: Creemos en lo que se nos hizo...
+
+Verse 102 - Similarity: 99.9%
+  Original (688 chars):
+    Siguen lo que practicaron los demonios en el reinado de Sulayman. Pero no fue Sulayman quien cayó en...
+  Formatted (690 chars):
+    Siguen lo que practicaron los demonios en el reinado de Sulayman. Pero no fue Sulayman quien cayó en...
+
+Verse 105 - Similarity: 99.8%
+  Original (216 chars):
+    La gente del Libro que ha caído en incredulidad y los asociadores, no desean que os baje ningún bien...
+  Formatted (217 chars):
+    La gente del Libro que ha caído en incredulidad y los asociadores, no desean que os baje ningún bien...
+
+Verse 124 - Similarity: 99.8%
+  Original (233 chars):
+    Y cuando tu Señor puso a prueba a lbrahim con palabras que éste cumplió, le dijo: Voy a hacer de ti ...
+  Formatted (234 chars):
+    Y cuando tu Señor puso a prueba a lbrahim con palabras que éste cumplió, le dijo: Voy a hacer de ti ...
+
+Verse 142 - Similarity: 99.7%
+  Original (180 chars):
+    Dirán los hombres necios: ¿Qué les apartó de la dirección hacia la que miraban?*Di: De Allah son el ...
+  Formatted (181 chars):
+    Dirán los hombres necios: ¿Qué les apartó de la dirección hacia la que miraban?*Di: De All ah son el...
+
+Verse 143 - Similarity: 99.8%
+  Original (449 chars):
+    De este modo hemos hecho de vosotros una comunidad de en medio* para que diérais testimonio de los h...
+  Formatted (451 chars):
+    De este modo hemos hecho de vosotros una comunidad de en medio* para que diérais testimonio de los h...
+
+  ... and 33 more issues in this chapter
+
+Chapter 003: 14 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.9%
+  Original (445 chars):
+    Él es Quien ha hecho descender sobre ti el Libro, en el que hay signos (aleyas) precisos que son la ...
+  Formatted (446 chars):
+    Él es Quien ha hecho descender sobre ti el Libro, en el que hay signos (aleyas) precisos que son la ...
+
+Verse 013 - Similarity: 77.1%
+  Original (293 chars):
+    Hubo un signo para vosotros en los dos ejércitos que se enfrentaron. Unos combatían en el camino de ...
+  Formatted (184 chars):
+    Hubo un signo para vosotros en los dos ejércitos que se enfrentaron. Unos combatían en el camino de ...
+
+Verse 014 - Similarity: 99.8%
+  Original (306 chars):
+    A los hombres se les ha embellecido el amor por todo lo deseable: las mujeres, los hijos, la acumula...
+  Formatted (307 chars):
+    A los hombres se les ha embellecido el amor por todo lo deseable: las mujeres, los hijos, la acumula...
+
+Verse 049 - Similarity: 99.8%
+  Original (428 chars):
+    Y será un mensajero para los hijos de Israel (y les dirá): He venido a vosotros con un signo de vues...
+  Formatted (430 chars):
+    Y será un mensajero para los hijos de Israel (y les dirá): He venido a vosotros con un signo de vues...
+
+Verse 061 - Similarity: 99.8%
+  Original (277 chars):
+    Y a quien, después del conocimiento que te ha venido, te discuta sobre él, dile: Venid, llamemos a n...
+  Formatted (278 chars):
+    Y a quien, después del conocimiento que te ha venido, te discuta sobre él, dile: Venid, llamemos a n...
+
+Verse 073 - Similarity: 99.8%
+  Original (330 chars):
+    Y no creáis en nadie que no siga vuestra misma forma de Adoración - Di: La guía de Allah es la Guía ...
+  Formatted (331 chars):
+    Y no creáis en nadie que no siga vuestra misma forma de Adoración - Di: La guía de Allah es la Guía ...
+
+Verse 075 - Similarity: 99.7%
+  Original (366 chars):
+    De la gente del Libro hay algunos que si les confías una gran cantidad de dinero, te la devuelven, p...
+  Formatted (368 chars):
+    De la gente del Libro hay algunos que si les confías una gran cantidad de dinero, te la devuelven, p...
+
+Verse 103 - Similarity: 99.7%
+  Original (330 chars):
+    Y aferráos todos juntos a la cuerda de Allah y no os separéis; y recordad el favor que Allah ha teni...
+  Formatted (332 chars):
+    Y aferráos todos juntos a la cuerda de Allah y no os separéis; y recordad el favor que Allah ha teni...
+
+Verse 154 - Similarity: 99.8%
+  Original (782 chars):
+    Luego, tras la aflicción, hizo que descendiera seguridad sobre vosotros: Un sueño que envolvió a una...
+  Formatted (785 chars):
+    Luego, tras la aflicción, hizo que descendiera seguridad sobre vosotros: Un sueño que envolvió a una...
+
+Verse 180 - Similarity: 99.9%
+  Original (341 chars):
+    Que aquéllos que retienen con avaricia el favor que Allah les ha concedido no piensen que eso es bue...
+  Formatted (342 chars):
+    Que aquéllos que retienen con avaricia el favor que Allah les ha concedido no piensen que eso es bue...
+
+  ... and 4 more issues in this chapter
+
+Chapter 004: 27 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.8%
+  Original (416 chars):
+    Examinad a los huérfanos y cuando hayan alcanzado la edad del matrimonio, si encontráis en ellos sen...
+  Formatted (418 chars):
+    Examinad a los huérfanos y cuando hayan alcanzado la edad del matrimonio, si encontráis en ellos sen...
+
+Verse 011 - Similarity: 99.9%
+  Original (713 chars):
+    Allah os prescribe acerca de (la herencia de) vuestros hijos: al varón le corresponde la misma parte...
+  Formatted (715 chars):
+    Allah os prescribe acerca de (la herencia de) vuestros hijos: al varón le corresponde la misma parte...
+
+Verse 012 - Similarity: 99.8%
+  Original (887 chars):
+    Y a vosotros os corresponde la mitad de lo que dejen vuestras esposas, si no tuvieran hijos; pero si...
+  Formatted (891 chars):
+    Y a vosotros os corresponde la mitad de lo que dejen vuestras esposas, si no tuvieran hijos; pero si...
+
+Verse 018 - Similarity: 99.8%
+  Original (240 chars):
+    Pero no se les aceptará el arrepentimiento a los que habiendo llevado a cabo malas acciones, cuando ...
+  Formatted (241 chars):
+    Pero no se les aceptará el arrepentimiento a los que habiendo llevado a cabo malas acciones, cuando ...
+
+Verse 023 - Similarity: 99.9%
+  Original (671 chars):
+    Se os prohiben vuestras madres, hijas, hermanas, tías paternas, tías maternas, las hijas de vuestro ...
+  Formatted (672 chars):
+    Se os prohiben vuestras madres, hijas, hermanas, tías paternas, tías maternas, las hijas de vuestro ...
+
+Verse 025 - Similarity: 99.8%
+  Original (684 chars):
+    Y el que de vosotros no tenga medios suficientes para casarse con mujeres libres creyentes, que lo h...
+  Formatted (687 chars):
+    Y el que de vosotros no tenga medios suficientes para casarse con mujeres libres creyentes, que lo h...
+
+Verse 034 - Similarity: 99.9%
+  Original (447 chars):
+    Los hombres están al cargo de las mujeres en virtud de la preferencia que Allah ha dado a unos sobre...
+  Formatted (448 chars):
+    Los hombres están al cargo de las mujeres en virtud de la preferencia que Allah ha dado a unos sobre...
+
+Verse 035 - Similarity: 99.8%
+  Original (228 chars):
+    Y si teméis una ruptura entre ambos, nombrad un árbitro de la familia de él y otro de la familia de ...
+  Formatted (229 chars):
+    Y si teméis una ruptura entre ambos, nombrad un árbitro de la familia de él y otro de la familia de ...
+
+Verse 036 - Similarity: 99.8%
+  Original (293 chars):
+    Adorad a Allah sin asociar nada con Él y haced el bien a vuestros padres, así como a los parientes, ...
+  Formatted (294 chars):
+    Adorad a Allah sin asociar nada con Él y haced el bien a vuestros padres, así como a los pariente s,...
+
+Verse 043 - Similarity: 99.9%
+  Original (403 chars):
+    ¡Vosotros que creéis! No os acerquéis al salat ebrios, hasta que no sepáis lo que decís; ni impuros ...
+  Formatted (404 chars):
+    ¡Vosotros que creéis! No os acerquéis al salat ebrios, hasta que no sepáis lo que decís; ni impuros ...
+
+  ... and 17 more issues in this chapter
+
+Chapter 005: 16 issues
+--------------------------------------------------------------------------------
+
+Verse 003 - Similarity: 99.9%
+  Original (797 chars):
+    Se os prohibe la carne del animal muerto por causa natural, la sangre, la carne de cerdo, la del ani...
+  Formatted (799 chars):
+    Se os prohibe la carne del animal muerto por causa natural, la sangre, la carne de cerdo, la del ani...
+
+Verse 005 - Similarity: 99.8%
+  Original (500 chars):
+    Hoy se os hacen lícitas las cosas buenas.Y es lícito para vosotros el alimento de los que recibieron...
+  Formatted (502 chars):
+    Hoy se os hacen lícitas las cosas buenas.Y es lícito para vosotros el alimento de los que recibieron...
+
+Verse 006 - Similarity: 99.8%
+  Original (591 chars):
+    ¡Vosotros que creéis! Cuando vayáis a hacer el salat, lavaos la cara y las manos llegando hasta los ...
+  Formatted (593 chars):
+    ¡Vosotros que creéis! Cuando vayáis a hacer el salat, lavaos la cara y las manos llegando hasta los ...
+
+Verse 013 - Similarity: 99.8%
+  Original (328 chars):
+    Y porque rompieron su compromiso los maldijimos y endurecimos sus corazones.Tergiversaron las palabr...
+  Formatted (329 chars):
+    Y porque rompieron su compromiso los maldijimos y endurecimos sus corazones.Tergiversaron las palabr...
+
+Verse 032 - Similarity: 99.9%
+  Original (407 chars):
+    Por esto les decretamos a los hijos de Israel que quien matara a alguien, sin ser a cambio de otro o...
+  Formatted (408 chars):
+    Por esto les decretamos a los hijos de Israel que quien matara a alguien, sin ser a cambio de otro o...
+
+Verse 048 - Similarity: 99.9%
+  Original (603 chars):
+    E hicimos que te descendiera el Libro con la verdad, como confirmación de lo que había en el Libro y...
+  Formatted (604 chars):
+    E hicimos que te descendiera el Libro con la verdad, como confirmación de lo que había en el Libro y...
+
+Verse 052 - Similarity: 99.8%
+  Original (270 chars):
+    Ves cómo los que tienen una enfermedad en el corazón van a ellos corriendo y dicen: Tememos que la s...
+  Formatted (271 chars):
+    Ves cómo los que tienen una enfermedad en el corazón van a ellos corriendo y dicen: Tememos que la s...
+
+Verse 073 - Similarity: 99.8%
+  Original (206 chars):
+    Y han caído en incredulidad los que dicen: Allah es el tercero de tres, cuando no hay sino un Único ...
+  Formatted (207 chars):
+    Y han caído en incredulidad los que dicen: Allah es el tercero de tres, cuando no hay sino un Único ...
+
+Verse 089 - Similarity: 99.9%
+  Original (498 chars):
+    Allah no os toma en cuenta los juramentos frívolos, pero sí os toma en cuenta los juramentos con los...
+  Formatted (499 chars):
+    Allah no os toma en cuenta los juramentos frívolos, pero sí os toma en cuenta los juramentos con los...
+
+Verse 091 - Similarity: 99.7%
+  Original (188 chars):
+    Realmente el Shaytán quiere desencadenar entre vosotros la enemistad y el odio, sirviéndose del vino...
+  Formatted (189 chars):
+    Realmente el Shaytán quiere desencadenar entre vosotros la enemistad y el odio, sirviéndose de l vin...
+
+  ... and 6 more issues in this chapter
+
+Chapter 006: 18 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.9%
+  Original (351 chars):
+    ¿Es que no ven cómo hemos destruido generaciones enteras anteriores a ellos, a las que les dimos una...
+  Formatted (352 chars):
+    ¿Es que no ven cómo hemos destruido generaciones enteras anteriores a ellos, a las que les dimos una...
+
+Verse 031 - Similarity: 99.8%
+  Original (236 chars):
+    Los que tacharon de mentira el encuentro con Allah habrán perdido y en el momento en que les llegue ...
+  Formatted (237 chars):
+    Los que tacharon de mentira el encuentro con Allah habrán perdido y en el mome nto en que les llegue...
+
+Verse 046 - Similarity: 99.8%
+  Original (225 chars):
+    Di: Decidme: ¿Qué pasaría si Allah os quitara el oído y la vista y sellara vuestros corazones?¿Qué o...
+  Formatted (226 chars):
+    Di: Decidme: ¿Qué pasaría si Allah os quitara el oído y la vista y sellara vuestros corazones?¿Qué o...
+
+Verse 060 - Similarity: 84.5%
+  Original (205 chars):
+    Él es Quien os toma en la noche y sabe lo que habéis adquirido durante el día; luego, en él, os devu...
+  Formatted (150 chars):
+    Él es Quien os toma en la noche y sabe lo que habéis adquirido durante el día; luego, en él, os devu...
+
+Verse 065 - Similarity: 83.2%
+  Original (212 chars):
+    Di: Él tiene poder para enviaros un castigo desde lo alto o bajo vuestros pies, o confundiros en sec...
+  Formatted (151 chars):
+    Di: Él tiene poder para enviaros un castigo desde lo alto o bajo vuestros pies, o confundiros en sec...
+
+Verse 068 - Similarity: 99.8%
+  Original (218 chars):
+    Y cuando veas a los que se burlan de Nuestros signos, apártate de ellos hasta que entren en otra con...
+  Formatted (219 chars):
+    Y cuando veas a los que se burlan de Nuestros signos, apártate de ellos hasta que entren en otra con...
+
+Verse 070 - Similarity: 99.9%
+  Original (526 chars):
+    Y deja a los que toman su Deber de Adoración como juego y distracción y han sido seducidos por la vi...
+  Formatted (527 chars):
+    Y deja a los que toman su Deber de Adoración como juego y distracción y han sido seducidos por la vi...
+
+Verse 071 - Similarity: 99.9%
+  Original (399 chars):
+    Di: ¿Invocaremos fuera de Allah, a lo que no nos beneficia ni perjudica y volveremos sobre nuestros ...
+  Formatted (400 chars):
+    Di: ¿Invocaremos fuera de Allah, a lo que no nos beneficia ni perjudica y volveremos sobre nuestros ...
+
+Verse 093 - Similarity: 99.8%
+  Original (474 chars):
+    ¿Y quién es más injusto que quien inventa una mentira sobre Allah o dice: Yo he recibido la inspirac...
+  Formatted (476 chars):
+    ¿Y quién es más injusto que quien inventa una mentira sobre Allah o dice: Yo he recibido la inspirac...
+
+Verse 111 - Similarity: 99.8%
+  Original (213 chars):
+    Y aunque hiciéramos que bajaran a ellos ángeles y que los muertos les hablaran y reuniéramos todas l...
+  Formatted (214 chars):
+    Y aunque hiciéramos que bajaran a ellos ángeles y que los muertos les hablaran y reuniéramos todas l...
+
+  ... and 8 more issues in this chapter
+
+Chapter 007: 19 issues
+--------------------------------------------------------------------------------
+
+Verse 032 - Similarity: 99.8%
+  Original (285 chars):
+    Di: ¿Quién prohibe los adornos de Allah, creados por Él para Sus siervos, y las cosas buenas de la p...
+  Formatted (286 chars):
+    Di: ¿Quién prohibe los adornos de Allah, creados por Él para Sus siervos, y las cosas buenas de la p...
+
+Verse 033 - Similarity: 99.8%
+  Original (260 chars):
+    Di: Lo que de verdad ha prohibido mi Señor son las indecencias, tanto las externas como las que se o...
+  Formatted (261 chars):
+    Di: Lo que de verdad ha prohibido mi Señor son las indecencias, tanto las externas como las que se o...
+
+Verse 037 - Similarity: 99.7%
+  Original (361 chars):
+    ¿Y quién es más injusto que quien inventa una mentira sobre Allah o tacha de mentira Sus signos?A és...
+  Formatted (363 chars):
+    ¿Y quién es más injusto que quien inventa una mentira sobre Allah o tacha de mentira Sus signos?A és...
+
+Verse 038 - Similarity: 99.9%
+  Original (378 chars):
+    Dirá: Entrad en el Fuego en compañía de las comunidades de hombres y genios que hubo antes que vosot...
+  Formatted (379 chars):
+    Dirá: Entrad en el Fuego en compañía de las comunidades de hombres y genios que hubo antes que vosot...
+
+Verse 053 - Similarity: 99.7%
+  Original (354 chars):
+    ¿Qué esperan sino averiguar sus consecuencias? El día que esto ocurra, dirán los que antes lo habían...
+  Formatted (356 chars):
+    ¿Qué esperan sino averiguar sus consecuencias? El día que esto ocurra, dirán los que antes lo habían...
+
+Verse 054 - Similarity: 99.7%
+  Original (316 chars):
+    Realmente vuestro Señor es Allah, Quien creó los cielos y la tierra en seis días, luego se asentó en...
+  Formatted (318 chars):
+    Realmente vuestro Señor es Allah, Quien creó los cielos y la tierra en seis días, luego se asentó en...
+
+Verse 057 - Similarity: 99.7%
+  Original (286 chars):
+    Él es Quien envía los vientos como anuncio previo a Su misericordia, y cuando forman una nube pesada...
+  Formatted (288 chars):
+    Él es Quien envía los vientos como anuncio previo a Su misericordia, y cuando forman una nube p esad...
+
+Verse 085 - Similarity: 99.7%
+  Original (348 chars):
+    Y a los Madyan, su hermano Shuayb, que dijo: ¡Gente mía! Adorad a Allah; no tenéis otro dios que Él....
+  Formatted (350 chars):
+    Y a los Madyan, su hermano Shuayb, que dijo: ¡Gente mía! Adorad a Allah; no tenéis otro dios que Él....
+
+Verse 087 - Similarity: 99.7%
+  Original (199 chars):
+    Y si hay entre vosotros un grupo que ha creído en aquello con lo que he sido enviado y otro grupo qu...
+  Formatted (200 chars):
+    Y si hay entre vosotros un grupo que ha creído en aquello con lo que he sido enviado y otro grupo q ...
+
+Verse 101 - Similarity: 99.8%
+  Original (225 chars):
+    Esas son las ciudades parte de cuyas noticias te contamos.Les llegaron sus mensajeros con las eviden...
+  Formatted (226 chars):
+    Esas son las ciudades parte de cuyas noticias te contamos.Les llegaron sus mensajeros con las eviden...
+
+  ... and 9 more issues in this chapter
+
+Chapter 008: 8 issues
+--------------------------------------------------------------------------------
+
+Verse 026 - Similarity: 99.8%
+  Original (244 chars):
+    Recordad cuando érais pocos, en situación de debilidad en la tierra, temiendo que los hombres cayera...
+  Formatted (245 chars):
+    Recordad cuando érais pocos, en situación de debilidad en la tierra, temiendo que los hombres cayera...
+
+Verse 034 - Similarity: 99.8%
+  Original (219 chars):
+    ¿Mas por qué no habría de castigarles Allah si ellos prohíben entrar en la Mezquita Inviolable sin s...
+  Formatted (220 chars):
+    ¿Mas por qué no habría de castigarles Allah si ellos prohíben entrar en la Mezquita Inviolable sin s...
+
+Verse 041 - Similarity: 99.9%
+  Original (356 chars):
+    Y sabed, que del botín de guerra que os llevéis, un quinto pertenece a Allah y a Su mensajero; y a l...
+  Formatted (357 chars):
+    Y sabed, que del botín de guerra que os llevéis, un quinto pertenece a Allah y a Su mensajero; y a l...
+
+Verse 042 - Similarity: 99.8%
+  Original (450 chars):
+    Cuando os encontrabais en la vertiente más próxima* y ellos en las más alejada, quedando la caravana...
+  Formatted (452 chars):
+    Cuando os encontrabais en la vertiente más próxima* y ellos en las más alejada, quedando la caravana...
+
+Verse 044 - Similarity: 99.8%
+  Original (233 chars):
+    Y cuando, al encontraros con ellos, los hizo parecer pocos a vuestros ojos e hizo asímismo que vosot...
+  Formatted (234 chars):
+    Y cuando, al encontraros con ellos, los hizo parecer pocos a vuestros ojos e hizo asímismo que vosot...
+
+Verse 048 - Similarity: 99.7%
+  Original (333 chars):
+    Y cuando el Shaytán les embelleció sus acciones y les dijo: Hoy no habrá entre los hombres quien pue...
+  Formatted (335 chars):
+    Y cuando el Shaytán les embelleció sus acciones y les dijo: Hoy no habrá entre los hombres quien pue...
+
+Verse 066 - Similarity: 99.8%
+  Original (229 chars):
+    Pero Allah os alivia ahora, pues sabe que en vosotros hay debilidad, de manera que si hay cien de vo...
+  Formatted (230 chars):
+    Pero Allah os alivia ahora, pues sabe que en vosotros hay debilidad, de manera que si hay cien de vo...
+
+Verse 072 - Similarity: 99.8%
+  Original (483 chars):
+    Verdaderamente los que creen y emigraron y lucharon con sus bienes y personas en el camino de Allah ...
+  Formatted (485 chars):
+    Verdaderamente los que creen y emigraron y lucharon con sus bienes y personas en el camino de Allah ...
+
+Chapter 009: 17 issues
+--------------------------------------------------------------------------------
+
+Verse 003 - Similarity: 99.9%
+  Original (357 chars):
+    Y se anuncia de parte de Allah y de Su mensajero a los hombres, en el día de la Peregrinación Mayor,...
+  Formatted (358 chars):
+    Y se anuncia de parte de Allah y de Su mensajero a los hombres, en el día de la Peregrinación Mayor,...
+
+Verse 007 - Similarity: 99.8%
+  Original (314 chars):
+    ¿Cómo podría ser tenido en cuenta un pacto con los asociadores por parte de Allah y Su mensajero, a ...
+  Formatted (315 chars):
+    ¿Cómo podría ser tenido en cuenta un pacto con los asociadores por parte de Allah y Su mensajero, a ...
+
+Verse 016 - Similarity: 99.8%
+  Original (225 chars):
+    ¿O acaso pensáis que Allah os va a dejar y que Allah no sabrá quienes de vosotros lucharon y no toma...
+  Formatted (226 chars):
+    ¿O acaso pensáis que Allah os va a dejar y que Allah no sabrá quienes de vosotros lucharon y no toma...
+
+Verse 019 - Similarity: 99.8%
+  Original (232 chars):
+    ¿Consideráis que proveer el agua durante la Peregrinación y ser guardián de la Mezquita Inviolable e...
+  Formatted (233 chars):
+    ¿Consideráis que proveer el agua durante la Peregrinación y ser guardián de la Mezquita Inviolable e...
+
+Verse 025 - Similarity: 99.8%
+  Original (237 chars):
+    Allah os ha ayudado en numerosas ocasiones.Y en el día de Hunayn, cuando os asombraba vuestro gran n...
+  Formatted (238 chars):
+    Allah os ha ayudado en numerosas ocasiones.Y en el día de Hunayn, cuando os asombraba vuestro gran n...
+
+Verse 029 - Similarity: 99.8%
+  Original (280 chars):
+    Combatid contra aquéllos, de los que recibieron el Libro, que no crean en Allah ni en el Último Día,...
+  Formatted (281 chars):
+    Combatid contra aquéllos, de los que recibieron el Libro, que no crean en Allah ni en el Último Día,...
+
+Verse 037 - Similarity: 99.7%
+  Original (398 chars):
+    Realmente, diferir la inviolabilidad de un mes a otro, es un acto más de incredulidad con el que se ...
+  Formatted (400 chars):
+    Realmente, diferir la inviolabilidad de un mes a otro, es un acto más de incredulidad con el que se ...
+
+Verse 061 - Similarity: 99.8%
+  Original (307 chars):
+    Y entre ellos los hay que hacen daño al Profeta y dicen: Es uno que da oído a todo; di: Es alguien q...
+  Formatted (308 chars):
+    Y entre ellos los hay que hacen daño al Profeta y dicen: Es uno que da oído a todo; di: Es alguien q...
+
+Verse 067 - Similarity: 99.8%
+  Original (226 chars):
+    Los hipócritas y las hipócritas son los unos para los otros, ordenan lo reprobable, impiden lo recon...
+  Formatted (227 chars):
+    Los hipócritas y las hipócritas son los unos para los otros, ordenan lo reprobable, impiden lo recon...
+
+Verse 071 - Similarity: 99.7%
+  Original (286 chars):
+    Los creyentes y las creyentes son amigos aliados unos de otros, ordenan lo reconocido como bueno y p...
+  Formatted (288 chars):
+    Los creyentes y las creyentes son amigos aliados unos de otros, ordenan lo reconocido como buen o y ...
+
+  ... and 7 more issues in this chapter
+
+Chapter 010: 8 issues
+--------------------------------------------------------------------------------
+
+Verse 012 - Similarity: 99.8%
+  Original (266 chars):
+    Y cuando el hombre es tocado por el mal, Nos suplica acostado, sentado o de pie; pero cuando lo libr...
+  Formatted (267 chars):
+    Y cuando el hombre es tocado por el mal, Nos suplica acostado, sentado o de pie; pero cuando lo libr...
+
+Verse 013 - Similarity: 99.8%
+  Original (219 chars):
+    Ya destruimos a las generaciones anteriores a vosotros cuando fueron injustas.Les habían llegado sus...
+  Formatted (220 chars):
+    Ya destruimos a las generaciones anteriores a vosotros cuando fueron injustas.Les habían llegado sus...
+
+Verse 021 - Similarity: 99.8%
+  Original (214 chars):
+    Y cuando les hacemos probar a los hombres una misericordia después de haberles tocado el mal, intent...
+  Formatted (215 chars):
+    Y cuando les hacemos probar a los hombres una misericordia después de haberles tocado el mal, intent...
+
+Verse 022 - Similarity: 99.7%
+  Original (358 chars):
+    Él es Quien os hace viajar por la tierra y el mar. Y cuando os encontráis en las naves y éstas naveg...
+  Formatted (360 chars):
+    Él es Quien os hace viajar por la tierra y el mar. Y cuando os encontráis en las naves y éstas naveg...
+
+Verse 024 - Similarity: 99.8%
+  Original (409 chars):
+    La vida del mundo se parece al agua que hacemos caer del cielo y se mezcla con las plantas de la tie...
+  Formatted (411 chars):
+    La vida del mundo se parece al agua que hacemos caer del cielo y se mezcla con las plantas de la tie...
+
+Verse 049 - Similarity: 99.7%
+  Original (178 chars):
+    Di: No tengo poder ni de dañarme ni de beneficiarme, es sólo lo que Allah quiera.Cada comunidad tien...
+  Formatted (179 chars):
+    Di: No tengo poder ni de dañarme ni de beneficiarme, es sólo lo que Allah quiera.Cada com unidad tie...
+
+Verse 073 - Similarity: 99.8%
+  Original (229 chars):
+    Lo tacharon de mentiroso y lo salvamos en la nave junto a los que con él estaban, dejándolos como su...
+  Formatted (230 chars):
+    Lo tacharon de mentiroso y lo salvamos en la nave junto a los que con él estaban, dejándolos como su...
+
+Verse 074 - Similarity: 99.8%
+  Original (204 chars):
+    Después, tras él, enviamos mensajeros a su gente y fueron a ellos con las pruebas claras pero no cre...
+  Formatted (205 chars):
+    Después, tras él, enviamos mensajeros a su gente y fueron a ellos con las pruebas claras pero no cre...
+
+Chapter 011: 5 issues
+--------------------------------------------------------------------------------
+
+Verse 027 - Similarity: 99.8%
+  Original (297 chars):
+    Y dijeron los magnates, aquellos de su gente que no creían: No vemos en ti sino a un ser humano como...
+  Formatted (298 chars):
+    Y dijeron los magnates, aquellos de su gente que no creían: No vemos en ti sino a un ser humano como...
+
+Verse 031 - Similarity: 99.8%
+  Original (282 chars):
+    Y no os digo que poseo los tesoros de Allah ni que conozco El No-Visto, ni digo que sea un ángel ni ...
+  Formatted (283 chars):
+    Y no os digo que poseo los tesoros de Allah ni que conozco El No-Visto, ni digo que sea un ángel ni ...
+
+Verse 040 - Similarity: 99.8%
+  Original (250 chars):
+    Así hasta que llegó Nuestro mandato y el horno* rebosó, dijimos: Sube en ella una pareja de cada esp...
+  Formatted (251 chars):
+    Así hasta que llegó Nuestro mandato y el horno* rebosó, dijimos: Sube en ella una pareja de cada esp...
+
+Verse 084 - Similarity: 74.3%
+  Original (237 chars):
+    Y a los Madyan, a su hermano Shuayb que dijo: ¡Gente mía! Adorad a Allah, no tenéis otro dios que Él...
+  Formatted (140 chars):
+    Y a los Madyan, a su hermano Shuayb que dijo: ¡Gente mía! Adorad a Allah, no tenéis otro dios que Él...
+
+Verse 088 - Similarity: 84.5%
+  Original (316 chars):
+    Dijo: ¡Gente mía! ¿Pero es que no veis que me baso en una prueba clara de mi Señor que me provee con...
+  Formatted (231 chars):
+    Dijo: ¡Gente mía! ¿Pero es que no veis que me baso en una prueba clara de mi Señor que me provee con...
+
+Chapter 012: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 100 - Similarity: 99.8%
+  Original (434 chars):
+    Subió a sus padres sobre el trono y cayeron postrados en (reverencia) ante él, dijo: ¡Padre mío! Est...
+  Formatted (436 chars):
+    Subió a sus padres sobre el trono y cayeron postrados en (reverencia) ante él, dijo: ¡Padre mío! Est...
+
+Verse 111 - Similarity: 99.8%
+  Original (230 chars):
+    En su historia hay una lección para los que saben reconocer lo esencial.Y no es un relato inventado,...
+  Formatted (231 chars):
+    En su historia hay una lección para los que saben reconocer lo esencial.Y no es un relato inventado,...
+
+Chapter 013: 7 issues
+--------------------------------------------------------------------------------
+
+Verse 003 - Similarity: 99.7%
+  Original (189 chars):
+    Y Él es Quien ha extendido la tierra y ha puesto en ella cordilleras y ríos; y de cada fruto ha hech...
+  Formatted (190 chars):
+    Y Él es Quien ha extendido la tierra y ha puesto en ella cordilleras y ríos; y de cada fruto h a hec...
+
+Verse 006 - Similarity: 99.8%
+  Original (303 chars):
+    Y te instan a que les llegue lo malo en vez de lo bueno, a pesar de que (pueblos) semejantes a ellos...
+  Formatted (304 chars):
+    Y te instan a que les llegue lo malo en vez de lo bueno, a pesar de que (pueblos) semejantes a ellos...
+
+Verse 011 - Similarity: 99.8%
+  Original (331 chars):
+    (el hombre) tiene (ángeles) que se van turnando delante y detrás de él guardándolo por el mandato de...
+  Formatted (332 chars):
+    (el hombre) tiene (ángeles) que se van turnando delante y detrás de él guardándolo por el mandato de...
+
+Verse 017 - Similarity: 99.9%
+  Original (379 chars):
+    Hace descender agua del cielo y corre por los cauces de los valles según su capacidad, arrastrando e...
+  Formatted (380 chars):
+    Hace descender agua del cielo y corre por los cauces de los valles según su capacidad, arrastrando e...
+
+Verse 031 - Similarity: 99.9%
+  Original (435 chars):
+    ¿Por qué no es una recitación* que hace que las montañas anden o que la tierra se abra o hablen los ...
+  Formatted (436 chars):
+    ¿Por qué no es una recitación* que hace que las montañas anden o que la tierra se abra o hablen los ...
+
+Verse 036 - Similarity: 99.8%
+  Original (246 chars):
+    Aquellos a los que hemos dado el Libro se regocijan por lo que se te ha hecho descender, pero alguno...
+  Formatted (247 chars):
+    Aquellos a los que hemos dado el Libro se regocijan por lo que se te ha hecho descender, pero alguno...
+
+Verse 038 - Similarity: 99.7%
+  Original (199 chars):
+    Ya enviamos mensajeros anteriores a ti a los que dimos esposas y descendencia y no cupo en ningún me...
+  Formatted (200 chars):
+    Ya enviamos mensajeros anteriores a ti a los que dimos esposas y descendencia y no cupo en ningún m ...
+
+Chapter 016: 6 issues
+--------------------------------------------------------------------------------
+
+Verse 027 - Similarity: 99.8%
+  Original (232 chars):
+    Luego, el Día del Levantamiento, los humillará y les dirá:¿Donde están ésos que Me asociabais y por ...
+  Formatted (233 chars):
+    Luego, el Día del Levantamiento, los humillará y les dirá:¿Donde están ésos que Me asociabais y por ...
+
+Verse 036 - Similarity: 99.8%
+  Original (244 chars):
+    Hemos enviado un mensajero a cada comunidad: "Adorad a Allah y apartaos de los Tagut."*Y hubo entre ...
+  Formatted (245 chars):
+    Hemos enviado un mensajero a cada comunidad: "Adorad a Allah y apartaos de los Tagut."*Y hubo entre ...
+
+Verse 080 - Similarity: 99.8%
+  Original (286 chars):
+    Y Allah ha hecho de vuestras casas descanso para vosotros.Y ha hecho que con las pieles de los anima...
+  Formatted (287 chars):
+    Y Allah ha hecho de vuestras casas descanso para vosotros.Y ha hecho que con las pieles de los anima...
+
+Verse 089 - Similarity: 99.8%
+  Original (290 chars):
+    El día en que en cada comunidad levantemos un testigo que sea uno de ellos y te hagamos venir a ti c...
+  Formatted (291 chars):
+    El día en que en cada comunidad levantemos un testigo que sea uno de ellos y te hagamos venir a ti c...
+
+Verse 091 - Similarity: 99.8%
+  Original (207 chars):
+    Cumplid el compromiso con Allah cuando lo hayáis contraído y no rompáis los juramentos después de ha...
+  Formatted (208 chars):
+    Cumplid el compromiso con Allah cuando lo hayáis contraído y no rompáis los juramentos después de ha...
+
+Verse 115 - Similarity: 99.8%
+  Original (245 chars):
+    Se os prohíbe lo mortecino, la sangre, la carne de cerdo y lo que haya sido sacrificado en nombre de...
+  Formatted (246 chars):
+    Se os prohíbe lo mortecino, la sangre, la carne de cerdo y lo que haya sido sacrificado en nombre de...
+
+Chapter 018: 7 issues
+--------------------------------------------------------------------------------
+
+Verse 019 - Similarity: 99.9%
+  Original (440 chars):
+    Y entonces los despertamos para que se hicieran preguntas.Dijo uno de ellos: ¿Cuánto tiempo habéis e...
+  Formatted (441 chars):
+    Y entonces los despertamos para que se hicieran preguntas.Dijo uno de ellos: ¿Cuánto tiempo habéis e...
+
+Verse 031 - Similarity: 99.8%
+  Original (222 chars):
+    Esos tendrán los jardines de Adn por cuyo suelo corren los ríos, en ellos se adornarán con pulseras ...
+  Formatted (223 chars):
+    Esos tendrán los jardines de Adn por cuyo suelo corren los ríos, en ellos se adornarán con pulseras ...
+
+Verse 050 - Similarity: 99.8%
+  Original (299 chars):
+    Y cuando dijimos a los ángeles: Postraos ante Adam y se postraron, aunque no Iblis que era de los ge...
+  Formatted (300 chars):
+    Y cuando dijimos a los ángeles: Postraos ante Adam y se postraron, aunque no Iblis que era de los ge...
+
+Verse 056 - Similarity: 99.8%
+  Original (220 chars):
+    Y no enviamos a los enviados sino como gente que anuncia buenas noticias y advierte.Pero los que no ...
+  Formatted (221 chars):
+    Y no enviamos a los enviados sino como gente que anuncia buenas noticias y advierte.Pero los que no ...
+
+Verse 057 - Similarity: 99.9%
+  Original (339 chars):
+    ¿Y quién es más injusto que aquel que habiendo sido amonestado con los signos de su Señor se aparta ...
+  Formatted (340 chars):
+    ¿Y quién es más injusto que aquel que habiendo sido amonestado con los signos de su Señor se aparta ...
+
+Verse 077 - Similarity: 99.8%
+  Original (247 chars):
+    Y así partieron hasta que llegaron a la gente de una ciudad a los que pidieron de comer pero ellos s...
+  Formatted (248 chars):
+    Y así partieron hasta que llegaron a la gente de una ciudad a los que pidieron de comer pero ellos s...
+
+Verse 086 - Similarity: 99.8%
+  Original (211 chars):
+    Así cuando hubo alcanzado el poniente del sol, encontró que éste se ponía en un manantial cenagoso y...
+  Formatted (212 chars):
+    Así cuando hubo alcanzado el poniente del sol, encontró que éste se ponía en un manantial cenagoso y...
+
+Chapter 020: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 130 - Similarity: 99.8%
+  Original (276 chars):
+    Ten pues paciencia con lo que dicen y glorifica a tu Señor con la alabanza que Le es debida antes de...
+  Formatted (277 chars):
+    Ten pues paciencia con lo que dicen y glorifica a tu Señor con la alabanza que Le es debida antes de...
+
+Chapter 021: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 044 - Similarity: 99.8%
+  Original (209 chars):
+    No obstante a éstos les hemos dado cosas de las que disfrutar, así como a sus padres, y han tenido u...
+  Formatted (210 chars):
+    No obstante a éstos les hemos dado cosas de las que disfrutar, así como a sus padres, y han tenido u...
+
+Chapter 022: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 002 - Similarity: 99.8%
+  Original (256 chars):
+    El día que la veáis, las mujeres que estén amamantando se despreocuparán de lo que estén amamantando...
+  Formatted (257 chars):
+    El día que la veáis, las mujeres que estén amamantando se despreocuparán de lo que estén amamantando...
+
+Verse 005 - Similarity: 99.8%
+  Original (653 chars):
+    ¡Hombres! Si estáis en duda sobre la vuelta a la vida... Ciertamente os creamos a partir de tierra, ...
+  Formatted (656 chars):
+    ¡Hombres! Si estáis en duda sobre la vuelta a la vida... Ciertamente os creamos a partir de tierra, ...
+
+Verse 052 - Similarity: 99.8%
+  Original (270 chars):
+    Antes de ti no hemos enviado ningún mensajero ni profeta al que no le ocurriera que al recitar (lo q...
+  Formatted (271 chars):
+    Antes de ti no hemos enviado ningún mensajero ni profeta al que no le ocurriera que al recitar (lo q...
+
+Verse 078 - Similarity: 99.9%
+  Original (418 chars):
+    Luchad por Allah como se debe luchar por Él.Él os ha elegido y no ha puesto ninguna dificultad en la...
+  Formatted (419 chars):
+    Luchad por Allah como se debe luchar por Él.Él os ha elegido y no ha puesto ninguna dificultad en la...
+
+Chapter 023: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 014 - Similarity: 99.8%
+  Original (247 chars):
+    Luego transformamos la gota de esperma creando un coágulo de sangre y el coágulo de sangre creando u...
+  Formatted (248 chars):
+    Luego transformamos la gota de esperma creando un coágulo de sangre y el coágulo de sangre creando u...
+
+Verse 024 - Similarity: 99.8%
+  Original (267 chars):
+    Y dijeron los magnates, que eran los que de su pueblo se habían negado a creer: No es más que un hom...
+  Formatted (268 chars):
+    Y dijeron los magnates, que eran los que de su pueblo se habían negado a creer: No es más que un hom...
+
+Verse 033 - Similarity: 99.8%
+  Original (269 chars):
+    Dijeron los magnates, que eran los que de su gente no creían y negaban la veracidad del encuentro de...
+  Formatted (270 chars):
+    Dijeron los magnates, que eran los que de su gente no creían y negaban la veracidad del encuentro de...
+
+Chapter 024: 7 issues
+--------------------------------------------------------------------------------
+
+Verse 011 - Similarity: 99.8%
+  Original (277 chars):
+    En verdad los que vinieron con esa calumnia son un grupo de vosotros, no lo consederéis un mal para ...
+  Formatted (278 chars):
+    En verdad los que vinieron con esa calumnia son un grupo de vosotros, no lo consederéis un mal para ...
+
+Verse 031 - Similarity: 99.7%
+  Original (691 chars):
+    Y di a las creyentes que bajen la mirada y guarden sus partes privadas, y que no muestren sus atract...
+  Formatted (695 chars):
+    Y di a las creyentes que bajen la mirada y guarden sus partes privadas, y que no muestren sus atract...
+
+Verse 033 - Similarity: 99.8%
+  Original (524 chars):
+    Pero los que no encuentren medios para casarse que se abstengan hasta que Allah les enriquezca con S...
+  Formatted (526 chars):
+    Pero los que no encuentren medios para casarse que se abstengan hasta que Allah les enriquezca con S...
+
+Verse 043 - Similarity: 99.8%
+  Original (277 chars):
+    ¿Acaso no ves que Allah empuja las nubes y las acumula en capas y ves la lluvia salir de sus entraña...
+  Formatted (278 chars):
+    ¿Acaso no ves que Allah empuja las nubes y las acumula en capas y ves la lluvia salir de sus entraña...
+
+Verse 058 - Similarity: 99.9%
+  Original (443 chars):
+    ¡Vosotros que creéis! Que aquéllos que poseen vuestras diestras y los que de vosotros no hayan llega...
+  Formatted (444 chars):
+    ¡Vosotros que creéis! Que aquéllos que poseen vuestras diestras y los que de vosotros no hayan llega...
+
+Verse 061 - Similarity: 99.8%
+  Original (599 chars):
+    No hay inconveniente para el ciego, el lisiado o el enfermo*, ni para ninguno de vosotros en que com...
+  Formatted (601 chars):
+    No hay inconveniente para el ciego, el lisiado o el enfermo*, ni para ninguno de vosotros en que com...
+
+Verse 063 - Similarity: 99.8%
+  Original (211 chars):
+    No llaméis al Mensajero como os llamáis entre vosotros.Allah conoce a quienes de ellos se retiran co...
+  Formatted (212 chars):
+    No llaméis al Mensajero como os llamáis entre vosotros.Allah conoce a quienes de ellos se retiran co...
+
+Chapter 028: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 015 - Similarity: 99.9%
+  Original (357 chars):
+    Y en un momento de descuido de sus habitantes entró en la ciudad y encontró en ella dos hombres luch...
+  Formatted (358 chars):
+    Y en un momento de descuido de sus habitantes entró en la ciudad y encontró en ella dos hombres luch...
+
+Verse 063 - Similarity: 99.8%
+  Original (210 chars):
+    Dirán aquéllos irremediablemente sentenciados: Señor nuestro, a éstos que extraviamos, los extraviam...
+  Formatted (211 chars):
+    Dirán aquéllos irremediablemente sentenciados: Señor nuestro, a éstos que extraviamos, los extraviam...
+
+Verse 076 - Similarity: 99.8%
+  Original (249 chars):
+    Qarún era uno de la gente de Musa que abusó contra ellos. Le habíamos dado tesoros cuyas llaves habr...
+  Formatted (250 chars):
+    Qarún era uno de la gente de Musa que abusó contra ellos. Le habíamos dado tesoros cuyas llaves habr...
+
+Chapter 029: 6 issues
+--------------------------------------------------------------------------------
+
+Verse 017 - Similarity: 99.8%
+  Original (255 chars):
+    En realidad lo que adoráis fuera de Allah sólo son ídolos y estáis creando una mentira; ésos que ado...
+  Formatted (256 chars):
+    En realidad lo que adoráis fuera de Allah sólo son ídolos y estáis creando una mentira; ésos que ado...
+
+Verse 033 - Similarity: 99.8%
+  Original (265 chars):
+    Y cuando se presentaron Nuestros emisarios, Lut se entristeció a causa de ellos y se angustió.Le dij...
+  Formatted (266 chars):
+    Y cuando se presentaron Nuestros emisarios, Lut se entristeció a causa de ellos y se angustió.Le dij...
+
+Verse 040 - Similarity: 99.6%
+  Original (261 chars):
+    A cada uno le castigamos por sus faltas.A unos les mandamos un viento huracanado, a otros les agarró...
+  Formatted (263 chars):
+    A cada uno le castigamos por sus faltas.A unos les mandamos un viento huracanado, a otr os les agarr...
+
+Verse 041 - Similarity: 99.7%
+  Original (163 chars):
+    Los que han tomado fuera de Allah protectores son como la araña que se ha hecho una casa.Y sin duda ...
+  Formatted (164 chars):
+    Los que han tomado fuera de Allah protectores son como la araña que se ha hecho u na casa.Y sin duda...
+
+Verse 046 - Similarity: 99.8%
+  Original (255 chars):
+    Y no discutas con la gente del Libro sino de la mejor manera, a excepción de los que hayan sido inju...
+  Formatted (256 chars):
+    Y no discutas con la gente del Libro sino de la mejor manera, a excepción de los que hayan sido inju...
+
+Verse 052 - Similarity: 99.7%
+  Original (194 chars):
+    Di: Allah es suficiente Testigo entre vosotros y yo, Él conoce lo que hay en los cielos y en la tier...
+  Formatted (195 chars):
+    Di: Allah es suficiente Testigo entre vosotros y yo, Él conoce lo que hay en los cielos y en la t ie...
+
+Chapter 030: 5 issues
+--------------------------------------------------------------------------------
+
+Verse 008 - Similarity: 99.8%
+  Original (235 chars):
+    ¿Es que no han reflexionado en su interior?Allah no ha creado los cielos y la tierra y lo que hay en...
+  Formatted (236 chars):
+    ¿Es que no han reflexionado en su interior?Allah no ha creado los cielos y la tierra y lo que hay en...
+
+Verse 009 - Similarity: 99.9%
+  Original (351 chars):
+    ¿Es que no han ido por la tierra y han visto cómo acabaron los que les precedieron?Eran más fuertes ...
+  Formatted (352 chars):
+    ¿Es que no han ido por la tierra y han visto cómo acabaron los que les precedieron?Eran más fuertes ...
+
+Verse 024 - Similarity: 99.8%
+  Original (206 chars):
+    Y parte de Sus signos es que os hace ver el relámpago con temor y anhelo y hace que caiga agua del c...
+  Formatted (207 chars):
+    Y parte de Sus signos es que os hace ver el relámpago con temor y anhelo y hace que caiga agua del c...
+
+Verse 028 - Similarity: 99.8%
+  Original (293 chars):
+    Os pone un ejemplo extraído de vosotros mismos: ¿Acaso hay entre aquéllos que poseen vuestras diestr...
+  Formatted (294 chars):
+    Os pone un ejemplo extraído de vosotros mismos: ¿Acaso hay entre aquéllos que poseen vuestras die st...
+
+Verse 056 - Similarity: 99.8%
+  Original (239 chars):
+    Y dirán aquéllos a los que se les dio el conocimiento y la creencia: Realmente habéis permanecido, t...
+  Formatted (240 chars):
+    Y dirán aquéllos a los que se les dio el conocimiento y la creencia: Realmente habéis permanecido, t...
+
+Chapter 031: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 020 - Similarity: 99.8%
+  Original (238 chars):
+    ¿Es que no veis que Allah os ha subordinado todo lo que hay en los cielos y en la tierra y os ha col...
+  Formatted (239 chars):
+    ¿Es que no veis que Allah os ha subordinado todo lo que hay en los cielos y en la tierra y os ha col...
+
+Verse 029 - Similarity: 99.8%
+  Original (214 chars):
+    ¿Acaso no ves que Allah hace que la noche penetre en el día y el día en la noche y que ha subordinad...
+  Formatted (215 chars):
+    ¿Acaso no ves que Allah hace que la noche penetre en el día y el día en la noche y que ha subordinad...
+
+Verse 034 - Similarity: 99.8%
+  Original (242 chars):
+    Allah tiene con Él el conocimiento de la Hora y hace que caiga la buena lluvia y sabe lo que hay en ...
+  Formatted (243 chars):
+    Allah tiene con Él el conocimiento de la Hora y hace que caiga la buena lluvia y sabe lo que hay en ...
+
+Chapter 033: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.7%
+  Original (336 chars):
+    El Profeta, para los creyentes, está antes que ellos mismos; y sus esposas son madres para ellos.Y a...
+  Formatted (338 chars):
+    El Profeta, para los creyentes, está antes que ellos mismos; y sus esposas son madres para ellos.Y a...
+
+Verse 035 - Similarity: 99.9%
+  Original (497 chars):
+    Es verdad que a los musulmanes y a las musulmanas, a los creyentes y a las creyentes, a los obedient...
+  Formatted (498 chars):
+    Es verdad que a los musulmanes y a las musulmanas, a los creyentes y a las creyentes, a los obedient...
+
+Verse 037 - Similarity: 99.8%
+  Original (559 chars):
+    Y cuando le dijiste a aquel a quien Allah había favorecido y al que tú también habías favorecido: qu...
+  Formatted (561 chars):
+    Y cuando le dijiste a aquel a quien Allah había favorecido y al que tú también habías favorecido: qu...
+
+Verse 055 - Similarity: 99.8%
+  Original (247 chars):
+    No hay inconveniente para ellas* en cuanto a sus padres, hijos, hermanos, hijos de sus hermanos y de...
+  Formatted (248 chars):
+    No hay inconveniente para ellas* en cuanto a sus padres, hijos, hermanos, hijos de sus hermanos y de...
+
+Chapter 034: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 014 - Similarity: 99.8%
+  Original (266 chars):
+    Y cuando decretamos que muriera, lo único que les hizo darse cuenta de su muerte fue que el bicho de...
+  Formatted (267 chars):
+    Y cuando decretamos que muriera, lo único que les hizo darse cuenta de su muerte fue que el bicho de...
+
+Verse 043 - Similarity: 99.8%
+  Original (298 chars):
+    Y cuando se les recitan Nuestros signos claros, dicen: ¿Quién es éste mas que un hombre que quiere a...
+  Formatted (299 chars):
+    Y cuando se les recitan Nuestros signos claros, dicen: ¿Quién es éste mas que un hombre que quiere a...
+
+Verse 046 - Similarity: 99.8%
+  Original (206 chars):
+    Di: Sólo os exhorto a una cosa: Que os lo propongáis por Allah, en pares o de uno en uno, y reflexio...
+  Formatted (207 chars):
+    Di: Sólo os exhorto a una cosa: Que os lo propongáis por Allah, en pares o de uno en uno, y reflexio...
+
+Chapter 035: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 018 - Similarity: 69.6%
+  Original (339 chars):
+    Nadie cargará con la carga de otro. Y si alguno, agobiado por el peso de su carga, le pidiera a otro...
+  Formatted (181 chars):
+    Nadie cargará con la carga de otro. Y si alguno, agobiado por el peso de su carga, le pidiera a otro...
+
+Verse 039 - Similarity: 99.8%
+  Original (318 chars):
+    Él es Quien os hizo representantes (Suyos) en la tierra*.Así pues, la incredulidad del que se niegue...
+  Formatted (319 chars):
+    Él es Quien os hizo representantes (Suyos) en la tierra*.Así pues, la incredulidad del que se niegue...
+
+Chapter 038: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 024 - Similarity: 99.7%
+  Original (352 chars):
+    Dijo: Él ha sido injusto contigo al pedirte tu oveja para juntarla a las suyas; realmente muchos de ...
+  Formatted (354 chars):
+    Dijo: Él ha sido injusto contigo al pedirte tu oveja para juntarla a las suyas; realmente muchos de ...
+
+Chapter 039: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 003 - Similarity: 99.6%
+  Original (272 chars):
+    ¿Acaso no se Le debe a Allah la Adoración exclusiva?Los que han tomado protectores fuera de Él, (dic...
+  Formatted (274 chars):
+    ¿Acaso no se Le debe a Allah la Adoración exclusiva?Los que han tomado protectores fuera d e Él, (di...
+
+Verse 021 - Similarity: 99.8%
+  Original (317 chars):
+    ¿Es que no has visto que Allah hace que caiga agua del cielo y que se filtre en los manantiales de l...
+  Formatted (318 chars):
+    ¿Es que no has visto que Allah hace que caiga agua del cielo y que se filtre en los manantiales de l...
+
+Verse 067 - Similarity: 99.8%
+  Original (214 chars):
+    No han apreciado a Allah en Su verdadera magnitud, cuando la tierra entera esté en Su puño el Día de...
+  Formatted (215 chars):
+    No han apreciado a Allah en Su verdadera magnitud, cuando la tierra entera esté en Su puño el Día de...
+
+Verse 071 - Similarity: 99.9%
+  Original (395 chars):
+    Entonces los que se negaron a creer serán conducidos a Yahannam en grupos sucesivos y cuando lleguen...
+  Formatted (396 chars):
+    Entonces los que se negaron a creer serán conducidos a Yahannam en grupos sucesivos y cuando lleguen...
+
+Chapter 040: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 021 - Similarity: 99.8%
+  Original (258 chars):
+    ¿Es que no han ido por la tierra y han visto cómo acabaron los que hubo antes de ellos?Tenían más po...
+  Formatted (259 chars):
+    ¿Es que no han ido por la tierra y han visto cómo acabaron los que hubo antes de ellos?Tenían más po...
+
+Verse 028 - Similarity: 99.9%
+  Original (409 chars):
+    Y dijo un hombre creyente de la familia de Firaún que ocultaba su creencia: ¿Vais a matar a un hombr...
+  Formatted (410 chars):
+    Y dijo un hombre creyente de la familia de Firaún que ocultaba su creencia: ¿Vais a matar a un hombr...
+
+Verse 056 - Similarity: 99.8%
+  Original (203 chars):
+    Realmente los que te discuten los signos de Allah sin que se les haya dado ninguna prueba, sólo tien...
+  Formatted (204 chars):
+    Realmente los que te discuten los signos de Allah sin que se les haya dado ninguna prueba, sólo tien...
+
+Chapter 041: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 050 - Similarity: 99.9%
+  Original (346 chars):
+    Y si después del daño que le tocó le hacemos probar una misericordia de Nuestra parte, dice: Esto es...
+  Formatted (347 chars):
+    Y si después del daño que le tocó le hacemos probar una misericordia de Nuestra parte, dice: Esto es...
+
+Chapter 042: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 005 - Similarity: 99.8%
+  Original (227 chars):
+    A punto están de abrirse de arriba abajo los cielos y la tierra, y los ángeles glorifican a su Señor...
+  Formatted (228 chars):
+    A punto están de abrirse de arriba abajo los cielos y la tierra, y los ángeles glorifican a su Señor...
+
+Verse 011 - Similarity: 99.8%
+  Original (216 chars):
+    El Originador de los cielos y de la tierra, os ha dado, de vosotros mismos, esposas y ha hecho a los...
+  Formatted (217 chars):
+    El Originador de los cielos y de la tierra, os ha dado, de vosotros mismos, esposas y ha hecho a los...
+
+Verse 013 - Similarity: 99.7%
+  Original (379 chars):
+    Os ha legislado, dentro de la Práctica de Adoración, lo que encomendó a Nuh, lo que te hemos inspira...
+  Formatted (381 chars):
+    Os ha legislado, dentro de la Práctica de Adoración, lo que encomendó a Nuh, lo que te hemos inspira...
+
+Verse 021 - Similarity: 99.8%
+  Original (240 chars):
+    ¿O es que tienen asociados* que les han legitimado cosas en la Práctica de Adoración que Allah no ha...
+  Formatted (241 chars):
+    ¿O es que tienen asociados* que les han legitimado cosas en la Práctica de Adoración que Allah no ha...
+
+Chapter 043: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 032 - Similarity: 99.8%
+  Original (274 chars):
+    ¿Acaso son ellos los que reparten la misericordia de Allah?Nosotros repartimos entre ellos sus medio...
+  Formatted (275 chars):
+    ¿Acaso son ellos los que reparten la misericordia de Allah?Nosotros repartimos entre ellos sus medio...
+
+Chapter 046: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 010 - Similarity: 99.8%
+  Original (263 chars):
+    Di: ¿Y si yo os digo que viene de junto a Allah, y vosotros no habéis querido creer, a pesar de que ...
+  Formatted (264 chars):
+    Di: ¿Y si yo os digo que viene de junto a Allah, y vosotros no habéis querido creer, a pesar de que ...
+
+Chapter 047: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 012 - Similarity: 99.8%
+  Original (234 chars):
+    Allah hará entrar a quienes creen y practican las acciones de bien en jardines por cuyo suelo corren...
+  Formatted (235 chars):
+    Allah hará entrar a quienes creen y practican las acciones de bien en jardines por cuyo suelo corren...
+
+Verse 015 - Similarity: 99.7%
+  Original (368 chars):
+    Esta es la semblanza del Jardín prometido a los temerosos: Ríos de agua de inalterable olor, ríos de...
+  Formatted (370 chars):
+    Esta es la semblanza del Jardín prometido a los temerosos: Ríos de agua de inalterable olor, ríos de...
+
+Chapter 048: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 017 - Similarity: 99.8%
+  Original (226 chars):
+    No hay nada que reprochar al ciego, ni al cojo ni al enfermo.Quien obedezca a Allah y a Su mensajero...
+  Formatted (227 chars):
+    No hay nada que reprochar al ciego, ni al cojo ni al enfermo.Quien obedezca a Allah y a Su mensajero...
+
+Verse 025 - Similarity: 99.8%
+  Original (492 chars):
+    Ellos son los que se negaron a creer y os apartaron de la Mezquita Inviolable y de las ofrendas, imp...
+  Formatted (494 chars):
+    Ellos son los que se negaron a creer y os apartaron de la Mezquita Inviolable y de las ofrendas, imp...
+
+Verse 029 - Similarity: 99.8%
+  Original (585 chars):
+    Muhammad es el mensajero de Allah, los que están con él son duros con los incrédulos y compasivos en...
+  Formatted (587 chars):
+    Muhammad es el mensajero de Allah, los que están con él son duros con los incrédulos y compasivos en...
+
+Chapter 049: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 009 - Similarity: 99.8%
+  Original (288 chars):
+    Y si dos bandos de creyentes luchan entre sí, reconciliadlos, pero si uno de ellos abusa del otro, c...
+  Formatted (289 chars):
+    Y si dos bandos de creyentes luchan entre sí, reconciliadlos, pero si uno de ellos abusa del otr o, ...
+
+Verse 015 - Similarity: 99.7%
+  Original (176 chars):
+    Los creyentes son aquellos que, habiendo creído en Allah y en Su mensajero, no dudan después; y luch...
+  Formatted (177 chars):
+    Los creyentes son aquellos que, habiendo creído en Allah y en Su mensajero, no dudan des pués; y luc...
+
+Chapter 052: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 021 - Similarity: 99.7%
+  Original (185 chars):
+    Y a quienes hayan creído y su descendencia los haya seguido en la creencia, los juntaremos con ellos...
+  Formatted (186 chars):
+    Y a quienes hayan creído y su descendencia los haya seguido en la creencia, los juntaremos c on ello...
+
+Chapter 057: 5 issues
+--------------------------------------------------------------------------------
+
+Verse 010 - Similarity: 99.9%
+  Original (354 chars):
+    Y ¿cómo es que no gastáis en el camino de Allah cuando a Allah Le pertenece la herencia de los cielo...
+  Formatted (355 chars):
+    Y ¿cómo es que no gastáis en el camino de Allah cuando a Allah Le pertenece la herencia de los cielo...
+
+Verse 019 - Similarity: 99.8%
+  Original (239 chars):
+    Y los que creen en Allah y en Su mensajero, ésos son los veraces y los que dan testimonio ante su Se...
+  Formatted (240 chars):
+    Y los que creen en Allah y en Su mensajero, ésos son los veraces y los que dan testimonio ante su Se...
+
+Verse 020 - Similarity: 99.9%
+  Original (432 chars):
+    Sabed que la vida del mundo es en realidad juego y distracción, así como apariencia, jactancia entre...
+  Formatted (433 chars):
+    Sabed que la vida del mundo es en realidad juego y distracción, así como apariencia, jactancia entre...
+
+Verse 025 - Similarity: 99.9%
+  Original (406 chars):
+    Y así fue como enviamos a Nuestros mensajeros con las pruebas claras e hicimos descender con ellos e...
+  Formatted (407 chars):
+    Y así fue como enviamos a Nuestros mensajeros con las pruebas claras e hicimos descender con ellos e...
+
+Verse 027 - Similarity: 99.8%
+  Original (469 chars):
+    Luego, a continuación de ellos, hicimos que vinieran Nuestros mensajeros e hicimos venir a Isa, el h...
+  Formatted (471 chars):
+    Luego, a continuación de ellos, hicimos que vinieran Nuestros mensajeros e hicimos venir a Isa, el h...
+
+Chapter 058: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 99.8%
+  Original (254 chars):
+    Y quien no encuentre, que ayune dos meses consecutivos antes de tener relación, y quien no pueda que...
+  Formatted (255 chars):
+    Y quien no encuentre, que ayune dos meses consecutivos antes de tener relación, y quien no pueda que...
+
+Verse 008 - Similarity: 99.8%
+  Original (419 chars):
+    ¿Qué te parecen ésos a los que se les había prohibido hablar en secreto y sin embargo volvieron a ha...
+  Formatted (421 chars):
+    ¿Qué te parecen ésos a los que se les había prohibido hablar en secreto y sin embargo volvieron a ha...
+
+Verse 022 - Similarity: 99.9%
+  Original (515 chars):
+    No encontraréis a nadie que creyendo en Allah y en el Último Día sienta afecto por quien se opone a ...
+  Formatted (516 chars):
+    No encontraréis a nadie que creyendo en Allah y en el Último Día sienta afecto por quien se opone a ...
+
+Chapter 059: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.9%
+  Original (381 chars):
+    Lo que Allah le dio a Su mensajero en calidad de botín*, procedente de los habitantes de las aldeas,...
+  Formatted (382 chars):
+    Lo que Allah le dio a Su mensajero en calidad de botín*, procedente de los habitantes de las aldeas,...
+
+Verse 011 - Similarity: 99.8%
+  Original (301 chars):
+    ¿Acaso no han visto cómo los hipócritas les decían a sus hermanos, los que de la gente del Libro se ...
+  Formatted (302 chars):
+    ¿Acaso no han visto cómo los hipócritas les decían a sus hermanos, los que de la gente del Libro se ...
+
+Verse 014 - Similarity: 99.8%
+  Original (222 chars):
+    No combatirán juntos contra vosotros a no ser desde aldeas fortificadas o detrás de murallas.Entre e...
+  Formatted (223 chars):
+    No combatirán juntos contra vosotros a no ser desde aldeas fortificadas o detrás de murallas.Entre e...
+
+Verse 021 - Similarity: 99.8%
+  Original (222 chars):
+    Si le hubiéramos hecho descender este Corán a una montaña, la habrías visto humillada y partida en d...
+  Formatted (223 chars):
+    Si le hubiéramos hecho descender este Corán a una montaña, la habrías visto humillada y partida en d...
+
+Chapter 060: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 99.8%
+  Original (488 chars):
+    En Ibrahim y en los que con él estaban tenéis un hermoso ejemplo, cuando le dijeron a su gente: No r...
+  Formatted (490 chars):
+    En Ibrahim y en los que con él estaban tenéis un hermoso ejemplo, cuando le dijeron a su gente: No r...
+
+Verse 009 - Similarity: 99.8%
+  Original (243 chars):
+    Allah sólo os prohibe que toméis por amigos aliados a los que os hayan combatido a causa de vuestra ...
+  Formatted (244 chars):
+    Allah sólo os prohibe que toméis por amigos aliados a los que os hayan combatido a causa de vuestra ...
+
+Verse 011 - Similarity: 99.8%
+  Original (206 chars):
+    Y si alguna de vuestras esposas huye hacia los incrédulos y conseguís algún botín, dadles a aquéllos...
+  Formatted (207 chars):
+    Y si alguna de vuestras esposas huye hacia los incrédulos y conseguís algún botín, dadles a aquéllos...
+
+Chapter 063: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 008 - Similarity: 99.7%
+  Original (166 chars):
+    Dicen: Si regresamos a Medina, los más poderosos expulsarán a los más débiles.De Allah es el poder y...
+  Formatted (167 chars):
+    Dicen: Si regresamos a Medina, los más poderosos expulsarán a los más débiles.De Al lah es el poder ...
+
+Chapter 065: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 99.8%
+  Original (305 chars):
+    Y aquellas de vuestras mujeres que hayan llegado a la menopausia, si dudáis de su período de espera,...
+  Formatted (306 chars):
+    Y aquellas de vuestras mujeres que hayan llegado a la menopausia, si dudáis de su período de espera,...
+
+Verse 011 - Similarity: 99.8%
+  Original (324 chars):
+    Un Mensajero que os lee los signos de Allah clarificados, para sacar a los que creen y practican las...
+  Formatted (325 chars):
+    Un Mensajero que os lee los signos de Allah clarificados, para sacar a los que creen y practican las...
+
+Verse 012 - Similarity: 99.8%
+  Original (208 chars):
+    Allah es Quien ha creado los siete cielos y otro tanto de tierra.La orden desciende a través de ello...
+  Formatted (209 chars):
+    Allah es Quien ha creado los siete cielos y otro tanto de tierra.La orden desciende a través de ello...
+
+Chapter 073: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 020 - Similarity: 99.8%
+  Original (770 chars):
+    Tu Señor sabe que permaneces por la noche rezando durante algo menos de dos tercios o durante la mit...
+  Formatted (773 chars):
+    Tu Señor sabe que permaneces por la noche rezando durante algo menos de dos tercios o durante la mit...
+
+Chapter 074: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 031 - Similarity: 99.8%
+  Original (571 chars):
+    No hemos designado como encargados del Fuego sino a ángeles cuyo número hemos hecho una tribulación ...
+  Formatted (573 chars):
+    No hemos designado como encargados del Fuego sino a ángeles cuyo número hemos hecho una tribulación ...

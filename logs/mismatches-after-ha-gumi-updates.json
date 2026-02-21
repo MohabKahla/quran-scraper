@@ -1,0 +1,1350 @@
+{
+  "summary": {
+    "languages_checked": 1,
+    "languages_with_issues": 1,
+    "languages_perfect": 0,
+    "total_mismatches": 134
+  },
+  "mismatches": [
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 30,
+      "original_text": "Kuma a lõkacin da Ubangijinka Ya ce ga malã'iku: \"Lalle ne, Ni Mai sanya wani halĩfa ne a cikin ƙasa,\" suka ce: \"Ashe, zã Ka sanya a cikinta, wanda zai yi ɓarna a cikinta, kuma mu, muna yi maka tasbihi tare da gõde maka, kuma muna tsarkakewa gareka\" Ya ce: \"Lalle ne, Ni Na san abin da ba ku sani ba.\"",
+      "formatted_text": "Kuma a lõkacin da Ubangijinka Ya ce ga malã'iku: \"Lalle ne, Ni Mai sanya wani halĩfa ne a cikin ƙasa,\" suka ce: \"Ashe, zã Ka sanya a cikinta, wanda za i yi ɓarna a cikinta, kuma mu, muna yi maka tasbihi tare da gõde maka, kuma muna tsarkakewa gareka\" Ya ce: \"Lalle ne, Ni Na san abin da ba ku sani ba.\"",
+      "similarity": 0.9983416252072969,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 61,
+      "original_text": "Kuma a lõkacin da kuka ce: \"Yã Mũsã! Bã zã mu yi haƙuri ba a kan abinci guda. Sai ka rõƙa mana Ubangijinka Ya fitar mana daga abin da ƙasa take tsirarwa daga ganyenta, dumanta, da alkamarta da albasarta. Ya ce: \"Kuna nẽman musanya abin da yake mafi ƙasƙanci da wanda yake mafi alhẽri? Ku sauka wani birni (daga cikin birane), lalle ne, kuna da abin da kuka rõƙa. \"Kuma Muka dõka musu walãƙanci da talauci. Kuma suka kõma da wani fushi daga Allah. Wancan sabõda lalle su, sun kasance suna kãfirta da ãyõyin Allah, kuma suna kashe Aannabãwa, bãda hakki ba. Wancan, sabõda sãɓawarsu ne, kuma sun kasance suna ƙẽtarewar haddi.",
+      "formatted_text": "Kuma a lõkacin da kuka ce: \"Yã Mũsã! Bã zã mu yi haƙuri ba a kan abinci guda. Sai ka rõƙa mana Ubangijinka Ya fitar mana daga abin da ƙasa take tsirarwa daga ganyenta, dumanta, da alkamarta da albasarta. Ya ce: \"Kuna nẽman musanya abin da yake mafi ƙasƙanci da wanda yake mafi alhẽri? Ku sauka wani birni (daga cikin birane), lalle ne, kuna da abin da kuka rõƙa. Kuma Muka dõka musu walãƙanci da talauci. Kuma suka kõma da wani fushi daga Allah. Wancan sabõda lalle su, sun kasance suna kãfirta da ãyõyin Allah, kuma suna kashe Aannabãwa, bãda hakki ba. Wancan, sabõda sãɓawarsu ne, kuma sun kasance suna ƙẽtarewar haddi.",
+      "similarity": 0.999195494770716,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 76,
+      "original_text": "Kuma idan sun haɗu da waɗanda suka yi ĩmãni sukan ce: \"Mun yi ĩmãni,\" kuma idan sãshensu ya wõfinta zuwa ga sãshe, sukan ce: \"Shin, kuna yi musu magana da abin da Allah Ya buɗa muku ne dõmin su yi muku hujja da shi a wurin Ubangijinku?\" Shin fa, bã ku hankalta?",
+      "formatted_text": "Kuma idan sun haɗu da waɗanda suka yi ĩmãni sukan ce: \"Mun yi ĩmãni,\" kuma idan sãshensu ya wõfinta zuwa ga sãshe, sukan ce: \"Shin , kuna yi musu magana da abin da Allah Ya buɗa muku ne dõmin su yi muku hujja da shi a wurin Ubangijinku?\" Shin fa, bã ku hankalta?",
+      "similarity": 0.9980879541108987,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 80,
+      "original_text": "Kuma suka ce: \"Wuta bã zã ta shãfe mu ba, fãce, 'yan kwãnuka ƙidãyayyu.\"Ka ce: \"Ashe kun riƙi wani alkawari a wurin Allah, sa'an nan Allah ba zai sãɓa wa alkawarinSa ba ko kuwa kuna faɗin abin da ba ku sani ba bisa ga Allah?\"",
+      "formatted_text": "Kuma suka ce: \"Wuta bã zã ta shãfe mu ba, fãce, 'yan kwãnuka ƙidãyayyu.\" Ka ce: \"Ashe kun riƙi wani alkawari a wurin Allah, sa'an nan Allah ba zai sãɓa wa alkawarinSa ba ko kuwa kuna faɗin abin da ba ku sani ba bisa ga Allah?\"",
+      "similarity": 0.9977827050997783,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 83,
+      "original_text": "Kuma a lõkacin da Muka karɓi alkawarin Bani-Isrã'ĩla: \"Kada ku bauta wa kõwa fãce Allah, kuma ga mahaifa ku kyautata, da mai zumunta da marãyu da matalauta, kuma ku faɗi magana mai kyau zuwa ga mutãne, kuma ku tsayar da salla, kuma ku bãyar da zakka, sa'an nan kuka jũya bãya, fãce kaɗan daga gare ku, alhãli kuwa kuna mãsu bijirẽwa.",
+      "formatted_text": "Kuma a lõkacin da Muka karɓi alkawarin Bani-Isrã'ĩla: \"Kada ku bauta wa kõwa fãce Allah, kuma ga mahaifa ku kyautata, da mai zumunta da marãyu da matalauta, kuma ku f aɗi magana mai kyau zuwa ga mutãne, kuma ku tsayar da salla, kuma ku bãyar da zakka, sa'an nan kuka jũya bãya, fãce kaɗan daga gare ku, alhãli kuwa kuna mãsu bijirẽwa.",
+      "similarity": 0.9985007496251874,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 133,
+      "original_text": "Ko kun kasance halarce a lõkacin da mutuwa ta halarci Ya'aƙũbu, a lõkacin da ya ce wa ɗiyansa: \"Mẽne ne zã ku bauta wa daga bãyãna?\" Suka ce: \"Muna bauta wa Abin bautawarka kuma Abin bautawar ubanninka lbrãhĩm da lsmã'ĩla da Is'hãƙa, Ubangiji Guda, kuma mu a gare Shi mãsu miƙa wuya ne.\"",
+      "formatted_text": "Ko kun kasance halarce a lõkacin da mutuwa ta halarci Ya'aƙũbu, a lõkacin da ya ce wa ɗiyansa: \"Mẽne ne zã ku bauta wa daga bãyãna?\" Suka ce: \" Muna bauta wa Abin bautawarka kuma Abin bautawar ubanninka lbrãhĩm da lsmã'ĩla da Is'hãƙa, Ubangiji Guda, kuma mu a gare Shi mãsu miƙa wuya ne.\"",
+      "similarity": 0.9982608695652174,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 136,
+      "original_text": "Ku ce: \"Mun yi ĩmãni da Allah, da abin da aka saukar zuwa gare mu, da abin da aka saukar zuwa ga Ibrãhĩm da Ismã'ĩla da Is'hãka da Ya'aƙũbu da jĩkõki, da abin da aka bai wa Mũsã da Ĩsã, da abin da aka bai wa annabãwa daga Ubangijinsu, bã mu rarrabẽwa a tsakãnin kõwa daga gare su, kuma mu, a gare Shi, mãsu miƙa wuya ne.\"",
+      "formatted_text": "Ku ce: \"Mun yi ĩmãni da Allah, da abin da aka saukar zuwa gare mu, da abin da aka saukar zuwa ga Ibrãhĩm da Ismã'ĩla da Is'hãka da Ya'aƙũbu da jĩkõki, da abin d a aka bai wa Mũsã da Ĩsã, da abin da aka bai wa annabãwa daga Ubangijinsu, bã mu rarrabẽwa a tsakãnin kõwa daga gare su, kuma mu, a gare Shi, mãsu miƙa wuya ne.\"",
+      "similarity": 0.9984447900466563,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 150,
+      "original_text": "Kuma daga inda ka fita, to, ka jũyar da fuskarka a wajen Masallãci Tsararre kuma inda kuke duka, to, ku jũyar da fuskõkinku a wajensa, dõmin kada wata hujja ta kasance ga mutãne a kanku, fãce waɗanda suka yi zãlunci daga gare su. Sabõda haka kada ku ji tsõronsu kuma ku ji tsõrõNa kuma dõmin In cika ni'imaTa a kanku, kuma tsammãninku zã ku shiryu.",
+      "formatted_text": "Kuma daga inda ka fita to, ka jũyar da fuskarka a wajen Masallãci Tsararre. Kuma inda kuke duka, to, ku jũyar da fuskõkinku a wajensa, dõmin kada wata hujja ta kasance ga mutãne a kanku, fãce waɗanda suka yi zãlunci daga gare su. Sabõda haka kada ku ji tsõronsu kuma ku ji tsõrõNa, kuma dõmin In cika ni'imaTa a kanku, kuma tsammãninku zã ku shiryu. ,",
+      "similarity": 0.9871244635193133,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 159,
+      "original_text": "Lalle ne waɗanda suke ɓõyẽwar abin da Allah Ya saukar da ga hujjõji bayyanannu, da shiriya, daga bãyan Mun bayyana shi ga mutãne, a cikin Littãfi (Alƙur'ãni), waɗannan Allah Yana la'anar su, kuma mãsu la'ana suna la'anar su.",
+      "formatted_text": "Lalle ne waɗanda suke ɓõyẽwar abin da Allah Ya saukar da ga hujjõji bayyanannu, da shiriya, daga bãyan Mun bayya na shi ga mutãne, a cikin Littãfi (Alƙur'ãni), waɗannan Allah Yana la'anar su, kuma mãsu la'ana suna la'anar su.",
+      "similarity": 0.9977728285077951,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 164,
+      "original_text": "Lalle ne, a cikin halittar sammai da ƙasa, da sãɓãwar dare da yini, da jirãge wadaɗnda suke gudana a cikin tẽku (ɗauke) da abin da yake amfãnin mutãne, da abin da Allah Ya saukar daga sama daga ruwa, sai Ya rãyar da ƙasa da shi a bãyan mutuwarta, kuma Ya wãtsa, a cikinta, daga dukan dabba, kuma da jũyãwar iskõki da girgije hõrarre a tsakãnin sama da ƙasa; haƙĩƙa, akwaiãyõyi ga mutãne mãsu yin hankali.",
+      "formatted_text": "Lalle ne, a cikin halittar sammai da ƙasa, da sãɓãwar dare da yini, da jirãge wadaɗnda suke gudana a cikin tẽku (ɗauke) da abin da yak e amfãnin mutãne, da abin da Allah Ya saukar daga sama daga ruwa, sai Ya rãyar da ƙasa da shi a bãyan mutuwarta, kuma Ya wãtsa, a ciki nta, daga dukan dabba, kuma da jũyãwar iskõki da girgije hõrarre a tsakãnin sama da ƙasa; haƙĩƙa, akwaiãyõyi ga mutãne mãsu yin hankali.",
+      "similarity": 0.9975308641975309,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 174,
+      "original_text": "Lalle ne waɗannan da suke ɓõye abin da Allah Ya saukar daga Littãfi, kuma suna sayen kuɗi kaɗan da shi; waɗannan bã su cin kome a cikin cikkunansu fãce wuta, kuma Allah bã zai yi musu magana ba a Rãnar ¡iyãma, kuma bã zai tsarkake su ba, kuma suna da azãba mai raɗaɗi.",
+      "formatted_text": "Lalle ne waɗannan da suke ɓõye abin da Allah Ya saukar daga Littãfi, kuma suna sayen kuɗi kaɗan da shi; waɗannan bã su cin kome a ciki n cikkunansu fãce wuta, kuma Allah bã zai yi musu magana ba a Rãnar ¡iyãma, kuma bã zai tsarkake su ba, kuma suna da azãba mai raɗaɗi.",
+      "similarity": 0.9981378026070763,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 220,
+      "original_text": "A cikin dũniya da Lãhira. Kuma suna tambayar ka game da marãyu. Ka ce: \"Kyautatãwa gare su ne mafi alhẽri, kuma idan kun haɗa da su (wajen abinci), to, 'yan'uwanku ne; kuma Allah Yana sanin mai ɓãtãwa daga mai kyautatãwa. Kuma dã Allah Yã so, dã Ya tsananta muku. Lalle ne Allah Mabuwãyi ne, Mai hikima.",
+      "formatted_text": "A cikin dũniYã da Lãhira. kuma suna tambayar ka game da marãyu. Ka ce: \"Kyautatãwa gare sune ne mafi alhẽri, kuma idan kun haɗa da su (wajen abinci), to, 'yan'uwanku ne; Kuma Allah Yana sanin mai ɓãtãwa daga mai kyautatãwa. Kuma dã Allah ya so, dã Ya tsananta muku. Lalle Allah Mabuwãyi ne, Mai hikima. kuma Allah Yana sanin mai ɓãtãwa daga mai kyautatãwa. dã kuma Allah Yana sanin mai ɓãtãwa daga mai kyautatãwa. dã",
+      "similarity": 0.8178025034770514,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 247,
+      "original_text": "Kuma annabinsu ya ce musu: \"Lalle ne, Allah ya naɗa muku ¦ãlũta ya zama sarki.\" Suka ce: \"Yãya ne sarauta zã ta kasance a gare shi, a kanmu, alhãli kuwa mũ ne mafi cancanta da sarauta daga gare shi, kuma ba a bã shi wata wadata ba daga dũkiya?\" Ya ce: \"Lalle ne, Allah Yã zãɓe shi a kanku, kuma Ya ƙãra masa yalwa a cikin ilmi da jiki. Kuma Allah Yana bãyar da mulkinSa ga wanda Yake so, kuma Allah Mawadaci ne, Masani.",
+      "formatted_text": "Kuma annabinsu ya ce musu: \"Lalle ne, Allah ya naɗa muku ¦ãlũta ya zama sarki.\" Suka ce: \"Yãya ne sarauta zã ta kasance a gare shi, a kanmu , alhãli kuwa mũ ne mafi cancanta da sarauta daga gare shi, kuma ba a bã shi wata wadata ba daga dũkiya?\" Ya ce: \"Lalle ne, Allah Yã zãɓe s hi a kanku, kuma Ya ƙãra masa yalwa a cikin ilmi da jiki. Kuma Allah Yana bãyar da mulkinSa ga wanda Yake so, kuma Allah Mawadaci ne, Masani.",
+      "similarity": 0.9976190476190476,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 249,
+      "original_text": "A lõkacin da ¦ãlũta ya fita da rundunõnin, ya ce: \"Lalle ne Allah Mai jarrabarku ne da wani kõgi. To, wanda ya sha daga gare shi, to, ba shi daga gare ni, kuma wanda bai ɗanɗane shi ba to lalle ne shi, yana daga gare ni, fãce, wanda ya kamfata, kamfata guda da hannunsa.\" Sai suka sha daga gare shi, fãce kaɗan daga gare su. To, a lõkacin da (¦ãlũta) ya ƙẽtare shi, shi da waɗanda suka yi ĩmani tãre da shi, (sai waɗanda suka sha) suka ce: \"Babu ĩko a gare mu yau game da Jãlũta da rundunõninsa.\"Waɗanda suka tabbata cẽwa lalle sũ mãsu gamuwa ne da Allah, suka ce: \"Da yawa ƙungiya kaɗan ta rinjayi wata ƙungiya mai yawa da iznin Allah, kuma Allah Yana tãre da mãsu haƙuri.\"",
+      "formatted_text": "A lõkacin da ¦ãlũta ya fita da rundunõnin, ya ce: \"Lalle ne Allah Mai jarrabarku ne da wani kõgi. To, wanda ya sha daga gare shi, to, ba shi daga gare ni, kuma wanda ba i ɗanɗane shi ba to lalle ne shi, yana daga gare ni, fãce, wanda ya kamfata, kamfata guda da hannunsa.\" Sai suka sha daga gare shi, fãce kaɗan daga gare su. To, a lõkacin da (¦ãlũta) ya ƙẽtare shi, shi da waɗanda suka yi ĩmani tãre da shi, (sai waɗanda suka sha) suka ce: \"Babu ĩko a gare mu yau game da Jãlũta da rundunõninsa.\" Waɗanda suka tabbata cẽwa lalle sũ mãsu gamuwa ne da Allah, suka ce: \"Da yawa ƙungiya kaɗan ta rinjayi wata ƙungiya mai yawa da iznin Allah, kuma Allah Yana tãre da mãsu haƙuri.\"",
+      "similarity": 0.9985185185185185,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 260,
+      "original_text": "Kuma a lõkacin da Ibrãhĩm ya ce: \"Ya Ubangijina! Ka nũna mini yadda Kake rãyar da matattu.\" Ya ce: \"Shin, kuma ba ka yi ĩmãni ba?\" Ya ce: \"Na'am! Kuma amma dõmin zũciyãta, ta natsu.\" Ya ce: \"To ka riƙi huɗu daga tsuntsãye, ka karkatar da su zuwa gare ka, ka yanka su, sa'an nan kuma ka sanya juzu'i daga gare su a kan kõwane dũtse, sa'an nan kuma ka kira su zã su zo maka gudãne. Kuma ka sani cẽwa lalle Allah Mabuwãyi ne, Masani.\"",
+      "formatted_text": "Kuma a lõkacin da Ibrãhĩm ya ce: \"Ya Ubangijina! Ka nũna mini yadda Kake rãyar da matattu.\" Ya ce: \"Shin, kuma ba ka yi ĩmãni ba?\" Ya ce: \"Na'am!\" Kuma amma dõmin zũciyãta, ta natsu. Ya ce: \"To ka riƙi huɗu daga tsuntsãye, ka karkatar da su zuwa gare ka, ka yanka su, sa'an nan kuma ka sanya juzu'i daga gare su a kan kõwane dũtse, sa'an nan kuma ka kira su zã su zo maka gudãne. Kuma ka sani cẽwa lalle Allah Mabuwãyi ne, Masani.\" \" \"",
+      "similarity": 0.9930715935334873,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 262,
+      "original_text": "Waɗanda suke ciyar da dũkiyõyinsu a cikin hanyar Allah, sa'an nan kuma bã su biyar wa abin da suka ciyar ɗin da gõri, ko cũta, suna da sakamakonsu a wurin ubangijinsu, kuma bãbu tsõro a kansu, kuma ba su zama suna baƙin ciki ba.",
+      "formatted_text": "Waɗanda suke ciyar da dũkiyõyinsu a cikin hanyar Allah, sa'an nan kuma bã su biyar wa abin da suka ciyar ɗin da gõ ri, ko cũta, suna da sakamakonsu a wurin ubangijinsu, kuma bãbu tsõro a kansu, kuma ba su zama suna baƙin ciki ba.",
+      "similarity": 0.9978118161925602,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 265,
+      "original_text": "Kuma sifar waɗanda suke ciyar da dũkiyarsu dõmin nẽman yardõjin Allah, kuma da tabbatarwa daga kansu, kamar misãlin lambu ne a jigãwa wadda wãbilin hadari ya sãmu, sai ta bãyar da amfãninta ninki biyu To, idan wãbili bai sãme ta ba, sai yayyafi (ya ishe ta). Kuma Allah ga abin da kuke aikatawa Mai gani ne.",
+      "formatted_text": "Kuma sifar waɗanda suke ciyar da dũkiyarsu dõmin nẽman yardõjin Allah, kuma da tabbatarwa daga kansu, kamar misãlin lambu ne a jigãwa wadda wãbilin hadari ya sãmu, sai ta bãyar da amfãninta ninki biyu. To, idan wãbili bai sãme ta ba, sai yayyafi (ya ishe ta). Kuma Allah ga abin da kuke aikatawa Mai gani ne.",
+      "similarity": 0.9983739837398374,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 285,
+      "original_text": "Manzon Allah yã yi ĩmãni da abin da aka saukar zuwa gare shi daga Ubangijinsa, da mũminai. Kõwanensu yã yi ĩmãni da Allah, da mala'ikunSa, da littattafanSa, da manzanninSa. Bã mu rarrabẽwa a tsakãnin daya daga manzanninSa. Kuma (mũminai) suka ce: \"Mun ji kuma mun yi dã'a; (Muna nẽman) gãfararKa, yã Ubangijinmu, kuma zuwa a gare Ka makõma take \"",
+      "formatted_text": "Manzon Allah yã yi ĩmãni da abin da aka saukar zuwa gare shi daga Ubangijinsa, da mũminai. Kõwanensu yã yi ĩmãni da Allah, da mala'ikunSa, da littattafanSa, da manzanninSa. Bã mu rarrabẽwa a tsakãnin daya daga manzanninSa. Kuma (mũminai) suka ce: \"Mun ji kuma mun yi dã'a; (Muna nẽman) gãfararKa, yã Ubangijinmu, kuma zuwa a gare Ka makõma take.\"",
+      "similarity": 0.9971098265895953,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "002",
+      "language": "ha-gumi",
+      "verse": 286,
+      "original_text": "Allah ba Ya kallafa wa rai fãce ikon yinsa, yana da lãdar abin da ya tsirfanta, kuma a kansa akwai zunubin abin da ya yi ta aikatãwa: \"Yã Ubangijinmu! Kada Ka kãmã mu, idan mun yi mantuwa, ko kuma mun yi kuskure. Yã Ubangijinmu! Kuma kada Ka aza nauyi a kanmu, kamar yadda Ka aza shi a kan waɗanda suke a gabãninmu. Yã Ubangijinmu! Kada Ka sanya mu ɗaukar abin da bãbu ĩko gare mu da shi. Kuma Ka yãfe daga gare mu, kuma Ka gãfarta mana, kuma Ka yi jin ƙai gare mu. Kai ne Majibincinmu, sabõda haka Ka taimake mu a kan mutãnen nan kãfirai.\"",
+      "formatted_text": "Allah ba Ya kallafa wa rai fãce ikon yinsa, yana da lãdar abin da ya tsirfanta, kuma a kansa akwai zunubin abin da ya yi ta aikatãwa: \"Yã Ubangijinmu! Kada Ka kãmã mu, idan mun yi mantuwa, ko kuma mun yi kuskure. Yã Ubangijinmu! Kuma kada Ka aza nauyi a kanmu, kamar yadda Ka aza shi a kan waɗanda suke a gabãninmu. Yã Ubangijinmu! Kada Ka sanya mu ɗaukar abin da bãbu ĩko gare mu da shi. Kuma Ka yãfe daga gare mu, kuma Ka gãfarta mana, kuma Ka yi jin ƙai gare mu. Kai ne Majibincinmu, sabõda haka Ka taimake mu a kan mutãnen nan kãfirai.",
+      "similarity": 0.9990732159406858,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "003",
+      "language": "ha-gumi",
+      "verse": 36,
+      "original_text": "To, a lõkacin da ta haife ta sai ta ce: \"Ya Ubangijina! Lalle ne nĩ, nã haife ta mace!\"KumaAllah ne Mafi sanin abin da ta haifa.\" Kuma namiji bai zama kamar mace ba. Kuma nĩ nã yi mata suna Maryamu kuma lalle ne ni, ina nẽma mata tsari gare Ka, ita da zũriyarta daga Shaiɗan jẽfaffe.\"",
+      "formatted_text": "To, a lõkacin da ta haife ta sai ta ce:\"\" \"Ya Ubangijina! Lalle ne nĩ, nã haife ta mace!\"KumaAllah ne Mafi sanin abin da ta haifa. Kuma namiji bai zama kamar mace ba. Kuma nĩ nã yi mata suna Maryamu kuma lalle ne ni, ina nẽma mata tsari gare Ka, ita da zũriyarta daga Shaiɗan jẽfaffe. \" \" \"",
+      "similarity": 0.9825783972125436,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "003",
+      "language": "ha-gumi",
+      "verse": 91,
+      "original_text": "Lalle ne wanɗanda suka kãfirta, kuma suka mutu alhãli kuwa suna kãfirai to bã zã a karɓi cike da ƙasa na zinãri daga ɗayansu ba, kõ dã ya yi fansa da shi, waɗannan sunã da azãba mai raɗaɗi, kuma bã su da wasu mataimaka.",
+      "formatted_text": "Lalle ne wanɗanda suka kãfirta, kuma suka mutu alhãli kuwa suna kãfirai to bã zã a karɓi cike da ƙasa na zinã ri daga ɗayansu ba, kõ dã ya yi fansa da shi, waɗannan sunã da azãba mai raɗaɗi, kuma bã su da wasu mataimaka.",
+      "similarity": 0.9977220956719818,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "003",
+      "language": "ha-gumi",
+      "verse": 154,
+      "original_text": "Sa'an nan kuma (Allah) Ya saukar da wani aminci a gare ku daga bãyan baƙin cikin; gyangyaɗi yanã rufe wata ƙungiya daga gare ku, kuma wata ƙungiya, lalle ne, rãyukansu sun shagaltar da su, suna zaton abin da bã shi ne gaskiya ba, a game da Allah, irin zaton jahiliyya, suna cẽwa: \"Ko akwai waniabu a gare mu dai daga al'amarin?\" Ka ce, \"Lalle ne al'amari dukansa na Allah ne.\" Suna ɓõyẽwa a cikin zukatansu, abin da bã su bayyana shi a gare ka. Suna cẽwa: \"Da munã da wani abu daga al'amarin dã ba a kashe mu ba a nan.\"Ka ce: \"Kõ dã kun kasance a cikin gidãjenku, dã waɗanda aka rubũta musu kisa sun fita zuwa ga wurãren kwanciyarsu;\" kuma (wannan abu yã auku ne) dõmin Allah Ya jarrabi abin da ke cikin ƙirãzanku. Kuma dõmin Ya tsarkake abin da ke cikin zukãtanku. Allah Masani ne ga abin da ke cikin ƙirãza.",
+      "formatted_text": "Sa'an nan kuma (Allah) Ya saukar da wani aminci a gare ku daga bãyan baƙin cikin; gyangyaɗi yanã rufe wata ƙungiya daga gare ku, kuma wata ƙungiya, lalle ne, rãy ukansu sun shagaltar da su, suna zaton abin da bã shi ne gaskiya ba, a game da Allah, irin zaton jahiliyya, suna cẽwa: \"Ko akwai waniabu a gare mu dai daga al'am arin?\" Ka ce, \"Lalle ne al'amari dukansa na Allah ne.\" Suna ɓõyẽwa a cikin zukatansu, abin da bã su bayyana shi a gare ka. Suna cẽwa: \"Da munã da wani abu daga a l'amarin dã ba a kashe mu ba a nan.\"Ka ce: \"Kõ dã kun kasance a cikin gidãjenku, dã waɗanda aka rubũta musu kisa sun fita zuwa ga wurãren kwanciyarsu;\" kuma (wan nan abu yã auku ne) dõmin Allah Ya jarrabi abin da ke cikin ƙirãzanku. Kuma dõmin Ya tsarkake abin da ke cikin zukãtanku. Allah Masani ne ga abin da ke cikin ƙirãza.",
+      "similarity": 0.9975339087546239,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "003",
+      "language": "ha-gumi",
+      "verse": 164,
+      "original_text": "Lalle ne haƙĩƙa Allah Yã yi babbar falala a kan mũminai, dõmin Yã aika a cikinsu, Manzo daga ainihinsu yana karanta ãyõyinSa a gare su, kuma yana tsar kake su, kuma yana karantar da su Littãfi da hikima kuma lalle, sun kasance daga gabãni, haƙĩƙa suna cikin ɓata bayyananniya.",
+      "formatted_text": "Lalle ne haƙĩƙa Allah Yã yi babbar falala a kan mũminai, dõmin Yã aika a cikinsu, Manzo daga ainihinsu yana karanta ãyõyinSa a gare su,ku ma yana tsar kake su, kuma yana karantar da su Littãfi da hikima kuma lalle, sun kasance daga gabãni, haƙĩƙa suna cikin ɓata bayyananniya. ku kuma lalle, sun kasance daga gabãni, haƙĩƙa suna cikin ɓata bayyananniya",
+      "similarity": 0.8694267515923567,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "003",
+      "language": "ha-gumi",
+      "verse": 181,
+      "original_text": "Lalle ne, haƙĩƙa Allah Yã ji maganar waɗanda suka ce: \"Lalle ne, Allah faƙĩri ne, mũ ne wadãtattu.\" za mu rubũta abin da suka faɗa, da kisan da suka yi wa Annabãwa bã da wani haƙƙi ba kuma Mu ce: \"Ku ɗanɗani azãbar gõbara!",
+      "formatted_text": "Lalle ne, haƙĩƙa Allah Yã ji maganar waɗanda suka ce: \"Lalle ne, Allah faƙĩri ne, mũ ne wadãtattu.\" za mu rubũt a abin da suka faɗa, da kisan da suka yi wa Annabãwa bã da wani haƙƙi ba kuma Mu ce: \"Ku ɗanɗani azãbar gõbara!\"",
+      "similarity": 0.9955156950672646,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "004",
+      "language": "ha-gumi",
+      "verse": 17,
+      "original_text": "Abar da take tũba kawai ga Allah, ita ce ga waɗanda suke aikatãwar mugun aiki da jãhilci sa'an nan su tũba nan kusa to, waɗannan Allah Yanã karɓar tũ barsu kuma Allah Yã kasance Masani ne, Mai hikima.",
+      "formatted_text": "Abar da take tũba kawai ga Allah, ita ce ga waɗanda suke aikatãwar mugun aiki da jãhilci sa'an nan s u tũba nan kusa to, waɗannan Allah Yanã karɓar tũ barsu kuma Allah Yã kasance Masani ne, Mai hikima.",
+      "similarity": 0.9975062344139651,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "004",
+      "language": "ha-gumi",
+      "verse": 18,
+      "original_text": "Bã tũba ba ce ga waɗanda suke aikatãwar mũnanan ayyuka har idan mutuwa ta halarci ɗayansu ya ce: \"Lalle ne ni, na tũba yanzu,\" kuma bã tũba ba ce ga waɗanda suke mutuwa alhãli kuwa sunã kãfi rai Waɗannan mun yi musu tattalin wata azãba mai raɗaɗi",
+      "formatted_text": "Bã tũba ba ce ga waɗanda suke aikatãwar mũnanan ayyuka har idan mutuwa ta halarci ɗayansu ya ce: \"Lalle ne ni, na tũba yanz u,\" kuma bã tũba ba ce ga waɗanda suke mutuwa alhãli kuwa sunã kãfi rai Waɗannan mun yi musu tattalin wata azãba mai raɗaɗi",
+      "similarity": 0.9979716024340771,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "004",
+      "language": "ha-gumi",
+      "verse": 23,
+      "original_text": "An haramta muku uwãyenku, da 'yã'yanku, da 'yan'uwanku mãtã, da goggonninku, da innoninku, da 'yã'yan ɗan'uwa, da 'ya'yan 'yar'uwa, da uwãyenku waɗanan da suka shãyar da ku mãma, da 'yan'uwanku mãtã na shan mãma, da uwãyen mãtanku, da agõlolinku waɗanda suke cikin ɗãkunanku daga mãtanku, waɗanda kuka yi duhũli da su, kuma idan ba ku yi duhũli da sũ ba, to, bãbu laifi a kanku, da mãtan 'yã'yanku waɗanda, suke daga tsatsonku, kuma kada ku haɗa tsakanin 'yan'uwa biyu mãtã, fãce abin da ya shige. Lalle ne, Allah Yã kasance Mai gãfara ne Mai jin ƙai.",
+      "formatted_text": "An haramta muku uwãyenku, da 'yã'yanku, da 'yan'uwanku mãtã, da goggonninku, da innoninku, da 'yã'yan ɗan'uwa, da 'ya'yan 'yar'uwa, da uw ãyenku waɗanan da suka shãyar da ku mãma, da 'yan'uwanku mãtã na shan mãma, da uwãyen mãtanku, da agõlolinku waɗanda suke cikin ɗãkunanku daga mãtanku, waɗanda kuka yi duhũli da su, kuma idan ba ku yi duhũli da sũ ba, to, bãbu laifi a kanku, da mãtan 'yã'yanku waɗanda, suke daga tsatsonku, kuma kada ku haɗa tsakanin 'yan'uwa biyu mãtã, fãce abin da ya shige. Lalle ne, Allah Yã kasance Mai gãfara ne Mai jin ƙai.",
+      "similarity": 0.99909338168631,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "004",
+      "language": "ha-gumi",
+      "verse": 36,
+      "original_text": "Kuma ku bauta wa Allah kuma kada ku haɗa wani da Shi, kuma ga mahaifa ku yi kyautatãwa, kuma ga ma'abũcin zumunta da marãyu da matalauta, da maƙwabci ma'abũcin kusanta, da maƙwabci manĩsanci, da abõki a gẽfe da ɗan hanya, da abin da hannuwanku na dãma suka mallaka. Lalle ne Allah bã Ya son wanda ya kasance mai tãƙama, mai yawan alfahari.",
+      "formatted_text": "Kuma ku bauta wa Allah kuma kada ku haɗa wani da Shi, kuma ga mahaifa ku yi kyautatãwa, kuma ga ma'abũcin zumunta da marãyu da matalauta, da maƙwabci ma'abũcin kusanta, da maƙwabci manĩsanci, da abõki a gẽfe da ɗan hanya, da a bin da hannuwanku na dãma suka mallaka. Lalle ne Allah bã Ya son wanda ya kasance mai tãƙama, mai yawan alfahari.",
+      "similarity": 0.9985272459499264,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "004",
+      "language": "ha-gumi",
+      "verse": 46,
+      "original_text": "Daga waɗanda suka tũba (Yahũdu), akwai wasu sunã karkatar da magana daga wurãrenta suna cẽwa: \"Munjiya kuma mun ƙiya, kuma ka jiya a wani wurin jiyãwa, kuma rã'ina (da ma'anar 'ruɓaɓɓe'), ka tsare mu,\" dõmin karkatarwa da harsunansu, kuma dõmin sũkã a cikin addini. Kuma dã lalle sũ, sun ce: \"Mun jiya kuma mun yi ɗa'a, kuma ka saurãra kuma ka dãkata mana,\" haƙĩƙa, dã ya kasance mafi alhẽri a gare su, kuma mafi daidaita; amma Allah Yã la'anẽ su, sabõda kãfircinsu don haka bã zã su yi ĩmãni ba, sai kaɗan.",
+      "formatted_text": "Daga waɗanda suka tũba (Yahũdu), akwai wasu sunã karkatar da magana daga wurãrenta suna cẽwa: \"Munjiya kuma mun ƙiya, kuma ka jiya a wani wurin jiyãwa, kuma rã'ina (da ma'anar 'ruɓaɓɓe'), ka tsare mu, dõmin karkatarwa da harsunansu, kuma dõmin sũkã a cikin addini. Kuma dã lalle sũ, sun ce: \"Mun jiya kuma mun yi ɗa'a, kuma ka saurãra kuma ka dãkata mana,\" haƙĩƙa, dã ya kasance mafi alhẽri a gare su, kuma mafi daidaita; amma Allah Yã la'anẽ su, sabõda kãfircinsu don haka bã zã su yi ĩmãni ba, sai kaɗan.",
+      "similarity": 0.9990128331688055,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "004",
+      "language": "ha-gumi",
+      "verse": 57,
+      "original_text": "Kuma waɗanda suka yiĩmãni, kuma suka aikata ayyuka na ƙwarai, zã Mu shigar da su gidãjen Aljanna, (waɗanda) ƙõramu sunã gudãna daga ƙarƙashinsu, sunã dawwamammu a cikinsu har abada suna da, a cikinsu, mãtan aure mãsu tsarki, Kuma Munã shigar da su a wata inuwa matabbaciyar lumshi.",
+      "formatted_text": "Kuma waɗanda suka yiĩmãni, kuma suka aikata ayyuka na ƙwarai, zã Mu shigar da su gidãjen Aljanna, (waɗanda) ƙõramu sunã gudãna daga ƙarƙashi nsu, sunã dawwamammu a cikinsu har abada suna da, a cikinsu, mãtan aure mãsu tsarki, Kuma Munã shigar da su a wata inuwa matabbaciyar lumshi.",
+      "similarity": 0.9982238010657194,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "004",
+      "language": "ha-gumi",
+      "verse": 60,
+      "original_text": "Shin, ba ka gani ba, zuwa ga waɗanda suke riyãwar cẽwa sunã ĩmãni da abin da aka saukar zuwa gare ka da abin da aka saukar daga gabãninka, sunã nufin su kai ƙãra zuwa ga ¦ãgũtu alhãli kuwa, lalle ne, an umurce su da su kãfirta da shi, kuma Shaiɗan yanã nẽman ya ɓatar da su, ɓatarwa mai nĩsa.",
+      "formatted_text": "Shin, ba ka gani ba, zuwa ga waɗanda suke riyãwar cẽwa sunã ĩmãni da abin da aka saukar zuwa gare ka da abin da aka saukar daga gabãninka, sunã nu fin su kai ƙãra zuwa ga ¦ãgũtu alhãli kuwa, lalle ne, an umurce su da su kãfirta da shi, kuma Shaiɗan yanã nẽman ya ɓatar da su, ɓatarwa mai nĩsa.",
+      "similarity": 0.9982905982905983,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "004",
+      "language": "ha-gumi",
+      "verse": 77,
+      "original_text": "Shin, ba ka gani ba zuwa ga waɗanda aka ce musu: \"Ku kange hannuwanku, kuma ku tsayar da salla, kuma ku bãyar da zakka.\"? To a lõkacin da aka wajabta musu yãƙi sai ga wani ɓangare daga cikinsu sunã tsõron mutãne kamar tsõron Allah kõ kuwa mafi tsanani ga tsõron, kuma suka ce: \"Ya Ubangijinmu! Don me Ka wajabta yãƙi a kanmu? Me ya hana Ka jinkirta mana zuwa ga wani ajali na kusa?\"Ka ce: \"Jin dãɗin dũniya kaɗan ne, kuma Lãhira ce mafi alhẽri ga wanda ya yi taƙawa. Kuma bã a zãluntar ku da sĩlĩlin hancin gurtsun dabĩno!",
+      "formatted_text": "Shin, ba ka gani ba zuwa ga waɗanda aka ce musu: \"Ku kange hannuwanku, kuma ku tsayar da salla, kuma ku bãyar da zakka.\"? To a lõkacin da aka wajabta musu yãƙi sai ga wani ɓangare daga cikinsu sunã tsõron mutãne kamar tsõron Allah kõ kuwa mafi tsanani ga tsõron, kuma suka ce: \"Ya Ubangijinmu! Don me Ka wajabta yãƙi a kanmu? Me ya hana Ka jinkirta mana zuwa ga wani ajali na kusa?\" Ka ce: \"Jin dãɗin dũniya kaɗan ne, kuma Lãhira ce mafi alhẽri ga wanda ya yi taƙawa. Kuma bã a zãluntar ku da sĩlĩlin hancin gurtsun dabĩno!\"",
+      "similarity": 0.9980879541108987,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "004",
+      "language": "ha-gumi",
+      "verse": 127,
+      "original_text": "Sunã yi maka fatawa a cikin sha'anin mãtã. Ka ce: \"Allah Yanã bayyana fatawarku a cikin sha'aninsu, da abin da ake karantãwa a kanku a cikin Littãfi, a cikin sha'anin marãyun mãtã waɗanda ba ku bã su abin da aka rubũta musu (na gãdo) ba, kuma kunã kwaɗayin ku aurẽ su, da sha'anin waɗanda aka raunana daga yãra, da sha'anin tsayuwarku ga marãyu da ãdalci. Kuma abin da kuka aikata daga alhẽri, to, lalle ne, Allah Yã kasance Masani a gare shi.\"",
+      "formatted_text": "Sunã yi maka fatawa a cikin sha'anin mãtã. Ka ce: \"Allah Yanã bayyana fatawarku a cikin sha'aninsu, da abin da ake karantãwa a kanku a cikin Littãfi, a cikin sha'anin marãyun mãtã waɗanda ba ku bã su abin da aka rubũta musu (na gãdo) ba, kuma kunã kwaɗayin ku aurẽ su, da sha'anin waɗanda aka raunana daga yãra, da sha'anin tsayuwarku ga marãyu da ãdalci.\" Kuma abin da kuka aikata daga alhẽri, to, lalle ne, Allah Yã kasance Masani a gare shi. Kuma abin da kuka aikata daga alhẽri, to, lalle ne, Allah Yã kasance Masani a gare shi. Kuma abin da kuka aikata daga alhẽri, to, lalle ne, Allah Yã kasance Masani a gare shi.",
+      "similarity": 0.8327067669172933,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "004",
+      "language": "ha-gumi",
+      "verse": 128,
+      "original_text": "Kuma idan wata mace ta ji tsõron ƙiyo daga mijinta kõ kuwa bijirẽwa to, bãbu laifi a kansu su yi sulhu a tsakãninsu, sulhu (mai kyau) Kuma yin sulhu ne mafi alhẽri. Kuma an halartar wa rayũka yin rõwa. Kuma idan kun kyautata, kuma kuka yi taƙawa, to, lalle ne, Allah Yã kasance, ga abin da kuke aikatãwa, Masani.",
+      "formatted_text": "Kuma idan wata mace ta ji tsõron ƙiyo daga mijinta kõ kuwa bijirẽwa to, bãbu laifi a kansu su yi sulhu a tsakãninsu, sulhu (mai kyau) Kuma yin sulhu ne mafi alhẽri. Kuma idan kun kyautata, kuma kuka yi taƙawa, to, lalle ne, Allah Yã kasance, ga abin da kuke aikatãwa, Masani. an halartar wa rayũka yin rõwa. Kuma an halartar wa rayũka yin rõwa. Kuma",
+      "similarity": 0.8320726172465961,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "004",
+      "language": "ha-gumi",
+      "verse": 141,
+      "original_text": "Waɗanda suke jiran dãko game da ku; har idan wata nasara daga Allah ta kasance a gare ku, sai su ce: \"Ashe, ba mu kasance tãre da kũ ba?\" Kuma idan wani rabo ya sãmu ga kãfirai sai su ce: \"Ashe ba mu rinjãye ku ba, kuma muka tsare ku daga mũminai?\" To, Allah ne Yake yin hukunci tsakãninku a Rãnar ¡iyãma, kuma Allah bã zai sanya hanya ba ga kãfirai a kan mũminai.",
+      "formatted_text": "Waɗanda suke jiran dãko game da ku; har idan wata nasara daga Allah ta kasance a gare ku, sai su ce: \"Ashe, ba mu kasance tãre da kũ ba?\" Kuma idan wani rabo ya sãmu ga kãfirai sai su ce: \"Ashe ba mu rinjãye ku ba, kuma muka tsare ku daga mũm inai?\" To, Allah ne Yake yin hukunci tsakãninku a Rãnar ¡iyãma, kuma Allah bã zai sanya hanya ba ga kãfirai a kan mũminai.",
+      "similarity": 0.9986282578875172,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "004",
+      "language": "ha-gumi",
+      "verse": 146,
+      "original_text": "Sai waɗanda suka tũba, kuma suka gyãra, kuma suka nẽmi fakuwa ga Allah, kuma suka tsarkake addininsu dõmin Allah, to, waɗannan sunã tãre da mũminai, kuma Allah zai bai wa mũminai lãda mai girma.",
+      "formatted_text": "Sai waɗanda suka tũba, kuma suka gyãra, kuma suka nẽmi fakuwa ga Allah, kuma suka tsarkake addini nsu dõmin Allah, to, waɗannan sunã tãre da mũminai, kuma Allah zai bai wa mũminai lãda mai girma.",
+      "similarity": 0.9974293059125964,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "004",
+      "language": "ha-gumi",
+      "verse": 154,
+      "original_text": "Kuma Muka ɗaukaka dũtse sãma da su, sabõda alkawarinsu, kuma Muka ce musu: \"Ku shiga ƙõfar kunã mãsu tawãli'u,\" Kuma Muka ce musu: \"Kada ku ƙẽtare haddi a cikin Asabat,\" kuma Muka riƙi alkawari mai kauri daga gare su.\"",
+      "formatted_text": "Kuma Muka ɗaukaka dũtse sãma da su, sabõda alkawarinsu, kuma Muka ce musu: \"Ku shiga ƙõfar kunã mãsu tawãli'u ,\" Kuma Muka ce musu: \"Kada ku ƙẽtare haddi a cikin Asabat,\" kuma Muka riƙi alkawari mai kauri daga gare su. \"",
+      "similarity": 0.9908675799086758,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "005",
+      "language": "ha-gumi",
+      "verse": 5,
+      "original_text": "A yau an halatta muku abũbuwa mãsu dãɗi kuma abincin waɗanda aka bai wa Littãfi halal ne a gare ku, kuma abincinku halal ne a gare su, da mãtã mãsu kãmun kai daga muminai da mãtã 'yã'ya daga waɗanda aka bai wa Littãfi a gabãninku idan kun je musu da sadãkõkinsu, kuna mãsu yin aure, ba masu yin zina ba, kuma bã mãsu riƙon abõkai ba. Kuma wanda ya kãfirta da ĩmãni to, lalle ne aikinsa yã ɓãci, kuma shĩ, a cikin Lãhira, yanã daga mãsu hasãra.",
+      "formatted_text": "A yau an halatta muku abũbuwa mãsu dãɗi kuma abincwaɗanda aka bai wa Littãfi halal ne a gare ku, kuma abincin inku halal ne a gare su, da mãtã mãsu kãmun kai daga muminai da mãtã 'yã'ya daga waɗanda aka bai wa Littãfi a gabãninku idan kun je musu da sadãkõkinsu, kuna mãsu yin aure, ba masu yin zina ba, kuma bã mãsu riƙon abõkai ba. Kuma wanda ya kãfirta da ĩmãni to, lalle ne aikinsa yã ɓãci, kuma shĩ, a cikin Lãhira, yanã daga mãsu hasãra. in",
+      "similarity": 0.9898762654668166,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "005",
+      "language": "ha-gumi",
+      "verse": 7,
+      "original_text": "Kuma ku tuna ni'imar Allah akanku da alkawarinku wanda Ya ɗaure ku da shi, a lõkacin da kuka ce: \"Mun ji kuma mun yi ɗã'a Kuma ku bi Allah da taƙawa. Lalle ne Allah Masani ne ga abin da ke a cikin zukata.\"",
+      "formatted_text": "Kuma ku tuna ni'imar Allah akanku da alkawarinku wanda Ya ɗaure ku da shi, a lõkacin da kuka ce: \"Mun ji kuma mun yi ɗã'a. Kuma ku bi Allah da taƙawa. Lalle ne Allah Masani ne ga abin da ke a cikin zukata.\"",
+      "similarity": 0.9975669099756691,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "005",
+      "language": "ha-gumi",
+      "verse": 12,
+      "original_text": "Kuma lalle Allah Yã riƙi alkawarin Banĩ lsrã' ĩla kuma Muka ayyana wakilai gõma shã biyu daga gare su kuma Allah Ya ce: \"Lalle ne Nĩ, Inã tãre da ku, haƙĩƙa, idan kun tsayar da salla, kuma kun bãyar da zakka, kuma kun yi ĩmani da manzannĩNa, kuma kuka taimake su, kuma kuka bai wa Allah rance mai kyau, haƙĩƙa, Inã kankare laifukanku daga gare ku, kuma haƙĩƙa, Inã shigar da ku gidãjen Aljanna (waɗanda) ƙõramu sanã gudãna a ƙarƙashinsu, sa'an nan wanda ya kãfirta a bãyan wannan daga gare ku, to, lalle ne, yã ɓace daga tsakar hanya.\"",
+      "formatted_text": "Kuma lalle Allah Yã riƙi alkawarin Banĩ lsrã' ĩla kuma Muka ayyana wakilai gõma shã biyu daga gare su kuma Allah Ya ce: \"Lalle ne Nĩ, Inã tãre da ku, haƙĩƙa, idan kun tsayar da s alla, kuma kun bãyar da zakka, kuma kun yi ĩmani da manzannĩNa, kuma kuka taimake su, kuma kuka bai wa Allah rance mai kyau, haƙĩƙa, Inã kankare laifukanku daga gare ku, kuma haƙ ĩƙa, Inã shigar da ku gidãjen Aljanna (waɗanda) ƙõramu sanã gudãna a ƙarƙashinsu, sa'an nan wanda ya kãfirta a bãyan wannan daga gare ku, to, lalle ne, yã ɓace daga tsakar hanya.\"",
+      "similarity": 0.9981343283582089,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "005",
+      "language": "ha-gumi",
+      "verse": 17,
+      "original_text": "Lalle haƙĩƙa waɗanda suka ce: \"Lalle Allah Shĩ ne Masĩhu ɗan Maryama,\" sun kãfirta. Ka ce: \"To, wane ne ke iya mallakar wani abu daga Allah, idan Yã nufi Ya halakar da Masĩhu ɗanMaryama da uwarsa da wanda yake a cikin ƙasa gabã ɗaya?\" Kuma Allah ne da mallakar sammai da ƙasa da abin da ke a tsakãninsu, Yanã halitta abin da Yake so. Kuma Allah a kan dukkan kõme, Mai ĩkon yi ne.",
+      "formatted_text": "Lalle haƙĩƙa waɗanda suka ce: \"Lalle Allah Shĩ ne Masĩhu ɗan Maryama,\" sun kãfirta. Ka ce: \"To, wane ne ke iya mallakar wani abu daga Allah, idan Yã nufi Ya halakar da Masĩhu ɗan Maryama da uwarsa da wanda yake a cikin ƙasa gabã ɗaya?\" Kuma Allah ne da mallakar sammai da ƙasa da abin da ke a tsakãninsu, Yanã halitta abin da Yake so. Kuma Allah a kan dukkan kõme, Mai ĩkon yi ne.",
+      "similarity": 0.9986824769433466,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "005",
+      "language": "ha-gumi",
+      "verse": 41,
+      "original_text": "Yã kai Manzo! Kada waɗanda suke tseren gaugawa a cikin kãfirci su ɓãta maka rai, daga waɗanda suka ce: \"Mun yi ĩmãni\" da bãkunansu, alhãli zukatansu ba su yi ĩmãnin ba, kuma daga waɗanda suka tuba (watau Yahudu) mãsu yawan saurare ga wasu mutane na dabam waɗanda ba su je maka ba, sunã karkatar da zance daga bãyan wurarensa, sunã cewa: \"Idan an bã ku wannan, to, ku karɓa, kuma idan ba a bã ku shĩ ba, to, ku yi sauna.\"Kuma wanda Allah Ya yi nufin fitinarsa, to bã zã ka mallaka masa kõme ba, daga Allah. Waɗannan ne waɗanda Allah bai yi nufin Ya tsarkake zukãtansu ba. Sunã da kunya a cikin duniya, kuma sunã da wata azãba mai girma a cikin 1ãhira.",
+      "formatted_text": "Yã kai Manzo! Kada waɗanda suke tseren gaugawa a cikin kãfirci su ɓãta maka rai, daga waɗanda suka ce: \"Mun yi ĩmãni\" da bãkunansu, alhãli zukatansu ba su yi ĩmãnin ba, kuma daga waɗanda suka tuba (watau Yahudu) mãsu yawan saurare ga wasu mutane na dabam waɗanda ba su je maka ba, sunã karkatar da zance daga bãyan wurarensa, sunã cewa: \"Idan an bã ku wannan, to, ku karɓa, kuma idan ba a bã ku shĩ ba, to, ku yi sauna.\" Kuma wanda Allah Ya yi nufin fitinarsa, to bã zã ka mallaka masa kõme ba, daga Allah. Waɗannan ne waɗanda Allah bai yi nufin Ya tsarkake zukãtansu ba. Sunã da kunya a cikin duniya, kuma sunã da wata azãba mai girma a cikin 1ãhira.",
+      "similarity": 0.9992313604919293,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "005",
+      "language": "ha-gumi",
+      "verse": 97,
+      "original_text": "Allah Ya sanya Ka'aba ¦aki Tsararre, ma'aunin addini ga mutane, kuma Yã sanya watã Mai alfarma da hadaya da rãtayõyin Allah Yã san abin da yake a cikin sammai da abin da yake a cikin ƙasa, kuma cewa lalle Allah, ga dukkan, kõme, Masani ne.",
+      "formatted_text": "Allah Ya sanya Ka'aba ¦aki Tsararre, ma'aunin addini ga mutane, kuma Yã sanya watã Mai alfarma da hadaya da rãtayõyin A llah Yã san abin da yake a cikin sammai da abin da yake a cikin ƙasa, kuma cewa lalle Allah, ga dukkan, kõme, Masani ne.",
+      "similarity": 0.9979123173277662,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "005",
+      "language": "ha-gumi",
+      "verse": 103,
+      "original_text": "Kuma Allah bai sanya wata bahĩra ba, kuma haka sã'iba, kuma haka wasĩla, kuma haka hãmi, amma waɗanda suka kãfirta, su suke ƙirƙira ƙarya ga Allah, kuma mafi yawansu bã su hankalta.",
+      "formatted_text": "Kuma Allah bai sanya wata bahĩra ba, kuma haka sã'iba, kuma haka wasĩla, kuma haka hãmi, a mma waɗanda suka kãfirta, su suke ƙirƙira ƙarya ga Allah, kuma mafi yawansu bã su hankalta.",
+      "similarity": 0.9972451790633609,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "005",
+      "language": "ha-gumi",
+      "verse": 110,
+      "original_text": "A lõkacin da Allah Ya ce: \"Yã Ĩsã ɗan Maryama! Ka tuna ni'ima Ta a kanka, kuma a kan mahaifiyarka, a lõkacin da Na ƙarfafa ka da Rũhul ¡udusi, kanã yiwa mutãne magana a cikin shimfiɗar jariri, da kuma kanã dattijo. Kuma a lõkacin da Na sanar da kai rubutu da hikima da Attaura da Injĩla, kuma a lõkacin da kake yin halitta daga lãkã kamar surar tsuntsu da izinĩNa, sa'an nan ka hura a cikinta sai ta zama tsuntsu da izinĩNa, kuma kanã warkar da haifaffen makaho da kuturu, da izinĩNa, kuma a lõkacin da kake fitar da matattu da izinĩNa, kuma a lõkacin da Na kange Banĩ Isrã'ĩla daga gare ka, a lõkacin da ka je musu da hujjõji bayyanannu, sai waɗanda suka kãfirta daga cikinsu suka ce: 'Wannan bã kõme ba ne, fãce sihiri bayyananne.'",
+      "formatted_text": "A lõkacin da Allah Ya ce: \"Yã Ĩsã ɗan Maryama! Ka tuna ni'ima Ta a kanka, kuma a kan mahaifiyarka, a lõkacin da Na ƙarfafa ka da Rũhul ¡udusi, kan ã yiwa mutãne magana a cikin shimfiɗar jariri, da kuma kanã dattijo. Kuma a lõkacin da Na sanar da kai rubutu da hikima da Attaura da Injĩla, kuma a lõkacin da kake yin halitta daga lãkã kamar surar tsuntsu da izinĩNa, sa'an nan ka hura a cikinta sai ta zama tsuntsu da izinĩNa, kuma kanã war kar da haifaffen makaho da kuturu, da izinĩNa, kuma a lõkacin da kake fitar da matattu da izinĩNa, kuma a lõkacin da Na kange Banĩ Isrã'ĩla daga g are ka, a lõkacin da ka je musu da hujjõji bayyanannu, sai waɗanda suka kãfirta daga cikinsu suka ce: 'Wannan bã kõme ba ne, fãce sihiri bayyananne.'",
+      "similarity": 0.9979577944179714,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "005",
+      "language": "ha-gumi",
+      "verse": 117,
+      "original_text": "\"Ban faɗa musu ba fãce abin da Ka umurce ni da shi; watau: 'Ku bauta wa Allah Ubangijina kuma Ubangijinku;' kuma nã kasance mai shaida a kansu matuƙar nã dawwama a cikinsu, sa'an nan a lõkacin da Ka karɓi raina Kã kasance Kai ne mai tsaro a kansu, kuma Kai, a kan dukkan kõme, Halartacce ne.",
+      "formatted_text": "\"Ban faɗa musu ba fãce abin da Ka umurce ni da shi; watau: 'Ku bauta wa Allah Ubangijina kuma Ubangijinku;' kuma nã kasance mai shaida a kansu ma tuƙar nã dawwama a cikinsu, sa'an nan a lõkacin da Ka karɓi raina Kã kasance Kai ne mai tsaro a kansu, kuma Kai, a kan dukkan kõme, Halartacce ne.",
+      "similarity": 0.9982847341337907,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "006",
+      "language": "ha-gumi",
+      "verse": 46,
+      "original_text": "Ka ce: \"Shin, kun gani, idan Allah Ya riƙe jinku, da gannanku, kuma Ya sanya hãtimi a kan zukãtanku, wane abin bauttãwa ne, wanin Allah, zai jẽ muku da shi?\" Ka dũba yadda Muke sarrafaãyõyi, Sa'an nan kuma sũ, sunã finjirẽwa.",
+      "formatted_text": "Ka ce: \"Shin, kun gani, idan Allah Ya riƙe jinku, da gannanku, kuma Ya sanya hãtimi a kan zukãtanku, wane abin b auttãwa ne, wanin Allah, zai jẽ muku da shi?\" Ka dũba yadda Muke sarrafaãyõyi, Sa'an nan kuma sũ, sunã finjirẽwa.",
+      "similarity": 0.9977827050997783,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "006",
+      "language": "ha-gumi",
+      "verse": 59,
+      "original_text": "Kuma a wurinSa mabũdan gaibi suke, babu wanda yake sanin su fãce Shi, kuma Yanã sanin abin da ke a cikin tudu da ruwa, kuma wani ganye ba ya fãɗuwa, fãce Yã san shi, kuma bãbu wata ƙwãya a cikin duffan ƙasã, kuma babu ɗanye, kuma babu ƙẽƙasasshe, fãce yanã a cikin wani Littãfi mai bayyanãwa.",
+      "formatted_text": "Kuma a wurinSa mabũdan gaibi suke, babu wanda yake sanin su fãce Shi, kuma Yanã sanin abin da ke a cikin tudu da ruwa, kuma wani ganye ba ya fãɗuw a, fãce Yã san shi, kuma bãbu wata ƙwãya a cikin duffan ƙasã, kuma babu ɗanye, kuma babu ƙẽƙasasshe, fãce yanã a cikin wani Littãfi mai bayyanãwa.",
+      "similarity": 0.9982905982905983,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "006",
+      "language": "ha-gumi",
+      "verse": 65,
+      "original_text": "Ka ce: \"Shĩ ne Mai ĩko a kan Ya aika da wata azãba a kanku daga bisanku, kõ kuwa daga ƙarƙashin ƙafãfunku, kõ kuwa Ya gauraya ku ƙungiyõyi, kuma Ya ɗanɗanã wa sãshenku masĩfar sãshe.\" \"Ka dũba yadda Muke sarrafa ãyõyi, tsammãninsu sunã fahimta!\"",
+      "formatted_text": "Ka ce: \"Shĩ ne Mai ĩko a kan Ya aika da wata azãba a kanku daga bisanku, kõ kuwa daga ƙarƙashin ƙafãfunku, kõ kuwa Ya gaur aya ku ƙungiyõyi, kuma Ya ɗanɗanã wa sãshenku masĩfar sãshe.\" \"Ka dũba yadda Muke sarrafa ãyõyi, tsammãninsu sunã fahimta!\"",
+      "similarity": 0.9979633401221996,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "006",
+      "language": "ha-gumi",
+      "verse": 81,
+      "original_text": "\"Kuma yãyã nake jin tsõron abin da kuka yi shirki da shi, kuma ba ku tsõron cẽwa lalle ne kũ, kun yi shirki da Allah, abin da (Allah) bai saukar da wata hujja ba game da shi? To, wane ɓangare daga sãshen biyu ne mafi cancanta da aminci, idan kun kasance kunã sani?\"",
+      "formatted_text": "\"Kuma yãyã nake jin tsõron abin da kuka yi shirki da shi, kuma ba ku tsõron cẽwa lalle ne kũ, kun yi shirki da Allah, abin da (Allah) bai saukar da wata hujja ba game da shi?\" To, wane ɓangare daga sãshen biyu ne mafi cancanta da aminci, idan kun kasance kunã sani? \"",
+      "similarity": 0.9962406015037594,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "006",
+      "language": "ha-gumi",
+      "verse": 112,
+      "original_text": "Kuma kamar wancan ne Muka sanya wa kõwane Annabi maƙiyi; shaiɗãnun mutãne da aljannu, sãshensu yanã yin ishãra zuwa sãshe da ƙawãtaccen zance bisa ga rũɗi. Kuma dã Ubangijinka Yã so, dã ba su aikatã shi ba, don haka ka bar su da abin da, suke ƙirƙirãwa.",
+      "formatted_text": "Kuma kamar wancan ne Muka sanya wa kõwane Annabi maƙiyi; shaiɗãnun mutãne da aljannu, sãshensu yanã yin ishãra zuwa sãshe da ƙawãtaccen zance bisa ga rũɗi. Kuma dã Ubangijinka Yã so, dã ba su aikatã shi ba, don haka ka bar su da abin da suke ƙirƙirãwa. , ,",
+      "similarity": 0.9901768172888016,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "006",
+      "language": "ha-gumi",
+      "verse": 146,
+      "original_text": "Kuma a kan waɗanda suka tũba (Yahũdu) Mun haramta dukan mai akaifa, kuma daga shãnu da bisãshe Mun haramta musu kitsattsansu fãce abin da bãyukansu suka ɗauka, kõ kuwa kãyan ciki, kõ kuwa abin da ya garwaya da ƙashĩ wannan ne Muka sãka musu sabõda zãluncinsu, kuma Mu, haƙĩƙa, Mãsu gaskiya ne.",
+      "formatted_text": "Kuma a kan waɗanda suka tũba (Yahũdu) Mun haramta dukan mai akaifa, kuma daga shãnu da bisãshe Mu n haramta musu kitsattsansu fãce abin da bãyukansu suka ɗauka, kõ kuwa kãyan ciki, kõ kuwa abin d a ya garwaya da ƙashĩ wannan ne Muka sãka musu sabõda zãluncinsu, kuma Mu, haƙĩƙa, Mãsu gaskiya ne.",
+      "similarity": 0.9965986394557823,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "007",
+      "language": "ha-gumi",
+      "verse": 43,
+      "original_text": "Kuma Muka fitar da abin da yake a cikin ƙirãzansu, daga ƙiyayya, ƙõramu sunã gudãna daga ƙarƙashinsu, kuma suka ce: \"Gõdiya ta tabbata ga Allah, wanda Ya shiryar da mu ga wannan. Kuma ba mu kasance munã iya shiryuwa ba, bã dõmin Allah Ya shiryar da mu ba. Lalle ne haƙĩƙa, Manzannin Ubangjinmu, sun jẽ mana da gaskiya.\" Kuma aka kira su, cẽwa: \"Waccan Aljlnna an gãdar da ku ita, sabõda abin da kuka kasance kunã aikatãwa.\"",
+      "formatted_text": "Kuma Muka fitar da abin da yake a cikin ƙirãzansu, daga ƙiyayya, ƙõramu sunã gudãna daga ƙarƙashinsu, kuma suka ce: \"Gõdiya ta tabbata ga Allah, wanda Ya shiryar da mu ga wannan. Kuma ba mu kasance munã iya shiryuwa ba, bã dõmin Allah Ya shiryar da mu ba.\" Lalle ne haƙĩƙa, Manzannin Ubangjinmu, sun jẽ mana da gaskiya.\" Kuma aka kira su, cẽwa: \"Waccan Aljlnna an gãdar da ku ita, sabõda abin da kuka kasance kunã aikatãwa.\"",
+      "similarity": 0.9988193624557261,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "007",
+      "language": "ha-gumi",
+      "verse": 46,
+      "original_text": "Kuma a tsakãninsu akwai wani shãmaki, kuma a kan A'arãf akwai wasu maza sunã sanin kõwa da alãmarsu; Kuma suka kirãyi abõkan Aljamia cẽwa: \"Aminci ya tabbata a kanku: \"Ba su shige ta ba, alhãli kuwa sũ, sunã tsammãni.",
+      "formatted_text": "Kuma a tsakãninsu akwai wani shãmaki, kuma a kan A'arãf akwai wasu maza sunã sanin kõwa da alãmarsu; Kuma su ka kirãyi abõkan Aljamia cẽwa: \"Aminci ya tabbata a kanku: \"Ba su shige ta ba, alhãli kuwa sũ, sunã tsammãni.",
+      "similarity": 0.9977011494252873,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "007",
+      "language": "ha-gumi",
+      "verse": 51,
+      "original_text": "\"Waɗanda suka riƙi addininsu abin shagala da wãsa, kuma rãyuwar dũniya ta rũɗe su.\" To, a yau Munã mantãwa da su, kamar yadda suka manta da haɗuwa da yininsu wannan, da kuma abin da suka kasance da ãyoyinMu sunã musu.",
+      "formatted_text": "\"Waɗanda suka riƙi addininsu abin shagala da wãsa, kuma rãyuwar dũniya ta rũɗe su.\" To, a yau Munã mantãwa d a su, kamar yadda suka manta da haɗuwa da yininsu wannan, da kuma abin da suka kasance da ãyoyinMu sunã musu.",
+      "similarity": 0.9977011494252873,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "007",
+      "language": "ha-gumi",
+      "verse": 53,
+      "original_text": "Shin, sunã jira, fãce fassararsa, a rãnar da fassararsa take zuwa, waɗanda saka manta da Shi daga gabãni, sunã cẽwa: \"Lalle ne, Manzannin Ubangijin mu svun jẽ da gaskiya. To, shin, munã da wasu mãsu cẽto, su yi cẽto gare mu, kõ kuwa a mayar da mũ, har mu aikata wanin wanda muka kasance muna aikatãwa?\" Lalle ne sun yi hasãrar rãyukansu, kuma abin da suka kasance sunã ƙĩrƙirawa yã ɓace musu.",
+      "formatted_text": "Shin, sunã jira, fãce fassararsa, a rãnar da fassararsa take zuwa, waɗanda saka manta da Shi daga gabãni, sunã cẽwa: \"Lalle ne, Ma nzannin Ubangijin mu svun jẽ da gaskiya. To, shin, munã da wasu mãsu cẽto, su yi cẽto gare mu, kõ kuwa a mayar da mũ, har mu aikat a wanin wanda muka kasance muna aikatãwa?\" Lalle ne sun yi hasãrar rãyukansu, kuma abin da suka kasance sunã ƙĩrƙirawa yã ɓace musu.",
+      "similarity": 0.9974554707379135,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "007",
+      "language": "ha-gumi",
+      "verse": 74,
+      "original_text": "\"Kuma ku tuna a lõkacin da Ya sanyã ku mamaya daga bãyan Ãdãwa kuma Ya zaunar da ku a cikin ƙasa, kunã riƙon manyan gidãje daga tuddanta, kuma kunã sassaƙar ɗãkuna daga duwãtsu; sabõda haka ku tuna ni'imõmin Allah, kuma kada ku yi ɓarna a cikin ƙasa kuna mãsu fasãdi.\"",
+      "formatted_text": "\"Kuma ku tuna a lõkacin da Ya sanyã ku mamaya daga bãyan Ãdãwa kuma Ya zaunar da ku a cikin ƙasa, kunã riƙon manyan gidãje daga tuddan ta, kuma kunã sassaƙar ɗãkuna daga duwãtsu; sabõda haka ku tuna ni'imõmin Allah, kuma kada ku yi ɓarna a cikin ƙasa kuna mãsu fasãdi.\"",
+      "similarity": 0.9981378026070763,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "007",
+      "language": "ha-gumi",
+      "verse": 75,
+      "original_text": "Mashawarta waɗanda suka yi girman kai daga mutanensa suka ce ga waɗanda aka raunanar, ga waɗanda suka yi ĩmãni daga gare su: \"Shin, kunã sanin cẽwaSãlihu manzo ne daga Ubangijinsa?\" Suka ce: \"Lalle ne mũ, da abin daaka aiko shi, mãsu ĩmãni ne.\"",
+      "formatted_text": "Mashawarta waɗanda suka yi girman kai daga mutanensa suka ce ga waɗanda aka raunanar, ga waɗanda suka yi ĩmãni daga gare s u: \"Shin, kunã sanin cẽwaSãlihu manzo ne daga Ubangijinsa?\" Suka ce: \"Lalle ne mũ, da abin daaka aiko shi, mãsu ĩmãni ne.\"",
+      "similarity": 0.9979550102249489,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "007",
+      "language": "ha-gumi",
+      "verse": 89,
+      "original_text": "\"Lalle ne mun ƙirƙira ƙarya ga Allah idan mun kõma a cikin addininku a bãyan lõkacin da Allah ya tsĩrar da mu daga gare shi, kuma bã ya kasancewa a gare mu, mu kõma a cikinsa, fãce idan Al1ah, Ubangijinmu Ya so. Ubangijinmu Yã yalwaci dukan kõme ga ilmi. Ga Allah muka dõgara. Yã Ubangijinmu! Ka yi hukunci a tsakãninmu da tsakanin mutãnenmu da gaskiya, kuma Kai ne Mafi alhẽrin mãsu hukunci.\"",
+      "formatted_text": "\"Lalle ne mun ƙirƙira ƙarya ga Allah idan mun kõma a cikin addininku a bãyan lõkacin da Allah ya tsĩrar da mu daga gare shi, kuma bã ya kasancewa a gare mu, mu kõma a cikinsa, fãce idan Al1ah, Ubangijinmu Ya so. Ubangijinmu Yã yalwaci dukan kõme ga ilmi. Ga Allah muka dõgara. Yã Ubangijinmu! Ka yi hukunci a tsakãninmu da tsakanin mutãnenmu da gaskiya, kuma Kai ne Mafi alhẽrin mãsu hukunci. \"",
+      "similarity": 0.9987293519695044,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "007",
+      "language": "ha-gumi",
+      "verse": 127,
+      "original_text": "Kuma mashawarta daga mutãnen Fir'auna suka ce: \"Shin, zã ka bar Mũsã da mutãnensa dõmin su yi ɓarna a cikin ƙasa, kuma ya bar ka, kai da gumãkanka?\" Ya ce: \"Zã mu yayyanka ɗiyansu maza kuma mu rãya mãtansu; kuma lalle ne mũ, a bisa gare su, marinjãya ne.\"",
+      "formatted_text": "Kuma mashawarta daga mutãnen Fir'auna suka ce: \"Shin, zã ka bar Mũsã da mutãnensa dõmin su yi ɓarna a cikin ƙasa, kuma ya bar k a, kai da gumãkanka?\" Ya ce: \"Zã mu yayyanka ɗiyansu maza kuma mu rãya mãtansu; kuma lalle ne mũ, a bisa gare su, marinjãya ne.\"",
+      "similarity": 0.9980430528375733,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "007",
+      "language": "ha-gumi",
+      "verse": 129,
+      "original_text": "Suka ce: \"An cũtar da mu daga gabãnin ka zõ mana, kuma daga bãyan da kã zõ mana.\" Ya ce: \"Akwai tsammãnin Ubangijinku, Ya halaka maƙiyanku, kuma Ya sanya ku, ku maye a cikin ƙasa, sa'an nan Ya dũba yadda kuke aikatãwa.\"",
+      "formatted_text": "Suka ce: \"An cũtar da mu daga gabãnin ka zõ mana, kuma daga bãyan da kã zõ mana.\" Ya ce: \"Akwai tsammãnin Uba ngijinku, Ya halaka maƙiyanku, kuma Ya sanya ku, ku maye a cikin ƙasa, sa'an nan Ya dũba yadda kuke aikatãwa.\"",
+      "similarity": 0.9977220956719818,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "007",
+      "language": "ha-gumi",
+      "verse": 134,
+      "original_text": "Kuma a lõkacin da masĩfa ta auku a kansu, sukan ce: \"Yã Mũsã! Ka rõƙa mana Ubangijinka, sabõda abin da Ya yi alkwari a wurinka, lalle ne idan ka kau da azãbar daga barinmu, haƙĩƙa Munã ĩmãni sabõda kai, kuma munã sakin Banĩ Isrã'ila tĩre da kai.\"",
+      "formatted_text": "Kuma a lõkacin da masĩfa ta auku a kansu, sukan ce: \"Yã Mũsã!\" Ka rõƙa mana Ubangijinka, sabõda abin da Ya yi alkwari a wurinka, lalle ne idan ka kau da azãbar daga barinmu, haƙĩƙa Munã ĩmãni sabõda kai, kuma munã sakin Banĩ Isrã'ila tĩre da kai. Ka rõƙa mana Ubangijinka, sabõda abin da Ya yi alkwari a wurinka, lalle ne idan ka kau da azãbar daga barinmu, haƙĩƙa Munã ĩmãni sabõda kai, kuma munã sakin Banĩ Isrã'ila tĩre da kai. Ka rõƙa mana Ubangijinka, sabõda abin da Ya yi alkwari a wurinka, lalle ne idan ka kau da azãbar daga barinmu, haƙĩƙa Munã ĩmãni sabõda kai, kuma munã sakin Banĩ Isrã'ila tĩre da kai.",
+      "similarity": 0.5697674418604651,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "007",
+      "language": "ha-gumi",
+      "verse": 138,
+      "original_text": "Kuma Muka ƙẽtarar da Banĩ Isra'ila ga tẽku, sai suka jẽ a kan wasu mutãne waɗanda sunã lizimta da ibãda a kan wasu gumãka, nãsu suka ce: \"Yã Mũsã! Ka sanya mana wani abin bautawa kamar yadda suke da abũbuwan bautãwa \" Ya ce: \"Lalle ne kũ, mutãne ne kunã jahilta.\"",
+      "formatted_text": "Kuma Muka ƙẽtarar da Banĩ Isra'ila ga tẽku, sai suka jẽ a kan wasu mutãne waɗanda sunã lizimta da ibãda a kan wasu gumãka, nãsu suka ce: \"Yã Mũsã!\" Ka sanya mana wani abin bautawa kamar yadda suke da abũbuwan bautãwa \" Ya ce: \"Lalle ne kũ, mutãne ne kunã jahilta.\"",
+      "similarity": 0.9981024667931688,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "007",
+      "language": "ha-gumi",
+      "verse": 156,
+      "original_text": "\"Kuma Ka rubũta mana alhẽri a cikin wannan dũniya, kuma a cikin Lãhira. Lalle ne mũ, mun tũba zuwa gare Ka.\" Ya ce: \"AzãbaTa Inã sãmu, da ita, wanda Nike so, kuma rahamaTa, ta yalwaci dukan kõme. Sa'an nan zã Ni rubũta ta ga waɗanda suke yin taƙawa, kuma sunã bãyar da zakka, da waɗanda suke, game da ãyõyinMu mũminai ne.\"",
+      "formatted_text": "\"Kuma Ka rubũta mana alhẽri a cikin wannan dũniya, kuma a cikin Lãhira. Lalle ne mũ, mun tũba zuwa gare Ka.\" Ya ce: \"AzãbaTa Inã sãmu, da ita, wanda Nike so, kuma rahamaTa, ta yalwaci dukan kõme. Sa'an nan zã Ni rubũta ta ga waɗanda suke yin taƙawa, kuma sunã bãyar da zakka, da waɗanda suke, game da ãyõyinMu mũminai ne. \"",
+      "similarity": 0.9984496124031008,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "007",
+      "language": "ha-gumi",
+      "verse": 157,
+      "original_text": "\"Waɗanda suke sunã bin Manzo, Annabi, Ummiyyi wanda suke sãmun sa rubũce a wurinsu, a cikin Attaura da Linjĩla.",
+      "formatted_text": "Waɗanda suke sunã bin Manzo, Annabi, Ummiyyi wanda suke sãmun sa rubũce a wurinsu, a cikin Attaura da Linjĩla. Yana umurtã su da abin da ya dace, yana kuma hana su daga abin da ba daidai ba. Yana halatta musu abubuwan da suka dace, yana kuma haramta musu abubuwan da ba su dace ba. \" \"",
+      "similarity": 0.5555555555555556,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "007",
+      "language": "ha-gumi",
+      "verse": 167,
+      "original_text": "Kuma a lõkacin da Ubangijinku Ya sanar, lalle ne, zã Ya aika a kansu (Yahũd), zuwa, Rãnar¡iyãma, wanda zai ɗanɗana musu mummunar azãba, lalle ne Ubangijinka, haƙĩƙa, Mai gaggawar uƙũba ne, kuma shĩ haƙĩƙa, Mai gãfara ne, Mai jin ƙai.",
+      "formatted_text": "Kuma a lõkacin da Ubangijinku Ya sanar, lalle ne, zã Ya aika a kansu (Yahũd), zuwa, Rãnar¡iyãma, wanda zai ɗanɗana m usu mummunar azãba, lalle ne Ubangijinka, haƙĩƙa, Mai gaggawar uƙũba ne, kuma shĩ haƙĩƙa, Mai gãfara ne, Mai jin ƙai.",
+      "similarity": 0.9978586723768736,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "007",
+      "language": "ha-gumi",
+      "verse": 169,
+      "original_text": "Sai wasu' yan bãya suka maye daga bãyansu, sun gaji Littãfin, sunã karɓar sifar wannan ƙasƙantacciya, sunã cẽwa: \"Zã a gãfarta mana. \"Iadan kuma wata sifa irinta ta zo, za su karɓe ta. Shin, ba a karɓi alkawarin Littãfi ba a kansu cẽwa kada su faɗa ga Allah, fãce gaskiya, alhãli kuwa sun karanta abin da yake a cikinsa, kuma Gidan Lãhira ne mafi alhẽriga wanda ya yi taƙawa? Shin, bã zã ku hankalta ba?",
+      "formatted_text": "Sai wasu' yan bãya suka maye daga bãyansu, sun gaji Littãfin, sunã karɓar sifar wannan ƙasƙantacciya, sunã cẽwa: \"Zã a gãfarta mana.\" Iadan kuma wata sifa irinta ta zo, za su karɓe ta. Shin, ba a karɓi alkawarin Littãfi ba a kansu cẽwa kada su faɗa ga Allah, fãce gaskiya, alhãli kuwa sun karanta abin da yake a cikinsa, kuma Gidan Lãhira ne mafi alhẽriga wanda ya yi taƙawa? Shin, bã zã ku hankalta ba?",
+      "similarity": 0.9975186104218362,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "007",
+      "language": "ha-gumi",
+      "verse": 176,
+      "original_text": "Kuma dã Mun so, da Mun ɗaukakã shi da su, kuma amma shĩ, ya nẽmi dawwama a cikin ƙasa, kuma ya bi son zũciyarsa. To, misãlinsa kamar misãlin kare ne, idan ka yi ɗauki a kansa ya yi lallage, kõ kuwa ka bar shi sai ya yi lallage, wannan ne misãlin mutãne waɗanda suka ƙaryata game da ãyõyinMu: Ka jẽranta karãtun lãbãrun; tsammãninsu sunã tunãni.",
+      "formatted_text": "Kuma dã Mun so, da Mun ɗaukakã shi da su, kuma amma shĩ, ya nẽmi dawwama a cikin ƙasa, kuma ya bi son zũciyarsa.T o, misãlinsa kamar misãlin kare ne, idan ka yi ɗauki a kansa ya yi lallage, kõ kuwa ka bar shi sai ya yi lallage, wannan ne misãlin mutãne waɗanda suka ƙaryata game da ãyõyinMu: Ka jẽranta karãtun lãbãrun; tsammãninsu sunã tunãni. T",
+      "similarity": 0.9942028985507246,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "007",
+      "language": "ha-gumi",
+      "verse": 187,
+      "original_text": "Sunã tambayar ka daga Sa'a, a yaushe tabbatarta take? Ka ce: \"Abin sani kawai, saninta a wurin Ubangijina yake. Bãbu mai bayyana ta ga lõkacinta fãce shĩ Tã yi nauyi a cikin sammai da ƙasa. Bã zã ta zo muku ba fãce kwatsam.\" sunã tambayar ka, kamar kai masani ne gare ta. Ka ce: \"Abin sani kawai, saninta a wurin Allah yake, kuma amma mafi yawan mutãne bã su sani.\"",
+      "formatted_text": "Sunã tambayar ka daga Sa'a, a yaushe tabbatarta take? Ka ce: \"Abin sani kawai, saninta a wurin Ubangijina yake. Bãbu mai bayyana ta ga lõkacinta fãce shĩ Tã yi nauyi a cikin sammai da ƙasa. Bã zã ta zo muku ba fãce kwatsam.\" sunã tambayar ka, kamar kai masani ne gare ta. Ka ce: \"Abin sani kawai, saninta a wurin Allah yake, kuma amma mafi yawan mutãne bã su sani. \"",
+      "similarity": 0.9986320109439124,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "008",
+      "language": "ha-gumi",
+      "verse": 1,
+      "original_text": "Suna tambayar ka ga ganĩma. ka ce: \"Ganĩma ta Allah daManzonSa ce. Sai ku bi Allah da taƙawa, kuma ku gyãra abin da yake a tsakãninku, kuma ku yi ɗã'a ga Allah da ManzonSa, idan kun kasance mũminai.\"",
+      "formatted_text": "Suna tambayar ka ga ganĩma. ka ce: \"Ganĩma ta Allah da ManzonSa ce. Sai ku bi Allah da taƙawa, kuma ku gyãra abin da yake a tsakãninku, kuma ku yi ɗã'a ga Allah da ManzonSa, idan kun kasance mũminai.\"",
+      "similarity": 0.9974937343358395,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "008",
+      "language": "ha-gumi",
+      "verse": 48,
+      "original_text": "Kuma a lõkacin da Shaiɗan ya ƙawãce musu ayyukansu, kuma ya ce: \"Bãbu marinjayi a gareku a yau daga mutãne, kuma nĩ maƙwabci ne gare ku.\" To, a lõkacin da ƙungiya biyu suka haɗu, ya kõma a kan digãdigansa, kuma ya ce: \"Lalle ne nĩ barrantacce ne daga gare ku! Nĩ inã ganin abin da bã ku gani; ni inã tsõron Allah: Kuma Allah Mai tsananin uƙũba ne.\"",
+      "formatted_text": "Kuma a lõkacin da Shaiɗan ya ƙawãce musu ayyukansu, kuma ya ce: \"Bãbu marinjayi a gareku a yau daga mutãne, kuma nĩ maƙwabci ne gare ku.\" To, a lõkacin da ƙungiya biyu suka haɗu, ya kõma a kan digãdigansa, kuma ya ce: \"Lalle ne nĩ b arrantacce ne daga gare ku! Nĩ inã ganin abin da bã ku gani; ni inã tsõron Allah: Kuma Allah Mai tsananin uƙũba ne.\"",
+      "similarity": 0.9985652797704447,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "008",
+      "language": "ha-gumi",
+      "verse": 60,
+      "original_text": "Kuma ku yi tattali, dõminsu, abin da kuka sãmi ĩkon yi na wani ƙarfi, kuma da ajiye dawaki, kunã tsoratarwa, game da shi, ga maƙiyin Allah kuma maƙiyinku da wasu, baicin su, ba ku san su ba, Allah ne Yake sanin su, kuma abin da kuka ciyar daga wani abu a cikin hanyar Allah, zã a cika muku sakamakonsa, kuma kũ ba a zãluntar ku.",
+      "formatted_text": "Kuma ku yi tattali, dõminsu, abin da kuka sãmi ĩkon yi na wani ƙarfi, kuma da ajiye dawaki, kunã tsoratarwa, game da shi, ga maƙiyin Allah kuma maƙiyinku da wasu, b aicin su, ba ku san su ba, Allah ne Yake sanin su, kuma abin da kuka ciyar daga wani abu a cikin hanyar Allah, zã a cika muku sakamakonsa, kuma kũ ba a zãluntar ku.",
+      "similarity": 0.9984779299847792,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "009",
+      "language": "ha-gumi",
+      "verse": 25,
+      "original_text": "Lalle ne, haƙĩƙa, Allah Yã taimake ku a cikin wurãre mãsu yawa, da Rãnar Hunainu, a lõkacin da yawanku ya bã ku sha'awa, sai bai amfãnar da ku da kõme ba, kuma ƙasa ta yi ƙunci a kanku da yalwarta, sa'an nan kuma kuka jũya kunã mãsu bãyar da bãya.",
+      "formatted_text": "Lalle ne, haƙĩƙa, Allah Yã taimake ku a cikin wurãre mãsu yawa, da Rãnar Hunainu, a lõkacin da yawanku ya bã ku sha'awa, sa i bai amfãnar da ku da kõme ba, kuma ƙasa ta yi ƙunci a kanku da yalwarta, sa'an nan kuma kuka jũya kunã mãsu bãyar da bãya.",
+      "similarity": 0.997979797979798,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "009",
+      "language": "ha-gumi",
+      "verse": 42,
+      "original_text": "Dã yã kasance wata siffar dũniya ce: makusanciya, da tafiya matsakaiciya, dã sun bĩ ka, kuma amma fagen yã yi musu nĩsa. Kuma zã su yi ta yin rantsuwa da Allah, \"Dã mun sãmi dãma, dã mun tafi tare da ku.\" Sunã halakar da kansu (da rantsuwar ƙarya) ne, kuma Allah Yanã sanin lalle, haƙĩƙa, sumaƙaryata ne.'",
+      "formatted_text": "Dã yã kasance wata siffar dũniya ce: makusanciya, da tafiya matsakaiciya, dã sun bĩ ka, kuma amma fagen yã yi musu nĩsa. Kuma zã su yi ta yin rantsuwa da Allah, \"Dã mun sãmi dãma, dã mun tafi tare da ku.\" Sunã halakar da kansu (da rantsuwar ƙarya) ne, kuma Allah Yanã sanin lalle, haƙĩƙa, sumaƙaryata ne. '",
+      "similarity": 0.9983633387888707,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "009",
+      "language": "ha-gumi",
+      "verse": 61,
+      "original_text": "Kuma daga cikinsu akwai waɗanda suke cũtar Annabi, kuma sunã cẽwa \"Shi kunne ne.\" Ka ce: \"Kunnen alhẽri gare ku, Yanã ĩmãni da Allah, kuma Yanã yarda da mũminai, kuma rahama ne ga waɗanda suka yi ĩmãni daga gare ku.\"Kuma waɗanda suke cũtar Manzon Allah sunã da azãba mai raɗaɗi.",
+      "formatted_text": "Kuma daga cikinsu akwai waɗanda suke cũtar Annabi, kuma sunã cẽwa \"Shi kunne ne.\" Ka ce: \"Ku nnen alhẽri gare ku, Yanã ĩmãni da Allah, kuma Yanã yarda da mũminai, kuma rahama ne ga waɗa nda suka yi ĩmãni daga gare ku.\" Kuma waɗanda suke cũtar Manzon Allah sunã da azãba mai raɗaɗi.",
+      "similarity": 0.9946332737030411,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "009",
+      "language": "ha-gumi",
+      "verse": 120,
+      "original_text": "Bã ya kasancẽwa ga mutãnen Madĩna da wanda yake a gẽfensu, daga ƙauyãwã, su sãba daga bin Manzon Allah, kuma kada su yi gudu da rãyukansu daga ransa. Wancan, sabõda ƙishirwa bã ta sãmun su, haka kuma wata wahala, haka kuma wata yunwa, a cikin hanyai Allah, kuma bã su tãkin wani matãki wanda yake takaitar da kãfirai kuma bã su sãmun wani sãmu daga maƙiyi fãce an rubuta musu da shi, lãdar aiki na ƙwarai. Lallai ne Allah bã Ya tõzarta lãdar mãsu kyautatãwa.",
+      "formatted_text": "Bã ya kasancẽwa ga mutãnen Madĩna da wanda yake a gẽfensu, daga ƙauyãwã, su sãba daga bin Manzon Allah, kuma kada su yi gudu da rãyukansu daga ransa. Wancan, sabõda ƙishirwa bã ta sãmun su, haka kuma wata wahala, haka kuma wata yunwa, a cikin hanyai Allah, kuma bã su tãkin wani matãki wanda yake takaitar da kãfirai. kuma bã su sãmun wani sãmu daga maƙiyi fãce an rubuta musu da shi, lãdar aiki na ƙwarai. Lallai ne Allah bã Ya tõzarta lãdar mãsu kyautatãwa.",
+      "similarity": 0.9989094874591058,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "010",
+      "language": "ha-gumi",
+      "verse": 2,
+      "original_text": "Shin, yã zama abin mãmaki ga mutãne dõmin Mun yi wahayi zuwa ga wani namiji daga gare su cẽwa, \"Ka yi gargaɗi ga mutãne kuma ka yi bushãra ga waɗanda suka yi ĩmãni da cẽwa: Lalle ne sunã da abin gabãtarwar gaskiya a wurin Ubangijinsu.\"Kãfirai suka ce: \"Lalle ne wannan, haƙĩƙa, masihirci ne bayyananne.\"",
+      "formatted_text": "Shin, yã zama abin mãmaki ga mutãne dõmin Mun yi wahayi zuwa ga wani namiji daga gare su cẽwa, \"Ka yi gargaɗi ga mutãne kuma ka yi bushãra ga waɗanda s uka yi ĩmãni da cẽwa: Lalle ne sunã da abin gabãtarwar gaskiya a wurin Ubangijinsu.\"Kãfirai suka ce: \"Lalle ne wannan, haƙĩƙa, masihirci ne bayyananne.\"",
+      "similarity": 0.9983525535420099,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "010",
+      "language": "ha-gumi",
+      "verse": 22,
+      "original_text": "Shĩ ne wanda Yake tafiyar da ku a cikin tudu da (kuma) tẽku, sai idan kun kasance a cikin jirãge, su gudãna tãre da su da iska mai dãɗi, kuma su yi farin ciki da ita, sai wata gũguwa ta je wa jirãgen, kuma tãguwar ruwa ta jẽ musu daga kõwane wuri, kuma su tabbata cẽwa sũ, an kẽwaye su, sai su kirãyi Allah, sunã mãsu tsarkake addini gare Shi, (sunã cẽwa): Lalle ne idanKa kuɓutar da mu daga wannan, haƙĩƙa munã kasancẽwa daga mãsu gõdiya.",
+      "formatted_text": "Shĩ ne wanda Yake tafiyar da ku a cikin tudu da (kuma) tẽku, sai idan kun kasance a cikin jirãge, su gudãna tãre da su da iska mai dãɗi, kuma su y i farin ciki da ita, sai wata gũguwa ta je wa jirãgen, kuma tãguwar ruwa ta jẽ musu daga kõwane wuri, kuma su tabbata cẽwa sũ, an kẽwaye su, sai s u kirãyi Allah, sunã mãsu tsarkake addini gare Shi, (sunã cẽwa): Lalle ne idanKa kuɓutar da mu daga wannan, haƙĩƙa munã kasancẽwa daga mãsu gõdiya.",
+      "similarity": 0.9977272727272727,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "010",
+      "language": "ha-gumi",
+      "verse": 24,
+      "original_text": "Abin sani kawai, misãlin rãyuwar dũniya kamar ruwa ne Muka saukar da shi daga sama, sa'an nan tsiron ƙasa ya garwaya da shi. Daga abin da mutãne da dabbõbi suke ci, har idan ƙasa ta riƙi zinãriyarta kuma ta yi ƙawa, kuma mutãnenta suka zaci cẽwa sũ ne mãsu ĩkon yi a kanta, sai umurninMu ya je mata da dare kõ kuma da rãna, sai Mu maishẽta girbabba kamar ba ta wadãta ba a jiya. Kamar wannan ne Muke rarrabe ãyõyi, daki-daki, ga mutãne waɗanda suke tunãni.",
+      "formatted_text": "Abin sani kawai, misãlin rãyuwar dũniya kamar ruwa ne Muka saukar da shi daga sama, sa'an nan tsiron ƙasa ya garwaya da shi. Daga abin da mutãne da dabbõbi suke ci, har idan ƙasa ta riƙi zinãriyarta kuma ta yi ƙawa, kuma mutãnenta suka zaci cẽwa sũ ne mãsu ĩkon yi a kanta, sai umurninMu ya je mata da dare kõ kuma da rãna. Sai Mu maishẽta girbabba kamar ba ta wadãta ba a jiya. Kamar wannan ne Muke rarrabe ãyõyi, daki-daki, ga mutãne waɗanda suke tunãni.",
+      "similarity": 0.993421052631579,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "010",
+      "language": "ha-gumi",
+      "verse": 28,
+      "original_text": "Kuma a rãnar da Muke tãra su gabã ɗaya, sa'an nan kuma Mu ce wa waɗanda suka yi shirki, \"Ku kãma matsayinku, kũ da abũbuwan shirkĩnku.\" Sa'an nan Mu rarrabe a tsakãninsu, kuma abũbuwan shirkinsu su ce: \"Bã mũ kuka kasance kunã bauta wa ba.\"",
+      "formatted_text": "Kuma a rãnar da Muke tãra su gabã ɗaya, sa'an nan kuma Mu ce wa waɗanda suka yi shirki, \"Ku kãma matsayinku, kũ da abũbu wan shirkĩnku.\" Sa'an nan Mu rarrabe a tsakãninsu, kuma abũbuwan shirkinsu su ce: \"Bã mũ kuka kasance kunã bauta wa ba.\"",
+      "similarity": 0.997920997920998,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "012",
+      "language": "ha-gumi",
+      "verse": 21,
+      "original_text": "Kuma wanda ya saye shi daga Masar ya ce wa mãtarsa, \"Ki girmama mazauninsa, akwai tsammãnin ya amfãne mu, kõ kuwa mu riƙe shi ɗã.\"Kuma kamar wancan ne Muka tabbatar ga Yũsufu, a cikin ƙasa kuma dõmin Mu sanar da shi daia fassarar lũbũru, kuma Allah ne Marinjãyi a kan al'amarinSa, kuma amma mafi yawan mutãne ba su sani ba.\"",
+      "formatted_text": "Kuma wanda ya saye shi daga Masar ya ce wa mãtarsa, \"Ki girmama mazauninsa, akwai tsammãnin ya amfãne mu, kõ kuwa mu riƙe shi ɗã.\" Kuma kamar wancan ne Muka tabbat ar ga Yũsufu, a cikin ƙasa kuma dõmin Mu sanar da shi daia fassarar lũbũru, kuma Allah ne Marinjãyi a kan al'amarinSa, kuma amma mafi yawan mutãne ba su sani ba. \"",
+      "similarity": 0.9953917050691244,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "012",
+      "language": "ha-gumi",
+      "verse": 65,
+      "original_text": "Kuma a lõkacin da suka bũɗe kãyansu, suka sãmi hajjarsu an mayar musu da ita, suka ce: \"Yã bãbanmu! Ba mu zãlunci! Wannan hajjarmu ce an mayar mana da ita, kuma mu nẽmo wa iyalinmu abinci, kuma mu kiyãye ɗan'uwanmu, kuma mu ƙãra awon kãyan rãƙumi guda, wancan awo ne mai sauki.\"",
+      "formatted_text": "Kuma a lõkacin da suka bũɗe kãyansu, suka sãmi hajjarsu an mayar musu da ita, suka ce: \"Yã bãbanmu! Ba mu zãlunci!\" Wannan hajjarmu ce an mayar mana da ita, kuma mu nẽmo wa iyalinmu abinci, kuma mu kiyãye ɗan'uwanmu, kuma mu ƙãra awon kãyan rãƙumi guda, wancan awo ne mai sauki. Wannan hajjarmu ce an mayar mana da ita, kuma mu nẽmo wa iyalinmu abinci, kuma mu kiyãye ɗan'uwanmu, kuma mu ƙãra awon kãyan rãƙumi guda, wancan awo ne mai sauki. Wannan hajjarmu ce an mayar mana da ita, kuma mu nẽmo wa iyalinmu abinci, kuma mu kiyãye ɗan'uwanmu, kuma mu ƙãra awon kãyan rãƙumi guda, wancan awo ne mai sauki.",
+      "similarity": 0.6281179138321995,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "012",
+      "language": "ha-gumi",
+      "verse": 66,
+      "original_text": "Ya ce: \"Bã zan sake shi tãre da kũ ba, sai kun kawo mini alkawarinku baga Allah, haƙĩƙa, kunã dawo mini da shi, sai fa idan an kẽwaye ku.\" To, a, lõkacinda suka yi mãsa alkawari, ya ce: \"Allah ne wakĩli a kan abin da muke faɗa.\"",
+      "formatted_text": "Ya ce: \"Bã zan sake shi tãre da kũ ba, sai kun kawo mini alkawarinku baga Allah, haƙĩƙa, kunã dawo mini da shi, sa i fa idan an kẽwaye ku.\" To, a, lõkacinda suka yi mãsa alkawari, ya ce: \"Allah ne wakĩli a kan abin da muke faɗa.\"",
+      "similarity": 0.9978118161925602,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "012",
+      "language": "ha-gumi",
+      "verse": 101,
+      "original_text": "\"Yã Ubangijina lalle ne Kã bã ni daga mulki, kuma Kã sanar da ni daga fassarar lãbaru. Ya Mahaliccin sammai da ƙasa! Kai ne Majiɓincĩna a dũniya da Lãhira Ka karɓi raina inã Musulmi, kuma Ka riskar da ni ga sãlihai.\"",
+      "formatted_text": "\"Yã Ubangijina lalle ne Kã bã ni daga mulki, kuma Kã sanar da ni daga fassarar lãbaru. Ya Mahaliccin sammai da ƙasa!\" Kai ne Majiɓincĩna a dũniya da Lãhira Ka karɓi raina inã Musulmi, kuma Ka riskar da ni ga sãlihai. \"",
+      "similarity": 0.9953917050691244,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "013",
+      "language": "ha-gumi",
+      "verse": 17,
+      "original_text": "Ya saukar da ruwa daga sama, sai magudanai suka gudãna da gwargwadonsu, Sa'an nan kõgi ya ɗauki kumfa mai ƙãruwa, kuma daga abin da suke zuga a kansa (azurfa ko zinari kõ ƙarfe) a cikin wuta dõmin nẽman ado kõ kuwa kãyan ɗãki akwai kumfa misãlinsa (kumfar ruwa). Kamar wancan ne Allah Yake bayyana gaskiya da ƙarya. To, amma kumfa, sai ya tafi ƙẽƙasasshe, kumaamma abin da yake amfãnin mutãne sai ya zauna a cikin ƙasa. Kamar wancan ne Allah Yake bayyana misãlai.",
+      "formatted_text": "Ya saukar da ruwa daga sama, sai magudanai suka gudãna da gwargwadonsu, Sa'an nan kõgi ya ɗauki kumfa mai ƙãruwa, kuma daga abin da suke zuga a kansa (azurfa ko zinari kõ ƙarfe) a cikin wuta dõmin nẽman ado kõ kuwa kãyan ɗãki akwai kumfa misãlinsa (kumfar ruwa). Kamar wancan ne Allah Yake bayyana gaskiya da ƙarya. To, amma kumfa, sai ya tafi ƙẽƙasasshe, kuma amma abin da yake amfãnin mutãne sai ya zauna a cikin ƙasa. Kamar wancan ne Allah Yake bayyana misãlai.",
+      "similarity": 0.9989212513484358,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "013",
+      "language": "ha-gumi",
+      "verse": 33,
+      "original_text": "Shin fa, wanda shĩ Yake tsaye a kan kõwane rai game da abin da ya tanada (zai zama kamar wanda ba haka ba)? Kuma suka sanya abõkan tãrayya ga Allah! Ka ce: \"Ku ambaci sũnãyensu.\"Ko kunã bai wa Allah lãbãri ne game da abin da bai sani ba a cikin ƙasa? Kõ da bayyananniyar magana kuke yin shirka, (banda a cikin zũciya)? Ã'a, an dai ƙawãta wa waɗanda suka kafirta mãkircinsu kuma an kange su daga hanya. Kuma wanda Allah Ya ɓatar to, bãbu wani mai shiryarwa a gare shi!\"",
+      "formatted_text": "Shin fa, wanda shĩ Yake tsaye a kan kõwane rai game da abin da ya tanada (zai zama kamar wanda ba haka ba)? Kuma suka sanya abõkan tãrayya ga Allah! Ka ce: \"Ku ambaci sũnãyensu.\"Ko kunã bai wa Allah lãbãri ne game da abin da bai sani ba a cikin ƙasa? Kõ da bayyananniyar magana kuke yin shirka, (banda a cikin zũciya)? Ã'a, an dai ƙawãta wa waɗanda suka kafirta mãkircinsu kuma an kange su daga hanya. Kuma wanda Allah Ya ɓatar to, bãbu wani mai shiryarwa a gare shi! \"",
+      "similarity": 0.9989327641408752,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "014",
+      "language": "ha-gumi",
+      "verse": 5,
+      "original_text": "Kuma lalle ne haƙĩƙa Mun aika Mũsã game, da ãyõin Mu cẽwa, \"Ka fitar da mutãnenkadaga duhu zuwa ga haske. Kuma ka tunar musu da kwãnukan (masĩfun) Allah.\" Lalle ne a cikin wancan akwai ãyõyi dõmin dukan mai yawan haƙuri, mai gõdiya.",
+      "formatted_text": "Kuma lalle ne haƙĩƙa Mun aika Mũsã game, da ãyõin Mu cẽwa, \"Ka fitar da mutãnen kadaga duhu zuwa ga haske. Kuma ka tunar musu da kwãnukan (masĩfun) Allah.\" Lalle ne a cikin wancan akwai ãyõyi dõmin dukan mai yawan haƙuri, mai gõdiya.",
+      "similarity": 0.9978494623655914,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "014",
+      "language": "ha-gumi",
+      "verse": 10,
+      "original_text": "Manzanninsu suka ce \"Ashe, akwai shakka a cikin (sha'anin) Allah, Mai ƙãga halittar sammai da ƙasa Yanã kiran ku dõmin Ya gãfarta muku zunubanku, kuma Ya jinkirtã muku zuwa ga ajali ambatacce?\" Suka ce: \"Ba ku zama ba fãce mutãne misãlinmu kuma nufinku ku kange mu daga abin da iyãyenmu suka kasance sunã bautãwa sai ku zo mana da dalĩli mabayyani.\"",
+      "formatted_text": "Manzanninsu suka ce \"Ashe, akwai shakka a cikin (sha'anin) Allah, Mai ƙãga halittar sammai da ƙasa Yanã kiran ku dõmin Ya gãfarta muku zunubanku, kuma Ya jinkirtã muku zuwa g a ajali ambatacce?\" Suka ce: \"Ba ku zama ba fãce mutãne misãlinmu kuma nufinku ku kange mu daga abin da iyãyenmu suka kasance sunã bautãwa sai ku zo mana da dalĩli mabayyani.\"",
+      "similarity": 0.9985693848354793,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "014",
+      "language": "ha-gumi",
+      "verse": 32,
+      "original_text": "Allah ne wanda Ya halicci sammai da ƙasa kuma Ya saukar da ruwa daga sama, sa'an nan Ya fitar game da shi, daga 'ya'yan itãce arziki dõminku kuma Ya hõrẽ jirgin ruwa dõmin ya yi gudu a cikin tẽku da umurninSa, kuma Ya hõrẽ muku kõguna.",
+      "formatted_text": "Allah ne wanda Ya halicci sammai da ƙasa kuma Ya saukar da ruwa daga sama, sa'an nan Ya fitar game da shi, daga 'ya'y an itãce arziki dõminku kuma Ya hõrẽ jirgin ruwa dõmin ya yi gudu a cikin tẽku da umurninSa, kuma Ya hõrẽ muku kõguna.",
+      "similarity": 0.9978768577494692,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "016",
+      "language": "ha-gumi",
+      "verse": 89,
+      "original_text": "Kuma a rãnar da Muke tãyar da shaidu a cikin kõwace al'umma a kansu daga kãwunansu, kuma Muka zo da kai kanã mai bãyar da shaida a kan waɗannan, kuma Mun saussaukar da Littãli a kanka dõmin yin bãyani ga dukkan kõme da shiriya da rahama da bushãra ga mãsu mĩƙa wuya (Musulmi).",
+      "formatted_text": "Kuma a rãnar da Muke tãyar da shaidu a cikin kõwace al'umma a kansu daga kãwunansu, kuma Muka zo da kai kanã mai bãyar da shaida a kan waɗ annan, kuma Mun saussaukar da Littãli a kanka dõmin yin bãyani ga dukkan kõme da shiriya da rahama da bushãra ga mãsu mĩƙa wuya (Musulmi).",
+      "similarity": 0.9981916817359855,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "016",
+      "language": "ha-gumi",
+      "verse": 125,
+      "original_text": "Ka yi kira zuwa ga hanyar Ubangijinka da hikima da wa'azi mai kyau kuma ka yi jãyayya da su da magana wadda take mafi kyau. Lalle ne Ubangijinka Shĩ neMafi sani ga wanda ya ɓãce daga hanyarSa, kuma Shi ne Mafi sani ga mãsu shiryuwa.",
+      "formatted_text": "Ka yi kira zuwa ga hanyar Ubangijinka da hikima da wa'azi mai kyau kuma ka yi jãyayya da su da magana wadda take mafi kyau. Lalle ne Ubangijinka Shĩ ne Mafi sani ga wanda ya ɓãce daga hanyarSa, kuma Shi ne Mafi sani ga mãsu shiryuwa.",
+      "similarity": 0.9978494623655914,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "017",
+      "language": "ha-gumi",
+      "verse": 46,
+      "original_text": "Kuma Mu sanya marufai a kan zukãtansu dõmin kada su fahimce shi, da, wani nauyi a cikin kunnuwansu, kuma idan ka ambaci Ubangijinka, a cikin Alƙur'ãni shĩ kaɗai, sai su jũya a kan bayayyakinsu dõmin gudu.",
+      "formatted_text": "Kuma Mu sanya marufai a kan zukãtansu dõmin kada su fahimce shi, da, wani nauyi a cikin kunnuwansu, ku ma idan ka ambaci Ubangijinka, a cikin Alƙur'ãni shĩ kaɗai, sai su jũya a kan bayayyakinsu dõmin gudu.",
+      "similarity": 0.9975550122249389,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "017",
+      "language": "ha-gumi",
+      "verse": 51,
+      "original_text": "\"Kõ kuwa wata halitta daga abin da yake da girma a cikin ƙirazanku.\" To zã su ce \"Wãne ne zai mayar da mu?\" Ka ce: \"Wanda Ya ƙaga halittarku a fabkon lõkaci.\" To, zã su gyaɗa kansu zuwa gare ka, kuma sunã cẽwa, \"A yaushene shi?\" Ka ce: \"Akwai tsammãninsa ya kasance kusa.\"",
+      "formatted_text": "\"Kõ kuwa wata halitta daga abin da yake da girma a cikin ƙirazanku.\" To zã su ce \"Wãne ne zai mayar da mu?\" Ka ce: \"Wanda Ya ƙaga halitt arku a fabkon lõkaci.\" To, zã su gyaɗa kansu zuwa gare ka, kuma sunã cẽwa, \"A yaushene shi?\" Ka ce: \"Akwai tsammãninsa ya kasance kusa.\"",
+      "similarity": 0.998165137614679,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "018",
+      "language": "ha-gumi",
+      "verse": 22,
+      "original_text": "Zã su ce: \"Uku ne da na huɗunsu karensu.\"Kuma sunã cẽwa, \"Biyar ne da na shidansu karensu,\" a kan jĩfa a cikin duhu. Kuma sunã cẽwa, \"Bakwaine da na takwas ɗinsu karensu.\"Ka ce: \"Ubangijĩna ne Mafi saniga ƙidãyarsu, bãbu wanda ya san su fãce kaɗan.\"Kada ka yi jãyayya bayyananna. Kuma kada ka yi fatawa ga kõwa daga gare su a cikin al'amarinsu.",
+      "formatted_text": "Zã su ce: \"Uku ne da na huɗunsu karensu.\"Kuma sunã cẽwa, \"Biyar ne da na shidansu karensu,\" a kan jĩfa a cikin duhu. Kuma sunã cẽwa, \"Bakwaine da na takwas ɗinsu karensu.\" Ka ce: \"Ubangijĩna ne Mafi saniga ƙidãyarsu, bãbu wanda ya san su fãce kaɗan.\"Kada ka yi jãyayya bayyananna. Kuma kada ka yi fatawa ga kõwa daga gare su a cikin al'amarinsu.",
+      "similarity": 0.9985486211901307,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "019",
+      "language": "ha-gumi",
+      "verse": 75,
+      "original_text": "Ka ce: \"Wanda ya kasance a cikin ɓata sai Mai rahama Ya yalwata masa yalwatãwa, har idan sun ga abin da ake yi musu wa'adi, imma azãba kõ sã'a, to zã su sani, wane ne yake shĩ ne, mafi sharri ga wuri, kuma mafi rauni ga runduna!\"",
+      "formatted_text": "Ka ce: \"Wanda ya kasance a cikin ɓata sai Mai rahama Ya yalwata masa yalwatãwa, har idan sun ga abin da ake yi mus u wa'adi, imma azãba kõ sã'a, to zã su sani, wane ne yake shĩ ne, mafi sharri ga wuri, kuma mafi rauni ga runduna!\"",
+      "similarity": 0.9978213507625272,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "020",
+      "language": "ha-gumi",
+      "verse": 71,
+      "original_text": "Ya ce: \"Kun yi ĩmãni sabõda shi a gabãnin in yi muku izni? Lalle shĩ, haƙĩƙa, babbanku ne wanda ya sanar da ku sihirin! To, lalle ne zan kakkãtse hannayenku da ƙafãfunku a tarnaƙi kuma lalle zan tsĩre ku a cikin kututturan itãcen dabĩno, kuma lalle zã ku sani wanenmu ne mafi tsananin azãba kuma wãne ne mafi wanzuwar (azãba).\"",
+      "formatted_text": "Ya ce: \"Kun yi ĩmãni sabõda shi a gabãnin in yi muku izni? Lalle shĩ, haƙĩƙa, babbanku ne wanda ya sanar da ku sihirin!\" To, lalle ne zan kakkãtse hannayenku da ƙafãfunku a tarnaƙi kuma lalle zan tsĩre ku a cikin kututturan itãcen dabĩno, kuma lalle zã ku sani wanenmu ne mafi tsananin azãba kuma wãne ne mafi wanzuwar (azãba). \"",
+      "similarity": 0.9969512195121951,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "020",
+      "language": "ha-gumi",
+      "verse": 130,
+      "original_text": "Sai ka yi haƙuri a kan abin da suke cẽwa, kuma ka yi tasbĩhi da gõdẽ wa Ubangijinka a gabãnin fitõwar rãnã da gabãnin ɓacẽwarta, kuma daga sã'õ'in dare sai ka yi tasbĩhi da sãsannin yini, tsammãninka zã ka sãmi yarda.",
+      "formatted_text": "Sai ka yi haƙuri a kan abin da suke cẽwa, kuma ka yi tasbĩhi da gõdẽ wa Ubangijinka a gabãnin fitõwar rãnã d a gabãnin ɓacẽwarta, kuma daga sã'õ'in dare sai ka yi tasbĩhi da sãsannin yini, tsammãninka zã ka sãmi yarda.",
+      "similarity": 0.9977011494252873,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "022",
+      "language": "ha-gumi",
+      "verse": 2,
+      "original_text": "A rãnar da kuke ganin ta dukan mai shãyar da mãma tanã shagala daga abin da ta shãyar, kuma dukan mai ciki tanã haihuwar cikinta, kuma kanã ganin mutãne sunã mãsu mãyẽ alhãli kuwa su bã mãsu mãye ba, amma azãbar Allah ce mai tsanani.",
+      "formatted_text": "A rãnar da kuke ganin ta dukan mai shãyar da mãma tanã shagala daga abin da ta shãyar, kuma dukan mai ciki tanã haih uwar cikinta, kuma kanã ganin mutãne sunã mãsu mãyẽ alhãli kuwa su bã mãsu mãye ba, amma azãbar Allah ce mai tsanani.",
+      "similarity": 0.9978586723768736,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "022",
+      "language": "ha-gumi",
+      "verse": 25,
+      "original_text": "Lalle ne waɗanda suka kãfirta kuma suka taushe (mutãne) daga hanyar Allah da masallaci mai alfarma wanda Muka sanya shi ga mutãne alhãli kuwa mazauni a ciki da baƙauye daidai suke kuma wanda ya yi nufin karkatar da gaskiya a cikinsa da zãlunci zã Mu ɗanɗana masa daga wata azãba mai raɗadi.",
+      "formatted_text": "Lalle ne waɗanda suka kãfirta kuma suka taushe (mutãne) daga hanyar Allah da masallaci mai alfarma wanda Muka sanya shi ga mutãne alhãli kuwa maz auni a ciki da baƙauye daidai suke kuma wanda ya yi nufin karkatar da gaskiya a cikinsa da zãlunci zã Mu ɗanɗana masa daga wata azãba mai raɗadi.",
+      "similarity": 0.9982788296041308,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "022",
+      "language": "ha-gumi",
+      "verse": 40,
+      "original_text": "Waɗanda aka fitina daga gidajensu bã da wani hakki ba fãce sunã cẽwa, Ubangijinmu Allah ne.\"Kuma ba dõmin tunkuɗẽwar Allah ga mutãne ba, sãshensu da sãshe, haƙĩƙa, da an rũsa sauma'õ'in (Ruhbãnãwa) dã majãmi'õ'in Nasãra da gidãjen ibãdar Yahudu da masallatai waɗanda ake ambatar Allah a cikinsu da yawa. Kuma lalle, haƙĩƙa, Allah Yanã taimakon wanda yake taimakon Sa. Lalle Allah ne haƙĩƙa Mai ƙarfi Mabuwãyi.",
+      "formatted_text": "Waɗanda aka fitina daga gidajensu bã da wani hakki ba fãce sunã cẽwa, Ubangijinmu Allah ne. Kuma ba dõmin tunkuɗẽwar Allah ga mutãne ba, sãshensu da sãshe, haƙĩƙa, da an rũsa sauma'õ'in (Ruhbãnãwa) dã majãmi'õ'in Nasãra da gidãjen ibãdar Yahudu da masallatai waɗanda ake ambatar Allah a cikinsu da yawa. Kuma lalle, haƙĩƙa, Allah Yanã taimakon wanda yake taimakon Sa. Lalle Allah ne haƙĩƙa Mai ƙarfi Mabuwãyi.",
+      "similarity": 0.9975550122249389,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "023",
+      "language": "ha-gumi",
+      "verse": 33,
+      "original_text": "Mashãwarta daga mutãnensa, waɗanda suka kãfirta kuma suka ƙaryata game da haɗuwa da Lãhira, kuma Muka ni'imtar da su a cikin rãyuwar dũniya, suka ce: \"Wannan bã kõwa ba fãce wani mutum ne kamarku, yanã cĩ daga abin da kuke cĩ daga gare shi, kuma yanã shã daga abin da kuke shã.\"",
+      "formatted_text": "Mashãwarta daga mutãnensa, waɗanda suka kãfirta kuma suka ƙaryata game da haɗuwa da Lãhira, kuma Muka ni'imtar da su a cikin rãyuwar dũniya suka ce: \"Wannan bã kõwa ba fãce wani mutum ne kamarku, yanã cĩ daga abin da kuke cĩ daga gare shi, kuma yanã shã daga abin da kuke shã.\" , ,",
+      "similarity": 0.9910554561717353,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "024",
+      "language": "ha-gumi",
+      "verse": 26,
+      "original_text": "Miyãgun mãtã dõmin miyagun maza suke, kuma miyãgun maza dõmin miyãgun mãtã suke kuma tsarkãkan mãtã dõmin tsarkãkan maza suke kuma tsarkãkan maza dõmin tsarkãkan mãtã suke. waɗancan sũ ne waɗanda ake barrantãwa daga abin da (mãsu ƙazafi) suke faɗa kuma sunã da gãfara da arziki na karimci.",
+      "formatted_text": "Miyãgun mãtã dõmin miyãgun maza suke, kuma miyãgun maza dõmin miyagun mãtã suke kuma tsarkãkan mãtã dõmin tsarkãkan maza suke kuma tsarkãkan maza dõmin tsarkãkan mãtã suke. waɗancan sũ ne waɗanda ake barrantãwa daga abin da (mãsu ƙazafi) suke faɗa kuma sunã da gãfara da arziki na karimci.",
+      "similarity": 0.9930795847750865,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "024",
+      "language": "ha-gumi",
+      "verse": 33,
+      "original_text": "Kuma waɗannan da ba su sãmi aure ba su kãme kansu har Allah Ya wadãtar da su daga, falalarsa. Kuma waɗanda ke nẽman fansa daga abin da hannuwanku na dãma suka mallaka, to, ku ɗaura musu fansã idan kun san akwai wani alhẽri a cikinsu kuma ku bã su wani abu daga dũkiyar Allah wannan da Ya bã ku. Kuma kada ku tĩlasta kuyanginku a kan yin zina, idan sun yi nufin tsaron kansu, dõmin ku nẽmi rãyuwar dũniya, kuma wanda ya tĩlasta su to, lalle Allah, a bãyan tĩlasta su, Mai gãfara ne, Mai jin ƙai.",
+      "formatted_text": "Kuma waɗannan da ba su sãmi aure ba su kãme kansu har Allah Ya wadãtar da su daga, falalarsa. Kuma waɗanda ke nẽman fansa daga abin da hannuwanku na dãma suka mallaka, to, ku ɗaura musu fansã idan kun san akwai wani alhẽri a cikinsu. kuma ku bã su wani abu daga dũkiyar Allah wannan da Ya bã ku. Kuma kada ku tĩlasta kuyanginku a kan yin zina, idan sun yi nufin tsaron kansu, dõmin ku nẽmi rãyuwar dũniya, kuma wanda ya tĩlasta su to, lalle Allah, a bãyan tĩlasta su, Mai gãfara ne, Mai jin ƙai. kuma ku bã su wani abu daga dũkiyar Allah wannan da Ya bã ku kuma ku bã su wani abu daga dũkiyar Allah wannan da Ya bã ku",
+      "similarity": 0.8892889288928892,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "024",
+      "language": "ha-gumi",
+      "verse": 41,
+      "original_text": "Shin, ba ka gani ba (cẽwa) lalle ne Allah, Wanda yake a cikin sammai da ƙasa sunã yi Masa tasbĩhi, kuma tsuntsaye sunã mãsu sanwa, kõwane lalle ya san sallarsa da tasbĩhinsa kuma Allah Masani ne ga abin da suke aikatãwa?",
+      "formatted_text": "Shin, ba ka gani ba (cẽwa) lalle ne Allah, Wanda yake a cikin sammai da ƙasa sunã yi Masa tasbĩhi, kuma tsunts aye sunã mãsu sanwa, kõwane lalle ya san sallarsa da tasbĩhinsa kuma Allah Masani ne ga abin da suke aikatãwa?",
+      "similarity": 0.9977324263038548,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "024",
+      "language": "ha-gumi",
+      "verse": 61,
+      "original_text": "Bãbu laifi a kan makãho, kuma bãbu laifi a kan gurgu, kuma bãbu laifi a kan majiyyaci, kuma bãbu laifi a kan kõwanenku, ga ku ci (abinci) daga gidãjenku, kõ daga gidãjen ubanninku, kõ daga gidãjen uwãyenku, kõ daga gidãjen 'yan'uwanku mazã, kõ daga gidãjen 'yan'uwanku mãtã, kõ daga gidãjen baffanninku, kõ daga gidãjen gwaggwanninku, kõ daga gidãjen kãwunnanku, kõ daga gidãjen innõninku kõ abin da kuka mallaki mabũɗansa kõ abõkinku bãbu laifi a gare ku ku ci gabã ɗaya, kõ dabam- dabam. To, idan kun shiga wasu gidãje, ku yi sallama a kan kãwunanku, gaisuwã ta daga wurin Allah mai albarka, mai dãɗi. Kamar wancan ne Allah Yake bayyana muku ãyõyinSa, tsammãninku ku yi hankali.",
+      "formatted_text": "Bãbu laifi a kan makãho, kuma bãbu laifi a kan gurgu, kuma bãbu laifi a kan majiyyaci, kuma bãbu laifi a kan kõwanenku, ga ku ci (abinci ) daga gidãjenku, kõ daga gidãjen ubanninku, kõ daga gidãjen uwãyenku, kõ daga gidãjen 'yan'uwanku mazã, kõ daga gidãjen 'yan'uwanku mãt ã, kõ daga gidãjen baffanninku, kõ daga gidãjen gwaggwanninku, kõ daga gidãjen kãwunnanku, kõ daga gidãjen innõninku kõ abin da kuka mal laki mabũɗansa kõ abõkinku bãbu laifi a gare ku ku ci gabã ɗaya, kõ dabam- dabam. To, idan kun shiga wasu gidãje, ku yi sallama a kan kã wunanku, gaisuwã ta daga wurin Allah mai albarka, mai dãɗi. Kamar wancan ne Allah Yake bayyana muku ãyõyinSa, tsammãninku ku yi hankali.",
+      "similarity": 0.9970674486803519,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "027",
+      "language": "ha-gumi",
+      "verse": 40,
+      "original_text": "Wanda yake a wurinsa akwai wani ilmi daga Littafin ya ce: \"Ni inã zo maka da shi a gabãnin ƙyaftãwar ganinka ta kõma gare ka.\" To, a lõkacin da ya gan shi matabbaci a wurinsa, ya ce: \"Wannan daga falalar Ubangijĩna yake, dõmin Ya jarraba ni: Shin, zan gõde ne, kõ kuwa zan butulce! Kuma wanda ya gõde, to, yanã gõdẽwa ne dõmin kansa, kuma wanda ya kãfirta, to, lalle Ubangijina Wadãtacce ne, Karĩmi.\"",
+      "formatted_text": "Wanda yake a wurinsa akwai wani ilmi daga Littafin ya ce: \"Ni inã zo maka da shi a gabãnin ƙyaftãwar ganinka ta kõma gare ka.\" To, a lõkacin da ya gan shi matabbaci a wurinsa, ya ce: \"Wannan daga falalar Ubangijĩna yake, dõmin Ya jarraba ni: Shin, zan gõde ne, kõ ku wa zan butulce!\" Kuma wanda ya gõde, to, yanã gõdẽwa ne dõmin kansa, kuma wanda ya kãfirta, to, lalle Ubangijina Wadãtacce ne, Karĩmi. Kuma wanda ya gõde, to, yanã gõdẽwa ne dõmin kansa, kuma wanda ya kãfirta, to, lalle Ubangijina Wadãtacce ne, Karĩmi. Kuma wanda ya gõde, to, yanã gõdẽwa ne dõmin kansa, kuma wanda ya kãfirta, to, lalle Ubangijina Wadãtacce ne, Karĩmi.",
+      "similarity": 0.7695274831243973,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "027",
+      "language": "ha-gumi",
+      "verse": 44,
+      "original_text": "Aka ce mata, \"Ki shiga a gidan sarauta.\" To, a lõkacin da ta gan shi, ta yi zatona wai gurbi ne, kuma ta kuranye daga ƙwaurinta. Ya ce: \"Lalle ne shi, gidan sarauta ne mai santsi daga madũbai.\" Ta ce: \"Yã Ubangijĩna! Bã a rõƙon Allah sai da sunãyensa mãsu kyau, tis'in da taran nan, sai dai a dunƙule kamar a ce, \"Inã rõƙon Allah da sunãyenSa da na sani da waɗanda ban sani ba.\" Lalle nĩ, na zãlunci kaina, kuma nã sallama al'amari tãre da Sulaiman ga Allah, Ubangijin halittu.\"",
+      "formatted_text": "Aka ce mata, \"Ki shiga a gidan sarauta.\" To, a lõkacin da ta gan shi, ta yi zatona wai gurbi ne, kuma ta kuranye daga ƙwaurinta. Ya ce: \"Lalle ne shi, gidan sarauta ne mai santsi daga madũbai.\" Ta ce: \"Yã Ubangijĩna! Bã a rõƙon Allah sai da sunãyensa mãsu kyau, tis'in da taran nan, sai dai a dunƙule kamar a ce, \"Inã rõƙon Allah da sunãyenSa da na sani da waɗanda ban sani ba.\" Lalle nĩ, na zãlunci kaina, kuma nã sallama al'amari tãre da Sulaiman ga Allah, Ubangijin halittu. \"",
+      "similarity": 0.9968652037617555,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "028",
+      "language": "ha-gumi",
+      "verse": 25,
+      "original_text": "Sai ɗayansu ta je masa, tanã tafiya a kan jin kunya, ta ce, \"Ubãna yanã kiran ka, dõmin ya sãka maka ijãrar abin da ka shãyar sabõda mu.\" To, a lõkacin da ya je masa, ya gaya masa lãbãrinsa, ya ce: \"Kada ka ji tsõro, kã tsĩra daga mutãne azzãlumai.\"",
+      "formatted_text": "Sai ɗayansu ta je masa, tanã tafiya a kan jin kunya, ta ce, \"Ubãna yanã kiran ka, dõmin ya sãka maka ijãrar abin da ka shãyar sabõda mu.\" FALAMMA JAA'AHU WA QASSA 'ALAYHI AL-QASAS QALA LA TAKHAF NAJAWTA MINAL QAWMI AL-ZALIMIN. \"",
+      "similarity": 0.5911949685534591,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "028",
+      "language": "ha-gumi",
+      "verse": 76,
+      "original_text": "Lalle ne ¡ãrũna ya kasance daga mutãnen Mũsã, sai ya fita daga tsãrinsu alhãli Mun bã shi taskõkin abin da yake mabũɗansa sunã nauyi ga jama'a ma'abũta ƙarfi a lõkacin da mutãnensa suka ce masa, \"Kada ka yi annashuwa, lalle ne Allah bã Ya son mãsu annashuwa.\"",
+      "formatted_text": "Lalle ne ¡ãrũna ya kasance daga mutãnen Mũsã, sai ya fita daga tsãrinsu alhãli Mun bã shi taskõkin abin da yake mabũɗansa sunã nauyi ga jama'a ma'abũta ƙarfi a lõkacin da m utãnensa suka ce masa, \"Kada ka yi annashuwa, lalle ne Allah bã Ya son mãsu annashuwa.\"",
+      "similarity": 0.9980732177263969,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "029",
+      "language": "ha-gumi",
+      "verse": 10,
+      "original_text": "Kuma daga cikin mutãne akwai mai cẽwa, 'Mun yi ĩmãni da Allah\" sa'an nan idan aka cũce shi wajen aikin Allah, sai ya sanya fitinar mutãne kamar azãbar Allah kuma lalle idan taimakon Ubangijinka ya zo, haƙĩƙa, ya kan ce: \"Lalle mũ mun kasance tãre da ku.\" shin, Allah bai zama Mafi sani ba ga abin da ke a cikin ƙirãzan halittunSa?",
+      "formatted_text": "Kuma daga cikin mutãne akwai mai cẽwa, 'Mun yi ĩmãni da Allah\" sa'an nan idan aka cũce shi wajen aikin Allah, sai ya sanya fitinar mutãne kamar azãbar Allah kuma lal le idan taimakon Ubangijinka ya zo, haƙĩƙa, ya kan ce: \"Lalle mũ mun kasance tãre da ku.\" shin, Allah bai zama Mafi sani ba ga abin da ke a cikin ƙirãzan halittunSa?",
+      "similarity": 0.9984871406959153,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "029",
+      "language": "ha-gumi",
+      "verse": 29,
+      "original_text": "\"Ashe, lalle kũ kunã je wa maza, kuma ku yi fashin hanya kuma ku je, a cikin majalisarku da abin da bã shi da kyau? To, jawãbin mutãnensa bai kasance ba fãce dai sun ce: 'Ka zo mana da azãbar Allah, idan ka kasance daga mãsu gaskiya.'\"",
+      "formatted_text": "\"Ashe, lalle kũ kunã je wa maza, kuma ku yi fashin hanya kuma ku je, a cikin majalisarku da abin da bã shi da kyau?\" To, jawãbin mutãnensa bai kasance ba fãce dai sun ce: 'Ka zo mana da azãbar Allah, idan ka kasance daga mãsu gaskiya.'\"",
+      "similarity": 0.9978768577494692,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "030",
+      "language": "ha-gumi",
+      "verse": 54,
+      "original_text": "Allah ne Ya halitta ku daga rauni, sa'an nan Ya sanya wani ƙarfi a bayan wani rauni, sa'an nan Ya sanya wani rauni da furfura a bãyan wani ƙarfi, Allah na halitta abin da Ya so, kuma Shĩ ne Mai ilmi, Mai ĩkon yi,",
+      "formatted_text": "Allah ne Ya halitta ku daga rauni, sa'an nan Ya sanya wani ƙarfi a bayan wani rauni, sa'an nan Ya sanya wa ni rauni da furfura a bãyan wani ƙarfi, Allah na halitta abin da Ya so, kuma Shĩ ne Mai ilmi, Mai ĩkon yi,",
+      "similarity": 0.9976470588235294,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "031",
+      "language": "ha-gumi",
+      "verse": 16,
+      "original_text": "\"Yã ƙaramin ɗãna! Lalle ita idan gwargwadon ƙwãyar kõmayya ce ta kasance, to, ta kasance a cikin wani falalen dũtse, kõ a cikin sammai, kõ a cikin ƙasã, Allah zai kãwo ta Lalle Allah Mai tausasãwa ne, Masani.\"",
+      "formatted_text": "\"Yã ƙaramin ɗãna! Lalle ita idan gwargwadon ƙwãyar kõmayya ce ta kasance, to, ta kasance a cikin wani falalen dũtse, kõ a cikin sammai, kõ a cikin ƙasã, Allah zai kãwo ta. Lalle Allah Mai tausasãwa ne, Masani. Lalle Allah Mai tausasãwa ne, Masani Lalle Allah Mai tausasãwa ne, Masani",
+      "similarity": 0.8455284552845529,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "033",
+      "language": "ha-gumi",
+      "verse": 35,
+      "original_text": "Lalle, Musulmi maza da Musulmi mãtã da muminai maza da muminai mãtã, da mãsu tawãli'u maza da mãsu tawãlĩu mãtãda mãsu gaskiya maza da mãsu gaskiya mãtã, da mãsu haƙuri maza da mãsu haƙuri mãtã, da mãsu tsõron Allah maza da mãsu tsõron Allah mãtã, da mãsu sadaka maza da mãsu sadaka mãtã, da mãsu azumi maza da mãsu azumi mãtã da mãsu tsare farjõjinsu maza da mãsu tsare farjõjinsu mãtã, da mãsu ambaton Allah da yawa maza da mãsu ambatonsa mãtã, Allah Ya yi musu tattalin wata gãfara da wani sakamako mai girma.",
+      "formatted_text": "Lalle, Musulmi maza da Musulmi mãtã da muminai maza da muminai mãtã, da mãsu tawãli'u maza da mãsu tawãlĩu mãtãda mãsu gaskiya maza da mãsu gaskiya mãtã, da mãsu haƙuri m aza da mãsu haƙuri mãtã, da mãsu tsõron Allah maza da mãsu tsõron Allah mãtã, da mãsu sadaka maza da mãsu sadaka mãtã, da mãsu azumi maza da mãsu azumi mãtã da mãsu tsare farjõjinsu maza da mãsu tsare farjõjinsu mãtã da mãsu ambaton Allah da yawa maza da mãsu ambatonsa mãtã, Allah Ya yi musu tattalin wata gãfara da wani sakamako mai girma. , ,",
+      "similarity": 0.9941634241245136,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "034",
+      "language": "ha-gumi",
+      "verse": 31,
+      "original_text": "Kuma waɗanda suka kãfirta suka ce: \"Bã zã mu yi ĩmanida wannan Alƙur'ãni ba, kuma bã zã mu yi ĩmani da abin da yakea gabãninsa ba (na waɗansu littattafan sama).\" Kuma dã kã gani a lõkacin da azzãlumai suke abin tsayarwa wurin Ubangijinka, sashensu na mayar wa sãshe maganar maraunana (mabiya) suke cẽwa makangara (shũgabanni) \"Ba dõminku ba, lalle, dã mun kasance mũminai.\"",
+      "formatted_text": "Kuma waɗanda suka kãfirta suka ce: \"Bã zã mu yi ĩmanida wannan Alƙur'ãni ba, kuma bã zã mu yi ĩmani da abin da yakea gabãnin sa ba (na waɗansu littattafan sama).\" Kuma dã kã gani a lõkacin da azzãlumai suke abin tsayarwa wurin Ubangijinka, sashensu na mayar wa sãshe maganar maraunana (mabiya) suke cẽwa makangara (shũgabanni) \"Ba dõminku ba, lalle, dã mun kasance mũminai.\"",
+      "similarity": 0.998661311914324,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "035",
+      "language": "ha-gumi",
+      "verse": 10,
+      "original_text": "Wanda ya kasance yanã nẽman wata izza, to, Allah ne da izza gabã ɗaya. zuwa gare Shi magana mai dãɗi ke hawa, kuma aiki na ƙwarai Yanã ɗaukar ta Kuma waɗanda ke yin mãkircin mũnanan ayyuka, sunã da wata azãba mai tsanani, kuma mãkircin waɗannan yanã yin tasgaro.",
+      "formatted_text": "Wanda ya kasance yanã nẽman wata izza, to, Allah ne da izza gabã ɗaya. zuwa gare Shi magana mai dãɗi ke hawa, kuma aiki na ƙwarai Yanã ɗaukar ta. Kuma waɗanda ke yin mãkircin mũnanan ayyuka, sunã da wata azãba mai tsanani, kuma mãkircin waɗannan yanã yin tasgaro Kuma waɗanda ke yin mãkircin mũnanan ayyuka, sunã da wata azãba mai tsanani, kuma mãkircin waɗannan yanã yin tasgaro",
+      "similarity": 0.8143525741029641,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "035",
+      "language": "ha-gumi",
+      "verse": 12,
+      "original_text": "Kuma kõguna biyu ba su daidaita: Wannan mai ruwan dãɗi, mai zãƙi, mai sauƙin haɗiya kuma wannan mai ruwan gishiri mai zartsi, kuma daga kõwane, kunã cin wani nama sãbo, kuma kunã fitar da kawa wadda kuke tufantarta, kuma kanã ganin jirãge a cikinsa sunã mãsu gudãna, dõmin ku nẽmo daga falalarSa, kuma ɗammãninku zã ku dinga gõdẽwa.",
+      "formatted_text": "Kuma kõguna biyu ba su daidaita: Wannan mai ruwan dãɗi, mai zãƙi, mai sauƙin haɗiya kuma wannan mai ruwan gishiri mai zartsi, kuma daga kõwane, kunã cin wani nama sãb o, kuma kunã fitar da kawa wadda kuke tufantarta, kuma kanã ganin jirãge a cikinsa sunã mãsu gudãna, dõmin ku nẽmo daga falalarSa, kuma ɗammãninku zã ku dinga gõdẽwa.",
+      "similarity": 0.9984962406015038,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "037",
+      "language": "ha-gumi",
+      "verse": 102,
+      "original_text": "To, a lõkacin da ya isa aiki tãre da shi, ya ce: \"Ya ƙaramin ɗãna! Lalle ne inã gani, a ciki barci, lalle inã yanka ka. To, ka dũba mẽ ka gani?\" (Yãron) ya ce: \"Ya, Bãbãna! Ka aikata abin da aka umurce ka, zã ka sãme ni, in Allah Ya so, daga mãsu haƙuri.\"",
+      "formatted_text": "To, a lõkacin da ya isa aiki tãre da shi, ya ce: \"Ya ƙaramin ɗãna! Lalle ne inã gani, a ciki barci, lalle inã yanka ka. To, ka dũba mẽ ka gani?\" (Yãron) ya ce: \"Ya, Bãbãna! Ka aikata abin da aka umurce ka, zã ka sãme ni, in Allah Ya so, daga mãsu haƙuri. \"",
+      "similarity": 0.9941291585127201,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "038",
+      "language": "ha-gumi",
+      "verse": 24,
+      "original_text": "(Dãwũda) ya ce: \"Lalle, haƙiƙa ya zãlunce ka game da tambayar tunkiyarka zuwa ga tumakinsa. Kuma lalle ne mãsu yawa daga abõkan tarayya, haƙiƙa, sãshensu na zambatar sãshe fãce waɗanda suka yi ĩmãni, kuma suka aikata ayyukan ƙwarai.\" Kuma Dãwũda ya tabbata cẽwa Mun fitine shi ne, sabõda haka, ya nẽmi Ubangijinsa gãfara, kuma ya fãɗi yanã mai sujada, kuma ya mayar da al'amari ga Allah.",
+      "formatted_text": "(Dãwũda) ya ce: \"Lalle, haƙiƙa ya zãlunce ka game da tambayar tunkiyarka zuwa ga tumakinsa. Kuma lalle ne mãsu yawa daga abõkan t arayya, haƙiƙa, sãshensu na zambatar sãshe fãce waɗanda suka yi ĩmãni, kuma suka aikata ayyukan ƙwarai.\" Kuma Dãwũda ya tabbata c ẽwa Mun fitine shi ne, sabõda haka, ya nẽmi Ubangijinsa gãfara, kuma ya fãɗi yanã mai sujada, kuma ya mayar da al'amari ga Allah.",
+      "similarity": 0.9974226804123711,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "039",
+      "language": "ha-gumi",
+      "verse": 3,
+      "original_text": "To, addini tsarkakakke na Allah ne, kuma waɗanda suka riƙi waɗansu majibinta, bã Shi ba, (sunã cẽwa) \"Ba mu bauta musu ba fãce dõmin su kusantar da mu zuwa ga Allah, kusantar daraja.\" Lalle Allah nã yin hukunci a tsakãninsu ga abin da suka zama sunã sãɓãwa a cikinsa. Lalle Allah ba Ya shiryar da wanda yake mai ƙarya, mai kãfirci.",
+      "formatted_text": "To, addini tsarkakakke na Allah ne, kuma waɗanda suka riƙi waɗansu majibinta, bã Shi ba, (sunã cẽwa) \"Ba mu ba uta musu ba fãce dõmin su kusantar da mu zuwa ga Allah, kusantar daraja.\" Lalle Allah nã yin hukunci a tsakãni nsu ga abin da suka zama sunã sãɓãwa a cikinsa. Lalle Allah ba Ya shiryar da wanda yake mai ƙarya, mai kãfirci.",
+      "similarity": 0.9969879518072289,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "040",
+      "language": "ha-gumi",
+      "verse": 25,
+      "original_text": "Sa'an nan, a lõkacin da ya jẽ musu da gaskiya daga wurinMu, suka ce: \"Ku kashe ɗiyan waɗanda suka yi ĩmãni tãre da shi, kuma ku rãyar da mãtansu.\" Kuma mugun shirin kãfirai, bai zama ba fãce a cikin bata.",
+      "formatted_text": "Sa'an nan, a lõkacin da ya jẽ musu da gaskiya daga wurinMu, suka ce: \"Ku kashe ɗiyan waɗanda suka yi ĩ mãni tãre da shi, kuma ku rãyar da mãtansu.\" Kuma mugun shirin kãfirai, bai zama ba fãce a cikin bata.",
+      "similarity": 0.9975550122249389,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "040",
+      "language": "ha-gumi",
+      "verse": 40,
+      "original_text": "\"Wanda ya aikata mummunan aiki to, ba za a sãka masa ba fãce da misãlinsa, kuma wanda ya aikata aiki na ƙwarai daga namiji kõ mace alhãli kuwa shĩ mũmini ne, to, waɗannan sunã shiga Aljanna, anã ciyar da su a cikinta, bã da lissãfi ba.\"",
+      "formatted_text": "\"Wanda ya aikata mummunan aiki to, ba za a sãka masa ba fãce da misãlinsa, kuma wanda ya aikata aiki na ƙwarai daga na miji kõ mace alhãli kuwa shĩ mũmini ne, to, waɗannan sunã shiga Aljanna, anã ciyar da su a cikinta, bã da lissãfi ba.\"",
+      "similarity": 0.9978858350951374,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "040",
+      "language": "ha-gumi",
+      "verse": 82,
+      "original_text": "Ashe fa, ba su yi tafiya a cikin ƙasã ba, dõmin su dũba yadda ãƙibar waɗanda ke a gabãninsu ta kasance? Sun kasance mafi yawa daga gare su. Kuma sun fi tsananin ƙarfi, da (yawan) gurãbun sanã'õ'i a cikin ƙasã. To, abin da suka kasance sunã aikatãwa bai wadãtar da su ba.",
+      "formatted_text": "Ashe fa, ba su yi tafiya a cikin ƙasã ba, dõmin su dũba yadda ãƙibar waɗanda ke a gabãninsu ta kasance? Sun kasance mafi yawa daga gare su. Kuma sun fi tsananin ƙarfi, da (yawan) gurãbun sanã'õi a cikin ƙasã. To, abin da suka kasance sunã aikatãwa bai wadãtar da su ba. ' '",
+      "similarity": 0.990791896869245,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "041",
+      "language": "ha-gumi",
+      "verse": 14,
+      "original_text": "A lõkacin da Manzanninsu suka je musu daga gaba gare su kuma daga bãyansu, \"Kada ku bauta wa kõwa fãce Allah.\" suka ce: \"Dã UbangiJinmu Yã so, lalle dã Ya saukar da malã' iku, sabõda haka lalle mũ, mãsu kafirta ne a game da abin da aka aiko ku da shi.\"",
+      "formatted_text": "A lõkacin da Manzanninsu suka je musu daga gaba gare su kuma daga bãyansu, \"Kada ku bauta wa kõwa fãce Allah.\" suka ce: \"Dã Ub angiJinmu Yã so, lalle dã Ya saukar da malã' iku, sabõda haka lalle mũ, mãsu kafirta ne a game da abin da aka aiko ku da shi.\"",
+      "similarity": 0.998019801980198,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "041",
+      "language": "ha-gumi",
+      "verse": 47,
+      "original_text": "Zuwa gare Shi ake mayar da sanin Sa'a. Kuma waɗansu 'yã'yan itãce bã su fita daga kwasfõfinsu, kuma wata mace bã ta yin ciki, kuma bã ta haihuwa, fãce da saninSa, kuma a rãnar da Yake kiran su (Ya ce): \"Inã abõkan tãrayyaTa?\" Sai su ce, \"Mun sanar da Kai bãbu mai bãyar da shaida da haka nan daga gare mu.\"",
+      "formatted_text": "Zuwa gare Shi ake mayar da sanin Sa'a. Kuma waɗansu 'yã'yan itãce bã su fita daga kwasfõfinsu, kuma wata mace bã ta yin ciki, kuma bã ta haihuwa, fãce da saninSa, وَيَوۡمَ يُنَادِيهِمۡ أَيۡنَ شُرَكَآءِي قَالُوٓاْ ءَاذَنَّٰكَ مَامِنَّا مِن شَهِيدٖ ٧٤",
+      "similarity": 0.5863309352517986,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "046",
+      "language": "ha-gumi",
+      "verse": 15,
+      "original_text": "Kuma Mun yi wasiyya ga mutum game da mahaifansa biyu da kyautatãwa, uwarsa tã yi cikinsa wahala, kuma ta haife shi wahala. cikinsa da yãyensa watã talãtin. Har a lõkacin da ya kai ga mafi ƙarfinsa, kuma ya kai shẽkara arba'in, ya ce: \"Ya Ubangijĩna! Ka kange nidõmin in gõde wa ni'imarKa, wadda Ka ni'imta a kaina da kuma a kan mahaifãna biyu, kuma dõmin in aikata aikin ƙwarai wanda Kake yarda da shi, kuma Ka kyautata mini a cikin zuriyata. Lalle nĩ, nã tũba zuwa gare Ka, kuma lalle ni, inã daga mãsu sallamãwa (ga umurninKa).\"",
+      "formatted_text": "Kuma Mun yi wasiyya ga mutum game da mahaifansa biyu da kyautatãwa, uwarsa tã yi cikinsa wahala, kuma ta haife shi wahala. cikinsa da yãyensa watã talãtin. Har a lõkacin da ya kai ga mafi ƙarfinsa, kuma ya kai shẽkara arba'in, ya ce: \"Ya Ubangijĩna! Ka kange nidõmin in gõde wa ni'imarKa, wadda Ka ni'imta a kaina da kuma a kan mahaifãna biyu, kuma dõmin in aikata aikin ƙwarai wanda Kake yarda da shi, kuma Ka kyautata mini a cikin zuriyata. Lalle nĩ, nã tũba zuwa gare Ka, kuma lalle ni, inã daga mãsu sallamãwa (ga umurninKa).",
+      "similarity": 0.9990557129367328,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "047",
+      "language": "ha-gumi",
+      "verse": 16,
+      "original_text": "Kuma daga cikinsu akwai wanda ke saurare zuwa gare ka, har idan sun fita daga wurinka, su ce wa waɗanda aka bai wa ilmi \"Mẽne ne (Muhammadu) ya fãɗa ɗazu?\" Waɗannan ne waɗanda Allah Ya shãfe haske daga zukãtansu, kuma suka bi son zũciyõyinsu.",
+      "formatted_text": "Kuma daga cikinsu akwai wanda ke saurare zuwa gare ka, har idan sun fita daga wurinka, su ce wa waɗanda aka bai wa ilmi \" Mẽne ne (Muhammadu) ya fãɗa ɗazu?\" Waɗannan ne waɗanda Allah Ya shãfe haske daga zukãtansu, kuma suka bi son zũciyõyinsu.",
+      "similarity": 0.9979381443298969,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "048",
+      "language": "ha-gumi",
+      "verse": 6,
+      "original_text": "Kuma Ya yi azãba ga munãfikai maza da munãfikai mãtã da mushirikai maza da musbirikai mãtã, mãsu zaton mugun zato game da Allah, mugunyar masĩfa mai kẽwayẽwa ta tabbata a kansu, kuma Allah Ya yi hushi da su, kuma Ya la'ane su, kuma Ya yi musu tattlain Jahannama kuma ta mũnana ta zama makõma (gare su).",
+      "formatted_text": "Kuma Ya yi azãba ga munãfikai maza da munãfikai mãtã da mushirikai maza da musbirikai mãtã, mãsu zaton mugun zato game da Allah, mugunyar masĩfa mai kẽ wayẽwa ta tabbata a kansu, kuma Allah Ya yi hushi da su, kuma Ya la'ane su, kuma Ya yi musu tattlain Jahannama kuma ta mũnana ta zama makõma (gare su).",
+      "similarity": 0.9983471074380166,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "052",
+      "language": "ha-gumi",
+      "verse": 21,
+      "original_text": "Kuma waɗanda suka yi ĩmãni kuma zũriyarsu suka bĩ su ga ĩmãnin, Mun riskar da zũriyarsu da su, alhãli kuwa bã da Mun rage musu kõme ba daga aikinsu, kõwane mutum jingina ne ga abin da ya sana'anta.",
+      "formatted_text": "Kuma waɗanda suka yi ĩmãni kuma zũriyarsu suka bĩ su ga ĩmãnin, Mun riskar da zũriyarsu da su, alh ãli kuwa bã da Mun rage musu kõme ba daga aikinsu, kõwane mutum jingina ne ga abin da ya sana'anta.",
+      "similarity": 0.9974683544303797,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "057",
+      "language": "ha-gumi",
+      "verse": 27,
+      "original_text": "Sa'an nan Muka biyar a bãyansu da ManzanninMu; kuma Muka biyar da ĩsã ɗan Maryama, kuma Muka ba shi Linjila kuma Muka sanya tausayi da rahama a cikin zukãtan waɗanda suka bĩ shi, da ruhbãnanci wanda suka ƙãga, shi, ba Mu rubũta shi ba a kansu, fãce dai (Mun rubũta musu nẽman yardar Allah, sa'an nan ba su tsare shi haƙƙin tsarẽwarsa ba, sabõda haka Muka bai wa waɗanda suka yi ĩmãni daga cikinsu sakamakonsu kuma mãsu yawa daga cikinsu fãsiƙai ne.",
+      "formatted_text": "Sa'an nan Muka biyar a bãyansu da ManzanninMu; kuma Muka biyar da ĩsã ɗan Maryama, kuma Muka ba shi Linjila kuma Muka sanya tausayi da rahama a cikin zukãtan waɗanda suka bĩ shi, da ruhbãnanci wanda suka ƙãga, shi, ba Mu rub ũta shi ba a kansu, fãce dai (Mun rubũta musu nẽman yardar Allah, sa'an nan ba su tsare shi haƙƙin tsarẽwarsa ba , sabõda haka Muka bai wa waɗanda suka yi ĩmãni daga cikinsu sakamakonsu kuma mãsu yawa daga cikinsu fãsiƙai ne.",
+      "similarity": 0.9977728285077951,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "059",
+      "language": "ha-gumi",
+      "verse": 11,
+      "original_text": "Ashe, ba ka ga waɗanda suka yi munãfinci ba, sunã cẽwa ga 'yan'uwansu, waɗanda suka kãfirta daga Mazõwa Littafi, \"Lalle idan an fitar da ku, lalle zã mu fita tãre da ku, kuma bã zã mu yi ɗã'a ga kõwa ba game da ku, har abada, kuma lalle idan an yãƙe ku, lalle zã mu taimake ku haƙĩƙatan?\" Alhãli kuwa Allah na shaidar cẽwa lalle sũ tabbas, maƙaryata ne.",
+      "formatted_text": "Ashe, ba ka ga waɗanda suka yi munãfinci ba, sunã cẽwa ga 'yan'uwansu, waɗanda suka kãfirta daga Mazõwa Littafi, \"Lalle idan an fitar da ku, lalle zã mu fita tãre da ku, kuma b ã zã mu yi ɗã'a ga kõwa ba game da ku, har abada, kuma lalle idan an yãƙe ku, lalle zã mu taimake ku haƙĩƙatan?\" Alhãli kuwa Allah na shaidar cẽwa lalle sũ tabbas, maƙaryata ne.",
+      "similarity": 0.9985855728429985,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "060",
+      "language": "ha-gumi",
+      "verse": 4,
+      "original_text": "Lalle abin kõyi mai kyau ya kasance a gare ku game da Ibrãhĩm da waɗanda ke tãre da shi a lõkacin da suka ce wa mutnensu, \"Lalle mũ bãbu ruwanmu daku, kuma da abin da kuke bautãwa, baicin Allah, mun fita batunku, kuma ƙiyayya da jiyẽwa jũna sun bayyana a tsakãninmu, sai kun yi ĩmãni da Allah Shi kaɗai.\" Fãce maganar Ibrãhĩm ga ubansa (da yace), \"Lalle za ni nẽma maka gãfara kuma ban mallaki kõme ba daga Allah sabõda kai.\" \"Yã Ubangijinmu! A gare Ka muka dõgara, kuma gare Ka muka mayar da al' amuranmu, kuma zuwa gare Ka makõma take.\"",
+      "formatted_text": "Lalle abin kõyi mai kyau ya kasance a gare ku game da Ibrãhĩm da waɗanda ke tãre da shi a lõkacin da suka ce wa mutnensu, \"Lalle mũ bãbu ruwanmu daku, kuma da abin da kuke bautãwa, baicin Allah, mun fita batunku, kuma ƙiyayya da jiyẽwa jũna sun bayyana a tsakãninmu, sai kun yi ĩmãni da Allah Shi kaɗai. Fãce maganar Ibrãhĩm ga ubansa (da yace), \"Lalle za ni nẽma maka gãfara kuma ban mallaki kõme ba daga Allah sabõda kai.\" \"Yã Ubangijinmu! A gare Ka muka dõgara, kuma gare Ka muka mayar da al' amuranmu, kuma zuwa gare Ka makõma take.\"",
+      "similarity": 0.9990697674418605,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "060",
+      "language": "ha-gumi",
+      "verse": 10,
+      "original_text": "Yã kũ waɗanda suka yi ĩmãni! Idan mãtã mũminai suka zo muku, sunã mãsu hijira, to, ku jarraba su. Allah Shĩ ne mafi sani ga ĩmãninsu. To, idan kun san sũ mũminai ne, kada ku mayar da su zuwa ga kãfirai. Sũ mãtan bã su halatta ga aurensu, sũ kuma kãfiran bã su halatta ga auren mãtan. Ku bã su abin da suka ɓatar na dũkiya. Kuma bãbu laifi a kanku ga ku aure su idan kun bã su sadãkõkinsu. Kuma kada ku riƙe auren mãtã kãfirai, kuma ku tambayi abin da kuka ɓatar daga dũkiya, su kuma kãfirai su tambayi abin da suka ɓatar na dũkiya. Wannan hukuncin Allah ne Yanã hukunci a tsakãninku. kuma Allah, Masani ne, Mai hikima",
+      "formatted_text": "Yã kũ waɗanda suka yi ĩmãni! Idan mãtã mũminai suka zo muku, sunã mãsu hijira, to, ku jarraba su. Allah Shĩ ne mafi sani ga ĩmãninsu. To, idan kun san sũ mũminai ne, kada ku mayar da su zuwa ga kãfirai. Sũ mãtan bã su halatta ga aurensu, sũ kuma kãfiran bã su halatta ga auren mãtan. Ku bã su abin da suka ɓatar na dũkiya. Kuma bãbu laifi a kanku ga ku aure su idan kun bã su sadãkõkinsu. Kuma kada ku riƙe auren mãtã kãfirai, kuma ku tambayi abin da kuka ɓatar daga dũkiya, su kuma kãfirai su tambayi abin da suka ɓatar na dũkiya. Wannan hukuncin Allah ne Yanã hukunci a tsakãninku. kuma Allah, Masani ne, Mai hikima.",
+      "similarity": 0.9991902834008097,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    },
+    {
+      "chapter": "066",
+      "language": "ha-gumi",
+      "verse": 8,
+      "original_text": "Yã kũ waɗanda suka yi ĩmãni! Ku kõma zuwa ga Allah kõmawar gaskiya. Mai yiwuwa Ubangjinku Ya kankare muku miyãgun ayyukanku kuma Ya shigar da ku a gidãjen Aljanna, ƙoramu na gudãna daga ƙarƙashinsu a rãnar da Allah bã Ya kunyatar da Annabi da wadanda suka yi ĩmãni tãre da shi. Haskensu yanã tafiya a gaba gare su da jihõhin dãmansu, sunã cẽwa, \"Yã Ubangijiumu! Ka cika mana haskenmu, kuma Ka yi mana gãfara. Lalle Kai, a kan dukkan kõme, Yã kai Mai ikon yi ne.\"",
+      "formatted_text": "Yã kũ waɗanda suka yi ĩmãni! Ku kõma zuwa ga Allah kõmawar gaskiya. Mai yiwuwa Ubangjinku Ya kankare muku miyãgun ayyukanku kuma Ya shigar da ku a gidãjen Aljanna, ƙoramu na gudãna daga ƙarƙashinsu. a rãnar da Allah bã Ya kunyatar da Annabi da wadanda suka yi ĩmãni tãre da shi. Haskensu yanã tafiya a gaba gare su da jihõhin dãmansu, sunã cẽwa, \"Yã Ubangijiumu! Ka cika mana haskenmu, kuma Ka yi mana gãfara. Lalle Kai, a kan dukkan kõme, Yã kai Mai ikon yi ne.\"",
+      "similarity": 0.9989189189189189,
+      "missing_in_formatted": false,
+      "missing_in_original": false
+    }
+  ]
+}

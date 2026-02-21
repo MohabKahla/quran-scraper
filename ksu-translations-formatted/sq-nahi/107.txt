@@ -1,7 +1,0 @@
-001_00	A di ti për atë që e përgënjeshtron Ditën e llogarisë (e shpërblimit)?
-002_00	E ai është, i cili ashpër i dëbon bonjakët
-003_00	dhe nuk nxitë që të ushqejnë të varfërit.
-004_00	Mjerë për ata, të cilët kur falen,
-005_00	janë të pakujdesshëm (të harrueshëm),
-006_00	e veprojnë, vetëm sa për sy e faqe (para botës)
-007_00	dhe pengojnë dhënien e ndihmës (në shërbimet e vogla midis njerëzve)!

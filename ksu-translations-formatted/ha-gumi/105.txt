@@ -1,5 +1,0 @@
-001_00	Ashe, ba ka ga yadda Ubangijinka Ya aikata ga mutanen giwa ba?
-002_00	Ashe, bai sanya kaidinsu a cikin ɓata ba?
-003_00	Kuma Ya sako, a kansu, wasu tsuntsãye, jama'a-jama'a.
-004_00	Suna jifar su da wasu duwatsu na yumɓun wuta.
-005_00	Sa'an nan Ya sanya su kamar karmami wanda aka cinye?

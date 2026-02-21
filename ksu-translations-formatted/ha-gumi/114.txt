@@ -1,6 +1,0 @@
-001_00	Ka ce "Ina nẽman tsari ga Ubangijin mutãne."
-002_00	"Mamallakin mutane."
-003_00	"Abin bautãwar mutãne."
-004_00	"Daga sharrin mai sanya wasuwãsi, mai ɓoyewa."
-005_00	"Wanda ke sanya wasuwãsi a cikin ƙirãzan mutane."
-006_00	"Daga aljannu da mutane."

@@ -1,9 +1,0 @@
-001_00	ILLA SKALL det gå den som försöker finna fel hos [andra] och baktalar dem!
-002_00	[Och] som samlar pengar på hög och [i stället för att göra gott] ägnar sig åt att räkna dem
-003_00	i förhoppningen att hans rikedom skall ge honom evigt liv!
-004_00	Nej [han misstar sig]! Han kommer att kastas i Hutamah!
-005_00	Och vad kan låta dig förstå vad Hutamah betyder
-006_00	[Det är] Guds eld,
-007_00	som skall blossa upp och tränga in i [syndarnas] hjärtan;
-008_00	och sluta sig omkring dem
-009_00	i ändlösa kolonnader av eld!

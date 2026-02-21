@@ -1,9 +1,0 @@
-001_00	Mal toplayarak onu tekrar tekrar sayan, diliyle çekiştirip alay eden kimsenin vay haline!
-002_00	Mal toplayarak onu tekrar tekrar sayan, diliyle çekiştirip alay eden kimsenin vay haline!
-003_00	Malının kendisini ölümsüz kılacağını sanır.
-004_00	Hayır; o, and olsun ki, Hutame'ye atılacaktır.
-005_00	Hutame'nin ne olduğunu sen bilir misin?
-006_00	O, yüreklere çökecek olan, Allah'ın tutuşturulmuş ateşidir.
-007_00	O, yüreklere çökecek olan, Allah'ın tutuşturulmuş ateşidir.
-008_00	Onlar, uzun sütunlar arasında, her yönden o ateşle kapatılmışlardır.
-009_00	Onlar, uzun sütunlar arasında, her yönden o ateşle kapatılmışlardır.

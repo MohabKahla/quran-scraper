@@ -1,8 +1,0 @@
-001_00	Naapa kwa tini na zaituni!
-002_00	Na kwa Mlima wa Sinai!
-003_00	Na kwa mji huu wenye amani!
-004_00	Bila ya shaka tumemuumba mtu kwa umbo lilio bora kabisa.
-005_00	Kisha tukamrudisha kuwa chini kuliko walio chini!
-006_00	Lakini wale walio amini na wakatenda mema, hao watapata ujira usio kwisha.
-007_00	Basi ni kipi baadaye kitacho kukukadhibishia malipo?
-008_00	Kwani Mwenyezi Mungu si muadilifu kuliko mahakimu wote?

@@ -1,8 +1,0 @@
-001_00	Itakapo tetemeshwa ardhi kwa mtetemeko wake!
-002_00	Na itakapo toa ardhi mizigo yake!
-003_00	Na mtu akasema: Ina nini?
-004_00	Siku hiyo itahadithia khabari zake.
-005_00	Kwa sababu Mola wake Mlezi ameifunulia!
-006_00	Siku hiyo watu watatoka kwa mfarakano wakaonyweshwe vitendo vyao!
-007_00	Basi anaye tenda chembe ya wema, atauona!
-008_00	Na anaye tenda chembe ya uovu atauona!

@@ -1,0 +1,99 @@
+RESTORATION REPORT
+================================================================================
+
+
+id-indonesian - Chapter 003 - Verse 152
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: g
+
+
+id-indonesian - Chapter 004 - Verse 119
+  Type: truncated
+  Similarity: 70.2%
+  Missing content: "
+
+
+id-indonesian - Chapter 004 - Verse 150
+  Type: truncated
+  Similarity: 70.8%
+  Missing content: ,
+
+
+id-indonesian - Chapter 005 - Verse 070
+  Type: truncated
+  Similarity: 61.1%
+  Missing content: yang
+
+
+id-indonesian - Chapter 009 - Verse 060
+  Type: truncated
+  Similarity: 99.4%
+  Missing content: u
+
+
+id-indonesian - Chapter 010 - Verse 031
+  Type: truncated
+  Similarity: 89.2%
+  Missing content: dan siapakah yang mengatur segala urusan
+
+
+id-indonesian - Chapter 017 - Verse 059
+  Type: truncated
+  Similarity: 56.7%
+  Missing content: telah
+
+
+id-indonesian - Chapter 024 - Verse 061
+  Type: truncated
+  Similarity: 58.1%
+  Missing content: yang berarti memberi salam )
+
+
+id-indonesian - Chapter 024 - Verse 062
+  Type: truncated
+  Similarity: 67.3%
+  Missing content: , maka apabila mereka meminta izin kepadamu karena sesuatu keperluan, berilah izin kepada siapa yang kamu kehendaki di antara mereka, dan mohonkanlah ampunan untuk mereka kepada Allah Sesungguhnya Allah
+
+
+id-indonesian - Chapter 027 - Verse 040
+  Type: truncated
+  Similarity: 84.5%
+  Missing content: Dan barangsiapa yang bersyukur maka sesungguhnya dia bersyukur untuk (kebaikan) dirinya sendiri dan barangsiapa yang ingkar, maka sesungguhnya Tuhanku Maha Kaya lagi Maha Mulia
+
+
+id-indonesian - Chapter 027 - Verse 044
+  Type: truncated
+  Similarity: 60.4%
+  Missing content: Sulaiman: "Sesungguhnya ia adalah istana licin terbuat dari kaca".  erkatalah B
+
+
+id-indonesian - Chapter 029 - Verse 045
+  Type: truncated
+  Similarity: 81.9%
+  Missing content: sesungguhnya mengingat   mengetahui apa yang kamu kerjakan.
+
+
+id-indonesian - Chapter 029 - Verse 063
+  Type: truncated
+  Similarity: 99.4%
+  Missing content: ,
+
+
+id-indonesian - Chapter 040 - Verse 007
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: :
+
+
+id-indonesian - Chapter 053 - Verse 023
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: dan sesungguhnya telah datang petunjuk kepada mereka dari Tuhan mereka
+
+
+id-indonesian - Chapter 066 - Verse 006
+  Type: truncated
+  Similarity: 92.7%
+  Missing content: dan selalu mengerjakan apa yang diperintahkan
+

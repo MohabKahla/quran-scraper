@@ -1,0 +1,616 @@
+================================================================================
+VALIDATION REPORT: id-indonesian
+================================================================================
+
+Total mismatches: 84
+
+By severity:
+  Critical (<80%):  4
+  Moderate (80-95%): 1
+  Minor (95-99%):   0
+  Trivial (>99%):   79
+
+================================================================================
+ISSUES BY CHAPTER
+================================================================================
+
+
+Chapter 002: 5 issues
+--------------------------------------------------------------------------------
+
+Verse 022 - Similarity: 99.8%
+  Original (290 chars):
+    Dialah yang menjadikan bumi sebagai hamparan bagimu dan langit sebagai atap, dan Dia menurunkan air ...
+  Formatted (291 chars):
+    Dialah yang menjadikan bumi sebagai hamparan bagimu dan langit sebagai atap, dan Dia menurunkan air ...
+
+Verse 133 - Similarity: 99.8%
+  Original (307 chars):
+    Adakah kamu hadir ketika Ya'qub kedatangan (tanda-tanda) maut, ketika ia berkata kepada anak-anaknya...
+  Formatted (308 chars):
+    Adakah kamu hadir ketika Ya'qub kedatangan (tanda-tanda) maut, ketika ia berkata kepada anak-anaknya...
+
+Verse 142 - Similarity: 99.8%
+  Original (312 chars):
+    Orang-orang yang kurang akalnya diantara manusia akan berkata: "Apakah yang memalingkan mereka (umat...
+  Formatted (313 chars):
+    Orang-orang yang kurang akalnya diantara manusia akan berkata: "Apakah yang memalingkan mereka (umat...
+
+Verse 159 - Similarity: 99.8%
+  Original (278 chars):
+    Sesungguhnya orang-orang yang menyembunyikan apa yang telah Kami turunkan berupa keterangan-keterang...
+  Formatted (279 chars):
+    Sesungguhnya orang-orang yang menyembunyikan apa yang telah Kami turunkan berupa keterangan-keterang...
+
+Verse 285 - Similarity: 89.7%
+  Original (455 chars):
+    Rasul telah beriman kepada Al Quran yang diturunkan kepadanya dari Tuhannya, demikian pula orang-ora...
+  Formatted (370 chars):
+    Rasul telah beriman kepada Al Quran yang diturunkan kepadanya dari Tuhannya, demikian pula orang-ora...
+
+Chapter 003: 6 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 79.7%
+  Original (655 chars):
+    Dialah yang menurunkan Al Kitab (Al Quran) kepada kamu. Di antara (isi)nya ada ayat-ayat yang muhkam...
+  Formatted (434 chars):
+    Dialah yang menurunkan Al Kitab (Al Quran) kepada kamu. Di antara (isi)nya ada ayat-ayat yang muhkam...
+
+Verse 021 - Similarity: 99.8%
+  Original (238 chars):
+    Sesungguhnya orang-orang yang kafir kepada ayat-ayat Allah dan membunuh para nabi yang memamg tak di...
+  Formatted (239 chars):
+    Sesungguhnya orang-orang yang kafir kepada ayat-ayat Allah dan membunuh para nabi yang memamg tak di...
+
+Verse 039 - Similarity: 99.9%
+  Original (346 chars):
+    Kemudian Malaikat (Jibril) memanggil Zakariya, sedang ia tengah berdiri melakukan shalat di mihrab (...
+  Formatted (347 chars):
+    Kemudian Malaikat (Jibril) memanggil Zakariya, sedang ia tengah berdiri melakukan shalat di mihrab (...
+
+Verse 052 - Similarity: 99.9%
+  Original (354 chars):
+    Maka tatkala Isa mengetahui keingkaran mereka (Bani lsrail) berkatalah dia: "Siapakah yang akan menj...
+  Formatted (355 chars):
+    Maka tatkala Isa mengetahui keingkaran mereka (Bani lsrail) berkatalah dia: "Siapakah yang akan menj...
+
+Verse 061 - Similarity: 99.9%
+  Original (365 chars):
+    Siapa yang membantahmu tentang kisah Isa sesudah datang ilmu (yang meyakinkan kamu), maka katakanlah...
+  Formatted (366 chars):
+    Siapa yang membantahmu tentang kisah Isa sesudah datang ilmu (yang meyakinkan kamu), maka katakanlah...
+
+Verse 195 - Similarity: 99.9%
+  Original (592 chars):
+    Maka Tuhan mereka memperkenankan permohonannya (dengan berfirman): "Sesungguhnya Aku tidak menyia-ny...
+  Formatted (591 chars):
+    Maka Tuhan mereka memperkenankan permohonannya (dengan berfirman): "Sesungguhnya Aku tidak menyia-ny...
+
+Chapter 004: 10 issues
+--------------------------------------------------------------------------------
+
+Verse 043 - Similarity: 99.8%
+  Original (532 chars):
+    Hai orang-orang yang beriman, janganlah kamu shalat, sedang kamu dalam keadaan mabuk, sehingga kamu ...
+  Formatted (534 chars):
+    Hai orang-orang yang beriman, janganlah kamu shalat, sedang kamu dalam keadaan mabuk, sehingga kamu ...
+
+Verse 075 - Similarity: 99.8%
+  Original (325 chars):
+    Mengapa kamu tidak mau berperang di jalan Allah dan (membela) orang-orang yang lemah baik laki-laki,...
+  Formatted (326 chars):
+    Mengapa kamu tidak mau berperang di jalan Allah dan (membela) orang-orang yang lemah baik laki-laki,...
+
+Verse 076 - Similarity: 99.8%
+  Original (207 chars):
+    Orang-orang yang beriman berperang di jalan Allah, dan orang-orang yang kafir berperang di jalan tha...
+  Formatted (208 chars):
+    Orang-orang yang beriman berperang di jalan Allah, dan orang-orang yang kafir berperang di jalan tha...
+
+Verse 077 - Similarity: 99.9%
+  Original (679 chars):
+    Tidakkah kamu perhatikan orang-orang yang dikatakan kepada mereka: "Tahanlah tanganmu (dari berperan...
+  Formatted (681 chars):
+    Tidakkah kamu perhatikan orang-orang yang dikatakan kepada mereka: "Tahanlah tanganmu (dari berperan...
+
+Verse 090 - Similarity: 99.9%
+  Original (537 chars):
+    kecuali orang-orang yang meminta perlindungan kepada sesuatu kaum, yang antara kamu dan kaum itu tel...
+  Formatted (538 chars):
+    kecuali orang-orang yang meminta perlindungan kepada sesuatu kaum, yang antara kamu dan kaum itu tel...
+
+Verse 091 - Similarity: 99.9%
+  Original (514 chars):
+    Kelak kamu akan dapati (golongan-golongan) yang lain, yang bermaksud supaya mereka aman dari pada ka...
+  Formatted (515 chars):
+    Kelak kamu akan dapati (golongan-golongan) yang lain, yang bermaksud supaya mereka aman dari pada ka...
+
+Verse 092 - Similarity: 99.9%
+  Original (789 chars):
+    Dan tidak layak bagi seorang mukmin membunuh seorang mukmin (yang lain), kecuali karena tersalah (ti...
+  Formatted (790 chars):
+    Dan tidak layak bagi seorang mukmin membunuh seorang mukmin (yang lain), kecuali karena tersalah (ti...
+
+Verse 102 - Similarity: 99.9%
+  Original (900 chars):
+    Dan apabila kamu berada di tengah-tengah mereka (sahabatmu) lalu kamu hendak mendirikan shalat bersa...
+  Formatted (899 chars):
+    Dan apabila kamu berada di tengah-tengah mereka (sahabatmu) lalu kamu hendak mendirikan shalat bersa...
+
+Verse 141 - Similarity: 99.9%
+  Original (557 chars):
+    (yaitu) orang-orang yang menunggu-nunggu (peristiwa) yang akan terjadi pada dirimu (hai orang-orang ...
+  Formatted (556 chars):
+    (yaitu) orang-orang yang menunggu-nunggu (peristiwa) yang akan terjadi pada dirimu (hai orang-orang ...
+
+Verse 150 - Similarity: 99.9%
+  Original (361 chars):
+    Sesungguhnya orang-orang yang kafir kepada Allah dan rasul-rasul-Nya, dan bermaksud memperbedakan an...
+  Formatted (362 chars):
+    Sesungguhnya orang-orang yang kafir kepada Allah dan rasul-rasul-Nya, dan bermaksud memperbedakan an...
+
+Chapter 005: 5 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.8%
+  Original (605 chars):
+    Hai orang-orang yang beriman, apabila kamu hendak mengerjakan shalat, maka basuhlah mukamu dan tanga...
+  Formatted (608 chars):
+    Hai orang-orang yang beriman, apabila kamu hendak mengerjakan shalat, maka basuhlah mukamu dan tanga...
+
+Verse 020 - Similarity: 99.8%
+  Original (292 chars):
+    Dan (ingatlah) ketika Musa berkata kepada kaumnya: "Hai kaumku, ingatlah nikmat Allah atasmu ketika ...
+  Formatted (293 chars):
+    Dan (ingatlah) ketika Musa berkata kepada kaumnya: "Hai kaumku, ingatlah nikmat Allah atasmu ketika ...
+
+Verse 036 - Similarity: 99.8%
+  Original (284 chars):
+    Sesungguhnya orang-orang yang kafir sekiranya mereka mempunyai apa yang dibumi ini seluruhnya dan me...
+  Formatted (285 chars):
+    Sesungguhnya orang-orang yang kafir sekiranya mereka mempunyai apa yang dibumi ini seluruhnya dan me...
+
+Verse 106 - Similarity: 99.9%
+  Original (710 chars):
+    Hai orang-orang yang beriman, apabila salah seorang kamu menghadapi kematian, sedang dia akan berwas...
+  Formatted (712 chars):
+    Hai orang-orang yang beriman, apabila salah seorang kamu menghadapi kematian, sedang dia akan berwas...
+
+Verse 107 - Similarity: 99.9%
+  Original (450 chars):
+    Jika diketahui bahwa kedua (saksi itu) membuat dosa, maka dua orang yang lain di antara ahli waris y...
+  Formatted (451 chars):
+    Jika diketahui bahwa kedua (saksi itu) membuat dosa, maka dua orang yang lain di antara ahli waris y...
+
+Chapter 006: 9 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.9%
+  Original (445 chars):
+    Apakah mereka tidak memperhatikan berapa banyak generasi yang telah Kami binasakan sebelum mereka, p...
+  Formatted (446 chars):
+    Apakah mereka tidak memperhatikan berapa banyak generasi yang telah Kami binasakan sebelum mereka, p...
+
+Verse 031 - Similarity: 99.7%
+  Original (346 chars):
+    Sungguh telah rugilah orang-orang yang mendustakan pertemuan mereka dengan Tuhan; sehingga apabila k...
+  Formatted (348 chars):
+    Sungguh telah rugilah orang-orang yang mendustakan pertemuan mereka dengan Tuhan; sehingga apabila k...
+
+Verse 046 - Similarity: 99.8%
+  Original (298 chars):
+    Katakanlah: "Terangkanlah kepadaku jika Allah mencabut pendengaran dan penglihatan serta menutup hat...
+  Formatted (299 chars):
+    Katakanlah: "Terangkanlah kepadaku jika Allah mencabut pendengaran dan penglihatan serta menutup hat...
+
+Verse 071 - Similarity: 99.9%
+  Original (621 chars):
+    Katakanlah: "Apakah kita akan menyeru selain daripada Allah, sesuatu yang tidak dapat mendatangkan k...
+  Formatted (622 chars):
+    Katakanlah: "Apakah kita akan menyeru selain daripada Allah, sesuatu yang tidak dapat mendatangkan k...
+
+Verse 080 - Similarity: 99.9%
+  Original (426 chars):
+    Dan dia dibantah oleh kaumnya. Dia berkata: "Apakah kamu hendak membantah tentang Allah, padahal ses...
+  Formatted (427 chars):
+    Dan dia dibantah oleh kaumnya. Dia berkata: "Apakah kamu hendak membantah tentang Allah, padahal ses...
+
+Verse 093 - Similarity: 99.9%
+  Original (670 chars):
+    Dan siapakah yang lebih zalim daripada orang yang membuat kedustaan terhadap Allah atau yang berkata...
+  Formatted (672 chars):
+    Dan siapakah yang lebih zalim daripada orang yang membuat kedustaan terhadap Allah atau yang berkata...
+
+Verse 146 - Similarity: 99.9%
+  Original (373 chars):
+    Dan kepada orang-orang Yahudi, Kami haramkan segala binatang yang berkuku dan dari sapi dan domba, K...
+  Formatted (374 chars):
+    Dan kepada orang-orang Yahudi, Kami haramkan segala binatang yang berkuku dan dari sapi dan domba, K...
+
+Verse 150 - Similarity: 99.9%
+  Original (418 chars):
+    Katakanlah: "Bawalah kemari saksi-saksi kamu yang dapat mempersaksikan bahwasanya Allah telah mengha...
+  Formatted (419 chars):
+    Katakanlah: "Bawalah kemari saksi-saksi kamu yang dapat mempersaksikan bahwasanya Allah telah mengha...
+
+Verse 151 - Similarity: 99.9%
+  Original (597 chars):
+    Katakanlah: "Marilah kubacakan apa yang diharamkan atas kamu oleh Tuhanmu yaitu: janganlah kamu memp...
+  Formatted (596 chars):
+    Katakanlah: "Marilah kubacakan apa yang diharamkan atas kamu oleh Tuhanmu yaitu: janganlah kamu memp...
+
+Chapter 007: 6 issues
+--------------------------------------------------------------------------------
+
+Verse 020 - Similarity: 99.8%
+  Original (318 chars):
+    Maka syaitan membisikkan pikiran jahat kepada keduanya untuk menampakkan kepada keduanya apa yang te...
+  Formatted (319 chars):
+    Maka syaitan membisikkan pikiran jahat kepada keduanya untuk menampakkan kepada keduanya apa yang te...
+
+Verse 033 - Similarity: 99.9%
+  Original (346 chars):
+    Katakanlah: "Tuhanku hanya mengharamkan perbuatan yang keji, baik yang nampak ataupun yang tersembun...
+  Formatted (347 chars):
+    Katakanlah: "Tuhanku hanya mengharamkan perbuatan yang keji, baik yang nampak ataupun yang tersembun...
+
+Verse 057 - Similarity: 99.8%
+  Original (408 chars):
+    Dan Dialah yang meniupkan angin sebagai pembawa berita gembira sebelum kedatangan rahmat-Nya (hujan)...
+  Formatted (410 chars):
+    Dan Dialah yang meniupkan angin sebagai pembawa berita gembira sebelum kedatangan rahmat-Nya (hujan)...
+
+Verse 145 - Similarity: 99.9%
+  Original (338 chars):
+    Dan telah Kami tuliskan untuk Musa pada luh-luh (Taurat) segala sesuatu sebagai pelajaran dan penjel...
+  Formatted (339 chars):
+    Dan telah Kami tuliskan untuk Musa pada luh-luh (Taurat) segala sesuatu sebagai pelajaran dan penjel...
+
+Verse 158 - Similarity: 99.9%
+  Original (403 chars):
+    Katakanlah: "Hai manusia sesungguhnya aku adalah utusan Allah kepadamu semua, yaitu Allah Yang mempu...
+  Formatted (404 chars):
+    Katakanlah: "Hai manusia sesungguhnya aku adalah utusan Allah kepadamu semua, yaitu Allah Yang mempu...
+
+Verse 164 - Similarity: 99.8%
+  Original (289 chars):
+    Dan (ingatlah) ketika suatu umat di antara mereka berkata: "Mengapa kamu menasehati kaum yang Allah ...
+  Formatted (290 chars):
+    Dan (ingatlah) ketika suatu umat di antara mereka berkata: "Mengapa kamu menasehati kaum yang Allah ...
+
+Chapter 009: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 060 - Similarity: 99.9%
+  Original (360 chars):
+    Sesungguhnya zakat-zakat itu, hanyalah untuk orang-orang fakir, orang-orang miskin, pengurus-penguru...
+  Formatted (361 chars):
+    Sesungguhnya zakat-zakat itu, hanyalah untuk orang-orang fakir, orang-orang miskin, pengurus-penguru...
+
+Chapter 010: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 090 - Similarity: 99.9%
+  Original (366 chars):
+    Dan Kami memungkinkan Bani Israil melintasi laut, lalu mereka diikuti oleh Fir'aun dan bala tentaran...
+  Formatted (367 chars):
+    Dan Kami memungkinkan Bani Israil melintasi laut, lalu mereka diikuti oleh Fir'aun dan bala tentaran...
+
+Chapter 011: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.9%
+  Original (371 chars):
+    Dan Dialah yang menciptakan langit dan bumi dalam enam masa, dan adalah singgasana-Nya (sebelum itu)...
+  Formatted (372 chars):
+    Dan Dialah yang menciptakan langit dan bumi dalam enam masa, dan adalah singgasana-Nya (sebelum itu)...
+
+Verse 027 - Similarity: 99.9%
+  Original (409 chars):
+    Maka berkatalah pemimpin-pemimpin yang kafir dari kaumnya: "Kami tidak melihat kamu, melainkan (seba...
+  Formatted (410 chars):
+    Maka berkatalah pemimpin-pemimpin yang kafir dari kaumnya: "Kami tidak melihat kamu, melainkan (seba...
+
+Chapter 013: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 005 - Similarity: 99.9%
+  Original (368 chars):
+    Dan jika (ada sesuatu) yang kamu herankan, maka yang patut mengherankan adalah ucapan mereka: "Apabi...
+  Formatted (369 chars):
+    Dan jika (ada sesuatu) yang kamu herankan, maka yang patut mengherankan adalah ucapan mereka: "Apabi...
+
+Verse 016 - Similarity: 99.9%
+  Original (613 chars):
+    Katakanlah: "Siapakah Tuhan langit dan bumi?" Jawabnya: "Allah". Katakanlah: "Maka patutkah kamu men...
+  Formatted (612 chars):
+    Katakanlah: "Siapakah Tuhan langit dan bumi?" Jawabnya: "Allah". Katakanlah: "Maka patutkah kamu men...
+
+Chapter 014: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.9%
+  Original (344 chars):
+    Dan (ingatlah), ketika Musa berkata kepada kaumnya: "Ingatlah nikmat Allah atasmu ketika Dia menyela...
+  Formatted (345 chars):
+    Dan (ingatlah), ketika Musa berkata kepada kaumnya: "Ingatlah nikmat Allah atasmu ketika Dia menyela...
+
+Verse 037 - Similarity: 99.9%
+  Original (370 chars):
+    Ya Tuhan kami, sesungguhnya aku telah menempatkan sebahagian keturunanku di lembah yang tidak mempun...
+  Formatted (371 chars):
+    Ya Tuhan kami, sesungguhnya aku telah menempatkan sebahagian keturunanku di lembah yang tidak mempun...
+
+Chapter 016: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 027 - Similarity: 99.8%
+  Original (316 chars):
+    Kemudian Allah menghinakan mereka di hari kiamat, dan berfirman: "Di manakah sekutu-sekutu-Ku itu (y...
+  Formatted (317 chars):
+    Kemudian Allah menghinakan mereka di hari kiamat, dan berfirman: "Di manakah sekutu-sekutu-Ku itu (y...
+
+Verse 071 - Similarity: 99.8%
+  Original (291 chars):
+    Dan Allah melebihkan sebahagian kamu dari sebagian yang lain dalam hal rezeki, tetapi orang-orang ya...
+  Formatted (292 chars):
+    Dan Allah melebihkan sebahagian kamu dari sebagian yang lain dalam hal rezeki, tetapi orang-orang ya...
+
+Verse 072 - Similarity: 99.8%
+  Original (263 chars):
+    Allah menjadikan bagi kamu isteri-isteri dari jenis kamu sendiri dan menjadikan bagimu dari isteri-i...
+  Formatted (264 chars):
+    Allah menjadikan bagi kamu isteri-isteri dari jenis kamu sendiri dan menjadikan bagimu dari isteri-i...
+
+Verse 080 - Similarity: 99.9%
+  Original (380 chars):
+    Dan Allah menjadikan bagimu rumah-rumahmu sebagai tempat tinggal dan Dia menjadikan bagi kamu rumah-...
+  Formatted (381 chars):
+    Dan Allah menjadikan bagimu rumah-rumahmu sebagai tempat tinggal dan Dia menjadikan bagi kamu rumah-...
+
+Chapter 017: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 110 - Similarity: 68.1%
+  Original (279 chars):
+    Katakanlah: "Serulah Allah atau serulah Ar-Rahman. Dengan nama yang mana saja kamu seru, Dia mempuny...
+  Formatted (144 chars):
+    Katakanlah: "Serulah Allah atau serulah Ar-Rahman. Dengan nama yang mana saja kamu seru, Dia mempuny...
+
+Chapter 019: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 075 - Similarity: 99.8%
+  Original (321 chars):
+    Katakanlah: "Barang siapa yang berada di dalam kesesatan, maka biarlah Tuhan yang Maha Pemurah mempe...
+  Formatted (322 chars):
+    Katakanlah: "Barang siapa yang berada di dalam kesesatan, maka biarlah Tuhan yang Maha Pemurah mempe...
+
+Chapter 020: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 130 - Similarity: 99.8%
+  Original (252 chars):
+    Maka sabarlah kamu atas apa yang mereka katakan, dan bertasbihlah dengan memuji Tuhanmu, sebelum ter...
+  Formatted (253 chars):
+    Maka sabarlah kamu atas apa yang mereka katakan, dan bertasbihlah dengan memuji Tuhanmu, sebelum ter...
+
+Chapter 022: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 005 - Similarity: 99.8%
+  Original (876 chars):
+    Hai manusia, jika kamu dalam keraguan tentang kebangkitan (dari kubur), maka (ketahuilah) sesungguhn...
+  Formatted (880 chars):
+    Hai manusia, jika kamu dalam keraguan tentang kebangkitan (dari kubur), maka (ketahuilah) sesungguhn...
+
+Chapter 023: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 033 - Similarity: 99.8%
+  Original (303 chars):
+    Dan berkatalah pemuka-pemuka yang kafir di antara kaumnya dan yang mendustakan akan menemui hari akh...
+  Formatted (304 chars):
+    Dan berkatalah pemuka-pemuka yang kafir di antara kaumnya dan yang mendustakan akan menemui hari akh...
+
+Chapter 024: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 031 - Similarity: 99.9%
+  Original (923 chars):
+    Katakanlah kepada wanita yang beriman: "Hendaklah mereka menahan pandangannya, dan kemaluannya, dan ...
+  Formatted (924 chars):
+    Katakanlah kepada wanita yang beriman: "Hendaklah mereka menahan pandangannya, dan kemaluannya, dan ...
+
+Verse 040 - Similarity: 99.9%
+  Original (337 chars):
+    Atau seperti gelap gulita di lautan yang dalam, yang diliputi oleh ombak, yang di atasnya ombak (pul...
+  Formatted (338 chars):
+    Atau seperti gelap gulita di lautan yang dalam, yang diliputi oleh ombak, yang di atasnya ombak (pul...
+
+Verse 061 - Similarity: 79.8%
+  Original (911 chars):
+    Tidak ada halangan bagi orang buta, tidak (pula) bagi orang pincang, tidak (pula) bagi orang sakit, ...
+  Formatted (915 chars):
+    Tidak ada halangan bagi orang buta, tidak (pula) bagi orang pincang, tidak (pula) bagi orang sakit, ...
+
+Chapter 025: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 020 - Similarity: 99.8%
+  Original (239 chars):
+    Dan Kami tidak mengutus rasul-rasul sebelummu, melainkan mereka sungguh memakan makanan dan berjalan...
+  Formatted (240 chars):
+    Dan Kami tidak mengutus rasul-rasul sebelummu, melainkan mereka sungguh memakan makanan dan berjalan...
+
+Chapter 028: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 015 - Similarity: 99.9%
+  Original (512 chars):
+    Dan Musa masuk ke kota (Memphis) ketika penduduknya sedang lengah, maka didapatinya di dalam kota it...
+  Formatted (513 chars):
+    Dan Musa masuk ke kota (Memphis) ketika penduduknya sedang lengah, maka didapatinya di dalam kota it...
+
+Verse 063 - Similarity: 99.8%
+  Original (291 chars):
+    Berkatalah orang-orang yang telah tetap hukuman atas mereka; "Ya Tuhan kami, mereka inilah orang-ora...
+  Formatted (292 chars):
+    Berkatalah orang-orang yang telah tetap hukuman atas mereka; "Ya Tuhan kami, mereka inilah orang-ora...
+
+Verse 076 - Similarity: 99.9%
+  Original (381 chars):
+    Sesungguhnya Karun adalah termasuk kaum Musa, maka ia berlaku aniaya terhadap mereka, dan Kami telah...
+  Formatted (382 chars):
+    Sesungguhnya Karun adalah termasuk kaum Musa, maka ia berlaku aniaya terhadap mereka, dan Kami telah...
+
+Chapter 029: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 025 - Similarity: 99.9%
+  Original (381 chars):
+    Dan berkata Ibrahim: "Sesungguhnya berhala-berhala yang kamu sembah selain Allah adalah untuk mencip...
+  Formatted (382 chars):
+    Dan berkata Ibrahim: "Sesungguhnya berhala-berhala yang kamu sembah selain Allah adalah untuk mencip...
+
+Verse 040 - Similarity: 99.9%
+  Original (424 chars):
+    Maka masing-masing (mereka itu) Kami siksa disebabkan dosanya, maka di antara mereka ada yang Kami t...
+  Formatted (425 chars):
+    Maka masing-masing (mereka itu) Kami siksa disebabkan dosanya, maka di antara mereka ada yang Kami t...
+
+Chapter 031: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 015 - Similarity: 99.9%
+  Original (341 chars):
+    Dan jika keduanya memaksamu untuk mempersekutukan dengan Aku sesuatu yang tidak ada pengetahuanmu te...
+  Formatted (342 chars):
+    Dan jika keduanya memaksamu untuk mempersekutukan dengan Aku sesuatu yang tidak ada pengetahuanmu te...
+
+Verse 021 - Similarity: 72.7%
+  Original (322 chars):
+    Dan apabila dikatakan kepada mereka: "Ikutilah apa yang diturunkan Allah". Mereka menjawab: "(Tidak)...
+  Formatted (184 chars):
+    Dan apabila dikatakan kepada mereka: "Ikutilah apa yang diturunkan Allah". Mereka menjawab: "(Tidak)...
+
+Chapter 034: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 031 - Similarity: 99.8%
+  Original (473 chars):
+    Dan orang-orang kafir berkata: "Kami sekali-kali tidak akan beriman kepada Al Quran ini dan tidak (p...
+  Formatted (475 chars):
+    Dan orang-orang kafir berkata: "Kami sekali-kali tidak akan beriman kepada Al Quran ini dan tidak (p...
+
+Chapter 040: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.9%
+  Original (420 chars):
+    (Malaikat-malaikat) yang memikul 'Arsy dan malaikat yang berada di sekelilingnya bertasbih memuji Tu...
+  Formatted (421 chars):
+    (Malaikat-malaikat) yang memikul 'Arsy dan malaikat yang berada di sekelilingnya bertasbih memuji Tu...
+
+Chapter 046: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 020 - Similarity: 99.9%
+  Original (366 chars):
+    Dan (ingatlah) hari (ketika) orang-orang kafir dihadapkan ke neraka (kepada mereka dikatakan): "Kamu...
+  Formatted (367 chars):
+    Dan (ingatlah) hari (ketika) orang-orang kafir dihadapkan ke neraka (kepada mereka dikatakan): "Kamu...
+
+Verse 021 - Similarity: 99.8%
+  Original (321 chars):
+    Dan ingatlah (Hud) saudara kaum 'Aad yaitu ketika dia memberi peringatan kepada kaumnya di Al Ahqaaf...
+  Formatted (322 chars):
+    Dan ingatlah (Hud) saudara kaum 'Aad yaitu ketika dia memberi peringatan kepada kaumnya di Al Ahqaaf...
+
+Chapter 047: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 016 - Similarity: 99.8%
+  Original (328 chars):
+    Dan di antara mereka ada orang yang mendengarkan perkataanmu sehingga apabila mereka keluar dari sis...
+  Formatted (329 chars):
+    Dan di antara mereka ada orang yang mendengarkan perkataanmu sehingga apabila mereka keluar dari sis...
+
+Verse 020 - Similarity: 99.9%
+  Original (344 chars):
+    Dan orang-orang yang beriman berkata: "Mengapa tiada diturunkan suatu surat?" Maka apabila diturunka...
+  Formatted (345 chars):
+    Dan orang-orang yang beriman berkata: "Mengapa tiada diturunkan suatu surat?" Maka apabila diturunka...
+
+Chapter 048: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 020 - Similarity: 99.8%
+  Original (315 chars):
+    Allah menjanjikan kepada kamu harta rampasan yang banyak yang dapat kamu ambil, maka disegerakan-Nya...
+  Formatted (316 chars):
+    Allah menjanjikan kepada kamu harta rampasan yang banyak yang dapat kamu ambil, maka disegerakan-Nya...
+
+Chapter 057: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 027 - Similarity: 99.7%
+  Original (591 chars):
+    Kemudian Kami iringi di belakang mereka dengan rasul-rasul Kami dan Kami iringi (pula) dengan Isa pu...
+  Formatted (594 chars):
+    Kemudian Kami iringi di belakang mereka dengan rasul-rasul Kami dan Kami iringi (pula) dengan Isa pu...
+
+Chapter 059: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 010 - Similarity: 99.9%
+  Original (346 chars):
+    Dan orang-orang yang datang sesudah mereka (Muhajirin dan Anshor), mereka berdoa: "Ya Rabb kami, ber...
+  Formatted (347 chars):
+    Dan orang-orang yang datang sesudah mereka (Muhajirin dan Anshor), mereka berdoa: "Ya Rabb kami, ber...
+
+Verse 023 - Similarity: 99.8%
+  Original (254 chars):
+    Dialah Allah Yang tiada Tuhan selain Dia, Raja, Yang Maha Suci, Yang Maha Sejahtera, Yang Mengarunia...
+  Formatted (255 chars):
+    Dialah Allah Yang tiada Tuhan selain Dia, Raja, Yang Maha Suci, Yang Maha Sejahtera, Yang Mengarunia...
+
+Chapter 061: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 014 - Similarity: 99.8%
+  Original (512 chars):
+    Hai orang-orang yang beriman, jadilah kamu penolong (agama) Allah sebagaimana Isa ibnu Maryam telah ...
+  Formatted (514 chars):
+    Hai orang-orang yang beriman, jadilah kamu penolong (agama) Allah sebagaimana Isa ibnu Maryam telah ...
+
+Chapter 064: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 014 - Similarity: 99.8%
+  Original (279 chars):
+    Hai orang-orang mukmin, sesungguhnya di antara isteri-isterimu dan anak-anakmu ada yang menjadi musu...
+  Formatted (280 chars):
+    Hai orang-orang mukmin, sesungguhnya di antara isteri-isterimu dan anak-anakmu ada yang menjadi musu...
+
+Chapter 066: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.8%
+  Original (297 chars):
+    Hai orang-orang yang beriman, peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya ...
+  Formatted (298 chars):
+    Hai orang-orang yang beriman, peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya ...
+
+Verse 008 - Similarity: 99.8%
+  Original (550 chars):
+    Hai orang-orang yang beriman, bertaubatlah kepada Allah dengan taubatan nasuhaa (taubat yang semurni...
+  Formatted (552 chars):
+    Hai orang-orang yang beriman, bertaubatlah kepada Allah dengan taubatan nasuhaa (taubat yang semurni...
+
+Verse 011 - Similarity: 99.8%
+  Original (264 chars):
+    Dan Allah membuat isteri Fir'aun perumpamaan bagi orang-orang yang beriman, ketika ia berkata: "Ya R...
+  Formatted (265 chars):
+    Dan Allah membuat isteri Fir'aun perumpamaan bagi orang-orang yang beriman, ketika ia berkata: "Ya R...

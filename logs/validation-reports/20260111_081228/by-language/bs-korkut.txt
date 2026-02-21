@@ -1,0 +1,867 @@
+================================================================================
+VALIDATION REPORT: bs-korkut
+================================================================================
+
+Total mismatches: 127
+
+By severity:
+  Critical (<80%):  5
+  Moderate (80-95%): 1
+  Minor (95-99%):   1
+  Trivial (>99%):   120
+
+================================================================================
+ISSUES BY CHAPTER
+================================================================================
+
+
+Chapter 002: 13 issues
+--------------------------------------------------------------------------------
+
+Verse 058 - Similarity: 99.8%
+  Original (215 chars):
+    i kada smo rekli: "Uđite u ovaj grad i jedite što god hoćete i koliko god hoćete, a na kapiju pognut...
+  Formatted (216 chars):
+    i kada smo rekli: "Uđite u ovaj grad i jedite što god hoćete i koliko god hoćete, a na kapiju pognut...
+
+Verse 067 - Similarity: 99.7%
+  Original (171 chars):
+    A kada je Musa rekao narodu svome: "Allah vam naređuje da zakoljete kravu" – oni upitaše: "Zbijaš li...
+  Formatted (172 chars):
+    A kada je Musa rekao narodu svome: "Allah vam naređuje da zakoljete kravu" – oni upit aše: "Zbijaš l...
+
+Verse 090 - Similarity: 99.8%
+  Original (241 chars):
+    Jadno je to za što su se prodali: da ne vjeruju u ono što Allah objavljuje, samo iz zlobe što Allah,...
+  Formatted (242 chars):
+    Jadno je to za što su se prodali: da ne vjeruju u ono što Allah objavljuje, samo iz zlobe što Allah,...
+
+Verse 126 - Similarity: 99.8%
+  Original (322 chars):
+    A kada je Ibrahim zamolio: "Gospodaru moj, učini ovo mjesto sigurnim gradom, a snabdij plodovima sta...
+  Formatted (323 chars):
+    A kada je Ibrahim zamolio: "Gospodaru moj, učini ovo mjesto sigurnim gradom, a snabdij plodovima sta...
+
+Verse 133 - Similarity: 99.8%
+  Original (264 chars):
+    Vi niste bili prisutni kada je Jakubu smrtni čas došao i kada je sinove svoje upitao: "Kome ćete se,...
+  Formatted (265 chars):
+    Vi niste bili prisutni kada je Jakubu smrtni čas došao i kada je sinove svoje upitao: "Kome ćete se,...
+
+Verse 177 - Similarity: 99.8%
+  Original (529 chars):
+    Nije čestitost u tome da okrećete lica svoja prema istoku i zapadu; čestiti su oni koji vjeruju u Al...
+  Formatted (531 chars):
+    Nije čestitost u tome da okrećete lica svoja prema istoku i zapadu; čestiti su oni koji vjeruju u Al...
+
+Verse 213 - Similarity: 99.8%
+  Original (491 chars):
+    Svi ljudi su sačinjavali jednu zajednicu, i Allah je slao vjerovjesnike da donose radosne vijesti i ...
+  Formatted (493 chars):
+    Svi ljudi su sačinjavali jednu zajednicu, i Allah je slao vjerovjesnike da donose radosne vijesti i ...
+
+Verse 219 - Similarity: 69.5%
+  Original (229 chars):
+    Pitaju te o vinu i kocki. Reci: "Oni donose veliku štetu, a i neku korist ljudima, samo je šteta od ...
+  Formatted (122 chars):
+    Pitaju te o vinu i kocki. Reci: "Oni donose veliku štetu, a i neku korist ljudima, samo je šteta od ...
+
+Verse 235 - Similarity: 99.6%
+  Original (392 chars):
+    I nije vam grehota ako tim ženama na znanje date da ćete ih vi zaprositi ili ako to u dušama svojim ...
+  Formatted (395 chars):
+    I nije vam grehota ako tim ženama na znanje date da ćete ih vi zaprositi ili ako to u dušama svoji m...
+
+Verse 237 - Similarity: 99.9%
+  Original (368 chars):
+    A ako ih pustite prije nego što ste u odnos sa njima stupili, a već ste im vjenčani dar odredili, on...
+  Formatted (369 chars):
+    A ako ih pustite prije nego što ste u odnos sa njima stupili, a već ste im vjenčani dar odredili, on...
+
+  ... and 3 more issues in this chapter
+
+Chapter 003: 10 issues
+--------------------------------------------------------------------------------
+
+Verse 027 - Similarity: 99.6%
+  Original (128 chars):
+    Ti uvodiš noć u dan, i uvodiš dan u noć; Ti od neživog stvaraš živo, i od živog neživo; Ti opskrblju...
+  Formatted (129 chars):
+    Ti uvodiš noć u dan, i uvodiš dan u noć; Ti od neživog stvaraš ž ivo, i od živog neživo; Ti opskrblj...
+
+Verse 036 - Similarity: 99.8%
+  Original (232 chars):
+    Poslije ona, kada je rodi, reče: "Gospodaru moj, rodila sam žensko" – a Allah dobro zna šta je rodil...
+  Formatted (233 chars):
+    Poslije ona, kada je rodi, reče: "Gospodaru moj, rodila sam žensko" – a Allah dobro zna šta je rodil...
+
+Verse 049 - Similarity: 99.6%
+  Original (386 chars):
+    i poslati kao poslanika sinovima Israilovim: "Donosim vam dokaz od Gospodara vašeg: napraviću vam od...
+  Formatted (389 chars):
+    i poslati kao poslanika sinovima Israilovim: "Donosim vam dokaz od Gospodara vašeg: napraviću va m o...
+
+Verse 052 - Similarity: 99.8%
+  Original (238 chars):
+    A kada se Isa uvjerio da oni neće da vjeruju, uzviknuo je: "Koji će biti pomagači moji na Allahovom ...
+  Formatted (239 chars):
+    A kada se Isa uvjerio da oni neće da vjeruju, uzviknuo je: "Koji će biti pomagači moji na Allahovom ...
+
+Verse 073 - Similarity: 99.9%
+  Original (337 chars):
+    I nemojte priznati nikom, osim istovjernicima vašim, da i nekom drugom može biti dato nešto slično o...
+  Formatted (338 chars):
+    I nemojte priznati nikom, osim istovjernicima vašim, da i nekom drugom može biti dato nešto slično o...
+
+Verse 077 - Similarity: 99.8%
+  Original (255 chars):
+    Oni koji obavezu svoju prema Allahu i zakletve svoje zamjenjuju nečim što malo vrijedi – na onome sv...
+  Formatted (256 chars):
+    Oni koji obavezu svoju prema Allahu i zakletve svoje zamjenjuju nečim što malo vrijedi – na onome sv...
+
+Verse 078 - Similarity: 99.7%
+  Original (196 chars):
+    Neki od njih uvijaju jezike svoje čitajući Knjigu da biste vi pomislili da je to iz Knjige, a to nij...
+  Formatted (197 chars):
+    Neki od njih uvijaju jezike svoje čitajući Knjigu da biste vi pomislili da je to iz Knjige, a to n i...
+
+Verse 112 - Similarity: 99.8%
+  Original (297 chars):
+    Ma gdje se našli, biće poniženi, ako se ne stave pod Allahovu zaštitu i zaštitu muslimana, i zasluži...
+  Formatted (298 chars):
+    Ma gdje se našli, biće poniženi, ako se ne stave pod Allahovu zaštitu i zaštitu muslimana, i zasluži...
+
+Verse 154 - Similarity: 99.8%
+  Original (599 chars):
+    Zatim vam je, poslije nevolje, spokojstvo ulio, san je neke od vas uhvatio, a drugi su se brinuli sa...
+  Formatted (602 chars):
+    Zatim vam je, poslije nevolje, spokojstvo ulio, san je neke od vas uhvatio, a drugi su se brinuli sa...
+
+Verse 185 - Similarity: 57.1%
+  Original (223 chars):
+    Svako živo biće će smrt okusiti! I samo na Sudnjem danu dobićete u potpunosti plaće vaše, i ko bude ...
+  Formatted (89 chars):
+    Svako živo biće će smrt okusiti! I samo na Sudnjem danu dobićete u potpunosti plaće vaše,...
+
+Chapter 004: 9 issues
+--------------------------------------------------------------------------------
+
+Verse 012 - Similarity: 99.9%
+  Original (737 chars):
+    A vama pripada – polovina onoga što ostave žene vaše, ako ne budu imale djeteta, a ako budu imale di...
+  Formatted (739 chars):
+    A vama pripada – polovina onoga što ostave žene vaše, ako ne budu imale djeteta, a ako budu imale di...
+
+Verse 023 - Similarity: 99.8%
+  Original (508 chars):
+    Zabranjuju vam se: matere vaše, i kćeri vaše, i sestre vaše, i sestre očeva vaših, i sestre matera v...
+  Formatted (510 chars):
+    Zabranjuju vam se: matere vaše, i kćeri vaše, i sestre vaše, i sestre očeva vaših, i sestre matera v...
+
+Verse 036 - Similarity: 0.0%
+  ⚠️  VERSE MISSING IN FORMATTED VERSION
+  Original (285 chars):
+    I Allahu se klanjajte i nikoga Njemu ravnim ne smatrajte! A roditeljima dobročinstvo činite, i rođac...
+  Formatted (0 chars):
+    ...
+
+Verse 043 - Similarity: 99.8%
+  Original (402 chars):
+    O vjernici, pijani nikako molitvu ne obavljajte, sve dok ne budete znali šta izgovarate, i kada ste ...
+  Formatted (404 chars):
+    O vjernici, pijani nikako molitvu ne obavljajte, sve dok ne budete znali šta izgovarate, i kada ste ...
+
+Verse 077 - Similarity: 99.7%
+  Original (466 chars):
+    Zar ne vidiš one kojima je rečeno: "Dalje od boja, već molitvu obavljajte i milostinju dajite!" A ka...
+  Formatted (469 chars):
+    Zar ne vidiš one kojima je rečeno: "Dalje od boja, već molitvu obavljajte i milostinju dajite!" A ka...
+
+Verse 091 - Similarity: 99.7%
+  Original (304 chars):
+    Vi ćete nailaziti i na one koji žele biti sigurni i od vas i od naroda svog; kad god se pozovu da bu...
+  Formatted (306 chars):
+    Vi ćete nailaziti i na one koji žele biti sigurni i od vas i od naroda svog; kad god se pozovu da bu...
+
+Verse 092 - Similarity: 99.7%
+  Original (581 chars):
+    Nezamislivo je da vjernik ubije vjernika, to se može dogoditi samo – nehotice. Onaj ko ubije vjernik...
+  Formatted (584 chars):
+    Nezamislivo je da vjernik ubije vjernika, to se može dogoditi samo – nehotice. Onaj ko ubije vjernik...
+
+Verse 119 - Similarity: 99.8%
+  Original (273 chars):
+    i navodiću ih, sigurno, na stranputice, i primamljivaću ih, sigurno, lažnim nadama, i sigurno ću im ...
+  Formatted (274 chars):
+    i navodiću ih, sigurno, na stranputice, i primamljivaću ih, sigurno, lažnim nadama, i sigurno ću im ...
+
+Verse 163 - Similarity: 99.8%
+  Original (232 chars):
+    Mi objavljujemo tebi kao što smo objavljivali Nuhu i vjerovjesnicima poslije njega, a objavljivali s...
+  Formatted (233 chars):
+    Mi objavljujemo tebi kao što smo objavljivali Nuhu i vjerovjesnicima poslije njega, a objavljivali s...
+
+Chapter 005: 7 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.7%
+  Original (523 chars):
+    O vjernici, kad hoćete molitvu obaviti, lica svoja i ruke svoje do iza lakata operite – a dio glava ...
+  Formatted (526 chars):
+    O vjernici, kad hoćete molitvu obaviti, lica svoja i ruke svoje do iza lakata operite – a dio glava ...
+
+Verse 048 - Similarity: 99.9%
+  Original (516 chars):
+    A tebi objavljujemo Knjigu, samu istinu, da potvrdi knjige prije nje objavljene i da nad njima bdi. ...
+  Formatted (515 chars):
+    A tebi objavljujemo Knjigu, samu istinu, da potvrdi knjige prije nje objavljene i da nad njima bdi. ...
+
+Verse 082 - Similarity: 99.6%
+  Original (239 chars):
+    Ti ćeš, sigurno, naći da su vjernicima najljući neprijatelji jevreji i mnogobošci; i svakako ćeš nać...
+  Formatted (241 chars):
+    Ti ćeš, sigurno, naći da su vjernicima najljući neprijatelji jevreji i mnogoboš ci; i svakako ćeš na...
+
+Verse 083 - Similarity: 99.7%
+  Original (192 chars):
+    Kada slušaju ono što se objavljuje Poslaniku, vidiš kako im liju suze iz očiju jer znaju da je to Is...
+  Formatted (193 chars):
+    Kada slušaju ono što se objavljuje Poslaniku, vidiš kako im liju suze iz očiju jer znaju da je t o I...
+
+Verse 104 - Similarity: 99.8%
+  Original (224 chars):
+    A kada im se kaže: "Pristupite onome što Allah objavljuje, i Poslaniku!", oni odgovaraju: "Dovoljno ...
+  Formatted (225 chars):
+    A kada im se kaže: "Pristupite onome što Allah objavljuje, i Poslaniku!", oni odgovaraju: "Dovoljno ...
+
+Verse 110 - Similarity: 99.8%
+  Original (636 chars):
+    Kad Allah rekne: "O Isa, sine Merjemin, sjeti se blagodati Moje prema tebi i majci tvojoj: kada sam ...
+  Formatted (638 chars):
+    Kad Allah rekne: "O Isa, sine Merjemin, sjeti se blagodati Moje prema tebi i majci tvojoj: kada sam ...
+
+Verse 114 - Similarity: 99.7%
+  Original (188 chars):
+    Isa, sin Merjemin, reče: "O Allahu, Gospodaru naš, spusti nam s neba trpezu da nam bude blagdan, i p...
+  Formatted (189 chars):
+    Isa, sin Merjemin, reče: "O Allahu, Gospodaru naš, spusti nam s neba trpezu da nam bude blagda n, i ...
+
+Chapter 006: 9 issues
+--------------------------------------------------------------------------------
+
+Verse 019 - Similarity: 99.9%
+  Original (348 chars):
+    Reci: "Ko je svjedok najpouzdaniji?" – i odgovori: "Allah, On će između mene i vas svjedok biti. A m...
+  Formatted (349 chars):
+    Reci: "Ko je svjedok najpouzdaniji?" – i odgovori: "Allah, On će između mene i vas svjedok biti. A m...
+
+Verse 031 - Similarity: 99.6%
+  Original (232 chars):
+    Oni koji ne vjeruju da će pred Allaha stati nastradaće kad im iznenada Čas oživljenja dođe, i reći ć...
+  Formatted (234 chars):
+    Oni koji ne vjeruju da će pred Allaha stati nastradaće kad im iznenada Čas ož ivljenja dođe, i reći ...
+
+Verse 065 - Similarity: 99.8%
+  Original (222 chars):
+    Reci: "On je kadar poslati protiv vas kaznu iznad vaših glava ili ispod vaših nogu ili da vas u stra...
+  Formatted (223 chars):
+    Reci: "On je kadar poslati protiv vas kaznu iznad vaših glava ili ispod vaših nogu ili da vas u stra...
+
+Verse 070 - Similarity: 99.8%
+  Original (402 chars):
+    Ostavi one koji vjeru svoju kao igru i zabavu uzimaju, i koje je život na ovome svijetu obmanuo, a o...
+  Formatted (404 chars):
+    Ostavi one koji vjeru svoju kao igru i zabavu uzimaju, i koje je život na ovome svijetu obmanuo, a o...
+
+Verse 071 - Similarity: 99.7%
+  Original (395 chars):
+    Reci: "Zar da se, pored Allaha, klanjamo onima koji nam ne mogu nikakvu korist pribaviti ni neku šte...
+  Formatted (397 chars):
+    Reci: "Zar da se, pored Allaha, klanjamo onima koji nam ne mogu nikakvu korist pribaviti ni neku šte...
+
+Verse 073 - Similarity: 99.8%
+  Original (234 chars):
+    i On je Taj koji je nebesa i Zemlju mudro stvorio: čim On za nešto rekne: 'Budi!' – ono biva; riječ ...
+  Formatted (235 chars):
+    i On je Taj koji je nebesa i Zemlju mudro stvorio: čim On za nešto rekne: 'Budi!' – ono biva; riječ ...
+
+Verse 091 - Similarity: 99.7%
+  Original (360 chars):
+    Jevreji ne poznaju Allaha kako treba – kad govore: "Nijednom čovjeku Allah nije ništa objavio!" Reci...
+  Formatted (362 chars):
+    Jevreji ne poznaju Allaha kako treba – kad govore: "Nijednom čovjeku Allah nije ništa objavio!" Reci...
+
+Verse 145 - Similarity: 99.9%
+  Original (356 chars):
+    Reci: "Ja ne vidim u ovome što mi se objavljuje da je ikome zabranjeno jesti ma šta drugo osim strvi...
+  Formatted (357 chars):
+    Reci: "Ja ne vidim u ovome što mi se objavljuje da je ikome zabranjeno jesti ma šta drugo osim strvi...
+
+Verse 165 - Similarity: 99.8%
+  Original (212 chars):
+    On čini da jedni druge na Zemlji smjenjujete i On vas po položaju jedne iznad drugih uzdiže da bi va...
+  Formatted (213 chars):
+    On čini da jedni druge na Zemlji smjenjujete i On vas po položaju jedne iznad drugih uzdiže da bi va...
+
+Chapter 007: 13 issues
+--------------------------------------------------------------------------------
+
+Verse 020 - Similarity: 99.8%
+  Original (204 chars):
+    I šejtan im poče bajati da bi im otkrio stidna mjesta njihova, koja su im skrivena bila, i reče: "Go...
+  Formatted (205 chars):
+    I šejtan im poče bajati da bi im otkrio stidna mjesta njihova, koja su im skrivena bila, i reče: "Go...
+
+Verse 032 - Similarity: 99.8%
+  Original (227 chars):
+    Reci: "Ko je zabranio Allahove ukrase, koje je On za robove Svoje stvorio, i ukusna jela?" Reci: "On...
+  Formatted (228 chars):
+    Reci: "Ko je zabranio Allahove ukrase, koje je On za robove Svoje stvorio, i ukusna jela?" Reci: "On...
+
+Verse 033 - Similarity: 99.8%
+  Original (205 chars):
+    Reci: "Gospodar moj zabranjuje razvrat, i javni i potajni, i grijehe, i neopravdano nasilje, i da Al...
+  Formatted (206 chars):
+    Reci: "Gospodar moj zabranjuje razvrat, i javni i potajni, i grijehe, i neopravdano nasilje, i da Al...
+
+Verse 043 - Similarity: 99.7%
+  Original (344 chars):
+    Iz njihovih grudi ćemo zlobu odstraniti; ispred njih će rijeke teći, i oni će govoriti: "Hvaljen nek...
+  Formatted (346 chars):
+    Iz njihovih grudi ćemo zlobu odstraniti; ispred njih će rijeke teći, i oni će govoriti: "Hvaljen nek...
+
+Verse 051 - Similarity: 99.8%
+  Original (211 chars):
+    kojima je vjera njihova bila igra i zabava i koje je život na Zemlji bio obmanuo." – Sada ćemo Mi nj...
+  Formatted (212 chars):
+    kojima je vjera njihova bila igra i zabava i koje je život na Zemlji bio obmanuo." – Sada ćemo Mi nj...
+
+Verse 069 - Similarity: 99.8%
+  Original (300 chars):
+    Zar vam je čudno što vam pouka od Gospodara vašeg dolazi po čovjeku, jednom od vas, da vas opominje?...
+  Formatted (301 chars):
+    Zar vam je čudno što vam pouka od Gospodara vašeg dolazi po čovjeku, jednom od vas, da vas opominje?...
+
+Verse 074 - Similarity: 99.8%
+  Original (246 chars):
+    I sjetite se da ste Njegovom voljom postali nasljednici Ada i da vas je On na Zemlji nastanio; u rav...
+  Formatted (247 chars):
+    I sjetite se da ste Njegovom voljom postali nasljednici Ada i da vas je On na Zemlji nastanio; u rav...
+
+Verse 087 - Similarity: 99.7%
+  Original (144 chars):
+    I ako jedni od vas vjeruju u ono što je po meni poslano, a drugi ne vjeruju, pa pričekajte dok nam A...
+  Formatted (145 chars):
+    I ako jedni od vas vjeruju u ono što je po meni poslano, a drugi ne vjeruju, pa pričekajte dok nam A...
+
+Verse 088 - Similarity: 99.8%
+  Original (225 chars):
+    Glavešine naroda njegova, one koje su bile ohole, rekoše: "Ili ćete bezuvjetno vjeru našu prihvatiti...
+  Formatted (226 chars):
+    Glavešine naroda njegova, one koje su bile ohole, rekoše: "Ili ćete bezuvjetno vjeru našu prihvatiti...
+
+Verse 089 - Similarity: 0.7%
+  Original (307 chars):
+    "Ako bismo vjeru vašu prihvatili nakon što nas je Allah spasio nje, na Allaha bismo laž iznijeli. Mi...
+  Formatted (308 chars):
+    Ako bismo vjeru vašu prihvatili nakon što nas je Allah spasio nje, na Allaha bismo laž iznijeli. Mi ...
+
+  ... and 3 more issues in this chapter
+
+Chapter 008: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.8%
+  Original (220 chars):
+    I kada vam je Allah obećao da će vaša biti jedna od dvije skupine – a vi ste više voljeli da vam pad...
+  Formatted (221 chars):
+    I kada vam je Allah obećao da će vaša biti jedna od dvije skupine – a vi ste više voljeli da vam pad...
+
+Verse 011 - Similarity: 99.8%
+  Original (214 chars):
+    kad je On učinio da se radi sigurnosti svoje u san zavedete i s neba vam kišu spustio da bi vas njom...
+  Formatted (215 chars):
+    kad je On učinio da se radi sigurnosti svoje u san zavedete i s neba vam kišu spustio da bi vas njom...
+
+Chapter 009: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 024 - Similarity: 99.9%
+  Original (377 chars):
+    Reci: "Ako su vam očevi vaši, i sinovi vaši, i braća vaša, i žene vaše, i rod vaš, i imanja vaša koj...
+  Formatted (378 chars):
+    Reci: "Ako su vam očevi vaši, i sinovi vaši, i braća vaša, i žene vaše, i rod vaš, i imanja vaša koj...
+
+Chapter 010: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 015 - Similarity: 99.8%
+  Original (323 chars):
+    A kad im se kazuju ajeti Naši, koji su jasni, onda govore oni koji ne vjeruju da će pred Nas stati: ...
+  Formatted (324 chars):
+    A kad im se kazuju ajeti Naši, koji su jasni, onda govore oni koji ne vjeruju da će pred Nas stati: ...
+
+Verse 083 - Similarity: 99.7%
+  Original (199 chars):
+    I ne povjerova Musau niko, osim malo njih iz naroda faraonova, iz straha da ih faraon i glavešine nj...
+  Formatted (200 chars):
+    I ne povjerova Musau niko, osim malo njih iz naroda faraonova, iz straha da ih faraon i glavešine n ...
+
+Verse 107 - Similarity: 99.8%
+  Original (219 chars):
+    Ako ti Allah dade kakvu nevolju, niko je osim Njega ne može otkloniti, a ako ti zaželi dobro – pa, n...
+  Formatted (220 chars):
+    Ako ti Allah dade kakvu nevolju, niko je osim Njega ne može otkloniti, a ako ti zaželi dobro – pa, n...
+
+Chapter 011: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 031 - Similarity: 99.8%
+  Original (281 chars):
+    Ja vam ne kažem: 'U mene su Allahove riznice' – niti: 'Meni je poznata budućnost' – niti kažem: 'Ja ...
+  Formatted (282 chars):
+    Ja vam ne kažem: 'U mene su Allahove riznice' – niti: 'Meni je poznata budućnost' – niti kažem: 'Ja ...
+
+Verse 043 - Similarity: 99.8%
+  Original (200 chars):
+    a on reče: "Skloniću se na kakvo brdo koje će me od vode zaštititi." – "Niko danas Allahove kazne ne...
+  Formatted (201 chars):
+    a on reče: "Skloniću se na kakvo brdo koje će me od vode zaštititi." – "Niko danas Allahove kazne ne...
+
+Chapter 012: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 041 - Similarity: 99.7%
+  Original (161 chars):
+    O drugovi moji u tamnici, jedan od vas će gospodara svoga vinom pojiti, a drugi će raspet biti, pa ć...
+  Formatted (162 chars):
+    O drugovi moji u tamnici, jedan od vas će gospodara svoga vinom pojiti, a drugi će raspet biti, pa ć...
+
+Verse 050 - Similarity: 99.3%
+  Original (202 chars):
+    I vladar reče: "Dovedite mi ga!" I kad Jusufu izaslanik dođe, on reče: "Vrati se gospodaru svome i u...
+  Formatted (203 chars):
+    I vladar reče: "Dovedite mi ga!" I kad Jusufu izaslanik dođe, on reče: "Vrati se gospodaru svome i u...
+
+Verse 088 - Similarity: 99.8%
+  Original (241 chars):
+    I kad oni iziđoše pred Jusufa, rekoše: "O upravniče, i nas i čeljad našu pritisla je nevolja; donije...
+  Formatted (242 chars):
+    I kad oni iziđoše pred Jusufa, rekoše: "O upravniče, i nas i čeljad našu pritisla je nevolja; donije...
+
+Verse 101 - Similarity: 99.8%
+  Original (217 chars):
+    Gospodaru moj, Ti si mi dao dio vlasti i naučio me tumačenju nekih snova! O Stvoritelju nebesa i Zem...
+  Formatted (218 chars):
+    Gospodaru moj, Ti si mi dao dio vlasti i naučio me tumačenju nekih snova! O Stvoritelju nebesa i Zem...
+
+Chapter 013: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 016 - Similarity: 99.9%
+  Original (461 chars):
+    Reci: "Ko je Gospodar nebesa i Zemlje?" – i odgovori: "Allah!" Reci: "Pa zašto ste onda umjesto Njeg...
+  Formatted (462 chars):
+    Reci: "Ko je Gospodar nebesa i Zemlje?" – i odgovori: "Allah!" Reci: "Pa zašto ste onda umjesto Njeg...
+
+Chapter 014: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 011 - Similarity: 99.8%
+  Original (225 chars):
+    "Mi jesmo ljudi kao i vi" – govorili su im poslanici njihovi – "ali, Allah daje poslanstvo samo onim...
+  Formatted (226 chars):
+    "Mi jesmo ljudi kao i vi" – govorili su im poslanici njihovi – "ali, Allah daje poslanstvo samo onim...
+
+Verse 022 - Similarity: 99.7%
+  Original (391 chars):
+    I kada bude sve riješeno, šejtan će reći: "Allah vam je prâvō obećanje dao, a ja sam svoja obećanja ...
+  Formatted (393 chars):
+    I kada bude sve riješeno, šejtan će reći: "Allah vam je prâvō obećanje dao, a ja sam svoja obećanja ...
+
+Chapter 016: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 086 - Similarity: 99.8%
+  Original (212 chars):
+    A kad oni koji su Njemu druge ravnim smatrali – božanstva svoja ugledaju i reknu: "Gospodaru naš, ov...
+  Formatted (213 chars):
+    A kad oni koji su Njemu druge ravnim smatrali – božanstva svoja ugledaju i reknu: "Gospodaru naš, ov...
+
+Chapter 018: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 082 - Similarity: 99.8%
+  Original (306 chars):
+    a što se onoga zida tiče – on je dvojice dječaka, siročadi iz grada, a pod njim je zakopano njihovo ...
+  Formatted (307 chars):
+    a što se onoga zida tiče – on je dvojice dječaka, siročadi iz grada, a pod njim je zakopano njihovo ...
+
+Chapter 020: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 130 - Similarity: 99.7%
+  Original (190 chars):
+    Zato otrpi njihove riječi i obavljaj molitvu, hvaleći Gospodara svoga, prije izlaska Sunca i prije z...
+  Formatted (191 chars):
+    Zato otrpi njihove riječi i obavljaj molitvu, hvaleći Gospodara svoga, prije izlaska Sunca i pr ije ...
+
+Chapter 022: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 036 - Similarity: 99.8%
+  Original (285 chars):
+    A kamile smo vam učinili jednim od Allahovih obreda hadža, i vi od njih imate koristi; zato spominji...
+  Formatted (286 chars):
+    A kamile smo vam učinili jednim od Allahovih obreda hadža, i vi od njih imate koristi; zato spominji...
+
+Chapter 023: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 027 - Similarity: 99.8%
+  Original (313 chars):
+    I Mi mu objavismo: "Gradi lađu pod Našom pažnjom i prema Našem nadahnuću, pa kad zapovijed Naša dođe...
+  Formatted (314 chars):
+    I Mi mu objavismo: "Gradi lađu pod Našom pažnjom i prema Našem nadahnuću, pa kad zapovijed Naša dođe...
+
+Chapter 024: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 061 - Similarity: 99.9%
+  Original (621 chars):
+    Nije grijeh slijepcu, niti je grijeh hromu, niti je grijeh bolesnu, a ni vama samima da jedete u kuć...
+  Formatted (622 chars):
+    Nije grijeh slijepcu, niti je grijeh hromu, niti je grijeh bolesnu, a ni vama samima da jedete u kuć...
+
+Chapter 027: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 040 - Similarity: 99.7%
+  Original (363 chars):
+    "A ja ću ti ga donijeti" – reče onaj koji je učio iz Knjige – "prije nego što okom trepneš." I kad S...
+  Formatted (365 chars):
+    "A ja ću ti ga donijeti" – reče onaj koji je učio iz Knjige – "prije nego što okom trepneš." I kad S...
+
+Chapter 028: 8 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.7%
+  Original (174 chars):
+    I Mi nadahnusmo Musaovu majku: "Doji ga, a kad se uplašiš za njegov život, baci ga u rijeku, i ne st...
+  Formatted (175 chars):
+    I Mi nadahnusmo Musaovu majku: "Doji ga, a kad se uplašiš za njegov život, baci ga u ri jeku, i ne s...
+
+Verse 015 - Similarity: 99.9%
+  Original (364 chars):
+    I on uđe u grad neopažen od stanovnika njegovih i u njemu zateče dvojicu ljudi kako se tuku, jedan j...
+  Formatted (365 chars):
+    I on uđe u grad neopažen od stanovnika njegovih i u njemu zateče dvojicu ljudi kako se tuku, jedan j...
+
+Verse 019 - Similarity: 99.7%
+  Original (183 chars):
+    i kad htjede ščepati zajedničkog im neprijatelja, reče mu onaj: "O Musa, zar ćeš ubiti i mene kao št...
+  Formatted (184 chars):
+    i kad htjede ščepati zajedničkog im neprijatelja, reče mu onaj: "O Musa, zar ćeš ubiti i mene kao št...
+
+Verse 027 - Similarity: 99.8%
+  Original (223 chars):
+    "Ja želim da te oženim jednom od ove dvije kćeri moje" – reče on – "ali trebaš me osam godina služit...
+  Formatted (224 chars):
+    "Ja želim da te oženim jednom od ove dvije kćeri moje" – reče on – "ali trebaš me osam godina služit...
+
+Verse 032 - Similarity: 99.7%
+  Original (199 chars):
+    Uvuci svoju ruku u njedra svoja, pojaviće se bijela, a bez mahane, i priberi se tako od straha! To s...
+  Formatted (200 chars):
+    Uvuci svoju ruku u njedra svoja, pojaviće se bijela, a bez mahane, i priberi se tako od straha! To s...
+
+Verse 063 - Similarity: 99.8%
+  Original (207 chars):
+    reći će onī na kojima će se riječ obistiniti: "Gospodaru naš, ove što smo na stranputicu naveli – na...
+  Formatted (208 chars):
+    reći će onī na kojima će se riječ obistiniti: "Gospodaru naš, ove što smo na stranputicu naveli – na...
+
+Verse 077 - Similarity: 0.9%
+  Original (227 chars):
+    "i nastoj da time što ti je Allah dao stekneš onaj svijet, a ne zaboravi ni svoj udio na ovome svije...
+  Formatted (228 chars):
+    i nastoj da time što ti je Allah dao stekneš onaj svijet, a ne zaboravi ni svoj udio na ovome svijet...
+
+Verse 078 - Similarity: 99.6%
+  Original (246 chars):
+    "Ovo što imam stekao sam znanjem svojim, tako ja mislim" – govorio je on. A zar nije znao da je Alla...
+  Formatted (248 chars):
+    "Ovo što imam stekao sam znanjem svojim, tako ja mislim" – govorio je on. A zar ni je znao da je All...
+
+Chapter 029: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 025 - Similarity: 99.8%
+  Original (286 chars):
+    "Vi ste" – reče on – "mimo Allaha kumire prihvatili da biste u životu na ovome svijetu međusobne pri...
+  Formatted (287 chars):
+    "Vi ste" – reče on – "mimo Allaha kumire prihvatili da biste u životu na ovome svijetu međusobne pri...
+
+Verse 029 - Similarity: 99.7%
+  Original (187 chars):
+    s muškarcima općite, po drumovima presrećete, i na skupovima svojim najodvratnije stvari činite" – o...
+  Formatted (188 chars):
+    s muškarcima općite, po drumovima presrećete, i na skupovima svojim najodvratnije stvari čini te" – ...
+
+Chapter 031: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 015 - Similarity: 99.8%
+  Original (283 chars):
+    A ako te budu nagovarali da drugog Meni ravnim smatraš, onoga o kome ništa ne znaš, ti ih ne slušaj ...
+  Formatted (284 chars):
+    A ako te budu nagovarali da drugog Meni ravnim smatraš, onoga o kome ništa ne znaš, ti ih ne slušaj ...
+
+Chapter 032: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 020 - Similarity: 99.7%
+  Original (168 chars):
+    a one koji nisu vjerovali čeka vatra u kojoj će prebivati; kad god pokušaju iz nje izići, biće u nju...
+  Formatted (169 chars):
+    a one koji nisu vjerovali čeka vatra u kojoj će prebivati; kad god pokušaju iz nje i zići, biće u nj...
+
+Chapter 033: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 035 - Similarity: 99.9%
+  Original (578 chars):
+    Muslimanima i muslimankama, i vjernicima i vjernicama, i poslušnim muškarcima i poslušnim ženama, i ...
+  Formatted (579 chars):
+    Muslimanima i muslimankama, i vjernicima i vjernicama, i poslušnim muškarcima i poslušnim ženama, i ...
+
+Verse 037 - Similarity: 99.8%
+  Original (430 chars):
+    A kad ti reče onome kome je Allah milost darovao, a kome si i ti dobro učinio: "Zadrži ženu svoju i ...
+  Formatted (432 chars):
+    A kad ti reče onome kome je Allah milost darovao, a kome si i ti dobro učinio: "Zadrži ženu svoju i ...
+
+Verse 051 - Similarity: 99.8%
+  Original (319 chars):
+    Možeš zanemariti one među njima koje hoćeš i možeš pozvati sebi onu koju hoćeš, a možeš zatražiti on...
+  Formatted (320 chars):
+    Možeš zanemariti one među njima koje hoćeš i možeš pozvati sebi onu koju hoćeš, a možeš zatražiti on...
+
+Verse 072 - Similarity: 99.7%
+  Original (176 chars):
+    Mi smo nebesima, Zemlji i planinama ponudili emanet, pa su se ustegli i pobojali da ga ponesu, ali g...
+  Formatted (177 chars):
+    Mi smo nebesima, Zemlji i planinama ponudili emanet, pa su se ustegli i pobojali da ga p onesu, ali ...
+
+Chapter 034: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 031 - Similarity: 99.8%
+  Original (320 chars):
+    A oni koji ne vjeruju govore: "Mi nećemo vjerovati u ovaj Kur'an niti u one prije njega!" A kada bi ...
+  Formatted (321 chars):
+    A oni koji ne vjeruju govore: "Mi nećemo vjerovati u ovaj Kur'an niti u one prije njega!" A kada bi ...
+
+Chapter 035: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 001 - Similarity: 99.7%
+  Original (171 chars):
+    Hvaljen neka je Allah, stvoritelj nebesa i Zemlje, koji meleke sa po dva, tri i četiri krila čini iz...
+  Formatted (172 chars):
+    Hvaljen neka je Allah, stvoritelj nebesa i Zemlje, koji meleke sa po dva, tri i četir i krila čini i...
+
+Chapter 039: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 047 - Similarity: 99.7%
+  Original (186 chars):
+    Kad bi mnogobošci imali sve što je na Zemlji, i još toliko, na Sudnjem danu oni bi sve to dali da bi...
+  Formatted (187 chars):
+    Kad bi mnogobošci imali sve što je na Zemlji, i još toliko, na Sudnjem danu oni bi sve to dal i da b...
+
+Verse 053 - Similarity: 99.7%
+  Original (175 chars):
+    Reci: "O robovi moji koji ste se prema sebi ogriješili, ne gubite nadu u Allahovu milost! Allah će, ...
+  Formatted (176 chars):
+    Reci: "O robovi moji koji ste se prema sebi ogriješili, ne gubite nadu u Allahovu milost! Allah će, ...
+
+Verse 071 - Similarity: 99.7%
+  Original (367 chars):
+    Oni koji nisu vjerovali u gomilama će u Džehennem biti natjerani, i kad do njega dođu, kapije njegov...
+  Formatted (369 chars):
+    Oni koji nisu vjerovali u gomilama će u Džehennem biti natjerani, i kad do njega dođu, kapije njegov...
+
+Chapter 040: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.8%
+  Original (289 chars):
+    Meleki koji drže Prijesto i oni koji su oko njega veličaju i hvale Gospodara svoga i vjeruju u Nj i ...
+  Formatted (290 chars):
+    Meleki koji drže Prijesto i oni koji su oko njega veličaju i hvale Gospodara svoga i vjeruju u Nj i ...
+
+Verse 025 - Similarity: 99.8%
+  Original (206 chars):
+    A kada im je on donio Istinu od Nas, rekli su: "Ubijajte opet mušku djecu onih koji vjeruju u ono št...
+  Formatted (207 chars):
+    A kada im je on donio Istinu od Nas, rekli su: "Ubijajte opet mušku djecu onih koji vjeruju u ono št...
+
+Verse 037 - Similarity: 99.8%
+  Original (240 chars):
+    staza nebeskih, ne bih li se popeo do Musaova Boga, a ja smatram da je on, zaista, lažac." I eto tak...
+  Formatted (241 chars):
+    staza nebeskih, ne bih li se popeo do Musaova Boga, a ja smatram da je on, zaista, lažac." I eto tak...
+
+Verse 056 - Similarity: 99.8%
+  Original (220 chars):
+    Oni koji o Allahovim znamenjima raspravljaju, iako im nikakav dokaz nije došao, u srcima njihovim je...
+  Formatted (221 chars):
+    Oni koji o Allahovim znamenjima raspravljaju, iako im nikakav dokaz nije došao, u srcima njihovim je...
+
+Chapter 041: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 014 - Similarity: 99.8%
+  Original (214 chars):
+    kada su im sa svih strana poslanici njihovi dolazili i govorili: "Ne klanjajte se nikome do Allahu!"...
+  Formatted (215 chars):
+    kada su im sa svih strana poslanici njihovi dolazili i govorili: "Ne klanjajte se nikome do Allahu!"...
+
+Verse 025 - Similarity: 95.1%
+  Original (234 chars):
+    Mi smo im bili odredili loše drugove koji su im lijepim prikazivali ono što su uradili i ono što će ...
+  Formatted (212 chars):
+    Mi smo im bili odredili loše drugove koji su im lijepim prikazivali ono što su uradili i ono što će ...
+
+Chapter 042: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 013 - Similarity: 99.9%
+  Original (358 chars):
+    On vam propisuje u vjeri isto ono što je propisao Nuhu i ono što objavljujemo tebi, i ono što smo na...
+  Formatted (359 chars):
+    On vam propisuje u vjeri isto ono što je propisao Nuhu i ono što objavljujemo tebi, i ono što smo na...
+
+Verse 015 - Similarity: 99.9%
+  Original (358 chars):
+    Zato ti pozivaj i budi istrajan, onako kako ti se naređuje, a ne povodi se za prohtjevima njihovim, ...
+  Formatted (359 chars):
+    Zato ti pozivaj i budi istrajan, onako kako ti se naređuje, a ne povodi se za prohtjevima njihovim, ...
+
+Chapter 046: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 99.8%
+  Original (237 chars):
+    Reci: "Kažite vi meni ili pokažite mi šta su stvorili na Zemlji i da li imaju ikakva udjela u nebesi...
+  Formatted (238 chars):
+    Reci: "Kažite vi meni ili pokažite mi šta su stvorili na Zemlji i da li imaju ikakva udjela u nebesi...
+
+Verse 008 - Similarity: 99.3%
+  Original (217 chars):
+    Zar oni da govore: "On ga izmišlja!" Reci: "Pa, ako ga izmišljam, vi mene od kazne Allahove nećete m...
+  Formatted (218 chars):
+    Zar oni da govore: "On ga izmišlja!" Reci: "Pa, ako ga izmišljam, vi mene od kazne Allahove nećete m...
+
+Verse 010 - Similarity: 99.8%
+  Original (277 chars):
+    Reci: "Kažite vi meni šta će s vama biti ako je Kur'an od Allaha, a vi u nj nećete da vjerujete, i a...
+  Formatted (278 chars):
+    Reci: "Kažite vi meni šta će s vama biti ako je Kur'an od Allaha, a vi u nj nećete da vjerujete, i a...
+
+Verse 020 - Similarity: 99.8%
+  Original (279 chars):
+    A na Dan kad oni koji nisu vjerovali pred vatrom budu zaustavljeni: "Vi ste u svome životu na Zemlji...
+  Formatted (280 chars):
+    A na Dan kad oni koji nisu vjerovali pred vatrom budu zaustavljeni: "Vi ste u svome životu na Zemlji...
+
+Chapter 047: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 020 - Similarity: 99.8%
+  Original (233 chars):
+    A oni koji vjeruju govore: "Zašto se ne objavi jedna sura?" A kad bî objavljena jasna sura i u njoj ...
+  Formatted (234 chars):
+    A oni koji vjeruju govore: "Zašto se ne objavi jedna sura?" A kad bî objavlje na jasna sura i u njoj...
+
+Chapter 048: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 020 - Similarity: 89.2%
+  Original (174 chars):
+    Allah vam obećava bogat plijen koji ćete uzeti, a s ovim je požurio i ruke ljudi je od vas zadržao –...
+  Formatted (140 chars):
+    Allah vam obećava bogat plijen koji ćete uzeti, a s ovim je požurio i ruke ljudi je od vas zadržao –...
+
+Chapter 049: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.8%
+  Original (275 chars):
+    I znajte da je među vama Allahov Poslanik; kad bi vas u mnogo čemu poslušao, doista biste nastradali...
+  Formatted (276 chars):
+    I znajte da je među vama Allahov Poslanik; kad bi vas u mnogo čemu poslušao, doista biste n astradal...
+
+Chapter 057: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 99.8%
+  Original (234 chars):
+    U šest vremenskih razdoblja On je nebesa i Zemlju stvorio, i onda svemirom zavladao; On zna šta u ze...
+  Formatted (235 chars):
+    U šest vremenskih razdoblja On je nebesa i Zemlju stvorio, i onda svemirom zav ladao; On zna šta u z...
+
+Verse 012 - Similarity: 99.8%
+  Original (229 chars):
+    na Dan kada budeš vidio kako se pred vjernicima i vjernicama, i s desne strane njihove, svjetlo njih...
+  Formatted (230 chars):
+    na Dan kada budeš vidio kako se pred vjernicima i vjernicama, i s desne strane njihove, svjetlo njih...
+
+Chapter 060: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 99.9%
+  Original (469 chars):
+    Divan uzor za vas je Ibrahim i oni koji su uz njega bili kada su narodu svome rekli: "Mi s vama nema...
+  Formatted (470 chars):
+    Divan uzor za vas je Ibrahim i oni koji su uz njega bili kada su narodu svome rekli: "Mi s vama nema...
+
+Verse 008 - Similarity: 99.7%
+  Original (193 chars):
+    Allah vam ne zabranjuje da činite dobro i da budete pravedni prema onima koji ne ratuju protiv vas z...
+  Formatted (194 chars):
+    Allah vam ne zabranjuje da činite dobro i da budete pravedni prema onima koji ne ratuju protiv v as ...
+
+Chapter 061: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.8%
+  Original (290 chars):
+    A kada Isa, sin Merjemin, reče: "O sinovi Israilovi, ja sam vam Allahov poslanik da vam potvrdim pri...
+  Formatted (291 chars):
+    A kada Isa, sin Merjemin, reče: "O sinovi Israilovi, ja sam vam Allahov poslanik da vam potvrdim pri...
+
+Chapter 066: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.8%
+  Original (236 chars):
+    O vi koji vjerujete, sebe i porodice svoje čuvajte od vatre čije će gorivo ljudi i kamenje biti, i o...
+  Formatted (237 chars):
+    O vi koji vjerujete, sebe i porodice svoje čuvajte od vatre čije će gorivo ljudi i kamenje biti, i o...
+
+Verse 008 - Similarity: 99.8%
+  Original (430 chars):
+    O vi koji vjerujete, učinite pokajanje Allahu iskreno, da bi Gospodar vaš preko ružnih postupaka vaš...
+  Formatted (432 chars):
+    O vi koji vjerujete, učinite pokajanje Allahu iskreno, da bi Gospodar vaš preko ružnih postupaka vaš...
+
+Chapter 073: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 020 - Similarity: 99.9%
+  Original (721 chars):
+    Gospodar tvoj, sigurno, zna da ti u molitvi provodiš manje od dvije trećine noći, polovinu njezinu i...
+  Formatted (723 chars):
+    Gospodar tvoj, sigurno, zna da ti u molitvi provodiš manje od dvije trećine noći, polovinu njezinu i...

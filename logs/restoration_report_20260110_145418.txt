@@ -1,0 +1,2739 @@
+RESTORATION REPORT
+================================================================================
+
+
+it-piccardo - Chapter 002 - Verse 020
+  Type: truncated
+  Similarity: 88.9%
+  Missing content: In verità Allah su tutte le cose è potente.
+
+
+it-piccardo - Chapter 002 - Verse 026
+  Type: truncated
+  Similarity: 94.8%
+  Missing content: Ma non allontana che gli iniqui,
+
+
+it-piccardo - Chapter 002 - Verse 030
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ”.
+
+
+it-piccardo - Chapter 002 - Verse 036
+  Type: truncated
+  Similarity: 79.4%
+  Missing content: Avrete una dimora sulla terra e ne godrete per un tempo stabilito”.
+
+
+it-piccardo - Chapter 002 - Verse 049
+  Type: truncated
+  Similarity: 85.0%
+  Missing content: In ciò vi fu un'immensa prova da [parte del] vostro Signore.
+
+
+it-piccardo - Chapter 002 - Verse 054
+  Type: truncated
+  Similarity: 96.8%
+  Missing content: è il Misericordioso
+
+
+it-piccardo - Chapter 002 - Verse 058
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 002 - Verse 061
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ”. .
+
+
+it-piccardo - Chapter 002 - Verse 071
+  Type: truncated
+  Similarity: 92.1%
+  Missing content: ma mancò poco che non lo facessero!
+
+
+it-piccardo - Chapter 002 - Verse 074
+  Type: truncated
+  Similarity: 82.3%
+  Missing content: e altre che franano per il timore di Allah. E Allah non è incurante di quello che fate.
+
+
+it-piccardo - Chapter 002 - Verse 076
+  Type: truncated
+  Similarity: 79.1%
+  Missing content: perché lo possano utilizzare contro di voi davanti al vostro Signore? Non comprendete?”.
+
+
+it-piccardo - Chapter 002 - Verse 079
+  Type: truncated
+  Similarity: 89.2%
+  Missing content: e per quello che hanno ottenuto in cambio.
+
+
+it-piccardo - Chapter 002 - Verse 083
+  Type: truncated
+  Similarity: 96.6%
+  Missing content: e vi siete sottratti.
+
+
+it-piccardo - Chapter 002 - Verse 087
+  Type: truncated
+  Similarity: 89.9%
+  Missing content: Qualcuno di loro lo avete smentito e altri li avete uccisi.
+
+
+it-piccardo - Chapter 002 - Verse 090
+  Type: truncated
+  Similarity: 76.8%
+  Missing content: Sono incorsi in collera su collera.
+
+
+it-piccardo - Chapter 002 - Verse 091
+  Type: truncated
+  Similarity: 83.6%
+  Missing content: . E rinnegano il resto, anche se è la Verità che conferma quello che già avevano ricevuto
+
+
+it-piccardo - Chapter 002 - Verse 093
+  Type: truncated
+  Similarity: 88.4%
+  Missing content: . E i loro cuori, per la miscredenza, si abbeverarono al Vitello
+
+
+it-piccardo - Chapter 002 - Verse 096
+  Type: truncated
+  Similarity: 80.5%
+  Missing content: Ma tutto questo non lo salverebbe dal castigo, vivesse anche quanto desidera.
+
+
+it-piccardo - Chapter 002 - Verse 102
+  Type: truncated
+  Similarity: 85.1%
+  Missing content: E ben sapevano che chi avesse acquistato quell'arte, non avrebbe avuto parte nell'altra vita. Com'era detestabile quello in cambio del quale barattarono la loro anima. Se l'avessero saputo!
+
+
+it-piccardo - Chapter 002 - Verse 105
+  Type: truncated
+  Similarity: 90.8%
+  Missing content: Allah è il Padrone dell'immenso favore.
+
+
+it-piccardo - Chapter 002 - Verse 109
+  Type: truncated
+  Similarity: 94.1%
+  Missing content: In verità Allah è Onnipotente.
+
+
+it-piccardo - Chapter 002 - Verse 113
+  Type: truncated
+  Similarity: 86.2%
+  Missing content: Allah, nel Giorno della Resurrezione, giudicherà dei loro dissensi.
+
+
+it-piccardo - Chapter 002 - Verse 114
+  Type: truncated
+  Similarity: 90.7%
+  Missing content: e un castigo terribile nell'altra
+
+
+it-piccardo - Chapter 002 - Verse 118
+  Type: truncated
+  Similarity: 84.7%
+  Missing content: Eppure abbiamo esposto con chiarezza i nostri segni a coloro che credono.
+
+
+it-piccardo - Chapter 002 - Verse 120
+  Type: truncated
+  Similarity: 69.0%
+  Missing content: E se acconsentirai ai loro desideri dopo che hai avuto la conoscenza, non troverai né patrono, né soccorritore contro Allah.
+
+
+it-piccardo - Chapter 002 - Verse 124
+  Type: truncated
+  Similarity: 82.7%
+  Missing content: “Il Mio patto, disse [Allah], non riguarda quelli che prevaricano”.
+
+
+it-piccardo - Chapter 002 - Verse 125
+  Type: truncated
+  Similarity: 62.8%
+  Missing content: E stabilimmo un patto con Abramo e Ismaele: “Purificate la Mia Casa per coloro che vi gireranno attorno, vi si ritireranno, si inchineranno e si prosterneranno”.
+
+
+it-piccardo - Chapter 002 - Verse 133
+  Type: truncated
+  Similarity: 91.0%
+  Missing content: il Dio unico al quale saremo sottomessi”.
+
+
+it-piccardo - Chapter 002 - Verse 136
+  Type: truncated
+  Similarity: 96.2%
+  Missing content: e a Lui siamo sottomessi”
+
+
+it-piccardo - Chapter 002 - Verse 140
+  Type: truncated
+  Similarity: 90.6%
+  Missing content: Ma Allah non è incurante di quello che fate.
+
+
+it-piccardo - Chapter 002 - Verse 142
+  Type: truncated
+  Similarity: 94.7%
+  Missing content: sulla Retta Via”
+
+
+it-piccardo - Chapter 002 - Verse 151
+  Type: truncated
+  Similarity: 88.5%
+  Missing content: e vi insegni quello che non sapevate
+
+
+it-piccardo - Chapter 002 - Verse 158
+  Type: truncated
+  Similarity: 95.2%
+  Missing content: Allah è grato, sapiente.
+
+
+it-piccardo - Chapter 002 - Verse 159
+  Type: truncated
+  Similarity: 93.9%
+  Missing content: e che tutti maledicono
+
+
+it-piccardo - Chapter 002 - Verse 165
+  Type: truncated
+  Similarity: 70.7%
+  Missing content: Se gli empi potessero vedere, [come] quando vedranno il castigo, che tutta la forza è di Allah, e che Allah è implacabile nel castigo!
+
+
+it-piccardo - Chapter 002 - Verse 167
+  Type: truncated
+  Similarity: 93.9%
+  Missing content: Non usciranno dal Fuoco.
+
+
+it-piccardo - Chapter 002 - Verse 170
+  Type: truncated
+  Similarity: 94.1%
+  Missing content: e non erano ben guidati
+
+
+it-piccardo - Chapter 002 - Verse 173
+  Type: truncated
+  Similarity: 92.2%
+  Missing content: Allah è perdonatore, misericordioso.
+
+
+it-piccardo - Chapter 002 - Verse 174
+  Type: truncated
+  Similarity: 88.8%
+  Missing content: e non li purificherà  Avranno un castigo doloroso.
+
+
+it-piccardo - Chapter 002 - Verse 184
+  Type: truncated
+  Similarity: 92.1%
+  Missing content: Ma è meglio per voi digiunare, se lo sapeste!
+
+
+it-piccardo - Chapter 002 - Verse 187
+  Type: truncated
+  Similarity: 88.6%
+  Missing content: . Ha accettato il vostro pentimento e vi ha perdonati. Frequentatele dunque e cercate quello che Allah vi ha concesso
+
+
+it-piccardo - Chapter 002 - Verse 189
+  Type: truncated
+  Similarity: 83.2%
+  Missing content: Non è una azione pia entrare in casa dalla parte posteriore, la pietà è nel timore di Allah.
+
+
+it-piccardo - Chapter 002 - Verse 194
+  Type: truncated
+  Similarity: 87.2%
+  Missing content: Aggredite coloro che vi aggrediscono.
+
+
+it-piccardo - Chapter 002 - Verse 196
+  Type: truncated
+  Similarity: 91.3%
+  Missing content: Questo per chi non ha famiglia nei pressi della Santa Moschea. Temete Allah e sappiate che Allah è severo nel castigo.
+
+
+it-piccardo - Chapter 002 - Verse 214
+  Type: truncated
+  Similarity: 92.9%
+  Missing content: Non è forse vicino il soccorso di Allah?
+
+
+it-piccardo - Chapter 002 - Verse 216
+  Type: truncated
+  Similarity: 93.7%
+  Missing content: Allah sa e voi non sapete.
+
+
+it-piccardo - Chapter 002 - Verse 217
+  Type: truncated
+  Similarity: 83.3%
+  Missing content: E chi di voi rinnegherà la fede e morirà nella miscredenza, ecco chi avrà fallito in questa vita e nell'altra. Ecco i compagni del Fuoco: vi rimarranno in perpetuo”.
+
+
+it-piccardo - Chapter 002 - Verse 220
+  Type: truncated
+  Similarity: 87.9%
+  Missing content: Se Allah avesse voluto, vi avrebbe afflitti. Egli è potente e saggio!
+
+
+it-piccardo - Chapter 002 - Verse 221
+  Type: truncated
+  Similarity: 92.7%
+  Missing content: E manifesta ai popoli i segni Suoi, affinché essi li ricordino.
+
+
+it-piccardo - Chapter 002 - Verse 222
+  Type: truncated
+  Similarity: 67.7%
+  Missing content: Quando poi si saranno purificate, avvicinatele nel modo che Allah vi ha comandato”. In verità, Allah ama coloro che si pentono e coloro che si purificano.
+
+
+it-piccardo - Chapter 002 - Verse 223
+  Type: truncated
+  Similarity: 89.2%
+  Missing content: Danne la lieta novella ai credenti!
+
+
+it-piccardo - Chapter 002 - Verse 230
+  Type: truncated
+  Similarity: 87.6%
+  Missing content: Ecco i limiti di Allah, che Egli manifesta alle genti che comprendono.
+
+
+it-piccardo - Chapter 002 - Verse 231
+  Type: truncated
+  Similarity: 84.4%
+  Missing content: . Ricordate i benefici che Allah vi ha concesso e ciò che ha fatto scendere della Scrittura e della Saggezza, con i quali vi ammonisce
+
+
+it-piccardo - Chapter 002 - Verse 233
+  Type: truncated
+  Similarity: 90.4%
+  Missing content: . Il padre del bambino ha il dovere di nutrirle e vestirle in base alla consuetudine Lo stesso obbligo per l'erede.
+
+
+it-piccardo - Chapter 002 - Verse 234
+  Type: truncated
+  Similarity: 91.9%
+  Missing content: Allah è ben informato di quello che fate.
+
+
+it-piccardo - Chapter 002 - Verse 235
+  Type: truncated
+  Similarity: 75.3%
+  Missing content: . Allah sa che ben presto vi ricorderete di loro Allah conosce quello che c'è nelle anime vostre e quindi state in guardia. Sappiate che
+
+
+it-piccardo - Chapter 002 - Verse 236
+  Type: truncated
+  Similarity: 92.4%
+  Missing content: Questo è un dovere per chi vuol fare il bene.
+
+
+it-piccardo - Chapter 002 - Verse 240
+  Type: truncated
+  Similarity: 76.2%
+  Missing content: Altri invece, affermano che viene stabilito il diritto della vedova di rimanere almeno un anno nel domicilio coniugale, una specie di usufrutto temporaneo dell'abitazione. Naturalmente dopo l'idda prevista dal vers. 234, potranno risposarsi e di conseguenza abbandoneranno anzitempo il domicilio vedovile]
+
+
+it-piccardo - Chapter 002 - Verse 243
+  Type: truncated
+  Similarity: 88.4%
+  Missing content: ma la maggior parte di loro non sono riconoscenti.
+
+
+it-piccardo - Chapter 002 - Verse 247
+  Type: truncated
+  Similarity: 90.4%
+  Missing content: ”
+
+
+it-piccardo - Chapter 002 - Verse 248
+  Type: truncated
+  Similarity: 91.9%
+  Missing content: Ecco un segno per voi, se siete credenti”.
+
+
+it-piccardo - Chapter 002 - Verse 251
+  Type: truncated
+  Similarity: 78.7%
+  Missing content: . Davide uccise Golia e Allah gli diede la sovranità e la saggezza e gli insegnò quello che volle
+
+
+it-piccardo - Chapter 002 - Verse 255
+  Type: truncated
+  Similarity: 66.4%
+  Missing content: Non Lo prendon mai sopore, né sonno. A Lui appartiene tutto quello che è nei cieli e sulla terra.  . Il Suo Trono è più vasto dei cieli e della terra, e custodirli non Gli costa sforzo alcuno
+
+
+it-piccardo - Chapter 002 - Verse 256
+  Type: truncated
+  Similarity: 93.1%
+  Missing content: Allah è audiente, sapiente.
+
+
+it-piccardo - Chapter 002 - Verse 257
+  Type: truncated
+  Similarity: 86.1%
+  Missing content: Ecco i compagni del Fuoco in cui rimarranno in eterno.
+
+
+it-piccardo - Chapter 002 - Verse 260
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ”
+
+
+it-piccardo - Chapter 002 - Verse 261
+  Type: truncated
+  Similarity: 93.5%
+  Missing content: Allah è immenso, sapiente.
+
+
+it-piccardo - Chapter 002 - Verse 262
+  Type: truncated
+  Similarity: 94.5%
+  Missing content: e non saranno afflitti
+
+
+it-piccardo - Chapter 002 - Verse 265
+  Type: truncated
+  Similarity: 94.2%
+  Missing content: Allah osserva quello che fate.
+
+
+it-piccardo - Chapter 002 - Verse 267
+  Type: truncated
+  Similarity: 85.9%
+  Missing content: Sappiate che Allah è Colui Che non ha bisogno di nulla, il Degno di lode.
+
+
+it-piccardo - Chapter 002 - Verse 272
+  Type: truncated
+  Similarity: 79.6%
+  Missing content: E tutto quello che darete nel bene vi sarà restituito e non subirete alcun torto.
+
+
+it-piccardo - Chapter 002 - Verse 273
+  Type: truncated
+  Similarity: 90.2%
+  Missing content: E tutto ciò che elargirete nel bene, Allah lo conosce.
+
+
+it-piccardo - Chapter 002 - Verse 282
+  Type: truncated
+  Similarity: 98.8%
+  Missing content: Allah conosce tutte le cose.
+
+
+it-piccardo - Chapter 002 - Verse 284
+  Type: truncated
+  Similarity: 95.1%
+  Missing content: Allah è onnipotente.
+
+
+it-piccardo - Chapter 002 - Verse 285
+  Type: truncated
+  Similarity: 99.9%
+  Missing content: ”
+
+
+it-piccardo - Chapter 002 - Verse 286
+  Type: truncated
+  Similarity: 99.9%
+  Missing content: ”
+
+
+it-piccardo - Chapter 003 - Verse 013
+  Type: truncated
+  Similarity: 88.3%
+  Missing content: Ecco un argomento di riflessione per coloro che hanno intelletto.
+
+
+it-piccardo - Chapter 003 - Verse 014
+  Type: truncated
+  Similarity: 86.5%
+  Missing content: mentre verso Allah è il miglior ritorno.
+
+
+it-piccardo - Chapter 003 - Verse 015
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: ”
+
+
+it-piccardo - Chapter 003 - Verse 019
+  Type: truncated
+  Similarity: 82.4%
+  Missing content: Ma chi rifiuta i segni di Allah, [sappia che] Allah è rapido al conto.
+
+
+it-piccardo - Chapter 003 - Verse 020
+  Type: truncated
+  Similarity: 83.2%
+  Missing content: se ti volgono le spalle, il tuo compito è solo il trasmettere. Allah osserva i Suoi schiavi.
+
+
+it-piccardo - Chapter 003 - Verse 027
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ”
+
+
+it-piccardo - Chapter 003 - Verse 028
+  Type: truncated
+  Similarity: 94.1%
+  Missing content: Il divenire è verso Allah.
+
+
+it-piccardo - Chapter 003 - Verse 030
+  Type: truncated
+  Similarity: 92.8%
+  Missing content: Allah è indulgente con i servi.
+
+
+it-piccardo - Chapter 003 - Verse 036
+  Type: truncated
+  Similarity: 91.4%
+  Missing content: “Il maschio non è certo simile alla femmina!  ”
+
+
+it-piccardo - Chapter 003 - Verse 037
+  Type: truncated
+  Similarity: 85.9%
+  Missing content: Disse: “Da parte di Allah”. In verità Allah dà a chi vuole senza contare.
+
+
+it-piccardo - Chapter 003 - Verse 039
+  Type: truncated
+  Similarity: 99.5%
+  Missing content: ”
+
+
+it-piccardo - Chapter 003 - Verse 049
+  Type: truncated
+  Similarity: 94.1%
+  Missing content: Certamente in ciò vi è un segno se siete credenti!
+
+
+it-piccardo - Chapter 003 - Verse 050
+  Type: truncated
+  Similarity: 91.3%
+  Missing content: Temete dunque Allah e obbeditemi.
+
+
+it-piccardo - Chapter 003 - Verse 052
+  Type: truncated
+  Similarity: 83.2%
+  Missing content: Noi crediamo in Allah, sii testimone della nostra sottomissione.
+
+
+it-piccardo - Chapter 003 - Verse 055
+  Type: truncated
+  Similarity: 85.2%
+  Missing content: Ritornerete tutti verso di Me e Io giudicherò le vostre discordie.
+
+
+it-piccardo - Chapter 003 - Verse 061
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 003 - Verse 064
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ”
+
+
+it-piccardo - Chapter 003 - Verse 073
+  Type: truncated
+  Similarity: 96.0%
+  Missing content: Allah è immenso, sapiente.
+
+
+it-piccardo - Chapter 003 - Verse 078
+  Type: truncated
+  Similarity: 89.1%
+  Missing content: E, consapevolmente, dicono menzogne contro Allah.
+
+
+it-piccardo - Chapter 003 - Verse 079
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: ”
+
+
+it-piccardo - Chapter 003 - Verse 081
+  Type: truncated
+  Similarity: 92.5%
+  Missing content: “Siate testimoni e io sarò con voi testimone.
+
+
+it-piccardo - Chapter 003 - Verse 084
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 003 - Verse 093
+  Type: truncated
+  Similarity: 99.5%
+  Missing content: ”
+
+
+it-piccardo - Chapter 003 - Verse 097
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 003 - Verse 103
+  Type: truncated
+  Similarity: 99.3%
+  Missing content: e ricordate la grazia che Allah vi ha concesso: quando eravate nemici è Lui che ha riconciliato i cuori vostri e per grazia Sua siete diventati fratelli
+
+
+it-piccardo - Chapter 003 - Verse 118
+  Type: truncated
+  Similarity: 88.4%
+  Missing content: Ecco che vi manifestiamo i segni, se potete comprenderli.
+
+
+it-piccardo - Chapter 003 - Verse 156
+  Type: truncated
+  Similarity: 76.1%
+  Missing content: Allah ne voleva fare un [motivo di] rimpianto nei loro cuori. È Allah che dà la vita e la morte. Allah osserva quello che fate.
+
+
+it-piccardo - Chapter 003 - Verse 180
+  Type: truncated
+  Similarity: 83.8%
+  Missing content: Ad Allah l'eredità dei cieli e della terra; e Allah è ben informato di quello che fate.
+
+
+it-piccardo - Chapter 003 - Verse 193
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: "
+
+
+it-piccardo - Chapter 004 - Verse 011
+  Type: truncated
+  Similarity: 85.6%
+  Missing content: Voi non sapete, se sono i vostri ascendenti o i vostri discendenti, ad esservi di maggior beneficio. Questo è il decreto di Allah. In verità Allah è saggio, sapiente.
+
+
+it-piccardo - Chapter 004 - Verse 036
+  Type: truncated
+  Similarity: 90.3%
+  Missing content: , il compagno che vi sta accanto, il viandante e chi è schiavo in vostro possesso
+
+
+it-piccardo - Chapter 004 - Verse 047
+  Type: truncated
+  Similarity: 99.1%
+  Missing content: e li malediciamo come abbiamo maledetto i violatori del Sabato
+
+
+it-piccardo - Chapter 004 - Verse 057
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: e li introdurremo nell'ombra che rinfresca
+
+
+it-piccardo - Chapter 004 - Verse 058
+  Type: truncated
+  Similarity: 88.8%
+  Missing content: Allah è Colui Che ascolta e osserva.
+
+
+it-piccardo - Chapter 004 - Verse 059
+  Type: truncated
+  Similarity: 78.1%
+  Missing content: , se credete in Allah e nell'Ultimo Giorno  È la cosa migliore e l'interpretazione più sicura.
+
+
+it-piccardo - Chapter 004 - Verse 064
+  Type: truncated
+  Similarity: 76.0%
+  Missing content: e se il Messaggero chiedesse perdono per loro, troverebbero Allah pronto ad accogliere il pentimento, misericordioso
+
+
+it-piccardo - Chapter 004 - Verse 069
+  Type: truncated
+  Similarity: 93.6%
+  Missing content: che ottima compagnia!
+
+
+it-piccardo - Chapter 004 - Verse 074
+  Type: truncated
+  Similarity: 90.0%
+  Missing content: , daremo presto ricompensa immensa
+
+
+it-piccardo - Chapter 004 - Verse 075
+  Type: truncated
+  Similarity: 82.6%
+  Missing content: concedici da parte Tua un patrono, concedici da parte Tua un alleato”?
+
+
+it-piccardo - Chapter 004 - Verse 076
+  Type: truncated
+  Similarity: 89.4%
+  Missing content: Deboli sono le astuzie di Satana.
+
+
+it-piccardo - Chapter 004 - Verse 078
+  Type: truncated
+  Similarity: 83.5%
+  Missing content: ”  Ma cos'hanno queste genti, che non comprendono nemmeno un singolo evento?
+
+
+it-piccardo - Chapter 004 - Verse 081
+  Type: truncated
+  Similarity: 94.2%
+  Missing content: Allah è garante sufficiente.
+
+
+it-piccardo - Chapter 004 - Verse 084
+  Type: truncated
+  Similarity: 80.2%
+  Missing content: Allah è più temibile nella Sua acrimonia, è più temibile nel Suo castigo.
+
+
+it-piccardo - Chapter 004 - Verse 088
+  Type: truncated
+  Similarity: 84.8%
+  Missing content: A chi viene allontanato da Allah, non potrai trovare una via.
+
+
+it-piccardo - Chapter 004 - Verse 089
+  Type: truncated
+  Similarity: 91.0%
+  Missing content: Non sceglietevi tra loro né amici, né alleati,
+
+
+it-piccardo - Chapter 004 - Verse 090
+  Type: truncated
+  Similarity: 92.8%
+  Missing content: ebbene, Allah non vi concede nulla contro di loro.
+
+
+it-piccardo - Chapter 004 - Verse 097
+  Type: truncated
+  Similarity: 89.4%
+  Missing content: Ecco coloro che avranno l'Inferno per dimora. Qual tristo rifugio.
+
+
+it-piccardo - Chapter 004 - Verse 100
+  Type: truncated
+  Similarity: 92.1%
+  Missing content: Allah è perdonatore, misericordioso.
+
+
+it-piccardo - Chapter 004 - Verse 103
+  Type: truncated
+  Similarity: 79.3%
+  Missing content: In verità, per il credente, l'orazione è un obbligo in tempi ben determinati.
+
+
+it-piccardo - Chapter 004 - Verse 113
+  Type: truncated
+  Similarity: 94.0%
+  Missing content: La grazia di Allah è immensa su di te.
+
+
+it-piccardo - Chapter 004 - Verse 119
+  Type: truncated
+  Similarity: 99.4%
+  Missing content: ”
+
+
+it-piccardo - Chapter 004 - Verse 122
+  Type: truncated
+  Similarity: 87.8%
+  Missing content: Chi mai è più veritiero di Allah, nel parlare?
+
+
+it-piccardo - Chapter 004 - Verse 128
+  Type: truncated
+  Similarity: 71.8%
+  Missing content: Gli animi tendono all'avidità; ma se agite bene e temete [Allah sappiate che], Allah è ben informato di quello che fate.
+
+
+it-piccardo - Chapter 004 - Verse 129
+  Type: truncated
+  Similarity: 77.0%
+  Missing content: Se poi vi riconcilierete e temerete [Allah], ebbene Allah è perdonatore, misericordioso.
+
+
+it-piccardo - Chapter 004 - Verse 131
+  Type: truncated
+  Similarity: 92.0%
+  Missing content: Allah basta a Se stesso, è il Degno di lode.
+
+
+it-piccardo - Chapter 004 - Verse 154
+  Type: truncated
+  Similarity: 88.3%
+  Missing content: e accettammo il loro impegno solenne.
+
+
+it-piccardo - Chapter 004 - Verse 157
+  Type: truncated
+  Similarity: 87.7%
+  Missing content: e non seguono altro che la congettura  Per certo non lo hanno ucciso
+
+
+it-piccardo - Chapter 004 - Verse 162
+  Type: truncated
+  Similarity: 85.8%
+  Missing content: e credono in Allah e nell'Ultimo Giorno: daremo loro mercede immensa
+
+
+it-piccardo - Chapter 004 - Verse 170
+  Type: truncated
+  Similarity: 94.6%
+  Missing content: Allah è sapiente, saggio.
+
+
+it-piccardo - Chapter 004 - Verse 171
+  Type: truncated
+  Similarity: 91.7%
+  Missing content: Avrebbe un figlio?   Allah è sufficiente come garante.
+
+
+it-piccardo - Chapter 004 - Verse 172
+  Type: truncated
+  Similarity: 88.0%
+  Missing content: ben presto saranno adunati davanti a Lui.
+
+
+it-piccardo - Chapter 004 - Verse 173
+  Type: truncated
+  Similarity: 78.6%
+  Missing content: saranno castigati con doloroso tormento. Non troveranno, oltre ad Allah, né patrono, né alleato.
+
+
+it-piccardo - Chapter 005 - Verse 001
+  Type: truncated
+  Similarity: 91.5%
+  Missing content: Allah comanda quello che vuole.
+
+
+it-piccardo - Chapter 005 - Verse 002
+  Type: truncated
+  Similarity: 95.8%
+  Missing content: Temete Allah, Egli è severo nel castigo.
+
+
+it-piccardo - Chapter 005 - Verse 005
+  Type: truncated
+  Similarity: 89.7%
+  Missing content: “
+
+
+it-piccardo - Chapter 005 - Verse 008
+  Type: truncated
+  Similarity: 89.0%
+  Missing content: Siate equi: l'equità è consona alla devozione.
+
+
+it-piccardo - Chapter 005 - Verse 012
+  Type: truncated
+  Similarity: 99.9%
+  Missing content: ”
+
+
+it-piccardo - Chapter 005 - Verse 014
+  Type: truncated
+  Similarity: 83.4%
+  Missing content: Suscitammo tra loro odio e inimicizia fino al Giorno della Resurrezione.
+
+
+it-piccardo - Chapter 005 - Verse 017
+  Type: truncated
+  Similarity: 92.8%
+  Missing content: ”. Egli crea quello che vuole, Allah è onnipotente.
+
+
+it-piccardo - Chapter 005 - Verse 018
+  Type: truncated
+  Similarity: 80.1%
+  Missing content: Ad Allah appartiene la sovranità sui cieli e sulla terra e su quello che vi è frammezzo. A Lui farete ritorno”.
+
+
+it-piccardo - Chapter 005 - Verse 019
+  Type: truncated
+  Similarity: 95.5%
+  Missing content: Allah è onnipotente.
+
+
+it-piccardo - Chapter 005 - Verse 020
+  Type: truncated
+  Similarity: 73.8%
+  Missing content: E fece di voi dei re e vi diede quello che non aveva mai dato a nessun popolo al mondo.
+
+
+it-piccardo - Chapter 005 - Verse 023
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ”
+
+
+it-piccardo - Chapter 005 - Verse 027
+  Type: truncated
+  Similarity: 84.9%
+  Missing content: . Rispose il fratello: “Allah accetta solo da parte di coloro che Lo temono.
+
+
+it-piccardo - Chapter 005 - Verse 031
+  Type: truncated
+  Similarity: 90.4%
+  Missing content: ”. E così fu uno di quelli afflitti dai rimorsi.
+
+
+it-piccardo - Chapter 005 - Verse 032
+  Type: truncated
+  Similarity: 92.7%
+  Missing content: Eppure molti di loro commisero eccessi sulla terra.
+
+
+it-piccardo - Chapter 005 - Verse 033
+  Type: truncated
+  Similarity: 84.2%
+  Missing content: ecco l'ignominia che li toccherà in questa vita; nell'altra vita avranno castigo immenso,
+
+
+it-piccardo - Chapter 005 - Verse 042
+  Type: truncated
+  Similarity: 85.4%
+  Missing content: E se ti allontanerai, non potranno mai nuocerti in nulla.
+
+
+it-piccardo - Chapter 005 - Verse 048
+  Type: truncated
+  Similarity: 94.9%
+  Missing content: Ad ognuno di voi abbiamo assegnato una via e un percorso.
+
+
+it-piccardo - Chapter 005 - Verse 049
+  Type: truncated
+  Similarity: 94.3%
+  Missing content: Invero molti uomini sono perversi.
+
+
+it-piccardo - Chapter 005 - Verse 051
+  Type: truncated
+  Similarity: 87.5%
+  Missing content: E chi li sceglie come alleati è uno di loro.
+
+
+it-piccardo - Chapter 005 - Verse 060
+  Type: truncated
+  Similarity: 93.1%
+  Missing content: coloro che hanno adorato gli idoli,   e sono i più lontani dalla retta via”
+
+
+it-piccardo - Chapter 005 - Verse 064
+  Type: truncated
+  Similarity: 73.6%
+  Missing content: Abbiamo destato tra loro odio e inimicizia fino al giorno della Resurrezione.   Gareggiano nel seminare disordine sulla terra, ma Allah non ama i corruttori.
+
+
+it-piccardo - Chapter 005 - Verse 067
+  Type: truncated
+  Similarity: 91.7%
+  Missing content: Allah ti proteggerà dalla gente.
+
+
+it-piccardo - Chapter 005 - Verse 068
+  Type: truncated
+  Similarity: 94.6%
+  Missing content: Non ti affliggere per i miscredenti.
+
+
+it-piccardo - Chapter 005 - Verse 070
+  Type: truncated
+  Similarity: 89.9%
+  Missing content: , e ne uccisero altri
+
+
+it-piccardo - Chapter 005 - Verse 072
+  Type: truncated
+  Similarity: 93.1%
+  Missing content: Gli ingiusti non avranno chi li soccorra!
+
+
+it-piccardo - Chapter 005 - Verse 073
+  Type: truncated
+  Similarity: 87.4%
+  Missing content: Mentre non c'è dio all'infuori del Dio Unico!
+
+
+it-piccardo - Chapter 005 - Verse 075
+  Type: truncated
+  Similarity: 79.1%
+  Missing content: Guarda come rendiamo evidenti i Nostri segni, quindi guarda come se ne allontanano..
+
+
+it-piccardo - Chapter 005 - Verse 077
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 005 - Verse 095
+  Type: truncated
+  Similarity: 95.1%
+  Missing content: Allah è potente, è il Padrone della vendetta.
+
+
+it-piccardo - Chapter 005 - Verse 096
+  Type: truncated
+  Similarity: 88.9%
+  Missing content: Temete Allah, è a Lui che sarete ricondotti.
+
+
+it-piccardo - Chapter 005 - Verse 097
+  Type: truncated
+  Similarity: 94.1%
+  Missing content: In verità Allah conosce ogni cosa.
+
+
+it-piccardo - Chapter 005 - Verse 101
+  Type: truncated
+  Similarity: 86.8%
+  Missing content: Allah vi perdonerà, poiché Allah è perdonatore, paziente.
+
+
+it-piccardo - Chapter 005 - Verse 105
+  Type: truncated
+  Similarity: 76.2%
+  Missing content: Poi tutti ritornerete ad Allah ed Egli vi informerà di quello che avrete fatto.
+
+
+it-piccardo - Chapter 005 - Verse 107
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: .
+
+
+it-piccardo - Chapter 005 - Verse 110
+  Type: truncated
+  Similarity: 94.5%
+  Missing content: Tanto che parlasti agli uomini dalla culla e in età matura.  "”
+
+
+it-piccardo - Chapter 005 - Verse 112
+  Type: truncated
+  Similarity: 78.7%
+  Missing content: scendere su di noi dal cielo una tavola imbandita?”, gli rispose: “
+
+
+it-piccardo - Chapter 005 - Verse 114
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 005 - Verse 116
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ”,
+
+
+it-piccardo - Chapter 005 - Verse 117
+  Type: truncated
+  Similarity: 92.4%
+  Missing content: "  Tu sei testimone di tutte le cose.
+
+
+it-piccardo - Chapter 005 - Verse 119
+  Type: truncated
+  Similarity: 92.6%
+  Missing content: Questo è l'immenso successo!”.
+
+
+it-piccardo - Chapter 006 - Verse 006
+  Type: truncated
+  Similarity: 81.0%
+  Missing content: Poi le distruggemmo a causa dei loro peccati e suscitammo, dopo ciascuna di loro, un'altra generazione.
+
+
+it-piccardo - Chapter 006 - Verse 012
+  Type: truncated
+  Similarity: 65.4%
+  Missing content: Vi riunirà nel Giorno della Resurrezione, sul quale non v'è dubbio alcuno. Quelli che non credono preparano la loro stessa rovina.
+
+
+it-piccardo - Chapter 006 - Verse 014
+  Type: truncated
+  Similarity: 93.4%
+  Missing content: Non siate mai più associatori.
+
+
+it-piccardo - Chapter 006 - Verse 019
+  Type: truncated
+  Similarity: 83.9%
+  Missing content: Di': “Io lo nego!”. Di': “In verità Egli è un Dio Unico. Io rinnego ciò che Gli attribuite”.
+
+
+it-piccardo - Chapter 006 - Verse 025
+  Type: truncated
+  Similarity: 79.5%
+  Missing content: Quando vengono a polemizzare con te coloro che non credono, dicono: “Non sono che favole degli antichi!”.
+
+
+it-piccardo - Chapter 006 - Verse 034
+  Type: truncated
+  Similarity: 86.3%
+  Missing content: Ti sarà certamente giunta una parte della storia degli Inviati.
+
+
+it-piccardo - Chapter 006 - Verse 035
+  Type: truncated
+  Similarity: 93.0%
+  Missing content: Non essere dunque fra gli ignoranti!
+
+
+it-piccardo - Chapter 006 - Verse 038
+  Type: truncated
+  Similarity: 85.3%
+  Missing content: Poi tutti saranno ricondotti verso il loro Signore.
+
+
+it-piccardo - Chapter 006 - Verse 046
+  Type: truncated
+  Similarity: 94.0%
+  Missing content: eppure se ne allontanano.
+
+
+it-piccardo - Chapter 006 - Verse 050
+  Type: truncated
+  Similarity: 94.4%
+  Missing content: Non riflettete dunque?”.
+
+
+it-piccardo - Chapter 006 - Verse 052
+  Type: truncated
+  Similarity: 77.5%
+  Missing content: non renderanno conto di te. Se li scacciassi saresti tra gli ingiusti.
+
+
+it-piccardo - Chapter 006 - Verse 054
+  Type: truncated
+  Similarity: 66.1%
+  Missing content: Quanto a chi di voi commette il male per ignoranza e poi si pente e si corregge, in verità Allah è perdonatore, misericordioso”.
+
+
+it-piccardo - Chapter 006 - Verse 057
+  Type: truncated
+  Similarity: 93.2%
+  Missing content: ed è il migliore dei giudici”
+
+
+it-piccardo - Chapter 006 - Verse 059
+  Type: truncated
+  Similarity: 75.0%
+  Missing content: Non c'è seme nelle tenebre della terra o cosa alcuna verde o secca, che non siano [citati] nel Libro chiarissimo.
+
+
+it-piccardo - Chapter 006 - Verse 060
+  Type: truncated
+  Similarity: 89.3%
+  Missing content: e vi mostrerà quello che avete operato
+
+
+it-piccardo - Chapter 006 - Verse 065
+  Type: truncated
+  Similarity: 95.1%
+  Missing content: , affinché comprendano
+
+
+it-piccardo - Chapter 006 - Verse 071
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: "”.
+
+
+it-piccardo - Chapter 006 - Verse 073
+  Type: truncated
+  Similarity: 73.1%
+  Missing content: [“nel Giorno in cui sarà soffiato nella Tromba”: il Giorno della Resurrezione, in cui la Tromba (o il Corno) suonerà per scandire le fasi di quelle ore di angoscia che precederanno il Giudizio divino (vedi XXXIX, 68-69)]
+
+
+it-piccardo - Chapter 006 - Verse 093
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 006 - Verse 112
+  Type: truncated
+  Similarity: 90.7%
+  Missing content: Lasciali soli con le loro invenzioni,
+
+
+it-piccardo - Chapter 006 - Verse 114
+  Type: truncated
+  Similarity: 91.7%
+  Missing content: Non essere, dunque, tra coloro che dubitano.
+
+
+it-piccardo - Chapter 006 - Verse 119
+  Type: truncated
+  Similarity: 88.1%
+  Missing content: Il tuo Signore conosce i trasgressori meglio di chiunque altro.
+
+
+it-piccardo - Chapter 006 - Verse 121
+  Type: truncated
+  Similarity: 89.4%
+  Missing content: Se li seguiste sareste associatori.
+
+
+it-piccardo - Chapter 006 - Verse 124
+  Type: truncated
+  Similarity: 77.8%
+  Missing content: L'umiliazione di fronte ad Allah e un castigo crudele, colpiranno quelli che peccarono a causa delle loro trame!
+
+
+it-piccardo - Chapter 006 - Verse 136
+  Type: truncated
+  Similarity: 94.9%
+  Missing content: È in questo senso che va inteso “quello che è per Allah giunge ai loro soci”]
+
+
+it-piccardo - Chapter 006 - Verse 146
+  Type: truncated
+  Similarity: 58.9%
+  Missing content: Vietammo loro il grasso dei bovini e degli ovini, a parte quello del dorso, delle viscere o quello frammisto ad ossa. Così li compensammo della loro ribellione.
+
+
+it-piccardo - Chapter 006 - Verse 157
+  Type: truncated
+  Similarity: 83.6%
+  Missing content: Presto compenseremo quelli che si allontanano dai Nostri segni con un duro castigo per essersi allontanati.
+
+
+it-piccardo - Chapter 006 - Verse 164
+  Type: truncated
+  Similarity: 80.6%
+  Missing content: Poi ritornerete al vostro Signore ed Egli vi informerà sulle vostre discordie”.
+
+
+it-piccardo - Chapter 006 - Verse 165
+  Type: truncated
+  Similarity: 89.9%
+  Missing content: in verità è perdonatore, misericordioso.
+
+
+it-piccardo - Chapter 007 - Verse 020
+  Type: truncated
+  Similarity: 82.8%
+  Missing content: affinché non diventiate angeli o esseri immortali”.
+
+
+it-piccardo - Chapter 007 - Verse 022
+  Type: truncated
+  Similarity: 72.6%
+  Missing content: Li richiamò il loro Signore: “Non vi avevo vietato quell'albero, non vi avevo detto che Satana è il vostro dichiarato nemico?”.
+
+
+it-piccardo - Chapter 007 - Verse 026
+  Type: truncated
+  Similarity: 93.3%
+  Missing content: affinché se ne ricordino!
+
+
+it-piccardo - Chapter 007 - Verse 027
+  Type: truncated
+  Similarity: 87.1%
+  Missing content: A coloro che non credono abbiamo assegnato i diavoli per alleati.
+
+
+it-piccardo - Chapter 007 - Verse 028
+  Type: truncated
+  Similarity: 86.1%
+  Missing content: Direte, contro Allah, ciò che non conoscete?”.
+
+
+it-piccardo - Chapter 007 - Verse 032
+  Type: truncated
+  Similarity: 75.0%
+  Missing content: e soltanto ad essi nel Giorno della Resurrezione”  Così spieghiamo i Nostri segni ad un popolo che sa.
+
+
+it-piccardo - Chapter 007 - Verse 033
+  Type: truncated
+  Similarity: 87.8%
+  Missing content: e il dire contro Allah cose di cui non conoscete nulla”
+
+
+it-piccardo - Chapter 007 - Verse 038
+  Type: truncated
+  Similarity: 99.5%
+  Missing content: ” ”
+
+
+it-piccardo - Chapter 007 - Verse 069
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 007 - Verse 071
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: ”
+
+
+it-piccardo - Chapter 007 - Verse 073
+  Type: truncated
+  Similarity: 82.3%
+  Missing content: Lasciatela pascolare sulla terra di Allah e non le fate alcun male: scontereste un doloroso castigo.
+
+
+it-piccardo - Chapter 007 - Verse 074
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 007 - Verse 075
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: ”
+
+
+it-piccardo - Chapter 007 - Verse 085
+  Type: truncated
+  Similarity: 31.1%
+  Missing content: Per voi non c'è altro dio che Lui. Vi è giunta una prova da parte del vostro Signore.
+
+
+it-piccardo - Chapter 007 - Verse 087
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ”
+
+
+it-piccardo - Chapter 007 - Verse 134
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: ”
+
+
+it-piccardo - Chapter 007 - Verse 137
+  Type: truncated
+  Similarity: 85.3%
+  Missing content: E distruggemmo ciò che Faraone e il suo popolo avevano realizzato ed eretto.
+
+
+it-piccardo - Chapter 007 - Verse 148
+  Type: truncated
+  Similarity: 89.1%
+  Missing content: Lo adottarono come divinità e furono ingiusti.
+
+
+it-piccardo - Chapter 007 - Verse 150
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 007 - Verse 156
+  Type: truncated
+  Similarity: 81.4%
+  Missing content: ”  la riserverò a coloro che [Mi] temono e pagano la decima, a coloro che credono nei Nostri segni,
+
+
+it-piccardo - Chapter 007 - Verse 157
+  Type: truncated
+  Similarity: 68.9%
+  Missing content: dei legami che li opprimono.  ”
+
+
+it-piccardo - Chapter 007 - Verse 158
+  Type: truncated
+  Similarity: 96.0%
+  Missing content: Dà la vita e dà la morte.
+
+
+it-piccardo - Chapter 007 - Verse 161
+  Type: truncated
+  Similarity: 92.0%
+  Missing content: ”.
+
+
+it-piccardo - Chapter 007 - Verse 187
+  Type: truncated
+  Similarity: 85.1%
+  Missing content: Di': “La scienza di ciò appartiene ad Allah”. Ma la maggior parte degli uomini non lo sa.
+
+
+it-piccardo - Chapter 007 - Verse 188
+  Type: truncated
+  Similarity: 84.5%
+  Missing content: Non sono altro che un nunzio e un ammonitore per le genti che credono”.
+
+
+it-piccardo - Chapter 007 - Verse 189
+  Type: truncated
+  Similarity: 76.2%
+  Missing content: Quando poi si appesantì, entrambi invocarono il loro Signore Allah: “Se ci darai un [figlio] probo, Ti saremo certamente riconoscenti”.
+
+
+it-piccardo - Chapter 008 - Verse 001
+  Type: truncated
+  Similarity: 86.5%
+  Missing content: Temete Allah e mantenete la concordia tra di voi.
+
+
+it-piccardo - Chapter 008 - Verse 026
+  Type: truncated
+  Similarity: 98.8%
+  Missing content: e vi dette cibo eccellente
+
+
+it-piccardo - Chapter 008 - Verse 036
+  Type: truncated
+  Similarity: 80.4%
+  Missing content: Li dilapideranno, poi li rimpiangeranno e infine soccomberanno.
+
+
+it-piccardo - Chapter 008 - Verse 043
+  Type: truncated
+  Similarity: 71.3%
+  Missing content: Ma Allah vi salvò.
+
+
+it-piccardo - Chapter 008 - Verse 048
+  Type: truncated
+  Similarity: 79.9%
+  Missing content: , Allah è severo nel castigo”
+
+
+it-piccardo - Chapter 008 - Verse 060
+  Type: truncated
+  Similarity: 95.6%
+  Missing content: e non sarete danneggiati
+
+
+it-piccardo - Chapter 008 - Verse 065
+  Type: truncated
+  Similarity: 63.6%
+  Missing content: e cento di voi avranno il sopravvento su mille miscredenti  Ché in verità è gente che nulla comprende.
+
+
+it-piccardo - Chapter 008 - Verse 066
+  Type: truncated
+  Similarity: 70.3%
+  Missing content: e se sono mille, con il permesso di Allah, avranno il sopravvento su duemila. Allah è con coloro che perseverano.
+
+
+it-piccardo - Chapter 008 - Verse 070
+  Type: truncated
+  Similarity: 95.8%
+  Missing content: misericordioso.
+
+
+it-piccardo - Chapter 008 - Verse 074
+  Type: truncated
+  Similarity: 93.6%
+  Missing content: e generosa ricompensa.
+
+
+it-piccardo - Chapter 009 - Verse 003
+  Type: truncated
+  Similarity: 90.6%
+  Missing content: Annuncia, a coloro che non credono, un doloroso castigo.
+
+
+it-piccardo - Chapter 009 - Verse 005
+  Type: truncated
+  Similarity: 92.8%
+  Missing content: Allah è perdonatore, misericordioso.
+
+
+it-piccardo - Chapter 009 - Verse 007
+  Type: truncated
+  Similarity: 95.6%
+  Missing content: Allah ama i timorati.
+
+
+it-piccardo - Chapter 009 - Verse 019
+  Type: truncated
+  Similarity: 93.3%
+  Missing content: Allah non guida gli ingiusti.
+
+
+it-piccardo - Chapter 009 - Verse 025
+  Type: truncated
+  Similarity: 92.4%
+  Missing content: volgeste le spalle e fuggiste.
+
+
+it-piccardo - Chapter 009 - Verse 028
+  Type: truncated
+  Similarity: 91.0%
+  Missing content: In verità Allah è sapiente, saggio.
+
+
+it-piccardo - Chapter 009 - Verse 042
+  Type: truncated
+  Similarity: 90.5%
+  Missing content: ma Allah sa perfettamente che sono dei bugiardi.
+
+
+it-piccardo - Chapter 009 - Verse 052
+  Type: truncated
+  Similarity: 91.1%
+  Missing content: e anche noi aspetteremo con voi”.
+
+
+it-piccardo - Chapter 009 - Verse 060
+  Type: truncated
+  Similarity: 98.3%
+  Missing content: sapiente.
+
+
+it-piccardo - Chapter 009 - Verse 067
+  Type: truncated
+  Similarity: 90.5%
+  Missing content: Sono loro, gli ipocriti, ad essere empi!
+
+
+it-piccardo - Chapter 009 - Verse 070
+  Type: truncated
+  Similarity: 83.4%
+  Missing content: Non fu Allah ad essere ingiusto con loro, sono loro che lo furono nei loro stessi confronti.
+
+
+it-piccardo - Chapter 009 - Verse 071
+  Type: truncated
+  Similarity: 64.8%
+  Missing content: Ordinano le buone consuetudini e proibiscono ciò che è riprovevole, eseguono l'orazione pagano la decima e obbediscono ad Allah e al Suo Messaggero.
+
+
+it-piccardo - Chapter 009 - Verse 072
+  Type: truncated
+  Similarity: 92.8%
+  Missing content: questa è l'immensa beatitudine!
+
+
+it-piccardo - Chapter 009 - Verse 080
+  Type: truncated
+  Similarity: 98.9%
+  Missing content: e Allah non guida il popolo degli empi
+
+
+it-piccardo - Chapter 009 - Verse 081
+  Type: truncated
+  Similarity: 96.0%
+  Missing content: Se solo comprendessero!
+
+
+it-piccardo - Chapter 009 - Verse 083
+  Type: truncated
+  Similarity: 90.8%
+  Missing content: rimanete allora con coloro che rimangono indietro”.
+
+
+it-piccardo - Chapter 009 - Verse 094
+  Type: truncated
+  Similarity: 60.5%
+  Missing content: Allah e il Suo Messaggero giudicheranno il vostro agire e poi sarete ricondotti al Conoscitore dell'invisibile e del visibile, Che allora, vi mostrerà ciò che avrete fatto”.
+
+
+it-piccardo - Chapter 009 - Verse 118
+  Type: truncated
+  Similarity: 89.5%
+  Missing content: In Verità Allah è Colui Che perdona, il Misericordioso.
+
+
+it-piccardo - Chapter 010 - Verse 004
+  Type: truncated
+  Similarity: 70.6%
+  Missing content: Quanto a coloro che sono stati miscredenti, saranno abbeverati con acqua bollente e avranno un castigo doloroso, a causa di ciò che hanno negato.
+
+
+it-piccardo - Chapter 010 - Verse 015
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ”
+
+
+it-piccardo - Chapter 010 - Verse 027
+  Type: truncated
+  Similarity: 87.7%
+  Missing content: Essi sono i compagni del Fuoco, in cui rimarranno in perpetuo.
+
+
+it-piccardo - Chapter 010 - Verse 049
+  Type: truncated
+  Similarity: 99.5%
+  Missing content: ”
+
+
+it-piccardo - Chapter 010 - Verse 068
+  Type: truncated
+  Similarity: 81.7%
+  Missing content: Non avete nessuna prova per dire ciò: direte su Allah ciò che non sapete?
+
+
+it-piccardo - Chapter 010 - Verse 071
+  Type: truncated
+  Similarity: 90.2%
+  Missing content: Stabilite quello che volete fare di me, senza porre indugi.
+
+
+it-piccardo - Chapter 010 - Verse 073
+  Type: truncated
+  Similarity: 63.0%
+  Missing content: e affogammo coloro che tacciavano di menzogna i Nostri segni. Guarda quello che è successo a coloro che erano stati avvertiti.
+
+
+it-piccardo - Chapter 010 - Verse 074
+  Type: truncated
+  Similarity: 88.5%
+  Missing content: Così suggelliamo i cuori dei trasgressori.
+
+
+it-piccardo - Chapter 010 - Verse 083
+  Type: truncated
+  Similarity: 92.6%
+  Missing content: , era uno dei trasgressori
+
+
+it-piccardo - Chapter 010 - Verse 088
+  Type: truncated
+  Similarity: 87.1%
+  Missing content: , ché non credano, fino a che non avranno visto il castigo doloroso”
+
+
+it-piccardo - Chapter 010 - Verse 090
+  Type: truncated
+  Similarity: 56.7%
+  Missing content: Poi, quando fu sul punto di annegare, [Faraone] disse: “Credo che non c'è altro dio, all'infuori di Colui in cui credono i Figli di Israele e sono tra coloro che si sottomettono”.
+
+
+it-piccardo - Chapter 010 - Verse 104
+  Type: truncated
+  Similarity: 74.1%
+  Missing content: ma adoro Allah che vi farà morire. Mi è stato ordinato di essere uno di coloro che credono”.
+
+
+it-piccardo - Chapter 010 - Verse 108
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ”
+
+
+it-piccardo - Chapter 011 - Verse 005
+  Type: truncated
+  Similarity: 87.5%
+  Missing content: In verità, [Egli] conosce il profondo dei cuori.
+
+
+it-piccardo - Chapter 011 - Verse 017
+  Type: truncated
+  Similarity: 88.5%
+  Missing content: È la verità che proviene dal tuo Signore, ma la maggior parte della gente non crede.
+
+
+it-piccardo - Chapter 011 - Verse 018
+  Type: truncated
+  Similarity: 64.9%
+  Missing content: Essi saranno condotti al loro Signore e i testimoni diranno: “Ecco quelli che hanno mentito contro il loro Signore”.
+
+
+it-piccardo - Chapter 011 - Verse 027
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 011 - Verse 031
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: ”.
+
+
+it-piccardo - Chapter 011 - Verse 040
+  Type: truncated
+  Similarity: 51.8%
+  Missing content: [“il forno buttò fuori”: il “forno” viene per lo più inteso come un riferimento alla superficie terrestre, e sembra voler dare l'idea che non si trattò di pioggia diluviale, ma di una catastrofe provocata dalla fuoriuscita di acque dalle profondità della terra]
+
+
+it-piccardo - Chapter 011 - Verse 062
+  Type: truncated
+  Similarity: 99.5%
+  Missing content: !”
+
+
+it-piccardo - Chapter 011 - Verse 081
+  Type: truncated
+  Similarity: 89.5%
+  Missing content: nIn verità, la scadenza è l'alba; non è forse vicina l'alba?”.
+
+
+it-piccardo - Chapter 011 - Verse 088
+  Type: truncated
+  Similarity: 86.6%
+  Missing content: Il mio successo è soltanto in Allah, in Lui confido e a Lui ritornerò.
+
+
+it-piccardo - Chapter 012 - Verse 006
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 012 - Verse 021
+  Type: truncated
+  Similarity: 84.0%
+  Missing content: Allah ha il predominio nei Suoi disegni, ma la maggior parte degli uomini non lo sa.
+
+
+it-piccardo - Chapter 012 - Verse 023
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: ”
+
+
+it-piccardo - Chapter 012 - Verse 032
+  Type: truncated
+  Similarity: 84.8%
+  Missing content: Ho cercato di sedurlo, ma lui vuole mantenersi casto.  ”
+
+
+it-piccardo - Chapter 012 - Verse 036
+  Type: truncated
+  Similarity: 53.8%
+  Missing content: altro: “Mi sono visto mentre portavo sulla testa del pane e gli uccelli ne mangiavano. Dacci l'
+
+
+it-piccardo - Chapter 012 - Verse 037
+  Type: truncated
+  Similarity: 88.0%
+  Missing content: Ciò è parte di quel che il mio Signore mi ha insegnato.
+
+
+it-piccardo - Chapter 012 - Verse 038
+  Type: truncated
+  Similarity: 88.3%
+  Missing content: Non dobbiamo associare ad Allah alcunché.
+
+
+it-piccardo - Chapter 012 - Verse 040
+  Type: truncated
+  Similarity: 66.4%
+  Missing content: Egli vi ha ordinato di non adorare altri che Lui.
+
+
+it-piccardo - Chapter 012 - Verse 041
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 012 - Verse 043
+  Type: truncated
+  Similarity: 99.5%
+  Missing content: !”
+
+
+it-piccardo - Chapter 012 - Verse 046
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 012 - Verse 050
+  Type: truncated
+  Similarity: 52.4%
+  Missing content: Quando giunse il messaggero [Giuseppe] disse: “Ritorna presso il tuo signore e chiedigli: "Cosa volevano le donne che si tagliuzzarono le mani?".  ”
+
+
+it-piccardo - Chapter 012 - Verse 051
+  Type: truncated
+  Similarity: 73.1%
+  Missing content: Non conosciamo male alcuno a suo riguardo”. La moglie del principe disse: “Ormai la verità è manifesta: ero io che cercavo di sedurlo.  ”
+
+
+it-piccardo - Chapter 012 - Verse 065
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 012 - Verse 066
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: ”
+
+
+it-piccardo - Chapter 012 - Verse 088
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 012 - Verse 090
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 012 - Verse 101
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: ”.
+
+
+it-piccardo - Chapter 013 - Verse 025
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: e avranno la peggiore delle dimore
+
+
+it-piccardo - Chapter 014 - Verse 010
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ”.
+
+
+it-piccardo - Chapter 014 - Verse 021
+  Type: truncated
+  Similarity: 99.5%
+  Missing content: ”.
+
+
+it-piccardo - Chapter 014 - Verse 022
+  Type: truncated
+  Similarity: 99.9%
+  Missing content: ”
+
+
+it-piccardo - Chapter 016 - Verse 069
+  Type: truncated
+  Similarity: 99.5%
+  Missing content: ”
+
+
+it-piccardo - Chapter 016 - Verse 075
+  Type: truncated
+  Similarity: 96.1%
+  Missing content: Sono forse uguali?
+
+
+it-piccardo - Chapter 016 - Verse 081
+  Type: truncated
+  Similarity: 76.4%
+  Missing content: Vi ha concesso vesti che vi proteggono dal calore e altre, che vi proteggono dalla vostra stessa violenza.
+
+
+it-piccardo - Chapter 017 - Verse 110
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: ”
+
+
+it-piccardo - Chapter 018 - Verse 018
+  Type: truncated
+  Similarity: 76.3%
+  Missing content: Li giravamo sul lato destro e su quello sinistro, mentre il loro cane era sulla soglia, le zampe distese.
+
+
+it-piccardo - Chapter 018 - Verse 029
+  Type: truncated
+  Similarity: 93.0%
+  Missing content: Che terribile bevanda, che atroce dimora!
+
+
+it-piccardo - Chapter 018 - Verse 049
+  Type: truncated
+  Similarity: 92.6%
+  Missing content: Il tuo Signore non farà torto ad alcuno.
+
+
+it-piccardo - Chapter 018 - Verse 050
+  Type: truncated
+  Similarity: 93.2%
+  Missing content: Un pessimo scambio per gli ingiusti.
+
+
+it-piccardo - Chapter 018 - Verse 056
+  Type: truncated
+  Similarity: 81.6%
+  Missing content: Deridono i Nostri segni e ciò di cui li si avverte.
+
+
+it-piccardo - Chapter 018 - Verse 077
+  Type: truncated
+  Similarity: 84.9%
+  Missing content: Disse [Mosè]: “Potresti ben chiedere un salario per quello che hai fatto”.
+
+
+it-piccardo - Chapter 018 - Verse 082
+  Type: truncated
+  Similarity: 91.6%
+  Missing content: Ecco quello che non hai potuto sopportare con pazienza”.
+
+
+it-piccardo - Chapter 018 - Verse 086
+  Type: truncated
+  Similarity: 99.5%
+  Missing content: ”
+
+
+it-piccardo - Chapter 018 - Verse 110
+  Type: truncated
+  Similarity: 64.2%
+  Missing content: Chi spera di incontrare il suo Signore compia il bene e nell'adorazione non associ alcuno al suo Signore”.
+
+
+it-piccardo - Chapter 019 - Verse 075
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 020 - Verse 039
+  Type: truncated
+  Similarity: 99.5%
+  Missing content: " "
+
+
+it-piccardo - Chapter 020 - Verse 071
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 020 - Verse 086
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ?”
+
+
+it-piccardo - Chapter 021 - Verse 044
+  Type: truncated
+  Similarity: 91.4%
+  Missing content: Sono forse loro i vincitori?
+
+
+it-piccardo - Chapter 022 - Verse 011
+  Type: truncated
+  Similarity: 61.1%
+  Missing content: se gli giunge una prova fa voltafaccia e perde in questa vita e nell'altra. Questa è una perdita evidente.
+
+
+it-piccardo - Chapter 022 - Verse 018
+  Type: truncated
+  Similarity: 96.1%
+  Missing content: Allah fa quello che vuole.
+
+
+it-piccardo - Chapter 022 - Verse 052
+  Type: truncated
+  Similarity: 93.7%
+  Missing content: Allah è sapiente, saggio.
+
+
+it-piccardo - Chapter 022 - Verse 065
+  Type: truncated
+  Similarity: 85.0%
+  Missing content: In verità, Allah è dolce e misericordioso nei confronti degli uomini.
+
+
+it-piccardo - Chapter 022 - Verse 072
+  Type: truncated
+  Similarity: 95.7%
+  Missing content: Qual triste divenire!”.
+
+
+it-piccardo - Chapter 022 - Verse 073
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ”.
+
+
+it-piccardo - Chapter 022 - Verse 078
+  Type: truncated
+  Similarity: 81.5%
+  Missing content: Assolvete all'orazione e versate la decima e aggrappatevi ad Allah: Egli è il vostro patrono. Qual miglior patrono, qual miglior alleato!.
+
+
+it-piccardo - Chapter 023 - Verse 014
+  Type: truncated
+  Similarity: 87.8%
+  Missing content: Sia benedetto Allah, il Migliore dei creatori!
+
+
+it-piccardo - Chapter 023 - Verse 024
+  Type: truncated
+  Similarity: 83.2%
+  Missing content: Ma di questo non abbiamo mai avuto notizia, [neppure] dai nostri antenati più lontani.
+
+
+it-piccardo - Chapter 023 - Verse 027
+  Type: truncated
+  Similarity: 88.8%
+  Missing content: E non Mi rivolgere suppliche in favore degli ingiusti: saranno annegati.
+
+
+it-piccardo - Chapter 024 - Verse 028
+  Type: truncated
+  Similarity: 90.9%
+  Missing content: Allah ben conosce quel che fate.
+
+
+it-piccardo - Chapter 024 - Verse 040
+  Type: truncated
+  Similarity: 89.8%
+  Missing content: Per colui cui Allah non ha dato la luce, non c'è alcuna luce.
+
+
+it-piccardo - Chapter 024 - Verse 041
+  Type: truncated
+  Similarity: 90.5%
+  Missing content: Allah ben conosce quello che fanno.
+
+
+it-piccardo - Chapter 024 - Verse 043
+  Type: truncated
+  Similarity: 72.2%
+  Missing content: Colpisce con esse chi vuole e ne preserva chi vuole e per poco, il lampo della folgore [che le accompagna], non rapisce la vista.
+
+
+it-piccardo - Chapter 024 - Verse 045
+  Type: truncated
+  Similarity: 91.1%
+  Missing content: In verità Allah è onnipotente.
+
+
+it-piccardo - Chapter 024 - Verse 054
+  Type: truncated
+  Similarity: 83.2%
+  Missing content: L'Inviato non deve che trasmettere in modo esplicito [il Messaggio].
+
+
+it-piccardo - Chapter 024 - Verse 062
+  Type: truncated
+  Similarity: 99.9%
+  Missing content: ]
+
+
+it-piccardo - Chapter 024 - Verse 064
+  Type: truncated
+  Similarity: 93.4%
+  Missing content: ]  Allah conosce ogni cosa.
+
+
+it-piccardo - Chapter 026 - Verse 049
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 027 - Verse 019
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 028 - Verse 032
+  Type: truncated
+  Similarity: 99.5%
+  Missing content: ”.
+
+
+it-piccardo - Chapter 028 - Verse 063
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 028 - Verse 077
+  Type: truncated
+  Similarity: 92.4%
+  Missing content: Allah non ama i corruttori”.
+
+
+it-piccardo - Chapter 028 - Verse 082
+  Type: truncated
+  Similarity: 89.2%
+  Missing content: Ah! È ben evidente che i miscredenti non prospereranno”.
+
+
+it-piccardo - Chapter 029 - Verse 010
+  Type: truncated
+  Similarity: 87.2%
+  Missing content: Forse, che Allah non conosce meglio cosa c'è nei petti delle creature?
+
+
+it-piccardo - Chapter 029 - Verse 017
+  Type: truncated
+  Similarity: 76.1%
+  Missing content: Cercate provvidenza presso Allah, adorateLo e siateGli riconoscenti: a Lui sarete ricondotti.
+
+
+it-piccardo - Chapter 029 - Verse 025
+  Type: truncated
+  Similarity: 87.5%
+  Missing content: vostra dimora sarà il fuoco e non avrete chi vi soccorrerà”.
+
+
+it-piccardo - Chapter 029 - Verse 046
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ”
+
+
+it-piccardo - Chapter 029 - Verse 052
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ”
+
+
+it-piccardo - Chapter 030 - Verse 048
+  Type: truncated
+  Similarity: 93.0%
+  Missing content: questi ne traggono lieta novella,
+
+
+it-piccardo - Chapter 030 - Verse 054
+  Type: truncated
+  Similarity: 91.3%
+  Missing content: Egli è il Sapiente, il Potente.
+
+
+it-piccardo - Chapter 030 - Verse 056
+  Type: truncated
+  Similarity: 94.2%
+  Missing content: ma voi nulla sapete”.
+
+
+it-piccardo - Chapter 031 - Verse 010
+  Type: truncated
+  Similarity: 91.5%
+  Missing content: e l'ha popolata di animali di tutte le specie
+
+
+it-piccardo - Chapter 031 - Verse 015
+  Type: truncated
+  Similarity: 89.7%
+  Missing content: e segui la via di chi si rivolge a Me
+
+
+it-piccardo - Chapter 031 - Verse 016
+  Type: truncated
+  Similarity: 95.1%
+  Missing content: “  e ben informato
+
+
+it-piccardo - Chapter 031 - Verse 020
+  Type: truncated
+  Similarity: 93.5%
+  Missing content: , né guida, né un Libro luminoso
+
+
+it-piccardo - Chapter 031 - Verse 029
+  Type: truncated
+  Similarity: 92.8%
+  Missing content: fino a un termine stabilito?
+
+
+it-piccardo - Chapter 031 - Verse 032
+  Type: truncated
+  Similarity: 90.3%
+  Missing content: il peggior ingrato rinnegherà i Nostri segni.
+
+
+it-piccardo - Chapter 031 - Verse 033
+  Type: truncated
+  Similarity: 93.9%
+  Missing content: La promessa di Allah è verità.
+
+
+it-piccardo - Chapter 031 - Verse 034
+  Type: truncated
+  Similarity: 89.5%
+  Missing content: ani e nessuno conosce la terra in cui m
+
+
+it-piccardo - Chapter 032 - Verse 004
+  Type: truncated
+  Similarity: 83.4%
+  Missing content: Al di fuori di Lui non avete alcun patrono o intercessore.
+
+
+it-piccardo - Chapter 033 - Verse 005
+  Type: truncated
+  Similarity: 93.8%
+  Missing content: Allah è perdonatore, misericordioso.
+
+
+it-piccardo - Chapter 033 - Verse 009
+  Type: truncated
+  Similarity: 81.4%
+  Missing content: Contro di loro mandammo un uragano e schiere che non vedeste.
+
+
+it-piccardo - Chapter 033 - Verse 049
+  Type: truncated
+  Similarity: 85.2%
+  Missing content: Date loro qualcosa e date loro grazioso congedo.
+
+
+it-piccardo - Chapter 033 - Verse 053
+  Type: truncated
+  Similarity: 88.8%
+  Missing content: Quando chiedete ad esse un qualche oggetto, chiedetelo da dietro una cortina: ciò è più puro per i vostri cuori e per i loro.
+
+
+it-piccardo - Chapter 034 - Verse 019
+  Type: truncated
+  Similarity: 83.6%
+  Missing content: Ne facemmo argomento di leggende e li disperdemmo in ogni luogo.
+
+
+it-piccardo - Chapter 034 - Verse 023
+  Type: truncated
+  Similarity: 94.3%
+  Missing content: Risponderanno: “La verità”.
+
+
+it-piccardo - Chapter 034 - Verse 033
+  Type: truncated
+  Similarity: 92.4%
+  Missing content: Saranno compensati per altro che per le opere loro?
+
+
+it-piccardo - Chapter 035 - Verse 001
+  Type: truncated
+  Similarity: 86.5%
+  Missing content: Egli aggiunge alla creazione quello che vuole.
+
+
+it-piccardo - Chapter 035 - Verse 003
+  Type: truncated
+  Similarity: 90.8%
+  Missing content: Come potete allontanarvi [da Lui]?
+
+
+it-piccardo - Chapter 035 - Verse 008
+  Type: truncated
+  Similarity: 78.8%
+  Missing content: Quindi non ti affliggere per causa loro: Allah ben conosce quello che hanno operato.
+
+
+it-piccardo - Chapter 035 - Verse 010
+  Type: truncated
+  Similarity: 91.4%
+  Missing content: La loro trama è destinata al fallimento.
+
+
+it-piccardo - Chapter 035 - Verse 011
+  Type: truncated
+  Similarity: 93.6%
+  Missing content: In verità ciò è facile per Allah.
+
+
+it-piccardo - Chapter 035 - Verse 012
+  Type: truncated
+  Similarity: 96.3%
+  Missing content: Sarete riconoscenti?
+
+
+it-piccardo - Chapter 035 - Verse 013
+  Type: truncated
+  Similarity: 65.0%
+  Missing content: Questi è Allah, il vostro Signore: appartiene a Lui la sovranità, mentre coloro che invocate all'infuori di Lui non posseggono neppure una pellicola di seme di dattero.
+
+
+it-piccardo - Chapter 035 - Verse 018
+  Type: truncated
+  Similarity: 89.2%
+  Missing content: Chi si purifica è solo per se stesso che lo fa e la meta è in Allah.
+
+
+it-piccardo - Chapter 035 - Verse 032
+  Type: truncated
+  Similarity: 93.0%
+  Missing content: questa è la grazia immensa.
+
+
+it-piccardo - Chapter 035 - Verse 037
+  Type: truncated
+  Similarity: 88.2%
+  Missing content: Gustate dunque il castigo, ché per gli ingiusti non ci sarà soccorritore”.
+
+
+it-piccardo - Chapter 035 - Verse 039
+  Type: truncated
+  Similarity: 87.8%
+  Missing content: la loro miscredenza non fa che accrescere la loro rovina.
+
+
+it-piccardo - Chapter 035 - Verse 040
+  Type: truncated
+  Similarity: 88.1%
+  Missing content: ”. No, quel che gli ingiusti si promettono a vicenda non è che frode.
+
+
+it-piccardo - Chapter 035 - Verse 043
+  Type: truncated
+  Similarity: 89.7%
+  Missing content: non troverai deviazione alcuna nella consuetudine di Allah.
+
+
+it-piccardo - Chapter 035 - Verse 044
+  Type: truncated
+  Similarity: 92.0%
+  Missing content: In verità Egli è sapiente, potente.
+
+
+it-piccardo - Chapter 037 - Verse 102
+  Type: truncated
+  Similarity: 99.4%
+  Missing content: ” ”
+
+
+it-piccardo - Chapter 038 - Verse 022
+  Type: truncated
+  Similarity: 88.7%
+  Missing content: non essere iniquo e guidaci sulla retta via.
+
+
+it-piccardo - Chapter 038 - Verse 024
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ”.
+
+
+it-piccardo - Chapter 039 - Verse 005
+  Type: truncated
+  Similarity: 89.1%
+  Missing content: Non è forse Lui l'Eccelso, il Perdonatore?
+
+
+it-piccardo - Chapter 039 - Verse 009
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: ..
+
+
+it-piccardo - Chapter 039 - Verse 023
+  Type: truncated
+  Similarity: 92.4%
+  Missing content: E coloro che Allah svia, non avranno direzione.
+
+
+it-piccardo - Chapter 039 - Verse 042
+  Type: truncated
+  Similarity: 84.7%
+  Missing content: In verità in ciò vi sono segni per coloro che riflettono.
+
+
+it-piccardo - Chapter 039 - Verse 049
+  Type: truncated
+  Similarity: 78.1%
+  Missing content: Si tratta invece di una tentazione, ma la maggior parte di loro non lo sa.
+
+
+it-piccardo - Chapter 039 - Verse 053
+  Type: truncated
+  Similarity: 83.4%
+  Missing content: In verità Egli è il Perdonatore, il Misericordioso.
+
+
+it-piccardo - Chapter 039 - Verse 067
+  Type: truncated
+  Similarity: 83.6%
+  Missing content: e terrà ripiegati i cieli nella Sua Mano destra
+
+
+it-piccardo - Chapter 039 - Verse 073
+  Type: truncated
+  Similarity: 91.1%
+  Missing content: entrate qui per rimanervi in perpetuo”.
+
+
+it-piccardo - Chapter 040 - Verse 005
+  Type: truncated
+  Similarity: 90.4%
+  Missing content: Li afferrai infine, e quale fu la Mia sanzione!
+
+
+it-piccardo - Chapter 040 - Verse 007
+  Type: truncated
+  Similarity: 83.2%
+  Missing content: perdona a coloro che si pentono e seguono la Tua via, preservali dal castigo della Fornace.
+
+
+it-piccardo - Chapter 040 - Verse 028
+  Type: truncated
+  Similarity: 84.1%
+  Missing content: se invece è sincero, subirete parte di ciò di cui vi minaccia. Allah non guida chi è iniquo e bugiardo.
+
+
+it-piccardo - Chapter 040 - Verse 029
+  Type: truncated
+  Similarity: 73.5%
+  Missing content: Disse Faraone: “Vi mostro solo quello ch'io vedo e vi guido sulla via della rettitudine”.
+
+
+it-piccardo - Chapter 040 - Verse 034
+  Type: truncated
+  Similarity: 89.3%
+  Missing content: Allah allontana così l'iniquo e il dubbioso.
+
+
+it-piccardo - Chapter 040 - Verse 035
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 040 - Verse 037
+  Type: truncated
+  Similarity: 85.9%
+  Missing content: L'astuzia di Faraone non fu destinata che al fallimento.
+
+
+it-piccardo - Chapter 041 - Verse 014
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: ”
+
+
+it-piccardo - Chapter 041 - Verse 025
+  Type: truncated
+  Similarity: 85.6%
+  Missing content: che li precedettero
+
+
+it-piccardo - Chapter 041 - Verse 037
+  Type: truncated
+  Similarity: 93.9%
+  Missing content: , se è Lui che adorate
+
+
+it-piccardo - Chapter 041 - Verse 039
+  Type: truncated
+  Similarity: 92.2%
+  Missing content: In verità Egli è l'Onnipotente.
+
+
+it-piccardo - Chapter 041 - Verse 040
+  Type: truncated
+  Similarity: 85.4%
+  Missing content: Fate pure quel che volete, Egli ben osserva quello che fate.
+
+
+it-piccardo - Chapter 041 - Verse 044
+  Type: truncated
+  Similarity: 80.6%
+  Missing content: Coloro che invece non credono, sono colpiti da sordità e accecamento, [ed è come se fossero] chiamati da un luogo remoto.
+
+
+it-piccardo - Chapter 041 - Verse 047
+  Type: truncated
+  Similarity: 85.3%
+  Missing content: risponderanno: “Ti informiamo che tra noi non c'è nessuno che lo testimoni”.
+
+
+it-piccardo - Chapter 041 - Verse 050
+  Type: truncated
+  Similarity: 93.9%
+  Missing content: e faremo gustare loro un penoso tormento
+
+
+it-piccardo - Chapter 042 - Verse 007
+  Type: truncated
+  Similarity: 86.0%
+  Missing content: una parte [di loro] sarà nel Giardino, un'altra parte nella Fiamma.
+
+
+it-piccardo - Chapter 042 - Verse 011
+  Type: truncated
+  Similarity: 80.2%
+  Missing content: Niente è simile a Lui. Egli è l'Audiente, Colui Che tutto osserva.
+
+
+it-piccardo - Chapter 046 - Verse 015
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 046 - Verse 017
+  Type: truncated
+  Similarity: 99.6%
+  Missing content: , ”
+
+
+it-piccardo - Chapter 046 - Verse 021
+  Type: truncated
+  Similarity: 99.5%
+  Missing content: ”
+
+
+it-piccardo - Chapter 046 - Verse 033
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ”
+
+
+it-piccardo - Chapter 047 - Verse 016
+  Type: truncated
+  Similarity: 91.6%
+  Missing content: e che si abbandonano alle loro passioni
+
+
+it-piccardo - Chapter 047 - Verse 038
+  Type: truncated
+  Similarity: 82.6%
+  Missing content: Se volgerete le spalle vi sostituirà con un altro popolo e costoro non saranno uguali a voi.
+
+
+it-piccardo - Chapter 048 - Verse 015
+  Type: truncated
+  Similarity: 87.4%
+  Missing content: Diranno: “Siete gelosi di noi”. Sono loro invece a capire ben poco.
+
+
+it-piccardo - Chapter 048 - Verse 016
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 049 - Verse 011
+  Type: truncated
+  Similarity: 81.2%
+  Missing content: Com'è infame l'accusa di iniquità rivolta a chi è credente ! Coloro che non si pentono sono gli iniqui.
+
+
+it-piccardo - Chapter 049 - Verse 012
+  Type: truncated
+  Similarity: 89.6%
+  Missing content: Allah sempre accetta il pentimento, è misericordioso.
+
+
+it-piccardo - Chapter 049 - Verse 013
+  Type: truncated
+  Similarity: 89.7%
+  Missing content: In verità Allah è sapiente, ben informato.
+
+
+it-piccardo - Chapter 049 - Verse 014
+  Type: truncated
+  Similarity: 66.5%
+  Missing content: "  Se obbedirete ad Allah e al Suo Inviato, Egli non trascurerà nessuna delle vostre [buone] azioni. In verità Allah è perdonatore, misericordioso”.
+
+
+it-piccardo - Chapter 053 - Verse 032
+  Type: truncated
+  Similarity: 86.1%
+  Missing content: Non vantatevi di essere puri : Egli conosce meglio [di chiunque altro] coloro che[Lo] temono.
+
+
+it-piccardo - Chapter 057 - Verse 010
+  Type: truncated
+  Similarity: 94.4%
+  Missing content: Allah è ben informato di quello che fate.
+
+
+it-piccardo - Chapter 057 - Verse 012
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 057 - Verse 013
+  Type: truncated
+  Similarity: 73.2%
+  Missing content: Fra di loro, sarà poi eretta una muraglia dotata di una porta: al suo interno la misericordia, all'esterno, di fronte, il castigo.
+
+
+it-piccardo - Chapter 057 - Verse 014
+  Type: truncated
+  Similarity: 89.1%
+  Missing content: Vi ingannò a proposito di Allah l'Ingannatore.”
+
+
+it-piccardo - Chapter 057 - Verse 019
+  Type: truncated
+  Similarity: 91.7%
+  Missing content: questi sono i compagni della Fornace.
+
+
+it-piccardo - Chapter 057 - Verse 021
+  Type: truncated
+  Similarity: 93.0%
+  Missing content: Allah possiede immensa grazia.
+
+
+it-piccardo - Chapter 057 - Verse 025
+  Type: truncated
+  Similarity: 96.4%
+  Missing content: Allah è forte, eccelso.
+
+
+it-piccardo - Chapter 057 - Verse 029
+  Type: truncated
+  Similarity: 90.7%
+  Missing content: Allah possiede immensa Grazia.
+
+
+it-piccardo - Chapter 058 - Verse 002
+  Type: truncated
+  Similarity: 92.5%
+  Missing content: Tuttavia Allah è indulgente, perdonatore.
+
+
+it-piccardo - Chapter 058 - Verse 003
+  Type: truncated
+  Similarity: 90.4%
+  Missing content: Allah è ben informato di quello che fate.
+
+
+it-piccardo - Chapter 058 - Verse 004
+  Type: truncated
+  Similarity: 86.6%
+  Missing content: Questi sono i limiti di Allah. I miscredenti avranno un doloroso castigo.
+
+
+it-piccardo - Chapter 058 - Verse 012
+  Type: truncated
+  Similarity: 79.4%
+  Missing content: Se però non ne avete i mezzi, in verità Allah è perdonatore, misericordioso.
+
+
+it-piccardo - Chapter 058 - Verse 013
+  Type: truncated
+  Similarity: 92.4%
+  Missing content: Allah è ben informato di quello che fate.
+
+
+it-piccardo - Chapter 059 - Verse 010
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 059 - Verse 011
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 061 - Verse 014
+  Type: truncated
+  Similarity: 46.5%
+  Missing content: Risposero gli apostoli: “Noi siamo gli ausiliari di Allah”.
+
+
+it-piccardo - Chapter 062 - Verse 005
+  Type: truncated
+  Similarity: 74.1%
+  Missing content: Quanto è detestabile la similitudine di coloro che tacciano di menzogna i segni di  : Allah
+
+
+it-piccardo - Chapter 064 - Verse 009
+  Type: truncated
+  Similarity: 91.5%
+  Missing content: Ecco l'immenso successo.
+
+
+it-piccardo - Chapter 065 - Verse 002
+  Type: truncated
+  Similarity: 92.2%
+  Missing content: A chi teme Allah, Egli apre una via d'uscita,
+
+
+it-piccardo - Chapter 065 - Verse 004
+  Type: truncated
+  Similarity: 91.4%
+  Missing content: A chi teme Allah, Egli facilita i suoi intenti.
+
+
+it-piccardo - Chapter 065 - Verse 006
+  Type: truncated
+  Similarity: 46.3%
+  Missing content: voi stessi abitate, secondo i vostri mezzi.
+
+
+it-piccardo - Chapter 065 - Verse 007
+  Type: truncated
+  Similarity: 89.2%
+  Missing content: Allah farà seguire il benessere al disagio.
+
+
+it-piccardo - Chapter 065 - Verse 011
+  Type: truncated
+  Similarity: 91.8%
+  Missing content: A costui Allah ha concesso buona provvidenza.
+
+
+it-piccardo - Chapter 065 - Verse 012
+  Type: truncated
+  Similarity: 85.5%
+  Missing content: e che Allah abbraccia nella Sua Scienza ogni cosa
+
+
+it-piccardo - Chapter 066 - Verse 003
+  Type: truncated
+  Similarity: 89.4%
+  Missing content: Rispose: “Il Sapiente, il Ben informato me ne ha dato notizia”.
+
+
+it-piccardo - Chapter 066 - Verse 006
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: e che eseguono quello che viene loro ordinato
+
+
+it-piccardo - Chapter 066 - Verse 008
+  Type: truncated
+  Similarity: 99.8%
+  Missing content: ”
+
+
+it-piccardo - Chapter 066 - Verse 010
+  Type: truncated
+  Similarity: 99.7%
+  Missing content: ”
+
+
+it-piccardo - Chapter 066 - Verse 011
+  Type: truncated
+  Similarity: 99.5%
+  Missing content: ”
+
+
+it-piccardo - Chapter 098 - Verse 008
+  Type: truncated
+  Similarity: 86.2%
+  Missing content: Allah si compiace di loro e loro si compiacciono di Lui.
+

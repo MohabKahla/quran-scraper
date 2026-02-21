@@ -1,7 +1,0 @@
-001_00	U ime Allaha, Milostivog, Samilosnog!
-002_00	Tebe, Allaha, Gospodara svjetova, hvalimo,
-003_00	Milostivog, Samilosnog,
-004_00	Vladara Dana sudnjeg,
-005_00	Tebi se klanjamo i od Tebe pomoć tražimo!
-006_00	Uputi nas na Pravi put,
-007_00	na Put onih kojima si milost Svoju darovao, a ne onih koji su protiv sebe srdžbu izazvali, niti onih koji su zalutali!

@@ -1,8 +1,0 @@
-001_00	Juve, u ka hutuar vrapimi (garimi), për pasuri (e fëmijë)
-002_00	deri sa të varroseni (vdisni).
-003_00	Gjithsesi, ju do ta kuptoni (këtë gabim)!
-004_00	E, madje edhe një herë, ju, me siguri, do ta kuptoni (këtë gabim)!
-005_00	Jo, jo! Mashtroheni, sikur ta dini ju mirë, (nuk do të mburreshit me kotësi).
-006_00	Ju do ta shihni skëterrën!
-007_00	E, (madje) edhe një herë, me të vërtetë, do ta shihni skëterrën konkretisht (qartë)!
-008_00	Pastaj, atë Ditë, do t’ju pyesin për kënaqësitë (e kësaj bote)!

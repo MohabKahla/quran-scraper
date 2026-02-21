@@ -1,0 +1,1743 @@
+================================================================================
+VALIDATION REPORT: sv-bernstrom
+================================================================================
+
+Total mismatches: 447
+
+By severity:
+  Critical (<80%):  87
+  Moderate (80-95%): 207
+  Minor (95-99%):   23
+  Trivial (>99%):   130
+
+================================================================================
+ISSUES BY CHAPTER
+================================================================================
+
+
+Chapter 002: 67 issues
+--------------------------------------------------------------------------------
+
+Verse 019 - Similarity: 99.6%
+  Original (246 chars):
+    Eller vid [dem som råkar ut för] ett våldsamt oväder med regnmoln som förmörkar himlen, åska och bli...
+  Formatted (244 chars):
+    Eller vid [dem som råkar ut för] ett våldsamt oväder med regnmoln som förmörkar himlen, åska och bli...
+
+Verse 025 - Similarity: 84.8%
+  Original (421 chars):
+    [Muhammad!] Ge dem som tror och lever rättskaffens det glada budskapet att lustgårdar, vattnade av b...
+  Formatted (572 chars):
+    [Muhammad!] Ge dem som tror och lever rättskaffens det glada budskapet att lustgårdar, vattnade av b...
+
+Verse 030 - Similarity: 99.8%
+  Original (323 chars):
+    OCH SE, din Herre sade till änglarna: "Jag skall tillsätta en ställföreträdare på jorden." [Änglarna...
+  Formatted (322 chars):
+    OCH SE, din Herre sade till änglarna: "Jag skall tillsätta en ställföreträdare på jorden." [Änglarna...
+
+Verse 033 - Similarity: 99.8%
+  Original (240 chars):
+    [Då] sade Han: "Adam! Nämn deras namn för dem." Och när [Adam] hade nämnt namnen för dem, sade [Gud]...
+  Formatted (239 chars):
+    [Då] sade Han: "Adam! Nämn deras namn för dem. Och när [Adam] hade nämnt namnen för dem, sade [Gud]:...
+
+Verse 036 - Similarity: 99.8%
+  Original (210 chars):
+    Men Djävulen kom dem att överträda detta [förbud] och orsakade så deras fall. Och Vi sade: "Bort, al...
+  Formatted (209 chars):
+    Men Djävulen kom dem att överträda detta [förbud] och orsakade så deras fall. Och Vi sade: "Bort, al...
+
+Verse 054 - Similarity: 85.1%
+  Original (355 chars):
+    och att Moses sade till sitt folk: "Ni har sannerligen, mitt folk, tillfogat er själva en svår orätt...
+  Formatted (263 chars):
+    och att Moses sade till sitt folk: "Ni har sannerligen, mitt folk, tillfogat er själva en svår orätt...
+
+Verse 057 - Similarity: 90.4%
+  Original (235 chars):
+    Och Vi lät molnen skänka er skugga och gav er manna och vaktlar [till föda och uppmanade er:] "Ät av...
+  Formatted (194 chars):
+    Och Vi lät molnen skänka er skugga och gav er manna och vaktlar [till föda och uppmanade er:] "Ät av...
+
+Verse 058 - Similarity: 99.8%
+  Original (276 chars):
+    Och [minns] Våra ord: ”Gå in i detta land och ät som ni har lust till av dess [frukter], men fall ne...
+  Formatted (275 chars):
+    Och [minns] Våra ord: ”Gå in i detta land och ät som ni har lust till av dess [frukter], men fall ne...
+
+Verse 061 - Similarity: 90.0%
+  Original (559 chars):
+    Och [minns] att ni sade: "Moses, vi kan inte fördra att alltid få en och samma föda. Be därför din H...
+  Formatted (683 chars):
+    Och [minns] att ni sade: "Moses, vi kan inte fördra att alltid få en och samma föda. Be därför din H...
+
+Verse 071 - Similarity: 98.0%
+  Original (285 chars):
+    [Moses] svarade: "[Herren] säger att det skall vara en ko som inte har använts som dragdjur, för plö...
+  Formatted (274 chars):
+    [Moses] svarade: "[Herren] säger att det skall vara en ko som inte har använts som dragdjur, för plö...
+
+  ... and 57 more issues in this chapter
+
+Chapter 003: 31 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.8%
+  Original (582 chars):
+    Det är Han som har uppenbarat för dig denna Skrift, där det finns fast och klart formulerade budskap...
+  Formatted (580 chars):
+    Det är Han som har uppenbarat för dig denna Skrift, där det finns fast och klart formulerade budskap...
+
+Verse 015 - Similarity: 99.8%
+  Original (296 chars):
+    Säg: "Skall jag berätta för er om det som är förmer än dessa [glädjeämnen]? Lustgårdar, vattnade av ...
+  Formatted (295 chars):
+    Säg: "Skall jag berätta för er om det som är förmer än dessa [glädjeämnen]? Lustgårdar, vattnade av ...
+
+Verse 027 - Similarity: 99.7%
+  Original (197 chars):
+    Du låter natten smyga in i dagen och dagen smyga in i natten. Du låter livet spira ur det som är döt...
+  Formatted (196 chars):
+    Du låter natten smyga in i dagen och dagen smyga in i natten. Du låter livet spira ur det som är döt...
+
+Verse 030 - Similarity: 94.4%
+  Original (262 chars):
+    Den Dag då människan skall ställas inför allt det goda som hon har gjort och allt det onda som hon h...
+  Formatted (234 chars):
+    Den Dag då människan skall ställas inför allt det goda som hon har gjort och allt det onda som hon h...
+
+Verse 036 - Similarity: 80.2%
+  Original (284 chars):
+    Och då hon fött barnet sade hon: "Herre, jag har fött en dotter - fastän Gud noga visste vad hon had...
+  Formatted (190 chars):
+    Och då hon fött barnet sade hon: "Herre, jag har fött en dotter - fastän Gud noga visste vad hon had...
+
+Verse 037 - Similarity: 73.2%
+  Original (350 chars):
+    Och hennes Herre tog nådigt emot henne och lät henne växa upp och arta sig väl och uppdrog åt Sakari...
+  Formatted (202 chars):
+    Och hennes Herre tog nådigt emot henne och lät henne växa upp och arta sig väl och uppdrog åt Sakari...
+
+Verse 039 - Similarity: 88.9%
+  Original (275 chars):
+    Och änglarna ropade till honom medan han stod i helgedomen, försänkt i bön, och sade: "Gud kungör fö...
+  Formatted (220 chars):
+    Och änglarna ropade till honom medan han stod i helgedomen, försänkt i bön, och sade: "Gud kungör fö...
+
+Verse 045 - Similarity: 76.7%
+  Original (275 chars):
+    Och änglarna sade: "Maria! Gud tillkännager för dig det glada budskapet om ett ord från Honom [varig...
+  Formatted (171 chars):
+    Och änglarna sade: "Maria! Gud tillkännager för dig det glada budskapet om ett ord från Honom [varig...
+
+Verse 049 - Similarity: 83.7%
+  Original (495 chars):
+    och [sända honom] till israeliterna som Sitt sändebud." [Och Jesus sade:] "Jag har kommit till er me...
+  Formatted (356 chars):
+    och [sända honom] till israeliterna som Sitt sändebud." [Och Jesus sade:] "Jag har kommit till er me...
+
+Verse 050 - Similarity: 92.3%
+  Original (223 chars):
+    Och [jag har kommit] för att bekräfta vad som ännu består av Tora och för att förklara tillåtet någo...
+  Formatted (191 chars):
+    Och [jag har kommit] för att bekräfta vad som ännu består av Tora och för att förklara tillåtet någo...
+
+  ... and 21 more issues in this chapter
+
+Chapter 004: 15 issues
+--------------------------------------------------------------------------------
+
+Verse 012 - Similarity: 90.7%
+  Original (719 chars):
+    Av kvarlåtenskapen efter era hustrur är er andel hälften om de inte efterlämnar barn; men om de efte...
+  Formatted (867 chars):
+    Av kvarlåtenskapen efter era hustrur är er andel hälften om de inte efterlämnar barn; men om de efte...
+
+Verse 018 - Similarity: 99.8%
+  Original (239 chars):
+    Ångerns väg är inte öppen för den som [ständigt] begår dåliga handlingar och först då döden når hono...
+  Formatted (238 chars):
+    Ångerns väg är inte öppen för den som [ständigt] begår dåliga handlingar och först då döden når hono...
+
+Verse 024 - Similarity: 35.1%
+  Original (535 chars):
+    [Ni får inte närma er] gifta kvinnor utom sådana som ni rättmätigt besitter - detta är vad Gud föres...
+  Formatted (114 chars):
+    [Ni får inte närma er] gifta kvinnor utom sådana som ni rättmätigt besitter - detta är vad Gud föres...
+
+Verse 075 - Similarity: 99.8%
+  Original (218 chars):
+    Varför skulle ni inte kämpa för Guds sak och för de försvarslösa män, kvinnor och barn, som ropar: "...
+  Formatted (217 chars):
+    Varför skulle ni inte kämpa för Guds sak och för de försvarslösa män, kvinnor och barn, som ropar: "...
+
+Verse 077 - Similarity: 99.8%
+  Original (469 chars):
+    HAR DU inte sett hur de som blivit tillsagda: "Upphör med ert våld, förrätta bönen och erlägg allmos...
+  Formatted (469 chars):
+    HAR DU inte sett hur de som blivit tillsagda: "Upphör med ert våld, förrätta bönen och erlägg allmos...
+
+Verse 078 - Similarity: 86.5%
+  Original (353 chars):
+    Var ni än befinner er kommer döden att hinna ifatt er, även om ni skulle [fly upp] i höga torn." När...
+  Formatted (269 chars):
+    Var ni än befinner er kommer döden att hinna ifatt er, även om ni skulle [fly upp] i höga torn." När...
+
+Verse 090 - Similarity: 56.3%
+  Original (404 chars):
+    om de inte ansluter sig till en grupp som står i förbund med er eller kommer till er, bekymrade över...
+  Formatted (285 chars):
+    om de inte ansluter sig till en grupp som står i förbund med er eller kommer till er, bekymrade över...
+
+Verse 091 - Similarity: 91.0%
+  Original (350 chars):
+    Ni kommer att se att det finns andra, som [på samma gång] vill hålla sig väl med er och med sina egn...
+  Formatted (292 chars):
+    Ni kommer att se att det finns andra, som [på samma gång] vill hålla sig väl med er och med sina egn...
+
+Verse 092 - Similarity: 88.6%
+  Original (657 chars):
+    EN TROENDE dödar inte en annan troende, om det inte sker oavsiktligt. Den som av misstag har dödat e...
+  Formatted (523 chars):
+    EN TROENDE dödar inte en annan troende, om det inte sker oavsiktligt. Den som av misstag har dödat e...
+
+Verse 097 - Similarity: 99.9%
+  Original (370 chars):
+    När änglarna samlar in [själarna från] dem som ännu i dödsögonblicket begår orätt mot sig själva, sk...
+  Formatted (369 chars):
+    När änglarna samlar in [själarna från] dem som ännu i dödsögonblicket begår orätt mot sig själva, sk...
+
+  ... and 5 more issues in this chapter
+
+Chapter 005: 33 issues
+--------------------------------------------------------------------------------
+
+Verse 001 - Similarity: 76.8%
+  Original (263 chars):
+    TROENDE! Fullgör [era förpliktelser enligt] de avtal som ni har ingått! Tillåten föda för er är [köt...
+  Formatted (164 chars):
+    TROENDE! Fullgör [era förpliktelser enligt] de avtal som ni har ingått! Tillåten föda för er är [köt...
+
+Verse 002 - Similarity: 88.9%
+  Original (312 chars):
+    Troende! Vanhelga inte de riter och symboler som Gud har instiftat, inte heller den [åt vallfärden] ...
+  Formatted (390 chars):
+    Troende! Vanhelga inte de riter och symboler som Gud har instiftat, inte heller den [åt vallfärden] ...
+
+Verse 003 - Similarity: 90.2%
+  Original (413 chars):
+    FÖRBJUDET för er är kött av självdöda djur och blod och svinkött och sådant [kött] som har slaktats ...
+  Formatted (503 chars):
+    FÖRBJUDET för er är kött av självdöda djur och blod och svinkött och sådant [kött] som har slaktats ...
+
+Verse 004 - Similarity: 83.1%
+  Original (294 chars):
+    De frågar dig vad som är tillåtet för dem. Säg: "All god, hälsosam föda är tillåten för er." [Tillåt...
+  Formatted (209 chars):
+    De frågar dig vad som är tillåtet för dem. Säg: "All god, hälsosam föda är tillåten för er." [Tillåt...
+
+Verse 012 - Similarity: 99.9%
+  Original (431 chars):
+    GUD TOG [också] löften av Israels barn, då Vi sände ut deras tolv huvudmän och sade: "Jag skall vara...
+  Formatted (430 chars):
+    GUD TOG [också] löften av Israels barn, då Vi sände ut deras tolv huvudmän och sade: "Jag skall vara...
+
+Verse 017 - Similarity: 68.2%
+  Original (285 chars):
+    De förnekar sanningen som säger: "Gud är Kristus, Marias son." Säg: "Vem kan hindra Gud, om Han vill...
+  Formatted (208 chars):
+    De förnekar sanningen som säger: "Gud är Kristus, Marias son." Säg: "Vem kan hindra Gud, om Han vill...
+
+Verse 018 - Similarity: 80.7%
+  Original (343 chars):
+    Judarna säger liksom de kristna: "Vi är Guds barn som Han älskar." Säg: "Varför straffar Han er då f...
+  Formatted (232 chars):
+    Judarna säger liksom de kristna: "Vi är Guds barn som Han älskar." Säg: "Varför straffar Han er då f...
+
+Verse 019 - Similarity: 83.2%
+  Original (369 chars):
+    Efterföljare av äldre tiders uppenbarelser! Efter ett avbrott i budbärarnas rad har Vårt Sändebud ko...
+  Formatted (263 chars):
+    Efterföljare av äldre tiders uppenbarelser! Efter ett avbrott i budbärarnas rad har Vårt Sändebud ko...
+
+Verse 023 - Similarity: 99.8%
+  Original (208 chars):
+    Då sade två av dem, [sant] gudfruktiga män som vunnit Guds välbehag: "Gå in rakt emot dem genom stad...
+  Formatted (207 chars):
+    Då sade två av dem, [sant] gudfruktiga män som vunnit Guds välbehag: "Gå in rakt emot dem genom stad...
+
+Verse 031 - Similarity: 95.1%
+  Original (256 chars):
+    Och Gud sände en korp, som krafsade i jorden och visade honom hur han kunde dölja broderns nakna kro...
+  Formatted (232 chars):
+    Och Gud sände en korp, som krafsade i jorden och visade honom hur han kunde dölja broderns nakna kro...
+
+  ... and 23 more issues in this chapter
+
+Chapter 006: 32 issues
+--------------------------------------------------------------------------------
+
+Verse 012 - Similarity: 89.5%
+  Original (305 chars):
+    Säg: "Vem tillhör allt det som är i himlarna och på jorden?" Säg: "[Allt tillhör] Gud, [Gud som] för...
+  Formatted (247 chars):
+    Säg: "Vem tillhör allt det som är i himlarna och på jorden?" Säg: "[Allt tillhör] Gud, [Gud som] för...
+
+Verse 014 - Similarity: 99.8%
+  Original (276 chars):
+    Säg: "Skulle jag söka en annan beskyddare än Gud, himlarnas och jordens Skapare, Han som livnär [oss...
+  Formatted (275 chars):
+    Säg: "Skulle jag söka en annan beskyddare än Gud, himlarnas och jordens Skapare, Han som livnär [oss...
+
+Verse 019 - Similarity: 78.1%
+  Original (365 chars):
+    Säg: "Vilket vittnesbörd väger tyngst?" Säg: "Gud är vittne mellan mig och er [att] denna Koran har ...
+  Formatted (234 chars):
+    Säg: "Vilket vittnesbörd väger tyngst?" Säg: "Gud är vittne mellan mig och er [att] denna Koran har ...
+
+Verse 035 - Similarity: 93.7%
+  Original (328 chars):
+    Även om det är svårt för dig att uthärda dessa människors ovilja, [skulle det inte vara dig till nyt...
+  Formatted (289 chars):
+    Även om det är svårt för dig att uthärda dessa människors ovilja, [skulle det inte vara dig till nyt...
+
+Verse 046 - Similarity: 81.9%
+  Original (219 chars):
+    Säg: "Vad anser ni? Om Gud skulle ta ifrån er hörsel och syn och bomma för era hjärtan, vem är den g...
+  Formatted (152 chars):
+    Säg: "Vad anser ni? Om Gud skulle ta ifrån er hörsel och syn och bomma för era hjärtan, vem är den g...
+
+Verse 050 - Similarity: 84.2%
+  Original (315 chars):
+    Säg: ”Jag säger inte till er att jag har Guds skatter i min hand eller att jag känner till det som ä...
+  Formatted (229 chars):
+    Säg: ”Jag säger inte till er att jag har Guds skatter i min hand eller att jag känner till det som ä...
+
+Verse 052 - Similarity: 90.8%
+  Original (238 chars):
+    Stöt inte bort dem som morgon och afton anropar sin Herre och söker vinna Hans välbehag. Du är inte ...
+  Formatted (198 chars):
+    Stöt inte bort dem som morgon och afton anropar sin Herre och söker vinna Hans välbehag. Du är inte ...
+
+Verse 054 - Similarity: 76.5%
+  Original (294 chars):
+    Och när de som tror på Våra budskap kommer till dig, säg då: "Fred vare med er! Er Herre har för Sig...
+  Formatted (182 chars):
+    Och när de som tror på Våra budskap kommer till dig, säg då: "Fred vare med er! Er Herre har för Sig...
+
+Verse 057 - Similarity: 81.6%
+  Original (290 chars):
+    Säg: "Jag stöder mig på ett klart vittnesbörd från min Herre - och detta [vittnesbörd] avvisar ni! J...
+  Formatted (200 chars):
+    Säg: "Jag stöder mig på ett klart vittnesbörd från min Herre - och detta [vittnesbörd] avvisar ni! J...
+
+Verse 059 - Similarity: 69.0%
+  Original (313 chars):
+    Han har nycklarna till den dolda verkligheten; ingen känner dessa [ting] utom Han. Han vet vad som f...
+  Formatted (165 chars):
+    Han har nycklarna till den dolda verkligheten; ingen känner dessa [ting] utom Han. Han vet vad som f...
+
+  ... and 22 more issues in this chapter
+
+Chapter 007: 34 issues
+--------------------------------------------------------------------------------
+
+Verse 028 - Similarity: 99.8%
+  Original (201 chars):
+    och när de begår skamlösa handlingar, säger de: "Så gjorde våra fäder och Gud har [själv] påbjudit d...
+  Formatted (200 chars):
+    och när de begår skamlösa handlingar, säger de: "Så gjorde våra fäder och Gud har [själv] påbjudit d...
+
+Verse 032 - Similarity: 99.8%
+  Original (332 chars):
+    Säg: "Vem har förbjudit de sköna ting som Gud har skänkt Sina tjänare och allt det goda som Han gett...
+  Formatted (331 chars):
+    Säg: "Vem har förbjudit de sköna ting som Gud har skänkt Sina tjänare och allt det goda som Han gett...
+
+Verse 033 - Similarity: 99.8%
+  Original (294 chars):
+    Säg: "Min Herre förbjuder ingenting annat än skamlösa handlingar, både det som sker öppet och det so...
+  Formatted (293 chars):
+    Säg: "Min Herre förbjuder ingenting annat än skamlösa handlingar, både det som sker öppet och det so...
+
+Verse 051 - Similarity: 94.8%
+  Original (232 chars):
+    de som såg sin religion som en lek och ett tidsfördriv, därför att de hade fångats av det jordiska l...
+  Formatted (209 chars):
+    de som såg sin religion som en lek och ett tidsfördriv, därför att de hade fångats av det jordiska l...
+
+Verse 053 - Similarity: 99.8%
+  Original (419 chars):
+    Väntar [förnekarna] bara på att [det som har förutsagts] skall bli verklighet? Men [den Dag] då det ...
+  Formatted (419 chars):
+    Väntar [förnekarna] bara på att [det som har förutsagts] skall bli verklighet? Men [den Dag] då det ...
+
+Verse 069 - Similarity: 99.8%
+  Original (285 chars):
+    Förvånar det er att ni får ta emot en påminnelse från er Herre genom en man ur er mitt som varnar er...
+  Formatted (284 chars):
+    Förvånar det er att ni får ta emot en påminnelse från er Herre genom en man ur er mitt som varnar er...
+
+Verse 071 - Similarity: 99.8%
+  Original (285 chars):
+    [Hud] sade: "Er Herre har redan [genom de handlingar Han låter er begå] straffat och förnedrat er oc...
+  Formatted (284 chars):
+    [Hud] sade: "Er Herre har redan [genom de handlingar Han låter er begå] straffat och förnedrat er oc...
+
+Verse 074 - Similarity: 99.8%
+  Original (279 chars):
+    Och minns att Han gav er den plats som stammen Aad [en gång] intog och gjorde er bofasta i en trakt ...
+  Formatted (278 chars):
+    Och minns att Han gav er den plats som stammen Aad [en gång] intog och gjorde er bofasta i en trakt ...
+
+Verse 075 - Similarity: 99.4%
+  Original (159 chars):
+    Folkets högmodiga äldste frågade dem av de svaga [bland folket] som trodde [på profeten]: "Är ni hel...
+  Formatted (157 chars):
+    Folkets högmodiga äldste frågade dem av de svaga [bland folket] som trodde [på profeten]: Är ni helt...
+
+Verse 085 - Similarity: 94.0%
+  Original (432 chars):
+    OCH TILL [folket i] Madyan [sände Vi] deras broder Shu`ayb. Och han sade: "Dyrka Gud, mitt folk - ni...
+  Formatted (383 chars):
+    OCH TILL [folket i] Madyan [sände Vi] deras broder Shu`ayb. Och han sade: "Dyrka Gud, mitt folk - ni...
+
+  ... and 24 more issues in this chapter
+
+Chapter 008: 6 issues
+--------------------------------------------------------------------------------
+
+Verse 012 - Similarity: 99.8%
+  Original (285 chars):
+    Och din Herre lät änglarna framföra [detta budskap till de troende]: "Se, Jag är med er" [och befall...
+  Formatted (284 chars):
+    Och din Herre lät änglarna framföra [detta budskap till de troende]: "Se, Jag är med er" [och befall...
+
+Verse 034 - Similarity: 92.1%
+  Original (280 chars):
+    Men vad kan de nu peka på [som orsak] för att Gud inte skulle straffa dem? De spärrar vägen till den...
+  Formatted (239 chars):
+    Men vad kan de nu peka på [som orsak] för att Gud inte skulle straffa dem? De spärrar vägen till den...
+
+Verse 041 - Similarity: 96.3%
+  Original (354 chars):
+    FEMTEDELEN av det byte som ni tar i krig - det måste ni veta - tillhör Gud och Sändebudet och [hans]...
+  Formatted (329 chars):
+    FEMTEDELEN av det byte som ni tar i krig - det måste ni veta - tillhör Gud och Sändebudet och [hans]...
+
+Verse 043 - Similarity: 80.9%
+  Original (240 chars):
+    Gud visade dig i drömmen att de var få. Om Han hade låtit dig se dem som en stark [armé] skulle ni s...
+  Formatted (163 chars):
+    Gud visade dig i drömmen att de var få. Om Han hade låtit dig se dem som en stark [armé] skulle ni s...
+
+Verse 048 - Similarity: 37.6%
+  Original (369 chars):
+    Och Djävulen, som visade dem deras [onda] handlingar i ett fördelaktigt ljus, sade: "Ingen kan i dag...
+  Formatted (359 chars):
+    Och Djävulen, som visade dem deras [onda] handlingar i ett fördelaktigt ljus, sade: "Ingen kan i dag...
+
+Verse 054 - Similarity: 94.4%
+  Original (256 chars):
+    Med samma envishet följde de samma [onda] vägar som Faraos män och de som levde i äldre tid. De avvi...
+  Formatted (229 chars):
+    Med samma envishet följde de samma [onda] vägar som Faraos män och de som levde i äldre tid. De avvi...
+
+Chapter 009: 8 issues
+--------------------------------------------------------------------------------
+
+Verse 003 - Similarity: 87.5%
+  Original (361 chars):
+    Gud och Hans Sändebud tillkännager för alla människor på den Stora vallfärdens dag: "Gud avvisar [al...
+  Formatted (281 chars):
+    Gud och Hans Sändebud tillkännager för alla människor på den Stora vallfärdens dag: "Gud avvisar [al...
+
+Verse 024 - Similarity: 99.9%
+  Original (393 chars):
+    Säg: "Om era fäder och era söner och era bröder och era hustrur och er släkt och de ting som ni förv...
+  Formatted (392 chars):
+    Säg: "Om era fäder och era söner och era bröder och era hustrur och er släkt och de ting som ni förv...
+
+Verse 037 - Similarity: 88.3%
+  Original (432 chars):
+    Genom att lägga till [en månad] ger de mer kraft åt förnekandet av sanningen och därmed växer förnek...
+  Formatted (546 chars):
+    Genom att lägga till [en månad] ger de mer kraft åt förnekandet av sanningen och därmed växer förnek...
+
+Verse 052 - Similarity: 99.8%
+  Original (241 chars):
+    Säg: "Väntar ni att något annat skall hända oss än ettdera av två ting, som båda utgör det högsta go...
+  Formatted (240 chars):
+    Säg: "Väntar ni att något annat skall hända oss än ettdera av två ting, som båda utgör det högsta go...
+
+Verse 061 - Similarity: 99.9%
+  Original (351 chars):
+    OCH DET finns de bland dem som förtalar Profeten och [spydigt] säger: "Han är idel öra." Säg: "Ja, h...
+  Formatted (350 chars):
+    OCH DET finns de bland dem som förtalar Profeten och [spydigt] säger: "Han är idel öra." Säg: "Ja, h...
+
+Verse 083 - Similarity: 99.9%
+  Original (338 chars):
+    Om Gud låter dig återvända och möta några av dem och de ber om tillåtelse att gå ut [i krig med dig]...
+  Formatted (337 chars):
+    Om Gud låter dig återvända och möta några av dem och de ber om tillåtelse att gå ut [i krig med dig]...
+
+Verse 094 - Similarity: 99.9%
+  Original (416 chars):
+    De kommer att urskulda sig [på nytt] när ni återvänder till dem [från fälttåget]. Säg: "Urskulda er ...
+  Formatted (415 chars):
+    De kommer att urskulda sig [på nytt] när ni återvänder till dem [från fälttåget]. Säg: "Urskulda er ...
+
+Verse 111 - Similarity: 90.1%
+  Original (400 chars):
+    GUD HAR [slutit ett avtal] med de troende, enligt vilket Han i utbyte för deras liv och egendom lova...
+  Formatted (488 chars):
+    GUD HAR [slutit ett avtal] med de troende, enligt vilket Han i utbyte för deras liv och egendom lova...
+
+Chapter 010: 17 issues
+--------------------------------------------------------------------------------
+
+Verse 015 - Similarity: 99.9%
+  Original (393 chars):
+    NÄR DE som inte ser fram emot mötet med Oss [hör] Våra klara budskap läsas upp för dem, säger de: "G...
+  Formatted (392 chars):
+    NÄR DE som inte ser fram emot mötet med Oss [hör] Våra klara budskap läsas upp för dem, säger de: "G...
+
+Verse 018 - Similarity: 99.8%
+  Original (289 chars):
+    Vid sidan av Gud dyrkar de vad som varken kan skada eller gagna dem och säger: "De är våra talesmän ...
+  Formatted (288 chars):
+    Vid sidan av Gud dyrkar de vad som varken kan skada eller gagna dem och säger: "De är våra talesmän ...
+
+Verse 028 - Similarity: 60.2%
+  Original (284 chars):
+    Den Dag då Vi samlar dem alla åter skall Vi säga till dem som satte medhjälpare vid Guds sida: "Stig...
+  Formatted (284 chars):
+    Den Dag då Vi samlar dem alla åter skall Vi säga till dem som satte medhjälpare vid Guds sida: "Stig...
+
+Verse 031 - Similarity: 99.7%
+  Original (335 chars):
+    SÄG: "Vem förser er med det i himlen och på jorden som ni behöver för er försörjning? Vem har makten...
+  Formatted (335 chars):
+    SÄG: "Vem förser er med det i himlen och på jorden som ni behöver för er försörjning? Vem har makten...
+
+Verse 035 - Similarity: 99.8%
+  Original (288 chars):
+    Säg: "Finns det bland dessa väsen, som ni sätter vid Guds sida, någon som visar vägen till sanningen...
+  Formatted (287 chars):
+    Säg: "Finns det bland dessa väsen, som ni sätter vid Guds sida, någon som visar vägen till sanningen...
+
+Verse 049 - Similarity: 99.8%
+  Original (295 chars):
+    Säg [Muhammad]: "Jag kan inte [hindra att] ont drabbar mig eller [utverka att] goda och nyttiga ting...
+  Formatted (294 chars):
+    Säg [Muhammad]: "Jag kan inte [hindra att] ont drabbar mig eller [utverka att] goda och nyttiga ting...
+
+Verse 068 - Similarity: 89.6%
+  Original (254 chars):
+    De säger: "Gud har [avlat] en son." Nej, stor är Han i Sin härlighet! Han är Den som är Sig själv no...
+  Formatted (206 chars):
+    De säger: "Gud har [avlat] en son." Nej, stor är Han i Sin härlighet! Han är Den som är Sig själv no...
+
+Verse 071 - Similarity: 88.4%
+  Original (374 chars):
+    BERÄTTA för dem om Noa, som sade till sitt folk: "Om ni, mitt folk, inte kan tåla att jag vistas [bl...
+  Formatted (296 chars):
+    BERÄTTA för dem om Noa, som sade till sitt folk: "Om ni, mitt folk, inte kan tåla att jag vistas [bl...
+
+Verse 073 - Similarity: 88.5%
+  Original (272 chars):
+    Men de beskyllde honom för lögn. Och så räddade Vi honom och dem som följde honom i arken och lät de...
+  Formatted (216 chars):
+    Men de beskyllde honom för lögn. Och så räddade Vi honom och dem som följde honom i arken och lät de...
+
+Verse 074 - Similarity: 91.0%
+  Original (219 chars):
+    EFTER HONOM sände Vi [flera] sändebud, [var och en] till hans [eget] folk, med klara bevis [om sanni...
+  Formatted (183 chars):
+    EFTER HONOM sände Vi [flera] sändebud, [var och en] till hans [eget] folk, med klara bevis [om sanni...
+
+  ... and 7 more issues in this chapter
+
+Chapter 011: 18 issues
+--------------------------------------------------------------------------------
+
+Verse 003 - Similarity: 87.0%
+  Original (438 chars):
+    där [ni förmanas] att be er Herre om förlåtelse [för era synder] och att i ånger vända åter till Hon...
+  Formatted (337 chars):
+    där [ni förmanas] att be er Herre om förlåtelse [för era synder] och att i ånger vända åter till Hon...
+
+Verse 005 - Similarity: 90.0%
+  Original (280 chars):
+    De bommar för hjärtana för att dölja [sina fientliga avsikter] för Honom! Men när de sveper kläderna...
+  Formatted (229 chars):
+    De bommar för hjärtana för att dölja [sina fientliga avsikter] för Honom! Men när de sveper kläderna...
+
+Verse 007 - Similarity: 72.3%
+  Original (406 chars):
+    Det är Han som har skapat himlarna och jorden under sex dagar och som tronar i Sin allmakts härlighe...
+  Formatted (230 chars):
+    Det är Han som har skapat himlarna och jorden under sex dagar och som tronar i Sin allmakts härlighe...
+
+Verse 012 - Similarity: 89.8%
+  Original (287 chars):
+    [MUHAMMAD! Ibland frestas] du kanske att undanhålla något av det som uppenbaras för dig, betryckt so...
+  Formatted (234 chars):
+    [MUHAMMAD! Ibland frestas] du kanske att undanhålla något av det som uppenbaras för dig, betryckt so...
+
+Verse 018 - Similarity: 84.0%
+  Original (298 chars):
+    Vem är mer orättfärdig än den som sätter ihop lögner om Gud? [Dessa människor] skall [på den Ytterst...
+  Formatted (216 chars):
+    Vem är mer orättfärdig än den som sätter ihop lögner om Gud? [Dessa människor] skall [på den Ytterst...
+
+Verse 027 - Similarity: 94.2%
+  Original (336 chars):
+    Men folkets äldste, som [alla] förnekade sanningen, sade: "Vi ser att du inte är mer än en vanlig mä...
+  Formatted (299 chars):
+    Men folkets äldste, som [alla] förnekade sanningen, sade: "Vi ser att du inte är mer än en vanlig mä...
+
+Verse 029 - Similarity: 86.0%
+  Original (268 chars):
+    Mitt folk! Jag begär ingen ersättning av er för detta [budskap]; jag väntar ingen lön från någon ann...
+  Formatted (202 chars):
+    Mitt folk! Jag begär ingen ersättning av er för detta [budskap]; jag väntar ingen lön från någon ann...
+
+Verse 031 - Similarity: 82.0%
+  Original (383 chars):
+    Jag säger inte till er att jag har Guds skatter [i min hand] och jag känner inte det som är dolt för...
+  Formatted (266 chars):
+    Jag säger inte till er att jag har Guds skatter [i min hand] och jag känner inte det som är dolt för...
+
+Verse 040 - Similarity: 90.7%
+  Original (310 chars):
+    [Så fortgick det] till dess Vår befallning gavs, och vattenmassorna forsade fram över jorden och Vi ...
+  Formatted (257 chars):
+    [Så fortgick det] till dess Vår befallning gavs, och vattenmassorna forsade fram över jorden och Vi ...
+
+Verse 043 - Similarity: 82.3%
+  Original (269 chars):
+    [Men sonen] svarade: "Jag skall ta min tillflykt till ett berg där jag har skydd mot vattnet." [Noa]...
+  Formatted (188 chars):
+    [Men sonen] svarade: "Jag skall ta min tillflykt till ett berg där jag har skydd mot vattnet." [Noa]...
+
+  ... and 8 more issues in this chapter
+
+Chapter 012: 21 issues
+--------------------------------------------------------------------------------
+
+Verse 006 - Similarity: 99.8%
+  Original (323 chars):
+    Just så [som du har sett i drömmen] skall du bli en av din Herres utvalda och Han skall skänka dig e...
+  Formatted (322 chars):
+    Just så [som du har sett i drömmen] skall du bli en av din Herres utvalda och Han skall skänka dig e...
+
+Verse 021 - Similarity: 65.4%
+  Original (379 chars):
+    Och mannen från Egypten, som köpte honom, sade till sin hustru: "Behandla honom väl - som en gäst! V...
+  Formatted (184 chars):
+    Och mannen från Egypten, som köpte honom, sade till sin hustru: "Behandla honom väl - som en gäst! V...
+
+Verse 023 - Similarity: 99.8%
+  Original (256 chars):
+    Men [det hände sig att] kvinnan, i vars hus han bodde, försökte förföra honom; hon reglade dörrarna ...
+  Formatted (255 chars):
+    Men [det hände sig att] kvinnan, i vars hus han bodde, försökte förföra honom; hon reglade dörrarna ...
+
+Verse 025 - Similarity: 64.3%
+  Original (247 chars):
+    Och båda sprang mot dörren. Hon [grep tag i] hans skjorta bakifrån och rev itu den; men i dörren möt...
+  Formatted (117 chars):
+    Och båda sprang mot dörren. Hon [grep tag i] hans skjorta bakifrån och rev itu den; men i dörren möt...
+
+Verse 032 - Similarity: 87.4%
+  Original (272 chars):
+    [Då] sade hon: "Här ser ni nu den för vars skull ni har förtalat mig. Ja, jag försökte förföra honom...
+  Formatted (211 chars):
+    [Då] sade hon: "Här ser ni nu den för vars skull ni har förtalat mig. Ja, jag försökte förföra honom...
+
+Verse 036 - Similarity: 53.5%
+  Original (383 chars):
+    OCH [DET hände att] två unga män kastades i fängelse tillsammans med Josef. En av dem sade: "Jag har...
+  Formatted (140 chars):
+    OCH [DET hände att] två unga män kastades i fängelse tillsammans med Josef. En av dem sade: "Jag har...
+
+Verse 038 - Similarity: 91.2%
+  Original (267 chars):
+    och jag bekänner den tro som var mina förfäders, Abrahams, Isaks och Jakobs tro: det är otänkbart fö...
+  Formatted (224 chars):
+    och jag bekänner den tro som var mina förfäders, Abrahams, Isaks och Jakobs tro: det är otänkbart fö...
+
+Verse 040 - Similarity: 82.8%
+  Original (290 chars):
+    Vad ni dyrkar vid sidan av Honom är ingenting annat än namn som ni har tänkt ut, ni och era förfäder...
+  Formatted (205 chars):
+    Vad ni dyrkar vid sidan av Honom är ingenting annat än namn som ni har tänkt ut, ni och era förfäder...
+
+Verse 041 - Similarity: 63.3%
+  Original (285 chars):
+    [Nu till era drömmar,] kamrater i fångenskapen! En av er båda skall [åter] skänka i vin åt sin herre...
+  Formatted (132 chars):
+    [Nu till era drömmar,] kamrater i fångenskapen! En av er båda skall [åter] skänka i vin åt sin herre...
+
+Verse 043 - Similarity: 99.8%
+  Original (263 chars):
+    [EN DAG] sade kungen [till sitt församlade råd]: "Jag har [i en dröm sett] sju feta kor ätas upp av ...
+  Formatted (262 chars):
+    [EN DAG] sade kungen [till sitt församlade råd]: "Jag har [i en dröm sett] sju feta kor ätas upp av ...
+
+  ... and 11 more issues in this chapter
+
+Chapter 013: 5 issues
+--------------------------------------------------------------------------------
+
+Verse 016 - Similarity: 99.9%
+  Original (566 chars):
+    Säg: "Vem är himlarnas och jordens Herre?" Säg: "[Det är] Gud." Säg: "Och ändå tar ni till beskyddar...
+  Formatted (565 chars):
+    Säg: "Vem är himlarnas och jordens Herre?" Säg: "[Det är] Gud." Säg: "Och ändå tar ni till beskyddar...
+
+Verse 030 - Similarity: 99.9%
+  Original (380 chars):
+    Så har Vi också låtit dig [Muhammad som Vårt Sändebud] stiga fram bland ett folk som förnekar den Nå...
+  Formatted (379 chars):
+    Så har Vi också låtit dig [Muhammad som Vårt Sändebud] stiga fram bland ett folk som förnekar den Nå...
+
+Verse 031 - Similarity: 87.4%
+  Original (606 chars):
+    Om det fanns en Skrift [vars ord] kunde sätta bergen i rörelse eller bryta jorden i stycken eller fö...
+  Formatted (470 chars):
+    Om det fanns en Skrift [vars ord] kunde sätta bergen i rörelse eller bryta jorden i stycken eller fö...
+
+Verse 033 - Similarity: 42.7%
+  Original (474 chars):
+    SKULLE Han som vakar över allt levande och vet vad [var och en] förtjänar med sina handlingar, [kunn...
+  Formatted (331 chars):
+    SKULLE Han som vakar över allt levande och vet vad [var och en] förtjänar med sina handlingar, [kunn...
+
+Verse 036 - Similarity: 85.3%
+  Original (359 chars):
+    [Muhammad!] De som Vi [förut] har skänkt uppenbarelsen gläds över det som har uppenbarats för dig. M...
+  Formatted (267 chars):
+    [Muhammad!] De som Vi [förut] har skänkt uppenbarelsen gläds över det som har uppenbarats för dig. M...
+
+Chapter 014: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 010 - Similarity: 68.1%
+  Original (372 chars):
+    Sändebuden sade: "Kan någon tvivla på att Gud [finns], himlarnas och jordens Skapare? Han kallar er ...
+  Formatted (192 chars):
+    Sändebuden sade: "Kan någon tvivla på att Gud [finns], himlarnas och jordens Skapare? Han kallar er ...
+
+Verse 021 - Similarity: 99.9%
+  Original (436 chars):
+    Alla skall träda fram inför Gud [på Domens dag] och de svaga kommer att säga till de högmodiga [som ...
+  Formatted (435 chars):
+    Alla skall träda fram inför Gud [på Domens dag] och de svaga kommer att säga till de högmodiga [som ...
+
+Verse 022 - Similarity: 99.9%
+  Original (504 chars):
+    Och när Guds dom har fallit skall Djävulen säga: "Gud gav er ett löfte och löftet var sant. Jag har ...
+  Formatted (503 chars):
+    Och när Guds dom har fallit skall Djävulen säga: "Gud gav er ett löfte och löftet var sant. Jag har ...
+
+Verse 044 - Similarity: 99.7%
+  Original (292 chars):
+    Varna människorna för den Dag då straffet når dem, då de som ständigt begick orätt kommer att säga: ...
+  Formatted (292 chars):
+    Varna människorna för den Dag då straffet når dem, då de som ständigt begick orätt kommer att säga: ...
+
+Chapter 016: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 027 - Similarity: 87.7%
+  Original (342 chars):
+    Till sist, på Uppståndelsens dag, skall Han låta dem smaka den fulla förödmjukelsen och Han skall sä...
+  Formatted (269 chars):
+    Till sist, på Uppståndelsens dag, skall Han låta dem smaka den fulla förödmjukelsen och Han skall sä...
+
+Verse 030 - Similarity: 87.8%
+  Original (296 chars):
+    Men när de gudfruktiga tillfrågas: "Vad har er Herre uppenbarat?" svarar de: "Goda [ord med vägledni...
+  Formatted (260 chars):
+    Men när de gudfruktiga tillfrågas: "Vad har er Herre uppenbarat?" svarar de: "Goda [ord med vägledni...
+
+Verse 086 - Similarity: 99.8%
+  Original (240 chars):
+    Och när de som satte medhjälpare vid Guds sida ser dessa medhjälpare, skall de säga: "Herre! Det var...
+  Formatted (239 chars):
+    Och när de som satte medhjälpare vid Guds sida ser dessa medhjälpare, skall de säga: "Herre! Det var...
+
+Chapter 017: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 060 - Similarity: 99.9%
+  Original (336 chars):
+    Och Vi sade till dig [Muhammad]: "Din Herre har full uppsikt över människorna [och deras handlingar]...
+  Formatted (335 chars):
+    Och Vi sade till dig [Muhammad]: "Din Herre har full uppsikt över människorna [och deras handlingar]...
+
+Verse 093 - Similarity: 99.8%
+  Original (314 chars):
+    eller [visar oss att du] äger ett hus prytt med guldornament, eller stiger upp till himlen - men vi ...
+  Formatted (313 chars):
+    eller [visar oss att du] äger ett hus prytt med guldornament, eller stiger upp till himlen - men vi ...
+
+Chapter 018: 9 issues
+--------------------------------------------------------------------------------
+
+Verse 026 - Similarity: 99.8%
+  Original (234 chars):
+    Säg: "Gud vet bäst hur länge de blev kvar där. Han har kännedomen om himlarnas och jordens dolda ver...
+  Formatted (233 chars):
+    Säg: "Gud vet bäst hur länge de blev kvar där. Han har kännedomen om himlarnas och jordens dolda ver...
+
+Verse 045 - Similarity: 94.6%
+  Original (244 chars):
+    OCH LÅT dem få höra en liknelse om livet i denna värld. [Se på] regnet som Vi låter falla från skyn ...
+  Formatted (219 chars):
+    OCH LÅT dem få höra en liknelse om livet i denna värld. [Se på] regnet som Vi låter falla från skyn ...
+
+Verse 049 - Similarity: 83.3%
+  Original (359 chars):
+    Och boken [där allt i människans liv är upptecknat] skall läggas fram, och du får se de trotsiga syn...
+  Formatted (256 chars):
+    Och boken [där allt i människans liv är upptecknat] skall läggas fram, och du får se de trotsiga syn...
+
+Verse 050 - Similarity: 93.5%
+  Original (327 chars):
+    OCH [MINNS] hur Vi befallde änglarna att falla ned på sina ansikten inför Adam, och hur alla föll ne...
+  Formatted (287 chars):
+    OCH [MINNS] hur Vi befallde änglarna att falla ned på sina ansikten inför Adam, och hur alla föll ne...
+
+Verse 057 - Similarity: 82.7%
+  Original (339 chars):
+    Vem är mer orättfärdig än den som när han påminns om sin Herres budskap vänder ryggen till [i likgil...
+  Formatted (239 chars):
+    Vem är mer orättfärdig än den som när han påminns om sin Herres budskap vänder ryggen till [i likgil...
+
+Verse 063 - Similarity: 84.1%
+  Original (230 chars):
+    [Tjänaren] sade: "Så besynnerligt! När vi begav oss till klippan där [för att vila] glömde jag bort ...
+  Formatted (167 chars):
+    [Tjänaren] sade: "Så besynnerligt! När vi begav oss till klippan där [för att vila] glömde jag bort ...
+
+Verse 077 - Similarity: 82.4%
+  Original (280 chars):
+    Och de vandrade vidare tills de kom till en by och bad dess invånare om mat, men de visade sig ogäst...
+  Formatted (196 chars):
+    Och de vandrade vidare tills de kom till en by och bad dess invånare om mat, men de visade sig ogäst...
+
+Verse 082 - Similarity: 89.9%
+  Original (405 chars):
+    Och vad muren beträffar tillhörde den två faderlösa ungdomar i byn och under den låg en skatt begrav...
+  Formatted (331 chars):
+    Och vad muren beträffar tillhörde den två faderlösa ungdomar i byn och under den låg en skatt begrav...
+
+Verse 110 - Similarity: 51.9%
+  Original (291 chars):
+    Säg: "Jag är bara en vanlig människa som ni. Genom uppenbarelsen vet jag att er Gud är den Ende Gude...
+  Formatted (102 chars):
+    Säg: "Jag är bara en vanlig människa som ni. Genom uppenbarelsen vet jag att er Gud är den Ende Gude...
+
+Chapter 020: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 039 - Similarity: 87.1%
+  Original (240 chars):
+    'Lägg honom i en kista och sätt ut den i floden; floden skall föra [kistan] till stranden och en som...
+  Formatted (185 chars):
+    'Lägg honom i en kista och sätt ut den i floden; floden skall föra [kistan] till stranden och en som...
+
+Verse 086 - Similarity: 99.8%
+  Original (275 chars):
+    Moses återvände till sitt folk med vrede och sorg i hjärtat [och] sade: "Har inte er Herre gett er e...
+  Formatted (274 chars):
+    Moses återvände till sitt folk med vrede och sorg i hjärtat [och] sade: "Har inte er Herre gett er e...
+
+Chapter 021: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 044 - Similarity: 90.4%
+  Original (303 chars):
+    Nej, Vi lät dem - liksom deras fäder - njuta av livets goda så länge att de fann tiden lång. Ser de ...
+  Formatted (250 chars):
+    Nej, Vi lät dem - liksom deras fäder - njuta av livets goda så länge att de fann tiden lång. Ser de ...
+
+Chapter 022: 7 issues
+--------------------------------------------------------------------------------
+
+Verse 018 - Similarity: 96.7%
+  Original (340 chars):
+    SER DU inte att allt och alla i himlarna och på jorden faller ned i tillbedjan inför Gud: solen och ...
+  Formatted (318 chars):
+    SER DU inte att allt och alla i himlarna och på jorden faller ned i tillbedjan inför Gud: solen och ...
+
+Verse 040 - Similarity: 53.4%
+  Original (93 chars):
+    de som i strid mot all rätt jagas bort från sina hem därför att de säger: "Gud är vår Herre!"...
+  Formatted (255 chars):
+    de som i strid mot all rätt jagas bort från sina hem därför att de säger: "Gud är vår Herre!" Och om...
+
+Verse 052 - Similarity: 93.6%
+  Original (217 chars):
+    Vi har aldrig sänt ett sändebud eller en profet före dig utan att Djävulen försökt att misstänkliggö...
+  Formatted (191 chars):
+    Vi har aldrig sänt ett sändebud eller en profet före dig utan att Djävulen försökt att misstänkliggö...
+
+Verse 065 - Similarity: 92.5%
+  Original (323 chars):
+    Inser du inte att Gud har låtit allt på jorden stå till er tjänst och [att era] skepp seglar över ha...
+  Formatted (278 chars):
+    Inser du inte att Gud har låtit allt på jorden stå till er tjänst och [att era] skepp seglar över ha...
+
+Verse 072 - Similarity: 96.7%
+  Original (397 chars):
+    Och när man läser upp Våra klara och tydliga budskap för dem, ser du avmåla sig i förnekarnas ansikt...
+  Formatted (372 chars):
+    Och när man läser upp Våra klara och tydliga budskap för dem, ser du avmåla sig i förnekarnas ansikt...
+
+Verse 073 - Similarity: 90.0%
+  Original (346 chars):
+    MÄNNISKOR! Hör på den liknelse, som här framställs [för er]: de som ni anropar i Guds ställe kommer ...
+  Formatted (283 chars):
+    MÄNNISKOR! Hör på den liknelse, som här framställs [för er]: de som ni anropar i Guds ställe kommer ...
+
+Verse 078 - Similarity: 82.6%
+  Original (584 chars):
+    Och sträva för Guds sak med all den hängivelse som ni är skyldiga Honom. Han har utvalt er och Han h...
+  Formatted (411 chars):
+    Och sträva för Guds sak med all den hängivelse som ni är skyldiga Honom. Han har utvalt er och Han h...
+
+Chapter 023: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 024 - Similarity: 82.8%
+  Original (313 chars):
+    Men de äldste, de bland hans folk som förnekade sanningen, sade [till varandra]: "Denne man är bara ...
+  Formatted (221 chars):
+    Men de äldste, de bland hans folk som förnekade sanningen, sade [till varandra]: "Denne man är bara ...
+
+Verse 027 - Similarity: 88.2%
+  Original (417 chars):
+    Då gav Vi honom genom uppenbarelse uppdraget: "Bygg - under Vår uppsyn och Vår ledning - den ark [so...
+  Formatted (329 chars):
+    Då gav Vi honom genom uppenbarelse uppdraget: "Bygg - under Vår uppsyn och Vår ledning - den ark [so...
+
+Verse 033 - Similarity: 93.3%
+  Original (295 chars):
+    Men folkets äldste, de som förnekade sanningen och inte trodde på mötet [med Gud] efter döden och so...
+  Formatted (258 chars):
+    Men folkets äldste, de som förnekade sanningen och inte trodde på mötet [med Gud] efter döden och so...
+
+Verse 091 - Similarity: 72.1%
+  Original (296 chars):
+    Gud har aldrig [avlat] en son och Han har aldrig haft någon gudom vid Sin sida. I annat fall skulle ...
+  Formatted (167 chars):
+    Gud har aldrig [avlat] en son och Han har aldrig haft någon gudom vid Sin sida. Nej, stor är Gud i S...
+
+Chapter 024: 14 issues
+--------------------------------------------------------------------------------
+
+Verse 011 - Similarity: 63.8%
+  Original (284 chars):
+    Det var en grupp av era egna som spred det illvilliga förtalet. Men anse inte detta som ett ont; nej...
+  Formatted (133 chars):
+    Det var en grupp av era egna som spred det illvilliga förtalet. Men anse inte detta som ett ont; nej...
+
+Verse 021 - Similarity: 70.7%
+  Original (324 chars):
+    TROENDE! Följ inte i Djävulens spår! Djävulen uppmanar den som följer i hans spår [att begå] skamlös...
+  Formatted (177 chars):
+    TROENDE! Följ inte i Djävulens spår! Om Gud inte hade visat er godhet och förbarmat Sig över er, sku...
+
+Verse 027 - Similarity: 67.8%
+  Original (187 chars):
+    TROENDE! Gå inte in i främmande hus utan att först ha gett er till känna och hälsat husets folk. Det...
+  Formatted (96 chars):
+    TROENDE! Gå inte in i främmande hus utan att först ha gett er till känna och hälsat husets folk....
+
+Verse 028 - Similarity: 94.6%
+  Original (194 chars):
+    Gå inte in utan att ha fått tillåtelse, även om ni finner huset tomt, och om ni blir tillsagda att v...
+  Formatted (174 chars):
+    Gå inte in utan att ha fått tillåtelse, även om ni finner huset tomt, och om ni blir tillsagda att v...
+
+Verse 031 - Similarity: 94.5%
+  Original (761 chars):
+    Och säg till de troende kvinnorna att de bör sänka blicken och lägga band på sin sinnlighet och inte...
+  Formatted (850 chars):
+    Och säg till de troende kvinnorna att de bör sänka blicken och lägga band på sin sinnlighet och inte...
+
+Verse 035 - Similarity: 82.8%
+  Original (453 chars):
+    GUD ÄR himlarnas och jordens ljus. Hans ljus kan liknas vid en nisch där en lykta står. Lyktan är [o...
+  Formatted (320 chars):
+    GUD ÄR himlarnas och jordens ljus. Hans ljus kan liknas vid en nisch där en lykta står. Lyktan är [o...
+
+Verse 039 - Similarity: 93.6%
+  Original (314 chars):
+    Men de som förnekar sanningen - vad de [tror sig ha] åstadkommit är som en hägring i öknen, som den ...
+  Formatted (276 chars):
+    Men de som förnekar sanningen - vad de [tror sig ha] åstadkommit är som en hägring i öknen, som den ...
+
+Verse 041 - Similarity: 93.6%
+  Original (200 chars):
+    SER DU inte att allt och alla i himlarna och på jorden prisar Gud - ja, till och med fåglarna när de...
+  Formatted (176 chars):
+    SER DU inte att allt och alla i himlarna och på jorden prisar Gud - ja, till och med fåglarna när de...
+
+Verse 043 - Similarity: 91.1%
+  Original (378 chars):
+    Har du inte klart för dig att det är Gud som driver fram molnen och får dem att flyta samman och sko...
+  Formatted (316 chars):
+    Har du inte klart för dig att det är Gud som driver fram molnen och får dem att flyta samman och sko...
+
+Verse 058 - Similarity: 97.6%
+  Original (515 chars):
+    TROENDE! Vid tre tillfällen [under dagen] bör ni inte låta dem som ni rättmätigt besitter och dem so...
+  Formatted (491 chars):
+    TROENDE! Vid tre tillfällen [under dagen] bör ni inte låta dem som ni rättmätigt besitter och dem so...
+
+  ... and 4 more issues in this chapter
+
+Chapter 025: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 068 - Similarity: 99.8%
+  Original (275 chars):
+    Och de anropar aldrig en gudom vid sidan av Gud och de berövar aldrig en människa livet - som Gud ha...
+  Formatted (276 chars):
+    Och de anropar aldrig en gudom vid sidan av Gud och de berövar aldrig en människa livet - som Gud ha...
+
+Chapter 026: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 049 - Similarity: 99.8%
+  Original (281 chars):
+    [Farao] sade: "Tror ni på honom innan jag har gett er tillåtelse? Han måste vara den mästare som har...
+  Formatted (280 chars):
+    [Farao] sade: "Tror ni på honom innan jag har gett er tillåtelse? Han måste vara den mästare som har...
+
+Chapter 027: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 019 - Similarity: 99.8%
+  Original (304 chars):
+    Salomo log glatt åt myrans ord och han [bad till Gud och] sade: "Herre! Låt min tacksamhet för Dina ...
+  Formatted (303 chars):
+    Salomo log glatt åt myrans ord och han [bad till Gud och] sade: "Herre! Låt min tacksamhet för Dina ...
+
+Verse 040 - Similarity: 99.9%
+  Original (435 chars):
+    Den som hade kunskap om uppenbarelsen sade då: "Jag skall föra hit den innan din blick återvänder ti...
+  Formatted (434 chars):
+    Den som hade kunskap om uppenbarelsen sade då: "Jag skall föra hit den innan din blick återvänder ti...
+
+Verse 044 - Similarity: 99.9%
+  Original (374 chars):
+    [Då] man bjöd henne att stiga in på palatsets gård trodde hon att det var [en bassäng med] djupt vat...
+  Formatted (373 chars):
+    [Då] man bjöd henne att stiga in på palatsets gård trodde hon att det var [en bassäng med] djupt vat...
+
+Chapter 028: 12 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 99.8%
+  Original (228 chars):
+    Och Vi ingav Moses moder: "Amma honom, men när du tror att hans liv är i fara, sätt då ut honom i [N...
+  Formatted (227 chars):
+    Och Vi ingav Moses moder: "Amma honom, men när du tror att hans liv är i fara, sätt då ut honom i [N...
+
+Verse 015 - Similarity: 93.1%
+  Original (514 chars):
+    Och [en dag] begav han sig in i staden vid [middagstiden] då invånarna inte bekymrade sig [om vad so...
+  Formatted (590 chars):
+    Och [en dag] begav han sig in i staden vid [middagstiden] då invånarna inte bekymrade sig [om vad so...
+
+Verse 019 - Similarity: 99.8%
+  Original (255 chars):
+    Men just som han skulle slå till den som var fiende till dem båda, sade denne: "Moses! Vill du döda ...
+  Formatted (254 chars):
+    Men just som han skulle slå till den som var fiende till dem båda, sade denne: "Moses! Vill du döda ...
+
+Verse 025 - Similarity: 99.8%
+  Original (331 chars):
+    Strax därpå kom en av de två [unga kvinnorna] emot honom med skygga steg och sade: "Min fader ber di...
+  Formatted (330 chars):
+    Strax därpå kom en av de två [unga kvinnorna] emot honom med skygga steg och sade: "Min fader ber di...
+
+Verse 027 - Similarity: 99.8%
+  Original (272 chars):
+    [En dag] sade [fadern]: "Jag vill ge dig en av mina döttrar till hustru, på villkor att du stannar i...
+  Formatted (271 chars):
+    [En dag] sade [fadern]: "Jag vill ge dig en av mina döttrar till hustru, på villkor att du stannar i...
+
+Verse 032 - Similarity: 99.8%
+  Original (304 chars):
+    För in handen [och lägg den mot din sida]; när du drar fram den skall den lysa [skinande] vit utan e...
+  Formatted (303 chars):
+    För in handen [och lägg den mot din sida]; när du drar fram den skall den lysa [skinande] vit utan e...
+
+Verse 038 - Similarity: 99.8%
+  Original (246 chars):
+    Och Farao sade: "Såvitt jag vet finns det för er, stormän, ingen annan gud än jag. Låt då tända tege...
+  Formatted (245 chars):
+    Och Farao sade: "Såvitt jag vet finns det för er, stormän, ingen annan gud än jag. Låt då tända tege...
+
+Verse 063 - Similarity: 99.8%
+  Original (236 chars):
+    Och de över vilka domen obevekligen har fallit skall säga: "Herre! Det var dem vi ledde vilse men vi...
+  Formatted (235 chars):
+    Och de över vilka domen obevekligen har fallit skall säga: "Herre! Det var dem vi ledde vilse men vi...
+
+Verse 072 - Similarity: 99.7%
+  Original (193 chars):
+    Säg: "Vad tror ni? Om Gud lät dagen råda över er utan avbrott till Uppståndelsens dag, vem är den gu...
+  Formatted (192 chars):
+    Säg: "Vad tror ni? Om Gud lät dagen råda över er utan avbrott till Uppståndelsens dag, vem är den gu...
+
+Verse 076 - Similarity: 99.8%
+  Original (308 chars):
+    Qaarun hörde till Moses folk men han uppträdde övermodigt mot dem [alla]. Vi hade nämligen skänkt ho...
+  Formatted (309 chars):
+    Qaarun hörde till Moses folk men han uppträdde övermodigt mot dem [alla]. Vi hade nämligen skänkt ho...
+
+  ... and 2 more issues in this chapter
+
+Chapter 029: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 010 - Similarity: 88.2%
+  Original (331 chars):
+    BLAND människorna finns de som säger "Vi tror på Gud"; men när de lider orätt för sin tro ser de i m...
+  Formatted (261 chars):
+    BLAND människorna finns de som säger "Vi tror på Gud"; men när de lider orätt för sin tro ser de i m...
+
+Verse 029 - Similarity: 99.8%
+  Original (216 chars):
+    Ni nalkas ju män, [upptända av lust], och går tvärs emot naturens vägar. Och ni gör det [öppet], när...
+  Formatted (215 chars):
+    Ni nalkas ju män, [upptända av lust], och går tvärs emot naturens vägar. Och ni gör det [öppet], när...
+
+Chapter 030: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 056 - Similarity: 99.7%
+  Original (189 chars):
+    Men de som har fått kunskap och tro skall säga: "Ni har dröjt till Uppståndelsens dag [med att bejak...
+  Formatted (188 chars):
+    Men de som har fått kunskap och tro skall säga: "Ni har dröjt till Uppståndelsens dag [med att bejak...
+
+Chapter 031: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 021 - Similarity: 99.8%
+  Original (225 chars):
+    Och när dessa människor uppmanas att rätta sig efter det som Gud har uppenbarat, säger de: "Nej, vi ...
+  Formatted (224 chars):
+    Och när dessa människor uppmanas att rätta sig efter det som Gud har uppenbarat, säger de: "Nej, vi ...
+
+Chapter 033: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 013 - Similarity: 99.8%
+  Original (290 chars):
+    Och att några av dem sade: "Invånare i Yathrib! Ni kan inte hålla stånd här [mot fienden]. Återvänd ...
+  Formatted (289 chars):
+    Och att några av dem sade: "Invånare i Yathrib! Ni kan inte hålla stånd här [mot fienden]. Återvänd ...
+
+Verse 037 - Similarity: 97.6%
+  Original (477 chars):
+    Minns [Muhammad] vad du sade till honom som Gud visade Sin nåd och som du själv visade stor välvilja...
+  Formatted (455 chars):
+    Minns [Muhammad] vad du sade till honom som Gud visade Sin nåd och som du själv visade stor välvilja...
+
+Verse 049 - Similarity: 78.5%
+  Original (220 chars):
+    TROENDE! Om ni ingår äktenskap med troende kvinnor och sedan skiljer er från dem, innan ni ännu rört...
+  Formatted (142 chars):
+    TROENDE! Om ni ingår äktenskap med troende kvinnor och sedan skiljer er från dem, innan ni ännu rört...
+
+Verse 052 - Similarity: 95.5%
+  Original (292 chars):
+    Det är hädanefter inte tillåtet för dig att ta [andra] kvinnor till hustrur eller att låta andra ta ...
+  Formatted (267 chars):
+    Det är hädanefter inte tillåtet för dig att ta [andra] kvinnor till hustrur eller att låta andra ta ...
+
+Chapter 034: 7 issues
+--------------------------------------------------------------------------------
+
+Verse 003 - Similarity: 99.6%
+  Original (389 chars):
+    Men de som förnekar sanningen säger: "Den Yttersta stunden drabbar oss aldrig!" Säg: "Vid min Herre!...
+  Formatted (388 chars):
+    Men de som förnekar sanningen säger: "Den Yttersta stunden drabbar oss aldrig!" Säg: "Vid min Herre!...
+
+Verse 019 - Similarity: 53.8%
+  Original (342 chars):
+    Men då sade de: "Herre! Förläng avstånden mellan de platser där vi gör halt!" [På detta sätt] vållad...
+  Formatted (126 chars):
+    Men då sade de: "Herre! I detta ligger förvisso budskap till var och en som står fast i motgången oc...
+
+Verse 022 - Similarity: 99.8%
+  Original (224 chars):
+    SÄG: "Åkalla dem som ni påstår [har en plats] vid Guds sida. De har inte makt ens över ett stoftkorn...
+  Formatted (223 chars):
+    SÄG: "Åkalla dem som ni påstår [har en plats] vid Guds sida. De har inte makt ens över ett stoftkorn...
+
+Verse 031 - Similarity: 58.5%
+  Original (379 chars):
+    Och de som förnekar sanningen säger: "Vi kommer aldrig att tro på denna Koran eller på det som ännu ...
+  Formatted (489 chars):
+    Och de som förnekar sanningen säger: "Vi kommer aldrig att tro på denna Koran eller på det som ännu ...
+
+Verse 033 - Similarity: 99.9%
+  Original (410 chars):
+    Och de svaga skall säga till dem som ansåg sig stå över de andra: "Nej, [det var tvärtom] ni som stä...
+  Formatted (411 chars):
+    Och de svaga skall säga till dem som ansåg sig stå över de andra: "Nej, [det var tvärtom] ni som stä...
+
+Verse 043 - Similarity: 72.8%
+  Original (382 chars):
+    När [avgudadyrkarna] hör Våra klara budskap läsas upp för dem säger de [till de sina]: "[Muhammad] ä...
+  Formatted (286 chars):
+    När [avgudadyrkarna] hör Våra klara budskap läsas upp för dem säger de [till de sina]: "[Muhammad] ä...
+
+Verse 046 - Similarity: 99.8%
+  Original (287 chars):
+    Säg: "Ett råder jag er till, nämligen att ni två och två eller var man för sig vänder er till Gud oc...
+  Formatted (286 chars):
+    Säg: "Ett råder jag er till, nämligen att ni två och två eller var man för sig vänder er till Gud oc...
+
+Chapter 035: 13 issues
+--------------------------------------------------------------------------------
+
+Verse 003 - Similarity: 81.7%
+  Original (230 chars):
+    Människor! Minns Guds välgärningar mot er! Finns det en annan skapare än Gud, som förser er [med det...
+  Formatted (159 chars):
+    Människor! Minns Guds välgärningar mot er! Finns det en annan skapare än Gud, som förser er [med det...
+
+Verse 008 - Similarity: 83.6%
+  Original (330 chars):
+    Kan den vars onda handlingar utmålats för honom i ljusa färger, så att han tror att han handlar rätt...
+  Formatted (237 chars):
+    Kan den vars onda handlingar utmålats för honom i ljusa färger, så att han tror att han handlar rätt...
+
+Verse 010 - Similarity: 75.8%
+  Original (269 chars):
+    Den som står efter [jordisk] makt och ära [skall veta att] all ära tillhör Gud. De goda orden stiger...
+  Formatted (164 chars):
+    Den som står efter [jordisk] makt och ära [skall veta att] all ära tillhör Gud. De goda orden stiger...
+
+Verse 011 - Similarity: 96.8%
+  Original (374 chars):
+    Gud har skapat er av jord; därefter [skapar Han er] av en droppe säd och därefter formar Han er till...
+  Formatted (351 chars):
+    Gud har skapat er av jord; därefter [skapar Han er] av en droppe säd och därefter formar Han er till...
+
+Verse 012 - Similarity: 96.8%
+  Original (418 chars):
+    De två stora vattenmassorna [på jorden] är inte lika: den enas [vatten] är sött, det släcker törsten...
+  Formatted (392 chars):
+    De två stora vattenmassorna [på jorden] är inte lika: den enas [vatten] är sött, det släcker törsten...
+
+Verse 013 - Similarity: 84.9%
+  Original (335 chars):
+    Han låter natten glida in i dagen och Han låter dagen glida in i natten. Han har underordnat solen o...
+  Formatted (247 chars):
+    Han låter natten glida in i dagen och Han låter dagen glida in i natten. Han har underordnat solen o...
+
+Verse 018 - Similarity: 97.7%
+  Original (439 chars):
+    PÅ INGEN bärare av bördor skall läggas en annans börda; och om den som bär en tung börda ropar på hj...
+  Formatted (419 chars):
+    PÅ INGEN bärare av bördor skall läggas en annans börda; och om den som bär en tung börda ropar på hj...
+
+Verse 027 - Similarity: 92.1%
+  Original (211 chars):
+    SER DU inte att Gud låter regn strömma från skyn och att Vi därmed låter frukter av alla slag och fä...
+  Formatted (180 chars):
+    SER DU inte att Gud låter regn strömma från skyn och att Vi därmed låter frukter av alla slag och fä...
+
+Verse 032 - Similarity: 78.1%
+  Original (289 chars):
+    Och Vi lämnar denna gudomliga Skrift i arv till dem Vi utser av Våra tjänare. Bland dem finns den so...
+  Formatted (185 chars):
+    Och Vi lämnar denna gudomliga Skrift i arv till dem Vi utser av Våra tjänare. Bland dem finns den so...
+
+Verse 037 - Similarity: 93.3%
+  Original (366 chars):
+    Därifrån skall deras klagorop höras: "Herre, låt oss komma bort härifrån! Vi skall göra det rätta oc...
+  Formatted (320 chars):
+    Därifrån skall deras klagorop höras: "Herre, låt oss komma bort härifrån! Vi skall göra det rätta oc...
+
+  ... and 3 more issues in this chapter
+
+Chapter 037: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 102 - Similarity: 78.2%
+  Original (324 chars):
+    Och då [sonen] hade blivit gammal nog att [arbeta tillsammans med fadern och] delta i hans strävande...
+  Formatted (208 chars):
+    Och då [sonen] hade blivit gammal nog att [arbeta tillsammans med fadern och] delta i hans strävande...
+
+Chapter 038: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 024 - Similarity: 99.9%
+  Original (418 chars):
+    [David] sade: "Utan tvivel har han gjort dig orätt när han krävde att få din tacka utöver dem han re...
+  Formatted (417 chars):
+    [David] sade: "Utan tvivel har han gjort dig orätt när han krävde att få din tacka utöver dem han re...
+
+Verse 026 - Similarity: 83.0%
+  Original (313 chars):
+    [Och Vi sade:] "David! Vi har gett dig makt och myndighet på jorden. Döm därför mellan människor med...
+  Formatted (222 chars):
+    [Och Vi sade:] "David! Vi har gett dig makt och myndighet på jorden. Döm därför mellan människor med...
+
+Chapter 039: 11 issues
+--------------------------------------------------------------------------------
+
+Verse 005 - Similarity: 88.9%
+  Original (364 chars):
+    Han har skapat himlarna och jorden i enlighet med en plan och ett syfte. Han låter natten svepa in d...
+  Formatted (291 chars):
+    Han har skapat himlarna och jorden i enlighet med en plan och ett syfte. Han låter natten svepa in d...
+
+Verse 007 - Similarity: 94.2%
+  Original (430 chars):
+    Om ni förnekar [Gud skall ni veta att] Gud inte behöver er [tro]. Han ser inte otro och otacksamhet ...
+  Formatted (383 chars):
+    Om ni förnekar [Gud skall ni veta att] Gud inte behöver er [tro]. Han ser inte otro och otacksamhet ...
+
+Verse 010 - Similarity: 99.8%
+  Original (276 chars):
+    Säg [Muhammad] till Mina troende tjänare: "Frukta er Herre! De som gör det goda i denna värld har go...
+  Formatted (275 chars):
+    Säg [Muhammad] till Mina troende tjänare: "Frukta er Herre! De som gör det goda i denna värld har go...
+
+Verse 023 - Similarity: 84.8%
+  Original (452 chars):
+    Gud har [steg för steg] uppenbarat det skönaste budskap, en Skrift vars olika delar [binds samman av...
+  Formatted (333 chars):
+    Gud har [steg för steg] uppenbarat det skönaste budskap, en Skrift vars olika delar [binds samman av...
+
+Verse 038 - Similarity: 99.9%
+  Original (365 chars):
+    Och om du frågar människorna: "Vem har skapat himlarna och jorden?" - svarar de helt visst: "Gud." S...
+  Formatted (364 chars):
+    Och om du frågar människorna: "Vem har skapat himlarna och jorden?" - svarar de helt visst: "Gud." S...
+
+Verse 042 - Similarity: 88.5%
+  Original (290 chars):
+    Då [människan] dör tar Gud själen till Sig, men om hon inte skall dö, [tar Han den] då hon sover. Ha...
+  Formatted (230 chars):
+    Då [människan] dör tar Gud själen till Sig, men om hon inte skall dö, [tar Han den] då hon sover. Ha...
+
+Verse 049 - Similarity: 99.8%
+  Original (234 chars):
+    NÄR MÄNNISKAN drabbas av ett ont, anropar hon Oss [om hjälp]; men när Vi skänker henne av Vårt goda,...
+  Formatted (233 chars):
+    NÄR MÄNNISKAN drabbas av ett ont, anropar hon Oss [om hjälp]; men när Vi skänker henne av Vårt goda,...
+
+Verse 053 - Similarity: 99.8%
+  Original (233 chars):
+    SÄG [Muhammad] till Mina tjänare: "Om ni har gjort orätt mot er själva genom att överträda [Mina bud...
+  Formatted (232 chars):
+    SÄG [Muhammad] till Mina tjänare: "Om ni har gjort orätt mot er själva genom att överträda [Mina bud...
+
+Verse 067 - Similarity: 81.5%
+  Original (294 chars):
+    De underskattar sannerligen Gud [som jämför Honom med bilder huggna i sten]! På Uppståndelsens dag s...
+  Formatted (202 chars):
+    De underskattar sannerligen Gud [som jämför Honom med bilder huggna i sten]! På Uppståndelsens dag s...
+
+Verse 071 - Similarity: 99.9%
+  Original (363 chars):
+    Och de som förnekade sanningen skall drivas mot helvetet, skara efter skara, och när de når fram öpp...
+  Formatted (364 chars):
+    Och de som förnekade sanningen skall drivas mot helvetet, skara efter skara, och när de når fram öpp...
+
+  ... and 1 more issues in this chapter
+
+Chapter 040: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 025 - Similarity: 99.7%
+  Original (188 chars):
+    Och när han kom till dem med den sanning som Vi gett honom, sade de: "Döda sönerna till dem som är h...
+  Formatted (187 chars):
+    Och när han kom till dem med den sanning som Vi gett honom, sade de: "Döda sönerna till dem som är h...
+
+Verse 029 - Similarity: 99.8%
+  Original (260 chars):
+    Egyptier! Makten är er och i dag har ni landet under er kontroll, men vem räddar oss från Guds straf...
+  Formatted (259 chars):
+    Egyptier! Makten är er och i dag har ni landet under er kontroll, men vem räddar oss från Guds straf...
+
+Verse 037 - Similarity: 99.8%
+  Original (291 chars):
+    rätt sätt att nå himlen och göra mig underrättad om Moses gud. - Men jag tror bestämt att han ljuger...
+  Formatted (290 chars):
+    rätt sätt att nå himlen och göra mig underrättad om Moses gud. - Men jag tror bestämt att han ljuger...
+
+Chapter 041: 7 issues
+--------------------------------------------------------------------------------
+
+Verse 025 - Similarity: 95.0%
+  Original (273 chars):
+    Vi gav dem onda krafter till ständiga följeslagare och de skönmålade för dem det [onda] som de begic...
+  Formatted (247 chars):
+    Vi gav dem onda krafter till ständiga följeslagare och de skönmålade för dem det [onda] som de begic...
+
+Verse 037 - Similarity: 74.4%
+  Original (206 chars):
+    Bland Hans tecken är natten och dagen, solen och månen. Fall inte ned på ert ansikte inför solen, in...
+  Formatted (122 chars):
+    Bland Hans tecken är natten och dagen, solen och månen. Fall inte ned på ert ansikte inför solen, in...
+
+Verse 039 - Similarity: 94.8%
+  Original (254 chars):
+    Och bland Hans tecken är jorden som inför dina ögon ligger torr och död men som, när Vi låter regnet...
+  Formatted (229 chars):
+    Och bland Hans tecken är jorden som inför dina ögon ligger torr och död men som, när Vi låter regnet...
+
+Verse 040 - Similarity: 91.4%
+  Original (252 chars):
+    DE SOM förvränger eller vantolkar Våra budskap kan inte gömma sig för Oss. Vem är i ett fördelaktiga...
+  Formatted (212 chars):
+    DE SOM förvränger eller vantolkar Våra budskap kan inte gömma sig för Oss. Vem är i ett fördelaktiga...
+
+Verse 044 - Similarity: 63.8%
+  Original (506 chars):
+    Om Vi hade uppenbarat denna Koran på ett annat språk än arabiska, skulle de [som nu avvisar den] hel...
+  Formatted (237 chars):
+    Om Vi hade uppenbarat denna Koran på ett annat språk än arabiska, skulle de [som nu avvisar den] hel...
+
+Verse 047 - Similarity: 85.9%
+  Original (340 chars):
+    Han ensam har kunskapen om den Yttersta stundens ankomst; ingen frukt tränger fram ur sitt hölje och...
+  Formatted (256 chars):
+    Han ensam har kunskapen om den Yttersta stundens ankomst; ingen frukt tränger fram ur sitt hölje och...
+
+Verse 050 - Similarity: 80.0%
+  Original (468 chars):
+    Men om Vi förbarmar Oss över henne sedan hon haft att kämpa med svårigheter, säger hon helt säkert: ...
+  Formatted (312 chars):
+    Men om Vi förbarmar Oss över henne sedan hon haft att kämpa med svårigheter, säger hon helt säkert: ...
+
+Chapter 042: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 005 - Similarity: 90.1%
+  Original (211 chars):
+    Himlarna är nära att rämna i sina höga [valv], när änglarna sjunger sin Herres lov och ber Honom för...
+  Formatted (173 chars):
+    Himlarna är nära att rämna i sina höga [valv], när änglarna sjunger sin Herres lov och ber Honom för...
+
+Verse 007 - Similarity: 86.5%
+  Original (323 chars):
+    Vi har sålunda uppenbarat för dig en förkunnelse på det arabiska språket, för att du skall varna den...
+  Formatted (246 chars):
+    Vi har sålunda uppenbarat för dig en förkunnelse på det arabiska språket, för att du skall varna den...
+
+Verse 011 - Similarity: 57.1%
+  Original (240 chars):
+    Han är himlarnas och jordens Skapare. Han har skapat hustrur åt er av samma natur som ni själva; äve...
+  Formatted (96 chars):
+    Han är himlarnas och jordens Skapare. Han har skapat hustrur åt er av samma natur som ni själva;...
+
+Verse 015 - Similarity: 99.9%
+  Original (472 chars):
+    Kalla därför [människorna till den rena tron] och gå din väg rakt fram, som du är befalld, och låt d...
+  Formatted (471 chars):
+    Kalla därför [människorna till den rena tron] och gå din väg rakt fram, som du är befalld, och låt d...
+
+Chapter 046: 7 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 99.8%
+  Original (315 chars):
+    Säg: "Har ni övervägt vad det är ni anropar i Guds ställe? Visa Mig vad dessa [väsen eller makter] h...
+  Formatted (314 chars):
+    Säg: "Har ni övervägt vad det är ni anropar i Guds ställe? Visa Mig vad dessa [väsen eller makter] h...
+
+Verse 008 - Similarity: 99.9%
+  Original (349 chars):
+    Eller också säger de: "Det är han [själv] som har författat det!" Säg [Muhammad]: "Om jag hade förfa...
+  Formatted (348 chars):
+    Eller också säger de: "Det är han [själv] som har författat det!" Säg [Muhammad]: "Om jag hade förfa...
+
+Verse 010 - Similarity: 99.8%
+  Original (332 chars):
+    Säg: "Hur ser ni [på detta]? Om det [som jag förkunnar verkligen] kommer från Gud och ni förnekar de...
+  Formatted (331 chars):
+    Säg: "Hur ser ni [på detta]? Om det [som jag förkunnar verkligen] kommer från Gud och ni förnekar de...
+
+Verse 015 - Similarity: 78.7%
+  Original (625 chars):
+    VI HAR förmanat människan att visa godhet mot sina föräldrar. [Den blivande] modern bär sin börda me...
+  Formatted (963 chars):
+    VI HAR förmanat människan att visa godhet mot sina föräldrar. [Den blivande] modern bär sin börda me...
+
+Verse 017 - Similarity: 91.0%
+  Original (381 chars):
+    Det finns den som svarar sina föräldrar [när de uppmanar honom att tro]: "Skäms ni inte? Mig lovar n...
+  Formatted (318 chars):
+    Det finns den som svarar sina föräldrar [när de uppmanar honom att tro]: "Skäms ni inte? Mig lovar n...
+
+Verse 020 - Similarity: 99.9%
+  Original (336 chars):
+    Och den Dag då förnekarna av sanningen förs fram inför Elden [skall Vi säga till dem:] "Ni har försl...
+  Formatted (335 chars):
+    Och den Dag då förnekarna av sanningen förs fram inför Elden [skall Vi säga till dem:] "Ni har försl...
+
+Verse 021 - Similarity: 99.8%
+  Original (282 chars):
+    OCH MINNS hur [stammen] Aads broder - sedan [många] varnare passerat som han hade kännedom om och an...
+  Formatted (281 chars):
+    OCH MINNS hur [stammen] Aads broder - sedan [många] varnare passerat som han hade kännedom om och an...
+
+Chapter 047: 4 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 89.2%
+  Original (547 chars):
+    DÅ NI möter förnekarna [i strid], låt [svärden] falla över deras huvuden till dess ni har tvingat de...
+  Formatted (440 chars):
+    DÅ NI möter förnekarna [i strid], låt [svärden] falla över deras huvuden till dess ni har tvingat de...
+
+Verse 012 - Similarity: 87.8%
+  Original (276 chars):
+    De troende som lever ett rättskaffens liv skall Gud föra till lustgårdar, vattnade av bäckar, men de...
+  Formatted (216 chars):
+    De troende som lever ett rättskaffens liv skall Gud föra till lustgårdar, vattnade av bäckar, men de...
+
+Verse 015 - Similarity: 99.7%
+  Original (465 chars):
+    Paradiset som lovats dem som fruktar Gud kan liknas vid [en lustgård] där bäckar flyter med vatten s...
+  Formatted (464 chars):
+    Paradiset som lovats dem som fruktar Gud kan liknas vid [en lustgård] där bäckar flyter med vatten s...
+
+Verse 016 - Similarity: 91.9%
+  Original (280 chars):
+    Bland [hycklarna] finns de som lyssnar till dig [Muhammad, och låtsas förstå], men när de går ifrån ...
+  Formatted (238 chars):
+    Bland [hycklarna] finns de som lyssnar till dig [Muhammad, och låtsas förstå], men när de går ifrån ...
+
+Chapter 048: 9 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 93.0%
+  Original (200 chars):
+    Det är Han som har fyllt de troendes hjärtan med lugn och tillförsikt, så att deras tro skall växa s...
+  Formatted (174 chars):
+    Det är Han som har fyllt de troendes hjärtan med lugn och tillförsikt, så att deras tro skall Gud [b...
+
+Verse 005 - Similarity: 99.6%
+  Original (231 chars):
+    och de troende, såväl män som kvinnor, skall ledas till lustgårdar, vattnade av bäckar, där de skall...
+  Formatted (229 chars):
+    och de troende, såväl män som kvinnor, skall ledas till lustgårdar, vattnade av bäckar, där de skall...
+
+Verse 011 - Similarity: 99.9%
+  Original (406 chars):
+    De ökenaraber som inte gick med er kommer att säga till dig: "Vi var fullt upptagna av [att skydda] ...
+  Formatted (407 chars):
+    De ökenaraber som inte gick med er kommer att säga till dig: "Vi var fullt upptagna av [att skydda] ...
+
+Verse 016 - Similarity: 92.6%
+  Original (343 chars):
+    Säg till de ökenaraber som inte följde er: "[En dag] kommer ni att kallas [till kamp] mot ett folk a...
+  Formatted (296 chars):
+    Säg till de ökenaraber som inte följde er: "[En dag] kommer ni att kallas [till kamp] mot ett folk a...
+
+Verse 017 - Similarity: 82.6%
+  Original (300 chars):
+    Ingen blind kan klandras och ingen halt och ingen sjuk kan klandras [för att de inte går med i ett k...
+  Formatted (211 chars):
+    Ingen blind kan klandras och ingen halt och ingen sjuk kan klandras [för att de inte går med i ett k...
+
+Verse 020 - Similarity: 92.0%
+  Original (235 chars):
+    Gud har gett er löfte om [många segrar och att] rikligt byte skall tillfalla er - ja, detta har reda...
+  Formatted (200 chars):
+    Gud har gett er löfte om [många segrar och att] rikligt byte skall tillfalla er - ja, detta har reda...
+
+Verse 025 - Similarity: 88.5%
+  Original (493 chars):
+    Det var dessa förnekare av sanningen som utestängde er från den heliga Moskén och inte lät [era] off...
+  Formatted (391 chars):
+    Det var dessa förnekare av sanningen som utestängde er från den heliga Moskén och inte lät [era] off...
+
+Verse 027 - Similarity: 87.6%
+  Original (304 chars):
+    Gud har bekräftat Sändebudets sanna drömsyn: i enlighet med Guds vilja skall ni helt visst stiga in ...
+  Formatted (237 chars):
+    Gud har bekräftat Sändebudets sanna drömsyn: i enlighet med Guds vilja skall ni helt visst stiga in ...
+
+Verse 029 - Similarity: 63.8%
+  Original (672 chars):
+    MUHAMMAD är Guds Sändebud. De som följer honom är oböjligt fasta gentemot dem som förnekar sanningen...
+  Formatted (315 chars):
+    MUHAMMAD är Guds Sändebud. De som följer honom är oböjligt fasta gentemot dem som förnekar sanningen...
+
+Chapter 049: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 011 - Similarity: 65.4%
+  Original (469 chars):
+    TROENDE! Män skall inte göra narr av andra män - det kan hända att de som de gör narr av är bättre ä...
+  Formatted (228 chars):
+    TROENDE! Män skall inte göra narr av andra män - det kan hända att de som de gör narr av är bättre ä...
+
+Verse 012 - Similarity: 90.2%
+  Original (397 chars):
+    Troende! Undvik i möjligaste mån att göra lösa antaganden [och förmoda det ena och det andra om vara...
+  Formatted (326 chars):
+    Troende! Undvik i möjligaste mån att göra lösa antaganden [och förmoda det ena och det andra om vara...
+
+Verse 014 - Similarity: 99.9%
+  Original (374 chars):
+    ÖKENARABERNA säger: ”Vi har blivit troende.” Svara [dem, Muhammad]: ”[Ännu] än ni inte troende – säg...
+  Formatted (373 chars):
+    ÖKENARABERNA säger: ”Vi har blivit troende.” Svara [dem, Muhammad]: ”[Ännu] än ni inte troende – säg...
+
+Chapter 058: 5 issues
+--------------------------------------------------------------------------------
+
+Verse 002 - Similarity: 91.3%
+  Original (268 chars):
+    De av er som [hädanefter vill] förskjuta sina hustrur [bör inse att de] inte är deras mödrar; deras ...
+  Formatted (225 chars):
+    De av er som [hädanefter vill] förskjuta sina hustrur [bör inse att de] inte är deras mödrar; deras ...
+
+Verse 003 - Similarity: 92.1%
+  Original (232 chars):
+    De som på detta sätt förskjuter sin hustru men tar tillbaka sitt ord skall [som bot] skänka en slav ...
+  Formatted (198 chars):
+    De som på detta sätt förskjuter sin hustru men tar tillbaka sitt ord skall [som bot] skänka en slav ...
+
+Verse 011 - Similarity: 94.2%
+  Original (312 chars):
+    TROENDE! När ni under era sammankomster uppmanas "Ge plats!" - ge plats; då skall Gud bereda plats å...
+  Formatted (278 chars):
+    TROENDE! När ni under era sammankomster uppmanas "Ge plats!" - ge plats; då skall Gud bereda plats å...
+
+Verse 012 - Similarity: 79.1%
+  Original (292 chars):
+    TROENDE! Om ni vill få ett samtal i avskildhet med Sändebudet, ge då en offergåva till de behövande ...
+  Formatted (191 chars):
+    TROENDE! Om ni vill få ett samtal i avskildhet med Sändebudet, ge då en offergåva till de behövande ...
+
+Verse 013 - Similarity: 93.5%
+  Original (280 chars):
+    Om föreskriften att inför ert samtal ge en offergåva vållar er bekymmer och ni har underlåtit att [f...
+  Formatted (246 chars):
+    Om föreskriften att inför ert samtal ge en offergåva vållar er bekymmer och ni har underlåtit att [f...
+
+Chapter 059: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 010 - Similarity: 99.8%
+  Original (233 chars):
+    De som kommer efter dem ber: "Herre, ge oss Din förlåtelse och förlåt våra bröder som gått före oss ...
+  Formatted (232 chars):
+    De som kommer efter dem ber: "Herre, ge oss Din förlåtelse och förlåt våra bröder som gått före oss ...
+
+Verse 011 - Similarity: 95.1%
+  Original (356 chars):
+    HAR DU inte insett [vad] hycklarna säger till sina bröder, dem bland efterföljarna av äldre tiders u...
+  Formatted (323 chars):
+    HAR DU inte insett [vad] hycklarna säger till sina bröder, dem bland efterföljarna av äldre tiders u...
+
+Chapter 060: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 004 - Similarity: 99.8%
+  Original (610 chars):
+    Ett gott föredöme har ni i Abraham och de som följde honom, när de sade till sina landsmän: "Vi är i...
+  Formatted (610 chars):
+    Ett gott föredöme har ni i Abraham och de som följde honom, när de sade till sina landsmän: "Vi är i...
+
+Chapter 061: 3 issues
+--------------------------------------------------------------------------------
+
+Verse 005 - Similarity: 99.8%
+  Original (286 chars):
+    [Minns] Moses, som talade till sitt folk och sade: "Varför orsakar ni mig sorg och bekymmer, fastän ...
+  Formatted (285 chars):
+    [Minns] Moses, som talade till sitt folk och sade: "Varför orsakar ni mig sorg och bekymmer, fastän ...
+
+Verse 006 - Similarity: 78.9%
+  Original (368 chars):
+    Och [minns] Jesus, Marias son, som sade: "Israeliter! Jag är sänd till er av Gud för att bekräfta va...
+  Formatted (240 chars):
+    Och [minns] Jesus, Marias son, som sade: "Israeliter! Jag är sänd till er av Gud för att bekräfta va...
+
+Verse 014 - Similarity: 49.3%
+  Original (376 chars):
+    TROENDE! Bli Guds medhjälpare! Liksom Jesus, Marias son, sade till de vitklädda: "Vem vill bli min m...
+  Formatted (123 chars):
+    TROENDE! Bli Guds medhjälpare! Men Vi stödde dem som trodde på honom mot deras fiender, och de [troe...
+
+Chapter 063: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 007 - Similarity: 91.9%
+  Original (208 chars):
+    Det är de som säger [till andra]: "Ge ingenting till dem som sluter upp kring Guds Sändebud; då ger ...
+  Formatted (177 chars):
+    Det är de som säger [till andra]: "Ge ingenting till dem som sluter upp kring Guds Sändebud; då Men ...
+
+Verse 008 - Similarity: 95.7%
+  Original (266 chars):
+    De säger [också]: "Om vi kommer tillbaka till staden [från detta fälttåg], skall de som har makten h...
+  Formatted (244 chars):
+    De säger [också]: "Om vi kommer tillbaka till staden [från detta fälttåg], skall de som har makten h...
+
+Chapter 064: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 009 - Similarity: 58.7%
+  Original (343 chars):
+    Den Dag då Han kallar er till den stora Samlingen, kommer de förmodade vinnarna och förlorarna att b...
+  Formatted (267 chars):
+    Den Dag då Han kallar er till den stora Samlingen, kommer de förmodade vinnarna och förlorarna att b...
+
+Verse 014 - Similarity: 74.2%
+  Original (239 chars):
+    TROENDE! Bland era hustrur och era barn kan finnas [de som är] era fiender; var därför på er vakt mo...
+  Formatted (141 chars):
+    TROENDE! Men om ni har överseende, förlåter och glömmer [de felsteg som de begår, skall Gud visa att...
+
+Chapter 066: 2 issues
+--------------------------------------------------------------------------------
+
+Verse 008 - Similarity: 69.8%
+  Original (459 chars):
+    Troende! Vänd er i uppriktig ånger [över era synder] till Gud! Kanske skall er Herre ur er [bok] utp...
+  Formatted (856 chars):
+    Troende! Vänd er i uppriktig ånger [över era synder] till Gud! Kanske skall er Herre ur er [bok] utp...
+
+Verse 011 - Similarity: 99.8%
+  Original (265 chars):
+    Och som ett [efterföljansvärt] exempel för de troende har Gud framhållit Faraos hustru, som bad: "He...
+  Formatted (264 chars):
+    Och som ett [efterföljansvärt] exempel för de troende har Gud framhållit Faraos hustru, som bad: "He...
+
+Chapter 074: 1 issues
+--------------------------------------------------------------------------------
+
+Verse 031 - Similarity: 87.8%
+  Original (738 chars):
+    Till Eldens väktare har Vi inte utsett andra än änglar, och Vi har enbart angett deras antal för att...
+  Formatted (943 chars):
+    Till Eldens väktare har Vi inte utsett andra än änglar, och Vi har enbart angett deras antal för att...
