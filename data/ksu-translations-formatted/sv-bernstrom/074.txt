@@ -1,0 +1,59 @@
+001_00	DU SOM sveper in dig [i din ensamhet]!
+002_00	Stå upp och varna!
+003_00	Och prisa din Herres majestät!
+004_00	Och rena ditt hjärta!
+005_00	Och fly från all hednisk smitta!
+006_00	[När du ger] ge inte för att få något tillbaka!
+007_00	Och ha tålamod och fördrag [med allt] för din Herres skull!
+008_00	När det blåses i basunen
+009_00	har en svår Dag randats
+010_00	för dem som [ständigt] förnekade sanningen, och ingen lättnad skall ges dem!
+011_00	LÄMNA åt Mig att [ta itu med] den som Jag har skapat ensam [i moderlivet]
+012_00	och gett stor rikedom
+013_00	och söner som står vid hans sida,
+014_00	och för vilken Jag har jämnat vägen [genom livet].
+015_00	Och som nu väntar sig att Jag skall ge honom ännu mer!
+016_00	Nej! Denne inbitne motståndare till Våra budskap,
+017_00	skall Jag låta utstå [ett straff tyngre än] klättringen uppför [en hal och brant bergvägg].
+018_00	Han tänker skarpt och överväger [hur han skall angripa dessa budskap] -
+019_00	måtte han förgås för dessa tankar,
+020_00	ja, måtte han förgås för dessa [onda] tankar. -
+021_00	Så ser han sig omkring,
+022_00	rynkar pannan och antar en bister uppsyn.
+023_00	Till sist vänder han sig bort med överlägsen min
+024_00	och säger: "Det är bara vältalighet som bländar [åhöraren, ord] hämtade från [gamla sagor];
+025_00	människors ord och ingenting annat!"
+026_00	Honom skall Jag låta brinna i helvetets eld!
+027_00	Och vad kan låta dig förstå vad helvetets eld betyder
+028_00	Den skonar ingen och förtär allt.
+029_00	I [dess lågor] förkolnar människans [hud].
+030_00	Nitton [väktare vakar] över den.
+031_00	Till Eldens väktare har Vi inte utsett andra än änglar, och Vi har enbart angett deras antal för att sätta dem som framhärdar i att förneka sanningen på prov, och att de som [i gångna
+031_01	tider] fick del av uppenbarelsen skall få visshet [om sanningen i denna Skrift], och att de som tror skall befästas i sin tro och att ingen tvekan skall finnas kvar hos dem som [tidiga
+031_02	re] fick del av uppenbarelsen och hos de troende, och för att de vilkas sinne är sjukt [av tvivel] och förnekarna skall ställa sig frågan: "Vad kan Gud ha velat säga med denna liknelse
+031_03	?" Så låter Gud den Han vill gå vilse och så vägleder Han den Han vill. Och ingen känner [styrkan hos] Guds härskaror utom Han själv. Allt detta är enbart en påminnelse till människorna.
+032_00	NEJ, vid månen!
+033_00	Vid natten, när den viker;
+034_00	vid morgonrodnadens glöd!
+035_00	[Påminnelsen om domen och helveteselden] är förvisso ett av de mäktiga [varningstecknen]
+036_00	som varnar människorna,
+037_00	både dem av er som vill gå i främsta ledet och dem som [tvekar och] blir efter.
+038_00	Var och en skall ställas till svars för vad han har gjort
+039_00	utom de rättfärdiga som hör till den högra sidan
+040_00	[och som där de vilar] i [paradisets] lustgårdar, skall förhöra sig
+041_00	om [de dömda] syndarna [och fråga]:
+042_00	"Vad förde er till helveteselden?"
+043_00	De skall svara: "Vi hörde inte till dem som bad
+044_00	och vi gav inte heller den nödställde att äta
+045_00	och vi ägnade oss med [andra] likasinnade åt tomt och respektlöst tal [om höga ting]
+046_00	och påstod att Domens dag var en lögn -
+047_00	till dess vi fick visshet."
+048_00	Då skall medlarnas förböner inte vara dem till någon nytta.
+049_00	HUR är det fatt med dem som vänder ryggen åt påminnelsen
+050_00	[De beter sig] som skrämda åsnor
+051_00	som flyr för ett lejon!
+052_00	Men [i stället för att lyssna till uppenbarelsen] begär de, var och en av dem, att få [en egen] lättförståelig Skrift!
+053_00	Nej! De [tror ju inte på räkenskap och dom] fruktar inte evigheten.
+054_00	Nej, detta är en påminnelse,
+055_00	och låt den som vill lägga den på minnet!
+056_00	Men de kommer inte att lägga den på minnet annat än om Gud vill. Det är Han som är värd att fruktas, Han ensam som förlåter synd.

@@ -1,0 +1,8 @@
+001_00	La rivalidad por tener más os mantiene ocupados
+002_00	hasta que visitáis los cementerios.
+003_00	¡Pero no! Ya sabréis.
+004_00	Sí, luego sabréis.
+005_00	Si supierais a ciencia cierta.
+006_00	Tened por seguro que veréis el Yahim.
+007_00	Lo veréis con el ojo de la certeza.
+008_00	Y ese día, se os preguntará por los momentos de dicha que hayáis tenido.

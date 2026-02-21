@@ -1,0 +1,96 @@
+001_00	Cuando tenga lugar lo que ha de ocurrir.
+002_00	No habrá nadie que pueda negar su acontecer.
+003_00	Rebajará (a unos) y elevará (a otros).
+004_00	Cuando la tierra se mueva convulsivamente,
+005_00	las montañas caigan desmoronadas
+006_00	y se conviertan en polvo esparcido;
+007_00	y vosotros seáis de tres clases:
+008_00	Los compañeros de la derecha ¡Oh los compañeros de la derecha!
+009_00	Y los compañeros de la izquierda ¡Oh los compañeros de la izquierda!
+010_00	Y los adelantados. ¡Oh los adelantados!
+011_00	Esos serán los que tengan proximidad
+012_00	en los jardines del Deleite.
+013_00	Muchos de los primeros
+014_00	y pocos de los últimos*.
+015_00	Estarán sobre divanes tejidos de oro,
+016_00	recostados unos frente a otros.
+017_00	En torno a ellos irán pasando muchachos eternamente jóvenes
+018_00	con copas, vasijas y vasos de un vino que manará de un manantial
+019_00	y no les provocará dolor de cabeza ni embriaguez.
+020_00	Tendrán las frutas que elijan
+021_00	y la carne de ave que les apetezca.
+022_00	Y unas de ojos hermosísimos,
+023_00	parecidas a las perlas semiocultas.
+024_00	Como recompensa por lo que hicieron.
+025_00	Allí no oirán frivolidad ni incitación al mal,
+026_00	tan sólo la palabra: Paz, paz.
+027_00	Y los compañeros de la derecha. ¡Oh los compañeros de la derecha!
+028_00	Estarán entre azufaifos sin espinas
+029_00	y exhuberantes árboles de plátano.
+030_00	En sombras perennes,
+031_00	agua en continuo fluir
+032_00	y abundantes frutas
+033_00	que no dejarán de producirse ni serán inaccesibles.
+034_00	En lechos elevados.
+035_00	Realmente las habremos creado de nuevo*.
+036_00	Y las habremos hecho vírgenes,
+037_00	amorosas y de la misma edad*.
+038_00	Para los compañeros de la derecha.
+039_00	Muchos de los primeros
+040_00	y muchos de los últimos.
+041_00	Y los compañeros de la izquierda. Oh los compañeros de la izquierda!
+042_00	Estarán en un viento ardiente y agua hirviendo,
+043_00	a la sombra de una humareda abrasante,
+044_00	ni fresca ni generosa.
+045_00	Es cierto que antes habían estado entregados a la vida fácil,
+046_00	aferrados al gran error
+047_00	y diciendo: ¿Acaso cuando hayamos muerto y seamos tierra y huesos se nos devolverá a la vida?
+048_00	¿O lo serán nuestros primeros padres?
+049_00	Di: En verdad que los primeros y los últimos,
+050_00	serán reunidos en el lugar de encuentro de un día conocido.
+051_00	Luego vosotros, los extraviados, los que negasteis la verdad,
+052_00	comeréis de un árbol de Zaqqum*
+053_00	con el que llenaréis vuestros vientres.
+054_00	Y sobre ello beberéis agua hirviendo.
+055_00	Beberéis como bebe el camello enfermo que no puede calmar su sed.
+056_00	Este será su hospedaje el día de la Retribución.
+057_00	¿No os hemos creado?, ¿por qué entonces no dais fe?
+058_00	¿Os habéis fijado en lo que eyaculáis?
+059_00	Sois vosotros los que lo creáis o somos Nosotros los creadores?
+060_00	Hemos decretado que entre vosotros exista la muerte y no podéis impedirnos
+061_00	que pongamos en vuestro lugar a otros semejantes a vosotros ni que os creemos como no conocéis.
+062_00	Ya habéis conocido vuestra primera creación.*¿No vais a recordar?
+063_00	¿Os habéis fijado en lo que cultiváis?
+064_00	¿Sois vosotros los que hacéis germinar o somos Nosotros los germinadores?
+065_00	Si quisiéramos lo convertiríamos en rastrojo y os quedaríais lamentándoos:
+066_00	¡Hemos sido castigados!
+067_00	Y más aún, hemos caído en desgracia.
+068_00	¿Os habéis fijado en el agua que bebéis?
+069_00	¿Sois vosotros los que la hacéis caer de la nube o somos Nosotros?
+070_00	Si hubiéramos querido la habríamos hecho salobre. ¿Por qué, pues, no agradecéis?
+071_00	¿Os habéis fijado en el fuego que encendéis?
+072_00	¿Sois vosotros los que habéis creado el árbol que le sirve de leña o somos Nosotros los creadores?
+073_00	Lo hemos hecho un recuerdo y beneficio para los viajeros.
+074_00	Así pues glorifica el nombre de tu Señor, el Inmenso.
+075_00	Y juro por el ocaso de los astros
+076_00	lo cual, si supierais es un gran juramento,
+077_00	que es una Recitación noble
+078_00	en un Libro oculto
+079_00	que no tocan sino los purificados.
+080_00	Revelación descendida por el Señor de todos los mundos.
+081_00	¿Sois capaces de no ser sinceros con este relato?
+082_00	¿Y agradecéis negando la verdad?
+083_00	¿Acaso cuando el aliento vital llega a la garganta
+084_00	y estáis pendientes, mirando,
+085_00	no estamos Nos más cerca de él que vosotros, aunque no lo veáis?
+086_00	¿Por qué entonces, si es verdad que no vais a rendir cuentas,
+087_00	no lo devolvéis a la vida, si sois veraces?
+088_00	Y si fue de los próximos:
+089_00	Alivio, generosa provisión y un jardín de delicias.
+090_00	Y si fue de los compañeros de la derecha:
+091_00	Paz a ti entre los compañeros de la derecha.
+092_00	pero si fue de los que negaron la verdad, de los extraviados:
+093_00	Un hospedaje de agua hirviendo
+094_00	y abrasarse en el Yahim.
+095_00	Esto es, con certeza, la pura verdad.
+096_00	Glorifica pues el nombre de tu Señor, el Inmenso.

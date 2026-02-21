@@ -1,0 +1,124 @@
+001_00	Müminler saadete ermişlerdir.
+002_00	Onlar namazda huşu içindedirler.
+003_00	Onlar boş şeylerden yüz çevirirler.
+004_00	Onlar zekatlarını verirler.
+005_00	Onlar, eşleri ve cariyeleri dışında, mahrem yerlerini herkesten korurlar. Doğrusu bunlar yerilemezler.
+006_00	Onlar, eşleri ve cariyeleri dışında, mahrem yerlerini herkesten korurlar. Doğrusu bunlar yerilemezler.
+007_00	Bu sınırları aşmak isteyenler, işte bunlar aşırı gidenlerdir.
+008_00	Onlar emanetlerini ve sözlerini yerine getirirler.
+009_00	Namazlarına riayet ederler.
+010_00	İşte onlar, temelli kalacakları Firdevs cennetine varis olanlardır.
+011_00	İşte onlar, temelli kalacakları Firdevs cennetine varis olanlardır.
+012_00	And olsun ki, insanı süzme çamurdan yarattık.
+013_00	Sonra onu nutfe halinde sağlam bir yere yerleştirdik.
+014_00	Sonra nutfeyi kan pıhtısına çevirdik, kan pıhtısını bir çiğnemlik et yaptık, bir çiğnemlik etten kemikler yarattık, kemiklere de et giydirdik.
+014_01	Sonra onu başka bir yaratık yaptık: Biçim verenlerin en güzeli olan Allah ne uludur!
+015_00	Sizler, bütün bunlardan sonra ölürsünüz.
+016_00	Şüphesiz kıyamet günü tekrar diriltilirsiniz.
+017_00	And olsun ki, üstünüzde yedi tabaka yarattık. Biz, yarattığımızdan habersiz değiliz.
+018_00	Gökten suyu ölçülü indirdik de, onu yerde durdurduk. Şüphesiz onu gidermeye de kadiriz.
+019_00	Onunla, içinde, yediğiniz birçok meyvalar bulunan hurmalık ve üzüm bağları, Tur-i Sina'da yetişen, yiyenlere, yağ ve katık veren zeytin ağacını var ettik.
+020_00	Onunla, içinde, yediğiniz birçok meyvalar bulunan hurmalık ve üzüm bağları, Tur-i Sina'da yetişen, yiyenlere, yağ ve katık veren zeytin ağacını var ettik.
+021_00	Ehli hayvanlarda size ders vardır; onlardan çıkan sütten size içiririz; onlarda daha birçok menfaatiniz vardır. Onlardan yersiniz.
+022_00	Hem onların ve hem de gemilerin üzerinde taşınırsınız.
+023_00	And olsun ki Nuh'u milletine gönderdik; onlara: "Ey milletim! Allah'a kulluk edin; O'ndan başka tanrınız yoktur; sakınmaz mısınız?" dedi.
+024_00	Milletinin inkarcı ileri gelenleri: "Bu, sizin gibi bir insandan başka birşey değildir. Sizden üstün olmak istiyor.
+024_01	Allah dilemiş olsaydı melekler indirirdi. İlk atalarımızdan beri böyle birşey işitmedik. Bu adamda nedense biraz delilik var, bir süreye kadar onu gözetleyin" dediler.
+025_00	Milletinin inkarcı ileri gelenleri: "Bu, sizin gibi bir insandan başka birşey değildir. Sizden üstün olmak istiyor. Allah dilemiş olsaydı melekler indirirdi. İlk atalarımızdan beri böyle birşey işitmedik. Bu adamda nedense biraz delilik var, bir süreye kadar onu gözetleyin" dediler.
+026_00	Nuh: "Rabbim! Beni yalanlamalarına karşılık bana yardım et" dedi.
+027_00	Bunun üzerine ona şöyle vahyettik: "Nezaretimiz altında, sana bildirdiğimiz gibi gemiyi yap; buyruğumuz gelip tandırdan sular kaynayınca her cinsten birer çifti ve aleyhine hüküm verilmiş olanın dışında kalan çoluk çocuğunu alıp gemiye bindir.
+027_01	Haksızlık yapanlar için Bana baş vurma, çünkü onlar suda boğulacaklardır."
+028_00	Ey Nuh! Sen ve beraberindekiler gemiye yerleşince: "Bizi zalim milletten kurtaran Allah'a hamdolsun" de.
+029_00	"Rabbim! Beni mübarek bir yere indir. Sen indirenlerin en iyisisin" de.
+030_00	Doğrusu bunlarda dersler vardır. Biz şüphesiz insanları denemekteyiz.
+031_00	Bunların ardından başka nesiller varettik.
+032_00	Onlara aralarından: "Allah"a kulluk edin, O'ndan başka tanrınız yoktur, sakınmaz mısınız?" diyen bir elçi gönderdik.
+033_00	Onun, inkarcı ve ahirete kavuşmayı yalanlayan milletinin ileri gelenleri ki Biz onlara bu dünya hayatında nimet v
+033_01	ermiştik şöyle dediler: "Bu, yediğinizden yiyen, içtiğinizden içen sizin gibi bir insandan başka birşey değildir."
+034_00	"Kendiniz gibi bir insana itaat ederseniz hüsrana uğrayacağınızda hiç şüphe yoktur."
+035_00	"Öldüğünüz, toprak ve kemik yığını olduğunuz zaman tekrar dirilmenizle sizi tehdit mi ediyor?"
+036_00	"Oysa tehdit edildiğiniz şey ne kadar, hem de ne kadar uzak!"
+037_00	"Hayat ancak bu dünyadakidir. Ölürüz ve yaşarız (kimimiz ölür kimimiz doğar); tekrar diriltilmeyiz."
+038_00	"Bu, sadece Allah'a karşı yalan uyduranın biridir. Biz ona inanmayız."
+039_00	O peygamber: "Rabbim! Beni yalancı saymalarına karşılık bana yardım et" dedi.
+040_00	Allah da: "Az sonra pişman olacaklar" buyurdu.
+041_00	Gerçekten, onları bir çığlık yakaladı ve onları süprüntü yığını haline getirdik. Haksızlık eden millet, rahmetden ırak olsun!
+042_00	Ardlarından başka nesiller varettik.
+043_00	Hiçbir ümmet, kendi süresini ne çabuklaştırabilir ve ne de geciktirebilir.
+044_00	Sonra birbiri peşinden peygamberlerimizi gönderdik. Her ümmete peygamberi geldikçe onu yalancı saydılar.
+044_01	Onları birbiri peşinden yok edip hepsini birer efsane yaptık. İnanmayan millet, rahmetden ırak olsun!
+045_00	Sonra Musa ve kardeşi Harun'u, Firavun ve erkanına mucizelerimiz ve apaçık delille gönderdik. Büyüklük tasladılar. Zaten mağrur bir topluluktular.
+046_00	Sonra Musa ve kardeşi Harun'u, Firavun ve erkanına mucizelerimiz ve apaçık delille gönderdik. Büyüklük tasladılar. Zaten mağrur bir topluluktular.
+047_00	Bu yüzden: "Milletleri bize kul iken, bizim gibi iki insana mı inanacağız?" deyip onları yalancı saydılar. Bu yüzden yok edildiler.
+048_00	Bu yüzden: "Milletleri bize kul iken, bizim gibi iki insana mı inanacağız?" deyip onları yalancı saydılar. Bu yüzden yok edildiler.
+049_00	And olsun ki Musa'ya, doğru yola girsinler diye Kitap verdik.
+050_00	Meryem oğlunu da, annesini de mucize kıldık. Her ikisini de, pınarı bulunan, oturmaya elverişli yüksek bir yere yerleştirdik.
+051_00	Ey Peygamberler! Temiz şeylerden yiyin, yararlı iş işleyin; doğrusu Ben, yaptığınızı bilirim.
+052_00	Şüphesiz bu Müslümanlık, bir tek din olarak sizin dininizdir ve Ben de Rabbinizim; öyleyse Benden sakının.
+053_00	Ama insanlar din konusunda aralarında bölük bölük oldular. Her bölük kendi tuttuğu yoldan memnundur.
+054_00	Onları bir süreye kadar sapıklıklarıyla başbaşa bırak.
+055_00	Kendilerine mal ve oğullar vermekle, iyiliklerde onlar için acele ettiğimizi mi zannederler? Hayır; farkında değiller.
+056_00	Kendilerine mal ve oğullar vermekle, iyiliklerde onlar için acele ettiğimizi mi zannederler? Hayır; farkında değiller.
+057_00	Rablerinden korkarak titreyenler, Rablerinin ayetlerine inananlar, Rablerine eş koşmayanlar, Rablerine dönecekleri için kalbleri ürpererek vermeleri gerekeni verenler, işte onlar iyi işlerde yarış ederler, o uğurda ileri geçerler.
+058_00	Rablerinden korkarak titreyenler, Rablerinin ayetlerine inananlar, Rablerine eş koşmayanlar, Rablerine dönecekleri için kalbleri ürpererek vermeleri gerekeni verenler, işte onlar iyi işlerde yarış ederler, o uğurda ileri geçerler.
+059_00	Rablerinden korkarak titreyenler, Rablerinin ayetlerine inananlar, Rablerine eş koşmayanlar, Rablerine dönecekleri için kalbleri ürpererek vermeleri gerekeni verenler, işte onlar iyi işlerde yarış ederler, o uğurda ileri geçerler.
+060_00	Rablerinden korkarak titreyenler, Rablerinin ayetlerine inananlar, Rablerine eş koşmayanlar, Rablerine dönecekleri için kalbleri ürpererek vermeleri gerekeni verenler, işte onlar iyi işlerde yarış ederler, o uğurda ileri geçerler.
+061_00	Rablerinden korkarak titreyenler, Rablerinin ayetlerine inananlar, Rablerine eş koşmayanlar, Rablerine dönecekleri için kalbleri ürpererek vermeleri gerekeni verenler, işte onlar iyi işlerde yarış ederler, o uğurda ileri geçerler.
+062_00	Biz herkese ancak gücünün yeteceği kadar yükleriz. Katımızda gerçeği söyleyen bir kitap vardır; onlar haksızlığa uğratılmazlar.
+063_00	Ama, kafirlerin kalbleri bundan habersizdir. Bundan başka da onların yapageldikleri işler de vardır.
+064_00	Sonunda şımarık varlıklılarını azabla yakaladığımız zaman feryat ederler.
+065_00	Onlara şöyle deriz: "Bugün feryat etmeyin, doğrusu katımızdan bir yardım görmezsiniz."
+066_00	"Ayetlerim size okunduğunda büyüklük taslayıp, gece ağzınıza geleni söyleyerek ardınıza dönüyordunuz."
+067_00	"Ayetlerim size okunduğunda büyüklük taslayıp, gece ağzınıza geleni söyleyerek ardınıza dönüyordunuz."
+068_00	Söyleneni hiç düşünmezler mi? Yoksa onlara, ilk atalarına gelmeyen bir şey mi geldi?
+069_00	Veya peygamberlerini tanımadılar da; bu yüzden mi onu inkar ediyorlar?
+070_00	Ya da: "Onda delilik var" diyorlar öyle mi? Hayır; onlara gerçeği getirmiştir, ama çoğu ondan hoşlanmamaktadır.
+071_00	Eğer gerçek onların heveslerine uysaydı, gökler, yer ve onlarda bulananlar bozulup giderdi. Onlara, kendilerine öğüt veren bir şey getirdik; onlar ise öğütlerinden yüz çevirirler.
+072_00	Yoksa sen onlardan bir ücret mi istiyorsun? Rabbinin ecri daha iyidir. O, rızık verenlerin en hayırlısıdır.
+073_00	Aslında sen onları doğru yola çağırıyorsun ama, ahirete inanmayanlar bu yoldan sapmaktadırlar.
+074_00	Aslında sen onları doğru yola çağırıyorsun ama, ahirete inanmayanlar bu yoldan sapmaktadırlar.
+075_00	Biz onlara acısak ve başlarındaki sıkıntıyı gidersek bile, azgınlıkları içinde bocalayıp kalırlar.
+076_00	And olsun ki, Biz onları azabla yakalamıştık, yine de Rablerine boyun eğmemiş ve yakarmamışlardı.
+077_00	Sonunda onlara şiddetli bir azap kapısı açtığımız zaman ümitsiz kalıverdiler.
+078_00	Oysa, sizin için kulaklar, gözler ve kalbler vareden O'dur. Pek az şükrediyorsunuz.
+079_00	Sizi yerde yaratıp yayan O'dur ve O'nun huzurunda toplanacaksınız.
+080_00	Dirilten de, öldüren de O'dur. Gece ile gündüzün birbiri ardından gitmesi de O'nun emrine bağlıdır. Düşünmez misiniz?
+081_00	Hayır; yine de öncekilerin dediklerini derler.
+082_00	Öncekiler: "Ölüp toprak ve bir yığın kemik olduğumuzda mı diriltileceğiz? And olsun ki biz ve daha önce de babalarımız tehdit edilmişti; bu, öncekilerin masallarından başka birşey değildir" demişlerdi.
+083_00	Öncekiler: "Ölüp toprak ve bir yığın kemik olduğumuzda mı diriltileceğiz? And olsun ki biz ve daha önce de babalarımız tehdit edilmişti; bu, öncekilerin masallarından başka birşey değildir" demişlerdi.
+084_00	De ki: "Biliyorsanız söyleyin, yer ve onda bulunanlar kimindir?"
+085_00	"Allah'ındır" diyecekler, "Öyleyse ders almaz mısınız?" de.
+086_00	"Yedi göğün de Rabbi, yüce arşın da Rabbi kimdir?" de.
+087_00	"Allah'tır" diyecekler! "Öyleyse O'na karşı gelmekten sakınmaz mısınız?" de.
+088_00	"Biliyorsanız söyleyin her şeyin hükümranlığı elinde olan, barındıran fakat himayeye muhtaç olmayan kimdir?"
+089_00	"Allah'tır" diyecekler; "Öyleyse nasıl aldanıyorsunuz" de.
+090_00	Hayır; Biz onlara gerçeği getirdik ama, onlar yalancıdırlar.
+091_00	Allah çocuk edinmemiştir; O'nun yanında hiçbir tanrı yoktur, olsaydı, her tanrı kendi yarattığı ile beraber gider ve birbirinden üstün olmağa çalışırlardı.
+091_01	Allah onların vasıflandırdıklarından münezzehtir.
+092_00	O, görülmeyeni de, görüleni de bilir. Koştukları ortaklardan yücedir.
+093_00	De ki: "Rabbim! Onların tehdit olundukları şeyi bana mutlaka göstereceksen, o zaman beni zalim milletin içinde bulundurma Yarabbi."
+094_00	De ki: "Rabbim! Onların tehdit olundukları şeyi bana mutlaka göstereceksen, o zaman beni zalim milletin içinde bulundurma Yarabbi."
+095_00	Biz onlara vadettiğimizi sana elbette gösterebiliriz.
+096_00	Kötülüğü en iyi ile sav. Onların vasıflandırmalarını Biz daha iyi biliriz.
+097_00	De ki: "Rabbim! Şeytanların kışkırtmalarından Sana sığınırım."
+098_00	"Rabbim! Yanımda bulunmalarından da Sana sığınırım."
+099_00	Onlardan birine ölüm gelince: "Rabbim! Beni geri çevir, belki, yapmadan bıraktığımı tamamlar, iyi iş işlerim" der. Hayır; bu söylediği sadece kendi lafıdır. Tekrar diriltilecekleri güne kadar arkalarında geriye dönmekten onları alıkoyan bir engel vardır.
+100_00	Onlardan birine ölüm gelince: "Rabbim! Beni geri çevir, belki, yapmadan bıraktığımı tamamlar, iyi iş işlerim" der. Hayır; bu söylediği sadece kendi lafıdır. Tekrar diriltilecekleri güne kadar arkalarında geriye dönmekten onları alıkoyan bir engel vardır.
+101_00	Sura üflendiği zaman, o gün, aralarındaki soy yakınlığı fayda vermez ve birbirlerine de birşey soramazlar.
+102_00	Tartıları ağır gelenler, işte onlar kurtuluşa ermiş olanlardır.
+103_00	Tartıları hafif gelenler, işte onlar, kendilerine yazık edendir, cehennemde temellidirler.
+104_00	Ateş onların yüzlerini yalar, dişleri sırıtıp kalır.
+105_00	Allah: "Ayetlerim size okunurken onları yalanlıyordunuz değil mi?" der.
+106_00	Şöyle derler: "Rabbimiz! Bizi bedbahtlığımız yenmişti; sapık bir millet olmuştuk."
+107_00	"Rabbimiz! Bizi buradan çıkar, tekrar günaha dönersek, doğrusu zulmetmiş oluruz."
+108_00	Allah: "Sinin orada! Benimle konuşmayın. Kullarımdan bir topluluk: "Rabbimiz! inandık, artık bizi bağışla, bize acı. Sen acıyanların en iyisisin" diyordu. Siz ise, onları alaya alıyordunuz. Bu yaptıklarınız size Beni anmayı unutturuyordu. Onlara hep gülüyordunuz. Sabretmelerine karşılık bugün onları mükafatlandırdım. Doğrusu onlar kurtulanlardır" der.
+109_00	Allah: "Sinin orada! Benimle konuşmayın. Kullarımdan bir topluluk: "Rabbimiz! inandık, artık bizi bağışla, bize acı. Sen acıyanların en iyisisin" diyordu. Siz ise, onları alaya alıyordunuz. Bu yaptıklarınız size Beni anmayı unutturuyordu. Onlara hep gülüyordunuz. Sabretmelerine karşılık bugün onları mükafatlandırdım. Doğrusu onlar kurtulanlardır" der.
+110_00	Allah: "Sinin orada! Benimle konuşmayın. Kullarımdan bir topluluk: "Rabbimiz! inandık, artık bizi bağışla, bize acı. Sen acıyanların en iyisisin" diyordu. Siz ise, onları alaya alıyordunuz. Bu yaptıklarınız size Beni anmayı unutturuyordu. Onlara hep gülüyordunuz. Sabretmelerine karşılık bugün onları mükafatlandırdım. Doğrusu onlar kurtulanlardır" der.
+111_00	Allah: "Sinin orada! Benimle konuşmayın. Kullarımdan bir topluluk: "Rabbimiz! inandık, artık bizi bağışla, bize acı. Sen acıyanların en iyisisin" diyordu. Siz ise, onları alaya alıyordunuz. Bu yaptıklarınız size Beni anmayı unutturuyordu. Onlara hep gülüyordunuz. Sabretmelerine karşılık bugün onları mükafatlandırdım. Doğrusu onlar kurtulanlardır" der.
+112_00	Allah onlara yine: "Yeryüzünde kaç yıl kaldınız" der.
+113_00	"Bir gün veya daha az bir süre kaldık, sayanlara sor" derler.
+114_00	Allah' "Pek az kaldınız, keşke bilseydiniz! Sizi boşuna yarattığımızı ve Bize döndürülmeyeceğinizi mi sandınız?" der.
+115_00	Allah' "Pek az kaldınız, keşke bilseydiniz! Sizi boşuna yarattığımızı ve Bize döndürülmeyeceğinizi mi sandınız?" der.
+116_00	Gerçek hükümdar olan Allah yücedir. O'ndan başka tanrı yoktur. O, yüce arşın Rabbidir.
+117_00	Allah'la beraber, varlığına hiçbir delili olmadığı halde başka tanrıya tapanın hesabını Rabbi görecektir. İnkarcılar elbette kurtulamazlar.
+118_00	De ki: "Rabbim! Bağışla, merhamet et, Sen merhamet edenlerin en hayırlısısın."

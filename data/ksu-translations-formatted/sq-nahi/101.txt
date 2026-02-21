@@ -1,0 +1,11 @@
+001_00	Goditja e tmerrshme (Kijameti)!
+002_00	Ç’është Goditja e tmerrshme!
+003_00	Kush të tregon ty për Goditjen e tmerrshme?
+004_00	Njerëzit, atë Ditë do të jenë të shpërndarë si fluturat,
+005_00	kurse malet – si leshi i shprishur.
+006_00	Atij (njeriut), veprat e mira të të cilit rëndojnë në peshojë
+007_00	ai do të jetë në jetën e kënaqur (në jetën e përhershme),
+008_00	e atij (njeriu), veprat e mira të të cilit nuk rëndojnë në peshojë,
+009_00	strehimi i tij do të jetë gremina e Skëterrës.
+010_00	E, kush të tregon ty se ç’është gremina e Skëterrës?
+011_00	(Ajo është) zjarr i vrullshëm.

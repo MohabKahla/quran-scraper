@@ -1,0 +1,5 @@
+001_00	Ka ce "ina neman tsari ga Ubangijin safiya"
+002_00	"Daga sharrin abin da Ya halitta."
+003_00	"Da sharrin dare, idan ya yi duhu."
+004_00	"Da sharrin mãtã mãsu tõfi a cikin ƙulle-ƙulle."
+005_00	"Da sharrin mai hãsada idan ya yi hasada."

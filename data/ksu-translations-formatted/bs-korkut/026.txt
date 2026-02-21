@@ -1,0 +1,229 @@
+001_00	Tā Sīn Mīm.
+002_00	Ovo su ajeti Knjige jasne!
+003_00	Zar ćeš ti sebe uništiti zato što ovi neće da postanu vjernici?
+004_00	Kad bismo htjeli, Mi bismo im s neba jedan znak poslali pred kojim bi oni šije svoje sagnuli.
+005_00	I njima ne dođe nijedna nova opomena od Milostivoga, a da se od nje ne okrenu.
+006_00	Oni poriču – pa, stići će ih sigurno posljedice onoga čemu se izruguju.
+007_00	Zar oni ne vide kako činimo da iz zemlje niče svakovrsno bilje plemenito?
+008_00	To je, doista, dokaz, ali većina njih ne vjeruje,
+009_00	a Gospodar tvoj je, zaista, silan i milostiv.
+010_00	A kad je Gospodar tvoj Musaa zovnuo: "Idi narodu koji se prema sebi ogriješio,
+011_00	narodu faraonovu, ne bi li se Allaha pobojao" –
+012_00	on je rekao: "Gospodaru moj, bojim se da me oni u laž ne utjeraju,
+013_00	da mi ne postane teško u duši i da mi se jezik ne saplete; zato podaj poslanstvo i Harunu,
+014_00	a ja sam njima i odgovoran, pa se plašim da me ne ubiju."
+015_00	"Neće!" – reče On. "Idite obojica sa dokazima Našim, Mi ćemo s vama biti i slušati.
+016_00	Otiđite faraonu i recite: 'Mi smo poslanici Gospodara svjetova,
+017_00	dopusti da sinovi Israilovi pođu s nama!'"
+018_00	"Zar te među nama nismo gojili dok si dijete bio i zar među nama tolike godine života svoga nisi proveo?" – reče faraon –
+019_00	"i uradio si nedjelo koje si uradio i još si nezahvalnik?"
+020_00	"Ja sam onda ono uradio nehotice" – reče –
+021_00	"a od vas sam pobjegao zato što sam se vas bojao, pa mi je Gospodar moj mudrost darovao i poslanikom me učinio.
+022_00	A dobročinstvo koje mi prebacuješ – da nije to što si sinove Israilove robljem učinio?"
+023_00	"A ko je Gospodar svjetova?" – upita faraon.
+024_00	"Gospodar nebesa i Zemlje i onoga što je između njih, ako vjerujete" – odgovori on.
+025_00	"Čujete li?" – reče onima oko sebe faraon.
+026_00	"Gospodar vaš i Gospodar vaših davnih predaka" – reče Musa.
+027_00	"Poslanik koji vam je poslan uistinu je lud" – reče faraon.
+028_00	"Gospodar istoka i zapada i onoga što je između njih, ako pameti imate" – reče Musa.
+029_00	A faraon reče: "Ako budeš kao boga nekog drugog osim mene priznavao, sigurno ću te u tamnicu baciti!"
+030_00	"Zar i onda kad ti budem očigledan dokaz donio?" – upita on.
+031_00	"Pa daj ga, ako istinu govoriš!" – reče faraon.
+032_00	I Musa baci štap svoj, kad on – zmija prava,
+033_00	a onda izvadi ruku iz njedara, kad ona, onima koji su gledali – bijela.
+034_00	"Ovaj je zaista vješt čarobnjak" – reče glavešinama oko sebe faraon –
+035_00	"hoće da vas čarolijom svojom iz zemlje vaše izvede. Pa šta savjetujete?"
+036_00	"Ostavi njega i brata njegova!" – rekoše – "a u gradove pošalji da sakupljaju,
+037_00	sve čarobnjake vješte će ti dovesti."
+038_00	I čarobnjaci se u određeno vrijeme i označenog dana sabraše,
+039_00	a narodu bî rečeno: "Hoćete li se iskupiti
+040_00	da budemo uz čarobnjake, ako oni budu pobjednici!"
+041_00	A kad dođoše, čarobnjaci faraona upitaše: "Da li će nama, doista, pripasti nagrada ako mi budemo pobjednici?"
+042_00	"Hoće" – odgovori on – "bićete tada sigurno meni najbliži."
+043_00	Musa im reče: "Bacite ono što želite baciti!"
+044_00	I oni pobacaše konope svoje i štapove svoje i rekoše: "Tako nam dostojanstva faraonova, mi ćemo svakako pobijediti!"
+045_00	Zatim Musa baci svoj štap, koji, odjednom, proguta ono što su oni lažno izveli.
+046_00	Čarobnjaci se onda na tle baciše
+047_00	i rekoše: "Mi vjerujemo u Gospodara svjetova,
+048_00	Gospodara Musaova i Harunova!"
+049_00	"Da povjerujete njemu prije dopuštenja moga!" – viknu faraon.
+049_01	– "On je vaš učitelj, on vas je čarobnjaštvu naučio – a vi ćete zapamtiti; poodsijecaću vam ruke i noge vaše unakrst i sve ću vas porazapinjati!"
+050_00	"Ništa strašno!" – rekoše oni – "mi ćemo se Gospodaru svome vratiti.
+051_00	Mi se nadamo da će nam Gospodar naš grijehe naše oprostiti zato što smo prvi vjernici."
+052_00	I Mi objavismo Musau: "Kreni noću s robovima Mojim, ali bićete gonjeni."
+053_00	I faraon posla po gradovima sakupljače:
+054_00	"Ovih je zaista malo
+055_00	i rasrdili su nas,
+056_00	a mi smo svi budni!"
+057_00	I Mi ih izvedosmo iz vrtova i rijeka,
+058_00	iz riznica i dvoraca divnih.
+059_00	Eto tako je bilo, i Mi dadosmo da to naslijede sinovi Israilovi.
+060_00	I oni ih, kad se sunce rađalo, sustigoše.
+061_00	pa kad jedni druge ugledaše, drugovi Musaovi povikaše: "Samo što nas nisu stigli!"
+062_00	"Neće!" – reče on – "Gospodar moj je sa mnom, On će mi put pokazati."
+063_00	I Mi objavismo Musau: "Udari štapom svojim po moru!" – i ono se rastavi i svaki bok njegov bijaše kao veliko brdo;
+064_00	i Mi onda tamo one druge približismo –
+065_00	a Musaa i sve one koji bijahu s njim spasismo –
+066_00	i one druge potopismo.
+067_00	To je, zaista, pouka, a većina njih nisu bili vjernici
+068_00	a Gospodar tvoj je, doista, silan i milostiv.
+069_00	I kaži im vijest o Ibrahimu
+070_00	kada je oca svoga i narod svoj upitao: "Čemu se vi klanjate?"
+071_00	a oni odgovorili: "Klanjamo se kumirima i povazdan im se molimo",
+072_00	on je rekao: "Da li vas oni čuju kad se molite,
+073_00	ili, da li vam mogu koristiti ili naškoditi?"
+074_00	"Ne" – odgovoriše – "ali mi smo upamtili pretke naše kako tako postupaju."
+075_00	"A da li ste razmišljali" – upita on – "da su oni kojima se klanjate
+076_00	vi i kojima su se klanjali davni preci vaši,
+077_00	doista, neprijatelji moji? Ali, to nije Gospodar svjetova,
+078_00	koji me je stvorio i na Pravi put uputio,
+079_00	i koji me hrani i poji,
+080_00	i koji me, kad se razbolim, liječi,
+081_00	i koji će mi život oduzeti, i koji će me poslije oživiti,
+082_00	i koji će mi, nadam se, pogreške moje na Sudnjem danu oprostiti!
+083_00	Gospodaru moj, podari mi znanje i uvrsti me među one koji su dobri
+084_00	i učini da me po lijepom spominju oni što će poslije mene doći,
+085_00	i učini me jednim od onih kojima ćeš džennetske blagodati darovati –
+086_00	i ocu mome oprosti, on je jedan od zalutalih –
+087_00	i ne osramoti me na Dan kad će ljudi oživljeni biti,
+088_00	na Dan kada neće nikakvo blago, a ni sinovi od koristi biti,
+089_00	samo će onaj koji Allahu srca čista dođe spašen biti."
+090_00	I Džennet će se čestitima približiti,
+091_00	a Džehennem zalutalima ukazati,
+092_00	i reći će im se: "Gdje su oni kojima ste se klanjali,
+093_00	a niste Allahu; mogu li vam oni pomoći, a mogu li i sebi pomoći?"
+094_00	pa će i oni i onî koji su ih u zabludu doveli u nj biti bačeni,
+095_00	i vojske Iblisove – svi zajedno.
+096_00	I oni će, svađajući se u njemu, govoriti:
+097_00	"Allaha nam, bili smo, doista, u očitoj zabludi
+098_00	kad smo vas s Gospodarom svjetova izjednačavali,
+099_00	a na stranputicu su nas naveli zlikovci,
+100_00	pa nemamo ni zagovornika,
+101_00	ni prisna prijatelja –
+102_00	da nam je samo da se povratimo, pa da postanemo vjernici!"
+103_00	U tome je pouka, ali većina ovih nisu vjernici,
+104_00	a Gospodar tvoj je, zaista, silan i milostiv.
+105_00	I Nuhov narod je smatrao lažnim poslanike.
+106_00	Kad im brat njihov Nuh reče: "Kako to da se Allaha ne bojite?
+107_00	Ja sam vam, sigurno, poslanik pouzdani,
+108_00	zato se bojte Allaha i budite poslušni meni!
+109_00	Za ovo od vas ne tražim nikakve nagrade, mene će Gospodar svjetova nagraditi,
+110_00	zato se bojte Allaha i budite poslušni meni!" –
+111_00	oni rekoše: "Kako da te poslušamo, kad te slijede oni koji su najmizerniji?"
+112_00	"Ne znam ja šta su oni radili" – reče on,
+113_00	"svi će pred Gospodarom mojim, da znate, račun polagati,
+114_00	a ja vjernike neću otjerati,
+115_00	ja samo javno opominjem!"
+116_00	"Ako se ne okaniš, o Nuhu!" – rekoše oni – "bićeš sigurno kamenovan!"
+117_00	"Gospodaru moj" – reče on – "narod moj me u laž utjeruje,
+118_00	pa Ti meni i njima presudi i mene i vjernike koji su sa mnom spasi!"
+119_00	I Mi smo njega i one koji su bili uz njega u lađi krcatoj spasili,
+120_00	a ostale potopili.
+121_00	To je pouka, ali većina ovih nisu vjernici,
+122_00	a Gospodar tvoj je zaista silan i milostiv.
+123_00	I Ad je smatrao lažnim poslanike.
+124_00	Kad im brat njihov Hud reče: "Kako to da se Allaha ne bojite?"
+125_00	Ja sam vam, sigurno, poslanik pouzdani,
+126_00	zato se bojte Allaha i budite poslušni meni!
+127_00	Za ovo od vas ne tražim nikakve nagrade, mene će Gospodar svjetova nagraditi.
+128_00	Zašto na svakoj uzvišici palate zidate, druge ismijavajući,
+129_00	i podižete utvrde kao da ćete vječno živjeti,
+130_00	a kad kažnjavate, kažnjavate kao silnici?
+131_00	Bojte se Allaha i meni budite poslušni!
+132_00	Bojte se Onoga koji vam daruje ono što znate:
+133_00	daruje vam stoku i sinove,
+134_00	i bašče i izvore.
+135_00	Ja se, doista, bojim za vas na Velikom danu patnje" –
+136_00	rekoše oni: "Nama je svejedno savjetovao ti ili ne bio savjetnik,
+137_00	ovako su i narodi davnašnji vjerovali,
+138_00	i mi nećemo biti mučeni."
+139_00	I oni su ga nastavili u laž utjerivati, pa smo ih Mi uništili. To je pouka, ali većina ovih neće da vjeruje,
+140_00	a Gospodar tvoj je, zaista, silan i milostiv.
+141_00	I Semud je smatrao lažnim poslanike.
+142_00	Kad im brat njihov Salih reče: "Kako to da se Allaha ne bojite?
+143_00	Ja sa vam, sigurno, poslanik pouzdani
+144_00	zato se bojte Allaha i budite poslušni meni!
+145_00	Za ovo od vas ne tražim nikakve nagrade, mene će Gospodar svjetova nagraditi.
+146_00	Zar mislite da ćete ovdje biti ostavljeni sigurni,
+147_00	u vrtovima i među izvorima,
+148_00	u usjevima i među palmama sa plodovima zrelim?
+149_00	Vi u brdima vrlo spretno kuće klešete
+150_00	zato se bojte Allaha i poslušni meni budite
+151_00	i ne slušajte naredbe onih koji u zlu pretjeruju,
+152_00	koji na Zemlji ne zavode red već nered uspostavljaju" –
+153_00	rekoše oni: "Ti si samo opčinjen;
+154_00	ti si čovjek, kao i mi; zato nam donesi jedno čudo ako je istina to što govoriš!"
+155_00	"Evo, to je kamila" – reče on – "u određeni dan ona će piti, a u poznati dan vi,
+156_00	i ne učinite joj nikakvo zlo da vas ne bi stigla patnja na Velikom danu!"
+157_00	Ali, oni je zaklaše i potom se pokajaše.
+158_00	I stiže ih kazna. To je pouka, ali većina ovih neće da vjeruje,
+159_00	a Gospodar tvoj je, zaista, silan i milostiv.
+160_00	I Lutov narod je smatrao lažnim poslanike.
+161_00	Kad im njihov brat Lut reče: "Kako to da se ne bojite?
+162_00	Ja sam vam, sigurno, poslanik pouzdani,
+163_00	zato se bojte Allaha i budite poslušni meni!
+164_00	Za ovo od vas ne tražim nikakve nagrade, mene će Gospodar svjetova nagraditi.
+165_00	Zašto vi, mimo sav svijet, sa muškarcima općite,
+166_00	a žene svoje, koje je za vas Gospodar vaš stvorio, ostavljate? Vi ste ljudi koji svaku granicu zla prelazite" –
+167_00	rekoše oni: "Ako se ne okaniš, o Lute, bićeš sigurno prognan."
+168_00	"Ja se gnušam toga što vi radite!" – reče on;
+169_00	"Gospodaru moj, sačuvaj mene i porodicu moju kazne za ono što oni rade!"
+170_00	I Mi smo sačuvali njega i porodicu njegovu – sve,
+171_00	osim starice koja je ostala sa onima koji su kaznu iskusili,
+172_00	a zatim smo ostale uništili
+173_00	spustivši na njih kišu – a strašne li kiše za one koji su opomenuti bili!
+174_00	To je pouka, ali većina ovih neće da vjeruje,
+175_00	a Gospodar tvoj je, zaista, silan i milostiv.
+176_00	I stanovnici Ejke su u laž ugonili poslanike.
+177_00	Kad im Šuajb reče: "Kako to da se ne bojite?
+178_00	Ja sam vam, sigurno, poslanik pouzdani,
+179_00	zato se bojte Allaha i budite poslušni meni!
+180_00	Za ovo od vas ne tražim nikakve nagrade, mene će Gospodar svjetova nagraditi.
+181_00	Pravo mjerite na litru i ne zakidajte
+182_00	a na kantaru ispravnom mjerom mjerite,
+183_00	i ljudima prava njihova ne umanjujte i zlo po Zemlji, nered praveći, ne činite,
+184_00	i Onoga koji je stvorio vas i narode davnašnje bojte se" –
+185_00	rekoše oni: "Ti si samo opčinjen;
+186_00	i ti si samo čovjek kao i mi; za nas si ti, doista, lažac pravi;
+187_00	zato spusti na nas kaznu s neba, ako istinu govoriš!"
+188_00	"Gospodar moj dobro zna šta vi radite" – reče on.
+189_00	I oni su nastavili da ga u laž utjeruju pa ih je stigla kazna iz oblaka; a to je bila kazna jednog strašnog dana.
+190_00	To je pouka, ali većina ovih neće da vjeruje,
+191_00	a Gospodar tvoj je, zaista, silan i milostiv.
+192_00	I Kur'an je, sigurno, objava Gospodara svjetova;
+193_00	donosi ga povjerljivi Džibril
+194_00	na srce tvoje, da opominješ
+195_00	na jasnom arapskom jeziku;
+196_00	on je spomenut u knjigama poslanika prijašnjih –
+197_00	zar ovima nije dokaz to što za njega znaju učeni ljudi sinova Israilovih?
+198_00	A da ga objavljujemo i nekom nearapu
+199_00	pa da im ga on čita, opet u nj ne bi povjerovali.
+200_00	Eto, tako to Mi u srca grješnika uvodimo,
+201_00	oni u nj neće vjerovati dok ne dožive patnju nesnosnu,
+202_00	koja će im iznenada doći, kad je najmanje budu očekivali,
+203_00	pa će reći: "Hoće li nam se imalo vremena dati?"
+204_00	Zašto oni kaznu Našu požuruju?!
+205_00	Šta ti misliš, ako im Mi dopuštamo da godinama uživaju,
+206_00	i naposljetku ih snađe ono čime im se prijeti,
+207_00	zar će imati šta od slatkog života koji su provodili?
+208_00	Mi nijedan grad nismo razorili prije nego su im došli oni koji su ih opominjali
+209_00	da bi pouku primili; Mi nismo nepravedni bili.
+210_00	Kur'an ne donose šejtani,
+211_00	nezamislivo je da to oni čine; oni to nisu kadri,
+212_00	oni ga nikako ne mogu prisluškivati.
+213_00	Zato se, mimo Allaha, ne moli drugom bogu – da ne bi bio jedan od onih koji će biti mučeni!
+214_00	I opominji rodbinu svoju najbližu
+215_00	i budi ljubazan prema vjernicima koji te slijede!
+216_00	A ako te ne budu poslušali, ti reci: "Ja nemam ništa s tim što vi radite."
+217_00	I pouzdaj se u Silnoga i Milostivoga,
+218_00	koji te vidi kada ustaneš
+219_00	da sa ostalima molitvu obaviš,
+220_00	jer On, doista, sve čuje i sve zna.
+221_00	Hoću li vam kazati kome dolaze šejtani?
+222_00	Oni dolaze svakome lašcu, grješniku,
+223_00	oni prisluškuju – i većinom oni lažu.
+224_00	A zavedeni slijede pjesnike.
+225_00	Zar ne znaš da oni svakom dolinom blude
+226_00	i da govore ono što ne rade,
+227_00	tako ne govore samo oni koji vjeruju i dobra djela čine, i koji često Allaha spominju, i koji uzvraćaju kad ih ismijavaju.
+227_01	A mnogobošci će, sigurno, saznati u kakvu će se muku uvaliti.

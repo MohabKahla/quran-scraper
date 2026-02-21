@@ -1,0 +1,20 @@
+001_00	!Juro por esta tierra*!
+002_00	Esta tierra que se hará lícita para ti.
+003_00	Y por un padre y lo que ha engendrado.
+004_00	Que hemos creado al hombre en penalidad.*
+005_00	Se cree que nadie tiene poder sobre él.
+006_00	Dice: He disipado grandes riquezas.
+007_00	¿Cree que nadie lo ha visto?
+008_00	¿Acaso no le hemos dado dos ojos
+009_00	una lengua y dos labios?
+010_00	¿Y no le hemos señalado las dos vías?
+011_00	Sin embargo no ha emprendido la cuesta.
+012_00	¿Y cómo hacerte saber qué es la cuesta?
+013_00	Es liberar a un siervo,
+014_00	o alimentar en un día de necesidad
+015_00	a un pariente huérfano,
+016_00	o a un mendigo polvoriento.
+017_00	Y es ser de los que creen, se aconsejan la paciencia y se aconsejan la piedad.
+018_00	Esos son los compañeros de la derecha.
+019_00	Pero los que se niegan a creer en Nuestros signos, ésos son los compañeros de la izquierda.
+020_00	Sobre ellos habrá un fuego cerrado.

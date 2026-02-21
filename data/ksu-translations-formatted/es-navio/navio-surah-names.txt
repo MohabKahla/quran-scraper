@@ -1,0 +1,114 @@
+1	La Apertura
+2	La Vaca
+3	La Familia de Imrán
+4	Las mujeres
+5	La Mesa Servida
+6	El Ganado
+7	Los Lugares Elevados
+8	El Botín de Guerra
+9	El Arrepentimiento
+10	Jonás (El Profeta)
+11	Hud (Profeta Hud)
+12	José
+13	El Trueno
+14	Abraham
+15	El Tramo Rocoso
+16	Las Abejas
+17	El Viaje Nocturno
+18	La Cueva
+19	María
+20	Ta’ Ha’
+21	Los Profetas
+22	La Peregrinación
+23	Los Creyentes
+24	La Luz
+25	El Criterio
+26	Los Poetas
+27	Las Hormigas
+28	Los Relatos
+29	La Araña
+30	Los Romanos
+31	Luqmán
+32	La Prosternacion
+33	Los Confederados (Los Partidos)
+34	Saba
+35	El Originador
+36	Ya-Sin
+37	Las Filas (ordenadas)
+38	(La Letra) Ṣad
+39	Los Grupos
+40	El Perdonador
+41	(Las cosas) Explicadas en Detalle
+42	La Consulta
+43	Los Adornos
+44	El Humo
+45	La Arrodillada
+46	Las Dunas (Región de Arenas)
+47	(El Profeta) Muhammad
+48	La Victoria (La Conquista)
+49	Las Habitaciones
+50	(La Letra) Qāf
+51	Los Vientos Aventadores
+52	El Monte
+53	La Estrella
+54	La Luna
+55	El Misericordioso
+56	El Acontecimiento (El Suceso)
+57	El Hierro
+58	La Discutidora (La Pleitista)
+59	El Exilio
+60	La Examinada
+61	Las Filas (Las Hileras)
+62	El Viernes
+63	Los Hipócritas
+64	La Privación
+65	El Divorcio
+66	La Prohibición
+67	La Soberanía (El Reino)
+68	La Pluma
+69	La Verdad Ineludible (La Inevitable)
+70	Las Ascensiones
+71	Noé
+72	Los Genios (Los Jinn)
+73	El Arropado (El Envuelto)
+74	El Cubierto (El Arropado)
+75	La Resurrección
+76	El Hombre (La Humanidad)
+77	Las Enviadas (Mensajeras)
+78	La Noticia (El Gran Anuncio)
+79	Las Desgarradoras (Las que Arrancan)
+80	(Él) frunció el ceño
+81	El Arrollamiento
+82	La Hendidura
+83	Los Defraudadores
+84	La Grieta (La Ruptura)
+85	Las Constelaciones
+86	El Astro Nocturno (El Llamador)
+87	El Altísimo
+88	La que Envuelve (La Cobertura)
+89	El Alba
+90	La Ciudad
+91	El Sol
+92	La Noche
+93	La Mañana Clara
+94	La Apertura (El Desahogo)
+95	El Higo
+96	El Coágulo (La Adherencia)
+97	El Decreto (La Noche del Destino/Poder)
+98	La Prueba Evidente
+99	El Terremoto (La Sacudida)
+100	Los Corceles (Los que galopan)
+101	El Gran Acontecimiento (El Golpe)
+102	La Rivalidad por el Aumento Mundano
+103	El Tiempo
+104	El Calumniador (El Difamador)
+105	El Elefante
+106	(La tribu de) Quraish
+107	La Ayuda Pequeña (La Caridad)
+108	La Abundancia de Bondad
+109	Los Incrédulos (Los Negadores)
+110	El Socorro
+111	Las Fibras de Palmera
+112	La Sinceridad (La Declaración de la Unidad de Dios)
+113	El Alba (El Amanecer)
+114	La Gente (La Humanidad)

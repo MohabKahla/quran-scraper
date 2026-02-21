@@ -1,0 +1,59 @@
+001_00	¡Oh tú que te arropas!*
+002_00	¡Levántate y advierte!
+003_00	Y a tu Señor engrandece.
+004_00	Y tu vestido purifícalo*.
+005_00	De lo abominable aléjate.*
+006_00	No des esperando recibir más*.
+007_00	Y sé constante con tu Señor.
+008_00	Cuando se sople en el cuerno;
+009_00	ése será un día difícil,
+010_00	nada fácil para los incrédulos.
+011_00	Déjame con el que creé, solo*.
+012_00	Y le di grandes riquezas.
+013_00	E hijos presentes.
+014_00	Le dimos de todo con holgura.
+015_00	Sin embargo él ambiciona aún más.
+016_00	¡Pero no! Se ha enfrentado a Nuestros signos.
+017_00	Le haré subir a Suud*
+018_00	Ha reflexionado y ha meditado su respuesta.
+019_00	¡Muera! ¿Pero cómo ha podido premeditar así?
+020_00	¡Que muera por cómo ha premeditado!
+021_00	Y después ha examinado.
+022_00	Y luego ha fruncido el ceño y se le ha mudado el semblante.
+023_00	Y luego ha dado la espalda y se ha llenado de soberbia.
+024_00	Y ha dicho: Esto no es mas que magia aprendida.
+025_00	Es sólo lo que dice un ser humano.
+026_00	Le haré entrar en Saqar*.
+027_00	¿Y cómo sabrá qué es Saqar?
+028_00	No deja nada ni cesa.
+029_00	Abrasa la piel.
+030_00	Sobre él hay diecinueve.*
+031_00	No hemos designado como encargados del Fuego sino a ángeles cuyo número hemos hecho una tribulación para los que se niegan a creer.
+031_01	Para que aq uéllos a los que les fue dado el Libro tengan certeza y los que creen aumenten en creencia
+031_02	y para que los que recibieron el Libro y los creyentes no duden.
+031_03	Y para que los que tienen una enfermedad en el corazón y los incrédulos digan: ¿Qué pretende Allah poniendo este ejemplo? Así es como Allah extravía a quien quiere y guía a quien quiere y sólo tu Señor conoce Sus ejércitos, que no son sino un recuerdo para el género humano.
+032_00	¡Pero no! ¡Por la luna!
+033_00	¡Por la noche cuando retrocede!
+034_00	¡Por la mañana cuando brilla!
+035_00	Que es una de las grandes cosas que han de ocurrir.
+036_00	Advertencia para el género humano.
+037_00	Para quien de vosotros quiera adelantar o retrasar.
+038_00	Cada uno será rehén de lo que se ganó.
+039_00	Pero no así los compañeros de la derecha,
+040_00	que en jardines harán preguntas
+041_00	acerca de los que hicieron el mal.
+042_00	¿Qué os ha traído a Saqar?
+043_00	Dirán: No fuimos de los que rezaban
+044_00	ni de los que daban de comer al pobre.
+045_00	Y discutimos vanamente con los charlatanes,
+046_00	y negamos la verdad del día de la Retribución
+047_00	hasta que nos llegó la certeza.
+048_00	No les servirá de nada la intercesión de ningún intercesor.
+049_00	¿Qué les pasa que se apartan de aquello que les hace recordar
+050_00	como si fueran asnos espantados
+051_00	que huyen de un león?
+052_00	Sin embargo cada uno de sus hombres querría que les trajeras páginas abiertas*.
+053_00	Pero no es eso, es que no tienen temor de la Otra Vida.
+054_00	Realmente es un Recuerdo.
+055_00	Y quien quiera recordará.
+056_00	Pero no recordaréis, excepto que Allah quiera; Él es el Digno de ser temido y el Digno de perdonar*.

@@ -1,0 +1,229 @@
+001_00	Ta, Sin, Mim.
+002_00	Estos son los signos del Libro explícito.
+003_00	Tal vez te esté matando el hecho de que no sean creyentes.
+004_00	Si quisiéramos, haríamos descender sobre ellos un signo del cielo y sus cuellos se quedarían ante él humillados.
+005_00	No les viene ningún nuevo recuerdo del Misericordioso del que no se aparten.
+006_00	Han negado la verdad, pero ya les llegarán las noticias de aquello de que se burlaban.
+007_00	¿Es que no ven la tierra y cuántas nobles especies hemos hecho crecer en ella?
+008_00	Es cierto que en eso hay un signo, pero la mayoría de ellos no son creyentes.
+009_00	Y realmente tu Señor es el Irresistible, el Compasivo.
+010_00	Cuando tu Señor llamó a Musa: ¡Ve a donde la gente injusta!
+011_00	La gente de Firaún. ¿Es que no van a ser temerosos?
+012_00	Dijo: Señor, temo que me tachen de mentiroso
+013_00	y mi pecho se estreche y mi lengua no se suelte, envía conmigo a Harún.
+014_00	Ellos me reclaman un delito y temo que me maten.
+015_00	Dijo: En absoluto. Id ambos con Nuestros signos, que estaremos junto a vosotros escuchando.
+016_00	Presentaos ante Firaún y decidle: Somos portadores de un mensaje del Señor de los mundos
+017_00	para que dejes ir con nosotros a los hijos de Israel.
+018_00	Dijo: ¿Acaso no te criamos con nosotros cuando eras niño y permaneciste entre nosotros años de tu vida
+019_00	e hiciste lo que hiciste convirtiendote en un renegado?
+020_00	Dijo: Cuando lo hice estaba entre los extraviados.
+021_00	Y al sentir miedo huí de vosotros, entonces mi Señor me concedió juicio y me hizo uno de los enviados.
+022_00	Y éste es el favor que tu me hiciste: esclavizar a los hijos de Israel.
+023_00	Dijo Firaún: ¿Y quién es el Señor de los mundos?
+024_00	Dijo: El Señor de los cielos y de la tierra y de lo que hay entre ambos, si tuvierais certeza.
+025_00	Dijo a quienes estaban a su alrededor: ¿Habéis oído?
+026_00	Dijo: Es vuestro Señor y el Señor de vuestros primeros padres.
+027_00	Dijo: Verdaderamente vuestro mensajero, el que os ha sido enviado, es un poseso.
+028_00	Dijo: El Señor del oriente y del occidente y de lo que hay entre ambos, si comprendierais.
+029_00	Dijo: Si tomas otro dios que yo, te dejaré entre los prisioneros.
+030_00	Dijo: ¿Incluso si te traigo algo evidente?
+031_00	Dijo: Tráelo, si eres de los que dicen la verdad.
+032_00	Y arrojó su vara, y entonces fue una serpiente evidente.
+033_00	Sacó su mano y fue blanca* para los que lo presenciaban.
+034_00	Le dijo al consejo de nobles que estaba a su alrededor: Realmente es un mago experto
+035_00	que quiere haceros salir de vuestra tierra con su magia, ¿qué deliberáis?
+036_00	Dijeron: Dales un plazo a él y a su hermano y manda reclutadores a las ciudades
+037_00	que te traigan a todo mago experto.
+038_00	Y se reunieron los magos en el lugar de la cita, el día fijado.
+039_00	Se dijo a la gente: ¿Os reuniréis?
+040_00	Tal vez sigamos a los magos si son los vencedores.
+041_00	Y cuando los magos se presentaron, le dijeron a Firaún: ¿Tendremos alguna recompensa si somos los vencedores?
+042_00	Dijo: Sí; si es así estaréis entre los próximos (a mí).
+043_00	Les dijo Musa: Arrojad lo que arrojáis.
+044_00	Y arrojaron sus cuerdas y varas diciendo: ¡Por el poder de Firaún, seremos los vencedores!
+045_00	Y arrojó Musa su bastón y se tragó la mentira que habían creado.
+046_00	Entonces cayeron los magos postrados.
+047_00	Dijeron: Creemos en el Señor de los mundos,
+048_00	el Señor de Musa y de Harún.
+049_00	Dijo: ¿Creéis en él sin mi permiso? Él es, en verdad, vuestro cabecilla, el que os ha enseñado la magia, pero vais a saber:
+049_01	Os cortaré la mano y el pie contrarios y os crucificaré a todos.
+050_00	Dijeron: No hay mal, pues verdaderamente hemos de volver a nuestro Señor.
+051_00	Realmente esperamos con anhelo que nuestro Señor nos perdone las faltas por haber sido los primeros creyentes.
+052_00	E inspiramos a Musa: Sal de noche con Mis siervos pues seréis perseguidos.
+053_00	Y envió Firaún reclutadores a las ciudades:
+054_00	Estos no son mas que pequeño número,
+055_00	y ciertamente nos han enfurecido.
+056_00	Somos una sociedad que está en guardia.
+057_00	Así los sacamos de jardines y manantiales.
+058_00	Y de tesoros y de una noble posición.
+059_00	Así fue. Y se lo dimos en herencia a los hijos de Israel.
+060_00	Y los persiguieron al salir el sol.
+061_00	Cuando ambos grupos se divisaron, dijeron los compañeros de Musa: Hemos sido alcanzados.
+062_00	Dijo: No, mi Señor está conmigo y Él me guiará.
+063_00	E inspiramos a Musa: Golpea con tu vara en el mar.Y se abrió, y cada lado era como una enorme montaña.
+064_00	Y atrajimos allí a los otros.
+065_00	Salvamos a Musa y a todos los que estaban con él;
+066_00	luego ahogamos a todos los demás.
+067_00	Verdaderamente en eso hay un signo. La mayoría de ellos no eran creyentes.
+068_00	Y es cierto que tu Señor es el Irresistible, el Compasivo.
+069_00	Cuéntales la historia de Ibrahim,
+070_00	cuando le dijo a su padre y a su gente: ¿Qué es lo que adoráis?
+071_00	Dijeron: Adoramos ídolos a cuyo culto estamos dedicados.
+072_00	Dijo: ¿Acaso os escuchan cuando los invocáis?
+073_00	¿ U os benefician u os perjudican?
+074_00	Dijeron: Sin embargo encontramos a nuestros padres que así hacían.
+075_00	Dijo: ¿Habéis visto lo que adoráis
+076_00	vosotros y vuestros padres antiguos?
+077_00	Ellos son mis enemigos, al contrario del Señor de los mundos.
+078_00	Que me creó y me guía.
+079_00	Que me alimenta y me da de beber
+080_00	y que, cuando estoy enfermo, me cura.
+081_00	Y el que me hará morir y luego me devolverá a la vida.
+082_00	Y de Quien espero con anhelo que me perdone las faltas el Día de la Rendición de cuentas.
+083_00	¡Señor mío! Dame juicio y tenme entre los justos.
+084_00	Concédeme que los que vengan después hablen de mí con verdad.
+085_00	Hazme de los herederos del Jardín de la Delicia,
+086_00	y perdona a mi padre, él ha sido de los extraviados.
+087_00	Y no me entristezcas el día en que sean devueltos a la vida.
+088_00	El día en que ni la riqueza ni los hijos servirán de nada.
+089_00	Sólo quien venga a Allah con un corazón limpio*.
+090_00	El Jardín será acercado a los temerosos.
+091_00	Y el Yahim se mostrará a los extraviados.
+092_00	Y se les dirá: ¿Dónde está lo que adorabais
+093_00	fuera de Allah? ¿Pueden ayudaros o ayudarse a sí mismos?
+094_00	Entonces serán arrojados en él unos encima de otros, ellos y los que se extraviaron.
+095_00	Y los ejércitos de Iblis, todos juntos.
+096_00	Y dirán, discutiendo en él:
+097_00	¡Por Allah que estábamos en un claro extravío!
+098_00	Cuando Le atribuíamos iguales al Señor de los mundos.
+099_00	No nos extraviaron sino los malhechores.
+100_00	Y no tenemos a nadie que interceda por nosotros;
+101_00	ni ningún amigo ferviente.
+102_00	Ojalá y tuviéramos una oportunidad más para poder ser creyentes.
+103_00	Es verdad que en eso hay un signo, pero la mayoría de los hombres no son creyentes.
+104_00	Y es cierto que tu Señor es el Irresistible, el Compasivo.
+105_00	La gente de Nuh negó a los enviados,
+106_00	cuando su hermano Nuh les dijo: ¿No vais a tener temor?
+107_00	Yo soy para vosotros un mensajero fiel.
+108_00	Así pues temed a Allah y obedecedme.
+109_00	No os pido ningún pago por ello; mi recompensa sólo incumbe al Señor de los mundos.
+110_00	Así pues, temed a Allah y obedecedme.
+111_00	Dijeron: ¿Vamos a creer en ti cuando los que te siguen son los más bajos?
+112_00	Dijo: No me corresponde saber lo que hacen.
+113_00	Su cuenta no incumbe sino a mi Señor, si fuerais conscientes.
+114_00	Y yo no voy a rechazar a los creyentes.
+115_00	Yo sólo soy un advertidor explícito.
+116_00	Dijeron: Si no dejas de hacerlo, Nuh, date por lapidado.
+117_00	Dijo: ¡Señor mío! Realmente mi gente me ha negado.
+118_00	Dicta un juicio entre ellos y yo y sálvame a mí y a los creyentes que están conmigo.
+119_00	Y lo salvamos a él y a quien con él estaba en la nave henchida.
+120_00	Luego ahogamos a los que quedaron.
+121_00	Realmente en eso hay un signo.La mayoría de ellos no eran creyentes.
+122_00	Es cierto que tu Señor es el Irresistible, el Compasivo.
+123_00	Los Ad negaron a los enviados
+124_00	cuando su hermano Hud les dijo: ¿No vais a temer?
+125_00	Yo soy para vosotros un mensajero fiel.
+126_00	Así pues temed a Allah y obedecedme.
+127_00	No os pido por ello ningún pago, mi recompensa sólo incumbe al Señor de los mundos.
+128_00	¿Cómo es que edificáis señales en los lugares elevados de cada camino por capricho?
+129_00	¿Y os construís fortalezas como si fuerais a ser inmortales?
+130_00	¿Y cuando atacáis, os comportáis como tiranos?
+131_00	¡Temed a Allah y obedecedme!
+132_00	¡Temed a Aquel que os ha agraciado con lo que sabéis!
+133_00	Os ha agraciado con ganado e hijos,
+134_00	jardines y manantiales.
+135_00	De verdad temo para vosotros el castigo de un día grave.
+136_00	Dijeron: Nos da igual que nos exhortes o que te quedes sin exhortarnos.
+137_00	Esto no es sino la manera de ser de los antiguos.
+138_00	Y no vamos a ser castigados.
+139_00	Negaron la verdad que traía y los destruimos, es verdad que en eso hay un signo. La mayoría de ellos no eran creyentes.
+140_00	Realmente tu Señor es el Irresistible, el Compasivo.
+141_00	Los Zamud negaron a los enviados,
+142_00	cuando su hermano Salih les dijo: ¿No vais a tener temor?
+143_00	Yo soy para vosotros un mensajero fiel,
+144_00	así pues, temed a Allah y obedecedme.
+145_00	No os pido ningún pago por ello; mi recompensa sólo incumbe al Señor de los mundos.
+146_00	¿Acaso vais a ser dejados a salvo en lo que tenéis?
+147_00	¿En jardines y manantiales,
+148_00	cereales y palmeras de tiernos brotes?
+149_00	¿Y esculpís casas en las montañas con arrogancia?
+150_00	Temed a Allah y obedecedme.
+151_00	Y no obedezcáis lo que os mandan los que sobrepasan los límites.
+152_00	Esos que siembran corrupción en la tierra en vez de poner orden.
+153_00	Dijeron: Tú no eres mas que un hechizado,
+154_00	no eres mas que un ser humano como nosotros, trae una señal si eres de los que dicen la verdad.
+155_00	Dijo: Esta camella tendrá su turno de bebida y vosotros el vuestro, un día fijado.
+156_00	No le hagáis ningún daño para que no os sorprenda el castigo de un día grave.
+157_00	Pero la desjarretaron y amanecieron arrepentidos.
+158_00	El castigo los agarró, realmente en esto hay un signo.La mayoría de ellos no eran creyentes.
+159_00	Y es verdad que tu Señor es el Irresistible, el Compasivo.
+160_00	La gente de Lut negó a los enviados.
+161_00	Cuando su hermano Lut les dijo: ¿No vais a temer?
+162_00	Yo soy para vosotros un mensajero fiel;
+163_00	así pues, temed a Allah y obedecedme.
+164_00	No os pido ningún pago a cambio; mi recompensa sólo incumbe al Señor de los mundos.
+165_00	¿Vais a todos los varones del mundo
+166_00	dejando las esposas que Allah creó para vosotros?Sois gente que excede los límites.
+167_00	Dijeron: Si no te detienes, Lut, te encontrarás entre los expulsados.
+168_00	Dijo: Yo soy de los que aborrecen lo que hacéis.
+169_00	¡Señor! Líbrame a mí y a mi familia de lo que hacen.
+170_00	Y lo salvamos a él y a su familia, a todos,
+171_00	menos a una vieja que fue de los que se quedaron.
+172_00	Luego aniquilamos a los demás.
+173_00	E hicimos caer sobre ellos una lluvia. ¡Qué mala lluvia la de los que han sido advertidos!
+174_00	Realmente ahí hay un signo. La mayoría de ellos no eran creyentes.
+175_00	Es verdad que tu Señor es el Irresistible, el Compasivo.
+176_00	Los dueños de al-Ayka* negaron lo que decían los enviados.
+177_00	Cuando Shuayb les dijo: ¿No vais a temer?
+178_00	Yo soy para vosotros un mensajero fiel,
+179_00	así pues, temed a Allah y obedecedme.
+180_00	No os pido ningún pago a cambio; mi recompensa sólo incumbe al Señor de los mundos.
+181_00	Sed justos al medir sin perjudicar a la gente en ello.
+182_00	Y pesad con la balanza equilibrada
+183_00	sin menguar a la gente sus cosas. Y no cometáis maldades en la tierra como corruptores.
+184_00	Y temed a Aquel que os ha creado a vosotros y a las generaciones primeras.
+185_00	Dijeron: No eres mas que uno de esos hechizados.
+186_00	Tan sólo eres un ser humano como nosotros y no te consideramos sino como uno de los que mienten.
+187_00	Haz que caiga sobre nosotros un trozo de cielo si dices la verdad.
+188_00	Dijo: Mi Señor conoce mejor lo que hacéis.
+189_00	Y lo negaron y los sorprendió el castigo del día de la nube que les dió sombra*, ciertamente fue el castigo de un día grave.
+190_00	Verdaderamente ahí hay un signo. La mayoría de ellos no fueron creyentes.
+191_00	Es cierto que tu Señor es el Poderoso, el Compasivo.
+192_00	Y es cierto que él* es una revelación del Señor de los mundos.
+193_00	Descendió con él, el espíritu fiel*
+194_00	hasta tu corazón, para que fueras uno de los advertidores
+195_00	en clara lengua árabe.
+196_00	Está en las escrituras de las primeras comunidades.
+197_00	¿No les sirve de prueba que lo conozcan los sabios de los hijos de Israel?
+198_00	Si lo hubiéramos hecho descender a uno que no hubiera sido árabe
+199_00	y lo hubiera recitado para ellos, no habrían creído en él.
+200_00	Así es como lo imbuimos en los corazones de los que hacen el mal.
+201_00	No creerán en él hasta que no vean el castigo doloroso.
+202_00	El cual les llegará de repente sin que se den cuenta.
+203_00	Y dirán: ¿Es que se nos va a dar un tiempo de espera?
+204_00	¿Acaso quieren acelerar la llegada de Nuestro castigo?
+205_00	¿Qué te parece si los dejamos disfrutar unos años
+206_00	y luego les llega lo que les fue prometido?
+207_00	Las posesiones de las que hayan disfrutado no les servirán de nada.
+208_00	No hemos destruido ciudad alguna que no haya tenido advertidores
+209_00	para hacer recordar. No hemos sido injustos.
+210_00	Y no lo han hecho descender los demonios.
+211_00	Ni les corresponde, ni pueden.
+212_00	A ellos no se les permite escuchar.
+213_00	Y no invoques a otro dios junto a Allah porque serías de los que han de sufrir el castigo.
+214_00	Y advierte a tu clan, a los que están más próximos a ti.
+215_00	Y baja tus alas en favor de los creyentes que te siguen.
+216_00	Pero si te desobedecen, di: Soy inocente de lo que hacéis.
+217_00	Y confíate al Poderoso, al Compasivo.
+218_00	Aquel que te ve cuando te pones en pie
+219_00	y en tus distintos movimientos entre los que se postran.
+220_00	Él es Quien oye y Quien sabe.
+221_00	¿Queréis que os diga sobre quién descienden los demonios?
+222_00	Descienden sobre todo embustero malvado
+223_00	que presta oído. La mayoría de ellos son unos mentirosos.
+224_00	Así como sobre los poetas a los que siguen los descarriados.
+225_00	¿Es que no ves como divagan en todos los sentidos?
+226_00	¿Y que dicen lo que no hacen?
+227_00	Con la excepción de los que creen, llevan a cabo las acciones rectas, recuerdan mucho a Allah y se defienden cuando han sido vejados.*
+227_01	Y ya sabrán los que fueron injustos a qué lugar definitivo habrán de volver.

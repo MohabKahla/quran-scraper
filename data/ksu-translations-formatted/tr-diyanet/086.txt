@@ -1,0 +1,17 @@
+001_00	Göğe ve Tarık'a and olsun;
+002_00	Tarık'ın ne olduğunu sen bilir misin?
+003_00	O, (ışığıyla karanlığı) delen yıldızdır.
+004_00	Üzerinde gözetici olmayan kimse yoktur.
+005_00	Öyleyse insan neden yaratıldığına bir baksın.
+006_00	O, erkek ve kadının beli ile kaburga kemikleri arasından atılagelen bir sudan yaratılmıştır.
+007_00	O, erkek ve kadının beli ile kaburga kemikleri arasından atılagelen bir sudan yaratılmıştır.
+008_00	Şüphesiz Allah, gizliliklerin ortaya çıkacağı gün, insanı tekrar yaratmaya Kadir'dir.
+009_00	Şüphesiz Allah, gizliliklerin ortaya çıkacağı gün, insanı tekrar yaratmaya Kadir'dir.
+010_00	O gün, insanın gücü de, yardımcısı da olmaz.
+011_00	Dönüşlü göğe ve yarılan yeryüzüne and olsun ki,
+012_00	Dönüşlü göğe ve yarılan yeryüzüne and olsun ki,
+013_00	Doğrusu bu Kuran kesin bir sözdür.
+014_00	O, eğlence için değildir.
+015_00	Gerçekten onlar düzen kuruyorlar.
+016_00	Ben de bir düzen kurmaktayım.
+017_00	Sen inkarcılara mehil ver; onlara mukabeleyi biraz geri bırak.

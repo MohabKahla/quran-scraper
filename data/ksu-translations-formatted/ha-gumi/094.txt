@@ -1,0 +1,8 @@
+001_00	Ba Mu bũɗa maka zũciyarka ba (dõmin ɗaukar haƙuri da fahimta)?
+002_00	Kuma Muka saryar maka da nauyinka, Ashe.
+003_00	Wanda ya nauyayi bãyanka?
+004_00	Kuma Muka ɗaukaka maka ambatonka?
+005_00	To, lalle ne tãre da tsananin nan akwai wani sauƙi.
+006_00	Lalle ne tãre da tsananin nan akwai wani sauƙi.
+007_00	Sabõda haka idan ka ƙãre (ibãda) sai ka kafu (kana rõƙon Allah).
+008_00	Kuma zuwa ga Ubangijinka ka yi kwaɗayi.

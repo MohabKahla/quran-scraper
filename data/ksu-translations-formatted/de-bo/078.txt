@@ -1,0 +1,40 @@
+001_00	Wonach fragen sie sich?
+002_00	Nach der gewaltigen Kunde,
+003_00	über die sie sich uneinig sind.
+004_00	Keineswegs! Sie werden (es noch) erfahren.
+005_00	Abermals: Keineswegs! Sie werden (es noch) erfahren.
+006_00	Haben Wir nicht die Erde zu einer Lagerstatt gemacht
+007_00	und die Berge zu Pfählen?
+008_00	Und Wir haben euch als Paare erschaffen.
+009_00	Und Wir haben euren Schlaf zum Ausruhen gemacht.
+010_00	Und Wir haben die Nacht zum Kleid gemacht.
+011_00	Und Wir haben den Tag zur Lebensführung gemacht.
+012_00	Und Wir haben über euch sieben feste (Himmel) aufgebaut.
+013_00	Und Wir haben einen hell glühenden Leuchtkörper gemacht.
+014_00	Und Wir haben von den Regenwolken sich ergießendes Wasser herabkommen lassen,
+015_00	um damit Korn und Gewächse hervorzubringen
+016_00	und dichtbestandene Gärten.
+017_00	Gewiß, der Tag der Entscheidung ist eine festgesetzte Zeit,
+018_00	der Tag, da ins Horn geblasen wird und ihr in Scharen herkommt
+019_00	und da der Himmel geöffnet und dann zu Toren wird
+020_00	und da die Berge versetzt und dann zu einer Luftspiegelung werden.
+021_00	Gewiß, die Hölle ist ein Hinterhalt,
+022_00	für diejenigen, die das Maß (an Frevel) überschreiten, eine Heimstatt,
+023_00	lange Zeiten darin zu verweilen;
+024_00	sie werden darin weder Kühlung noch Getränk kosten,
+025_00	außer heißem Wasser und stinkender Brühe,
+026_00	als angemessene Vergeltung.
+027_00	Sie erwarteten ja niemals eine Abrechnung
+028_00	und erklärten Unsere Zeichen hartnäckig für Lüge.
+029_00	Doch alles haben Wir schriftlich erfaßt.
+030_00	So kostet; Wir werden euch nur die Strafe mehren.
+031_00	Gewiß, für die Gottesfürchtigen wird es einen Ort des Erfolgs geben,
+032_00	umfriedete Gärten und Rebstöcke
+033_00	und prächtige, gleichaltrige (weibliche Wesen)
+034_00	und ein (stets) voller Becher.
+035_00	Weder hören sie darin unbedachte Rede noch Lüge.
+036_00	(Dies) als Belohnung von deinem Herrn, als hinreichende Gabe,
+037_00	dem Herrn der Himmel und der Erde und dessen, was dazwischen ist, dem Allerbarmer. Sie verfügen nicht darüber, vor Ihm zu reden,
+038_00	am Tag, da der Geist und die Engel in Reihe stehen. Sie werden nicht sprechen, außer wem der Allerbarmer es erlaubt und wer Richtiges sagt.
+039_00	Das ist der wahrhaftig (eintreffend)e Tag. Wer nun will, nimmt zu seinem Herrn eine Heimkehr.
+040_00	Wir warnen euch ja vor naher Strafe, am Tag, da der Mensch schauen wird, was seine Hände vorausgeschickt haben, und der Ungläubige sagen wird: "O wäre ich doch Erde!"

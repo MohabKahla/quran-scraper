@@ -1,0 +1,29 @@
+001_00	Jua litakapo kunjwa,
+002_00	Na nyota zikazimwa,
+003_00	Na milima ikaondolewa,
+004_00	Na ngamia wenye mimba pevu watakapo achwa wasishughulikiwe,
+005_00	Na wanyama wa mwituni wakakusanywa,
+006_00	Na bahari zikawaka moto,
+007_00	Na nafsi zikaunganishwa,
+008_00	Na msichana aliye zikwa hai atapo ulizwa,
+009_00	Kwa kosa gani aliuliwa?
+010_00	Na madaftari yatakapo enezwa,
+011_00	Na mbingu itapo tanduliwa,
+012_00	Na Jahannamu itapo chochewa,
+013_00	Na Pepo ikasogezwa,
+014_00	Kila nafsi itajua ilicho kihudhurisha.
+015_00	Naapa kwa nyota zinapo rejea nyuma,
+016_00	Zinazo kwenda, kisha zikajificha,
+017_00	Na kwa usiku unapo pungua,
+018_00	Na kwa asubuhi inapo pambazuka,
+019_00	Kwamba hakika bila ya shaka hii ni kauli ya Mjumbe mtukufu,
+020_00	Mwenye nguvu na mwenye cheo kwa huyo Mwenye Kiti cha Enzi,
+021_00	Anaye t'iiwa, tena muaminifu.
+022_00	Na wala huyu mwenzenu hana wazimu.
+023_00	Na hakika yeye alimwona kwenye upeo wa macho ulio safi.
+024_00	Wala yeye si bakhili kwa mambo ya ghaibu.
+025_00	Wala hii si kauli ya Shetani maluuni.
+026_00	Basi mnakwenda wapi?
+027_00	Haikuwa hii ila ni ukumbusho kwa walimwengu wote.
+028_00	Kwa yule miongoni mwenu anaye taka kwenda sawa.
+029_00	Wala nyinyi hamtataka isipo kuwa atake Mwenyezi Mungu Mola Mlezi wa walimwengu wote.

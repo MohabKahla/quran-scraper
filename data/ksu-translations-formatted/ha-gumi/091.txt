@@ -1,0 +1,15 @@
+001_00	Ina rantsuwa da rãnã da hantsinta.
+002_00	Kuma da wata idan ya bi ta.
+003_00	Da yini a lõkacin da ya bayyana ta.
+004_00	Da dare a lõkacin da ya ke rufe ta.
+005_00	Da sama da abin da ya gina ta.
+006_00	Da ƙasã da abin da ya shimfiɗa ta.
+007_00	Da rai da abin da ya daidaita shi.
+008_00	Sa'an nan ya sanar da shi fãjircinsa da shiryuwarsa.
+009_00	Lalle ne wanda ya tsarkake shi (rai) ya sãmi babban rabo.
+010_00	Kuma lalle ne wanda ya turbuɗe shi (da laifi) ya tãɓe.
+011_00	Samũdãwa sun ƙaryata (Annabinsu), dõmin girman kansu.
+012_00	A lõkacin da mafi shaƙãwarsu ya tafi (wurin sõke rãkumar sãlihu).
+013_00	Sai Manzon Allah ya gaya musu cewa: "Ina tsõratar da ku ga rãƙumar Allah da ruwan shanta!"
+014_00	Sai suka ƙaryata shi, sa'an nan suka sõke ta. Sabõda haka Ubangijinsu Ya darkãke su, sabõda zunubinsu. Sa'an nan Ya daidaita ta (azãbar ga mai laifi da maras laifi).
+015_00	Kuma bã ya tsõron ãƙibarta (ita halakãwar).

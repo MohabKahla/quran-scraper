@@ -1,0 +1,36 @@
+001_00	Ole wao hao wapunjao!
+002_00	Ambao wanapo jipimia kwa watu hudai watimiziwe.
+003_00	Na wao wanapo wapimia watu kwa kipimo au mizani hupunguza.
+004_00	Kwani hawadhani hao kwamba watafufuliwa
+005_00	Katika Siku iliyo kuu,
+006_00	Siku watapo msimamia watu Mola Mlezi wa walimwengu wote?
+007_00	Hasha! Hakika maandiko ya wakosefu bila ya shaka yamo katika Sijjin.
+008_00	Unajua nini Sijjin?
+009_00	Kitabu kilicho andikwa.
+010_00	Ole wao siku hiyo kwa wanao kadhibisha!
+011_00	Ambao wanaikadhibisha Siku ya Malipo.
+012_00	Wala haikadhibishi ila kila mwenye kuruka mipaka, mwenye dhambi.
+013_00	Anapo somewa Aya zetu husema: Ni visa vya watu wa kale!
+014_00	Hasha! Bali yametia kutu juu ya nyoyo zao hao walio kuwa wakiyachuma.
+015_00	Hasha! Hakika hao siku hiyo bila ya shaka watazuiliwa na neema za Mola wao Mlezi.
+016_00	Kisha wataingia Motoni!
+017_00	Kisha waambiwe: Haya ndiyo mliyo kuwa mkiyakadhabisha.
+018_00	Hasha! Hakika maandiko ya watu wema bila ya shaka yamo katika I'liyyin.
+019_00	Na nini kitakacho kujuvya nini I'liyyin?
+020_00	Kitabu kilicho andikwa.
+021_00	Wanakishuhudia walio karibishwa.
+022_00	Hakika watu wema bila ya shaka watakuwa katika neema.
+023_00	Wakae juu ya viti vya enzi wakiangalia.
+024_00	Utatambua katika nyuso zao mng'aro wa neema,
+025_00	Watanyweshwa kinywaji safi kiliyo tiwa muhuri,
+026_00	Muhuri wake ni miski. Na katika hayo washindanie wenye kushindana.
+027_00	Na mchanganyiko wake ni Tasniim,
+028_00	Chemchem watakayo inywa walio kurubishwa.
+029_00	Kwa hakika wale walio kuwa wakosefu walikuwa wakiwacheka walio amini.
+030_00	Na wanapo pita karibu yao wakikonyezana.
+031_00	Na wanapo rudi kwa watu wao hurudi nao wamefurahi.
+032_00	Na wanapo waona husema: Hakika hawa ndio khasa walio potea.
+033_00	Na wao hawakutumwa wawe walinzi juu yao.
+034_00	Basi leo walio amini ndio watawacheka makafiri,
+035_00	Nao wako juu ya viti vya enzi wakiangalia.
+036_00	Je! makafiri wamelipwa malipo ya yale waliyo kuwa wakiyatenda?

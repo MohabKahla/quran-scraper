@@ -1,0 +1,26 @@
+001_00	A të ka arritur ty lajmi për fatkeqësinë e kaplueshme (të Kijametit)?
+002_00	Atë Ditë, fytyrat (e të këqinjve) janë të dëshpëruara,
+003_00	me punë të vështira e të rraskapitura,
+004_00	në zjarr të fortë do të digjen,
+005_00	e do të pinë nga burimet e vluara,
+006_00	kur tjetër ushqim për ta nuk do të ketë, përpos therrave,
+007_00	e ky (ushqim), as nuk do t’i trashë as nuk do t’i ngop (nga uria).
+008_00	Atë Ditë, fytyrat e disave (besimtarëve) do të jenë të gëzuara,
+009_00	të kënaqura për punët e bëra, -
+010_00	të vendosura në kopshtin madhështor,
+011_00	në të cilin nuk do të dëgjojnë fjalë boshe.
+012_00	Në të ka burime uji – rrjedhëse,
+013_00	në të ka divane të çmueshme,
+014_00	dhe kupa të përgatitura,
+015_00	dhe jastëk të renditur
+016_00	e shumë qilima të shtruar.
+017_00	Vallë, a nuk shohin ata se si është krijuar devja
+018_00	e si është ngritur qielli,
+019_00	dhe si janë vendosur malet,
+020_00	dhe si është shtrirë Toka?!
+021_00	Ti këshillo (njerëzit) – se ti je vetëm këshillues,
+022_00	ti nuk je mbi ta imponues (sundues)!
+023_00	E, përveç atyre që shmangën dhe nuk besojnë, -
+024_00	ata, Perëndia do t’i dënojë me mundimet më të mëdha.
+025_00	Ata, me të vërtetë, do të kthehen te Ne,
+026_00	dhe, me të vërtetë, do të japin llogari para Nesh!

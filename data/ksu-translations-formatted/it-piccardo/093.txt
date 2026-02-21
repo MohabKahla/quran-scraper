@@ -1,0 +1,11 @@
+001_00	Per la luce del mattino,
+002_00	per la notte quando si addensa:
+003_00	il tuo Signore non ti ha abbandonato e non ti disprezza
+004_00	e per te l'altra vita sarà migliore della precedente.
+005_00	Il tuo Signore ti darà [in abbondanza] e ne sarai soddisfatto.
+006_00	Non ti ha trovato orfano e ti ha dato rifugio?
+007_00	Non ti ha trovato smarrito e ti ha dato la guida?
+008_00	Non ti ha trovato povero e ti ha arricchito?
+009_00	Dunque non opprimere l'orfano,
+010_00	non respingere il mendicante,
+011_00	e proclama la grazia del tuo Signore.

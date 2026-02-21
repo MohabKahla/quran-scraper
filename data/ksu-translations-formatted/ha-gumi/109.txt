@@ -1,0 +1,6 @@
+001_00	Ka ce: "Ya kũ kãfirai!"
+002_00	"Bã zan bautã wa abin da kuke bautã wa ba."
+003_00	"Kuma kũ, ba ku zama masu bauta wa abin da nake bautã wa ba."
+004_00	"Kuma nĩ ban zama mai bautã wa abin da kuka bautã wa ba."
+005_00	"Kuma kũ, ba ku zama mãsu bautã wa abin da nake bautã wa ba."
+006_00	"Addininku na garẽ ku, kuma addinina yanã gare ni."

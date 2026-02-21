@@ -1,0 +1,5 @@
+001_00	Fil sahiplerine Rabbinin ne ettiğini görmedin mi?
+002_00	Onların düzenlerini boşa çıkarmadı mı?
+003_00	Onların üzerine, sert taşlar atan sürülerle kuşlar gönderdi.
+004_00	Onların üzerine, sert taşlar atan sürülerle kuşlar gönderdi.
+005_00	Sonunda onları, yenilmiş ekin gibi yaptı.

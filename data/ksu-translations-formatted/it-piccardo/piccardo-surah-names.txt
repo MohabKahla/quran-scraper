@@ -1,0 +1,114 @@
+1	L'Aprente
+2	La Giovenca
+3	La Famiglia di Imran
+4	Le Donne
+5	La Tavola Imbandita
+6	Il bestiame
+7	Al-Arтf
+8	Il Bottino
+9	Il Pentimento o la Disapprovazione
+10	Giona
+11	Hћd
+12	Giuseppe
+13	Il Tuono
+14	Abramo
+15	Al-Hijr
+16	Le Api
+17	Il Viaggio Notturno
+18	La Caverna
+19	Maria
+20	Tт-Hт
+21	I Profeti
+22	Il Pellegrinaggio
+23	I Credenti
+24	La Luce
+25	Il Discrimine
+26	I Poeti
+27	Le Formiche
+28	Il Racconto
+29	Il Ragno
+30	I Romani
+31	Luqmрn
+32	La Prosternazione
+33	I Coalizzati
+34	Sabт
+35	Colui Che dр origine
+36	Yт Sюn
+37	I Ranghi
+38	Sтd
+39	I Gruppi
+40	Il Perdonatore
+41	Esposti chiaramente
+42	La Consultazione
+43	Gli Ornamenti d'Oro
+44	Il Fumo
+45	La Genuflessa
+46	Al-Ahqрf
+47	Muhammad
+48	La Vittoria
+49	Le Stanze Intime
+50	Qтf
+51	Quelle che spargono
+52	Il Monte
+53	La Stella
+54	La Luna
+55	Il Compassionevole
+56	L'Evento
+57	Il Ferro
+58	La Disputante
+59	L'Esodo
+60	L'Esaminata
+61	I Ranghi Serrati
+62	Il Venerdь
+63	Gli Ipocriti
+64	Il Reciproco Inganno
+65	Il Divorzio
+66	L'Interdizione
+67	La Sovranitр
+68	Il Calamo
+69	L'Inevitabile
+70	Le Vie dell'Ascesa
+71	Noш
+72	I Dшmoni
+73	L'avvolto
+74	L'Avvolto nel Mantello
+75	La Resurrezione
+76	L'Uomo
+77	Le Inviate
+78	L'Annuncio
+79	Le Strappanti Violente
+80	Si Accigliђ
+81	L'Oscuramento
+82	Lo Squarciarsi
+83	I Frodatori
+84	La Fenditura
+85	Le Costellazioni
+86	L'Astro Notturno
+87	L'Altissimo
+88	L'Avvolgente
+89	L'Alba
+90	La Contrada
+91	Il Sole
+92	La Notte
+93	La Luce del Mattino
+94	L'Apertura
+95	Il Fico
+96	L'Aderenza
+97	Il Destino
+98	La prova
+99	Il Terremoto
+100	Le Scalpitanti
+101	La Percotente
+102	Il Rivaleggiare
+103	Il Tempo
+104	Il Diffamatore
+105	L'Elefante
+106	I Coreisciti
+107	L'Utensile
+108	L'Abbondanza
+109	Miscredenti
+110	L'Ausilio
+111	Le Fibre di Palma
+112	Il Puro Monoteismo
+113	L'Alba Nascente
+114	Gli Uomini

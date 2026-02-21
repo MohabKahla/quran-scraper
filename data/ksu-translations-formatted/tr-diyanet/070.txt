@@ -1,0 +1,44 @@
+001_00	Birisi, yüksek derecelere sahip olan Allah katından, inkarcılara gelecek ve savunulması imkansız olacak azabı soruyor.
+002_00	Birisi, yüksek derecelere sahip olan Allah katından, inkarcılara gelecek ve savunulması imkansız olacak azabı soruyor.
+003_00	Birisi, yüksek derecelere sahip olan Allah katından, inkarcılara gelecek ve savunulması imkansız olacak azabı soruyor.
+004_00	Melekler ve Cebrail o derecelere, miktarı elli bin yıl olan bir günde yükselirler.
+005_00	Güzel güzel sabret;
+006_00	Doğrusu inkarcılar azabı uzak görüyorlar.
+007_00	Ama biz onu yakın görmekteyiz.
+008_00	Gök, o gün, erimiş maden gibi olur.
+009_00	Dağlar da atılmış pamuğa döner.
+010_00	Hiç bir dost diğer bir dostunu sormaz.
+011_00	Onlar birbirlerine yalnız gösterilirler. Suçlu kimse o günün azabından kurtulmak için oğullarını, ailesini, kardeşini, kendisini barındırmış olan sülalesini ve yeryüzünde bulunan herkesi feda etmek ve böylece kendisini kurtarmak ister.
+012_00	Onlar birbirlerine yalnız gösterilirler. Suçlu kimse o günün azabından kurtulmak için oğullarını, ailesini, kardeşini, kendisini barındırmış olan sülalesini ve yeryüzünde bulunan herkesi feda etmek ve böylece kendisini kurtarmak ister.
+013_00	Onlar birbirlerine yalnız gösterilirler. Suçlu kimse o günün azabından kurtulmak için oğullarını, ailesini, kardeşini, kendisini barındırmış olan sülalesini ve yeryüzünde bulunan herkesi feda etmek ve böylece kendisini kurtarmak ister.
+014_00	Onlar birbirlerine yalnız gösterilirler. Suçlu kimse o günün azabından kurtulmak için oğullarını, ailesini, kardeşini, kendisini barındırmış olan sülalesini ve yeryüzünde bulunan herkesi feda etmek ve böylece kendisini kurtarmak ister.
+015_00	Hayır, olmaz... Orada sırtını çevirip yüzgeri edeni, malını toplayıp kimseye hakkını vermeden saklayanı çağıran, deriyi soyup kavuran, alevli ateş vardır.
+016_00	Hayır, olmaz... Orada sırtını çevirip yüzgeri edeni, malını toplayıp kimseye hakkını vermeden saklayanı çağıran, deriyi soyup kavuran, alevli ateş vardır.
+017_00	Hayır, olmaz... Orada sırtını çevirip yüzgeri edeni, malını toplayıp kimseye hakkını vermeden saklayanı çağıran, deriyi soyup kavuran, alevli ateş vardır.
+018_00	Hayır, olmaz... Orada sırtını çevirip yüzgeri edeni, malını toplayıp kimseye hakkını vermeden saklayanı çağıran, deriyi soyup kavuran, alevli ateş vardır.
+019_00	İnsan gerçekten pek huysuz yaratılmıştır:
+020_00	Başına bir fenalık gelince feryat eder,
+021_00	Bir iyiliğe uğrarsa onu herkesten meneder;
+022_00	Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.
+023_00	Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.
+024_00	Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.
+025_00	Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.
+026_00	Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.
+027_00	Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.
+028_00	Doğrusu Rablerinin azabından kimse güvende değildir.
+029_00	Eşleri ve cariyeleri dışında, mahrem yerlerini herkesten koruyanlar, doğrusu bunlar yerilmezler.
+030_00	Eşleri ve cariyeleri dışında, mahrem yerlerini herkesten koruyanlar, doğrusu bunlar yerilmezler.
+031_00	Bu sınırları aşmak isteyenler, işte onlar, aşırı gidenlerdir.
+032_00	Emanetlerini ve sözlerini yerine getirenler,
+033_00	Şahidliklerini gereği gibi yapanlar,
+034_00	Namazlarına riayet edenler,
+035_00	İşte onlar, cennetlerde ikram olunacak kimselerdir.
+036_00	İnkar edenlere ne oluyor, sana doğru sağdan soldan topluluklar halinde koşuşuyorlar?
+037_00	İnkar edenlere ne oluyor, sana doğru sağdan soldan topluluklar halinde koşuşuyorlar?
+038_00	Onlardan herbiri nimet bahçesine konulacağını mı umuyor?
+039_00	Hayır; doğrusu onları kendilerinin de bildikleri şeyden yaratmışızdır.
+040_00	Doğuların ve batıların Rabbine yemin ederim ki, onların yerine daha iyilerini getirmeğe Bizim gücümüz yeter ve kimse de önümüze geçemez.
+041_00	Doğuların ve batıların Rabbine yemin ederim ki, onların yerine daha iyilerini getirmeğe Bizim gücümüz yeter ve kimse de önümüze geçemez.
+042_00	Onları bırak; kendilerine söz verilen güne kavuşmalarına kadar dalıp oynasınlar.
+043_00	Kabirlerden çabuk çabuk çıkacakları gün, gözleri dönmüş, yüzlerini zillet bürümüş olarak sanki dikili taşlara doğru koşarlar. İşte bu, onlara söz verilmiş olan gündür.
+044_00	Kabirlerden çabuk çabuk çıkacakları gün, gözleri dönmüş, yüzlerini zillet bürümüş olarak sanki dikili taşlara doğru koşarlar. İşte bu, onlara söz verilmiş olan gündür.

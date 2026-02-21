@@ -6,6 +6,13 @@ data/backups/
 
 # Old translations (source, not to be modified)
 data/old-translations/
+data/backups/
+
+# Formatted translations (we DO want these)
+!data/ksu-translations-formatted/
+
+# Docs (we DO want these)
+!docs/
 
 # Python cache
 __pypy__/
@@ -40,12 +47,6 @@ docker/
 *.zip
 *.tar.gz
 *.rar
-
-# Data directories (large files, not needed in git)
-data/
-
-# Documentation (can be large or auto-generated)
-docs/
 
 # Node modules
 node_modules/

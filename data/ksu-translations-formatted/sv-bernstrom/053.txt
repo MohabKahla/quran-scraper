@@ -1,0 +1,64 @@
+001_00	VID den sjunkande stjärnan!
+002_00	Er landsman har inte gått vilse och han är alls inte besatt.
+003_00	Och han talar inte av egen drift -
+004_00	nej, [det är] uppenbarelsens ord,
+005_00	som en av de allra mäktigaste lär honom,
+006_00	[en ängel] stark och vis. Och han framträdde i sin verkliga skepnad
+007_00	över horisonten;
+008_00	därefter närmade han sig till dess han stod [svävande i luften]
+009_00	på två båglängders avstånd eller ännu närmare.
+010_00	Så uppenbarade [Gud] det han ville uppenbara för Sin tjänare.
+011_00	Hjärtat tog inte miste på vad han såg;
+012_00	ifrågasätter ni att han såg detta som han såg?
+013_00	Ja, han såg honom ännu en gång
+014_00	vid lotusträdet [nära] den yttersta gränsen,
+015_00	intill [den ljuvliga] vilans lustgård;
+016_00	och lotusträdet badade [i ett bländande ljus].
+017_00	Han tog inte sina ögon [från synen] och inte heller försökte han se mer än vad han såg;
+018_00	han fick ju se några av sin Herres största tecken.
+019_00	HAR ni ägnat en tanke åt Al-Lat och Al-Uzza
+020_00	och Manat, den tredje [som ni dyrkar]?
+021_00	Förbehåller ni er alltså manlig, och tillskriver Honom kvinnlig avkomma?
+022_00	Det är sannerligen en ojämn fördelning!
+023_00	Nej, dessa [gudinnor] är ingenting annat än namn som ni och era förfäder har uppfunnit; Gud har aldrig gett tillstånd till detta.
+023_01	- De följer enbart lösa antaganden och vad som faller dem in. Men ändå har vägledningen från deras Herre nått dem.
+024_00	Eller skall människan få allt vad hon önskar
+025_00	Nej, [de som anropar krafter som de tror har del i Guds makt, skall veta att] allt i det kommande livet och i denna värld tillhör Gud.
+026_00	Hur talrika änglarna i himlen än är, är deras förböner till ingen nytta, om inte Gud har gett Sitt tillstånd; och Han ger det till förmån för den Han vill och som funnit nåd inför Honom.
+027_00	De som betraktar änglarna som kvinnliga väsen tror [i själva verket] inte på livet efter detta.
+028_00	Om det har de ingen kunskap; de följer bara lösa antaganden, och lösa antaganden kan inte ersätta sanningen.
+029_00	Vänd dig därför ifrån dem som försummar att åkalla Oss och vars hela intresse är riktat mot det jordiska livet [och dess fröjder];
+030_00	där ligger summan av deras kunskap. Din Herre vet bäst vem som överger Hans väg och Han vet bäst vem som låter sig vägledas.
+031_00	Allt det som himlarna rymmer och allt det som jorden bär tillhör Gud; Han kommer att straffa dem som gör ont med [det som svarar mot] deras handlingar och belöna dem som gör gott med det högsta goda.
+032_00	De som avhåller sig från de grövsta synderna och från skamliga handlingar [skall se] - även om de begår mindre felsteg - [att] det inte finns någon gräns för din Herres förlåtelse. Han har full kännedom om er, från det att Han [först] skapade er av jord och från det att ni tog form i moderlivet.
+032_01	Påstå därför inte att ni är rena från synd! Han vet bäst vem som fruktar Honom.
+033_00	VAD ANSER du om den som vänder sig ifrån [tron för att ge sig hän åt de jordiska fröjderna]
+034_00	och som ger det minsta [möjliga av det han äger åt andra] och knotar till och med över detta
+035_00	Har han kunskap om den verklighet som är dold för människorna, så att han kan se [in i framtiden]?
+036_00	Eller har han inte fått veta något om Moses uppenbarelser
+037_00	eller hört om Abraham, som troget fullgjorde [allt vad Gud befallde honom]?
+038_00	[Eller hört] att det på ingen bärare av bördor skall läggas en annans börda
+039_00	eller att ingenting skall tillerkännas människan utom det som hon har eftersträvat;
+040_00	och att hon [en Dag] skall få se sina strävanden [i deras rätta ljus]
+041_00	och därefter få sin fulla lön;
+042_00	och att slutpunkten [för allt] är [återkomsten] till din Herre;
+043_00	och att det är Han som ger er orsak att skratta och Han som ger er orsak att gråta;
+044_00	och att det är Han som skänker död och Han som skänker liv;
+045_00	och att Han har skapat de två könen, mankön och kvinnokön,
+046_00	av en droppe utgjuten säd,
+047_00	och att Han skall låta det nya livet träda fram;
+048_00	och att det är Han som gör [människan] rik och [Han som] förmår [henne] att nöja sig med det hon har;
+049_00	och att det är Han som är Hundstjärnans Herre;
+050_00	och att Han lät det forna Aad gå under
+051_00	liksom stammen Thamud - [de förintades] till sista man -
+052_00	och före dem Noas folk - de var de syndigaste och mest hårdnackade [av alla] -
+053_00	och de [städer] som Han kastade över ända
+054_00	och täckte dem med det som täckte [dem].
+055_00	Vilken av din Herres välgärningar vill du [människa] sätta i fråga?
+056_00	DENNE [Profet] är en varnare liksom de som varnade i gångna tider.
+057_00	[Stunden] som närmar sig kommer allt närmare,
+058_00	[men] ingen annan än Gud kan dra undan [slöjan] som döljer den.
+059_00	Förvånas ni över dessa ord
+060_00	Skrattar ni [belåtet] i stället för att gråta,
+061_00	och sträcker självsäkert på nacken
+062_00	Fall ned inför Gud och tillbe [Honom]!

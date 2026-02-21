@@ -1,0 +1,7 @@
+001_00	¿Has visto a quien niega la Rendición de Cuentas?
+002_00	Ese es el que desprecia al huérfano.
+003_00	Y no exhorta a dar de comer al mendigo.
+004_00	Pero ¡ay de aquellos que rezan!
+005_00	Siendo negligentes con su Oración.
+006_00	Esos que hacen ostentación
+007_00	y niegan la ayuda imprescindible.

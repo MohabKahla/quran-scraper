@@ -1,0 +1,46 @@
+001_00	Naapa kwa wanao komoa kwa nguvu,
+002_00	Na kwa wanao toa kwa upole,
+003_00	Na wanao ogelea,
+004_00	Wakishindana mbio,
+005_00	Wakidabiri mambo.
+006_00	Siku kitapo tetemeka cha kutetemeka,
+007_00	Kifuate cha kufuatia.
+008_00	Siku hiyo nyoyo zitapiga piga,
+009_00	Macho yatainama chini.
+010_00	Sasa wanasema: Ati kweli tutarudishwa kwenye hali ya kwanza?
+011_00	Hata tukiwa mifupa iliyo bunguliwa?
+012_00	Wanasema: Basi marejeo hayo ni yenye khasara!
+013_00	Kwa hakika hayo ni ukelele mmoja tu,
+014_00	Mara watakuwa kwenye uwanda wa mkutano!
+015_00	Je! Imekufikia hadithi ya Musa?
+016_00	Mola wake Mlezi alipo mwita katika bonde takatifu la T'uwaa, akamwambia:
+017_00	Nenda kwa Firauni. Hakika yeye amezidi jeuri.
+018_00	Umwambie: Je! Unapenda kujitakasa?
+019_00	Nami nitakuongoa ufike kwa Mola wako Mlezi, upate kumcha.
+020_00	Basi alimwonyesha Ishara kubwa.
+021_00	Lakini aliikadhibisha na akaasi.
+022_00	Kisha alirudi nyuma, akaingia kufanya juhudi.
+023_00	Akakusanya watu akanadi.
+024_00	Akasema: Mimi ndiye Mola wenu Mlezi mkuu kabisa.
+025_00	Basi hapo Mwenyezi Mungu akamshika kumuadhibu kwa la mwisho na la mwanzo.
+026_00	Kwa hakika katika haya yapo mazingatio kwa wanao ogopa.
+027_00	Je! Ni vigumu zaidi kukuumbeni nyinyi au mbingu? Yeye ndiye aliye ijenga!
+028_00	Akainua kimo chake, na akaitengeneza vizuri.
+029_00	Na akautia giza usiku wake, na akautokeza mchana wake.
+030_00	Na juu ya hivyo ameitandaza ardhi.
+031_00	Akatoa ndani yake maji yake na malisho yake,
+032_00	Na milima akaisimamisha,
+033_00	Kwa nafuu yenu na mifugo yenu.
+034_00	Basi itakapo fika hiyo balaa kubwa,
+035_00	Siku ambayo mtu atakumbuka aliyo yafanya,
+036_00	Na Jahannamu itadhihirishwa kwa mwenye kuona,
+037_00	Basi ama yule aliye zidi ujeuri,
+038_00	Na akakhiari maisha ya dunia,
+039_00	Kwa hakika Jahannamu ndiyo makaazi yake!
+040_00	Na ama yule anaye ogopa kusimamishwa mbele ya Mola wake Mlezi, na akajizuilia nafsi yake na matamanio,
+041_00	Basi huyo, Pepo itakuwa ndiyo makaazi yake!
+042_00	Wanakuuliza Saa (ya Kiyama) itakuwa lini?
+043_00	Una nini wewe hata uitaje?
+044_00	Kwa Mola wako Mlezi ndio mwisho wake.
+045_00	Kwa hakika wewe ni mwonyaji tu kwa mwenye kuikhofu.
+046_00	Ni kama kwamba wao siku watapo iona (hiyo Saa) hawakukaa ila jioni moja tu, au mchana wake.

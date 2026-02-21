@@ -1,0 +1,50 @@
+001_00	Bei den Entsandten, die wie eine Mähne aufeinanderfolgen,
+002_00	den einen Sturm Entfesselnden
+003_00	und den alles Ausbreitenden,
+004_00	den klar Trennenden,
+005_00	den Ermahnung Überbringenden
+006_00	zur Pflichterfüllung oder zur Warnung!
+007_00	Gewiß, was euch versprochen wird, wird sicher hereinbrechen.
+008_00	Wenn dann die Sterne ausgelöscht werden
+009_00	und wenn der Himmel gespalten wird
+010_00	und wenn die Berge zersprengt werden
+011_00	und wenn für die Gesandten ihre Zeit gesetzt wird.
+012_00	Aufweichen Tag ist ihre Frist festgelegt worden?
+013_00	Auf den Tag der Entscheidung.
+014_00	Und was läßt dich wissen, was der Tag der Entscheidung ist?
+015_00	Wehe an jenem Tag den Leugnern!
+016_00	Haben Wir nicht die Früheren vernichtet?
+017_00	Hierauf lassen Wir ihnen die Späteren folgen.
+018_00	So verfahren Wir mit den Übeltätern.
+019_00	Wehe an jenem Tag den Leugnern!
+020_00	Haben Wir euch nicht aus verächtlichem Wasser erschaffen,
+021_00	das Wir dann in einem festen Aufenthaltsort haben sein lassen,
+022_00	bis zu einem bekannten Zeitpunkt?
+023_00	So haben Wir bemessen. Welch trefflicher Bemesser sind Wir!
+024_00	Wehe an jenem Tag den Leugnern!
+025_00	Haben Wir nicht die Erde zu einem Ort der Aufbewahrung gemacht
+026_00	- für die Lebenden und die Toten -
+027_00	und auf ihr festgegründete, hoch aufragende Berge gemacht und euch frisches Wasser zu trinken gegeben?
+028_00	Wehe an jenem Tag den Leugnern!
+029_00	- "Zieht los zu dem, was ihr stets für Lüge erklärt habt,
+030_00	zieht los zu einem Schatten mit drei Verzweigungen,
+031_00	der kein (wirklicher) Schattenspender ist und nicht (als Schutz) gegen die Flammen nützt."
+032_00	Sie wirft mit Funken wie Schlösser,
+033_00	als wären sie gelbe Kamele.
+034_00	Wehe an jenem Tag den Leugnern!
+035_00	Das ist der Tag, an dem sie nicht reden werden
+036_00	und (es) ihnen nicht erlaubt wird, daß sie sich entschuldigen.
+037_00	Wehe an jenem Tag den Leugnern!
+038_00	- "Das ist der Tag der Entscheidung; Wir haben euch mit den Früheren versammelt.
+039_00	Wenn ihr also eine List habt, so führt sie gegen Mich aus."
+040_00	Wehe an jenem Tag den Leugnern!
+041_00	Gewiß, die Gottesfürchtigen werden sich in Schatten und an Quellen befinden
+042_00	und bei Früchten von dem, was sie begehren.
+043_00	- "Eßt und trinkt als wohlbekömmlich für das, was ihr zu tun pflegtet."
+044_00	Gewiß, so vergelten Wir den Rechtschaffenen.
+045_00	Wehe an jenem Tag den Leugnern!
+046_00	- "Eßt und genießt ein wenig, ihr seid ja Übeltäter."
+047_00	Wehe an jenem Tag den Leugnern!
+048_00	Und wenn zu ihnen gesagt wird: "Verbeugt euch!", verbeugen sie sich nicht.
+049_00	Wehe an jenem Tag den Leugnern!
+050_00	An welche Aussage nach dieser wollen sie denn glauben?

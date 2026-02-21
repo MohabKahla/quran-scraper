@@ -1,0 +1,59 @@
+001_00	H'a Mim
+002_00	Naapa kwa Kitabu kinacho bainisha,
+003_00	Hakika tumekiteremsha katika usiku ulio barikiwa. Hakika Sisi ni Waonyaji.
+004_00	Katika usiku huu hubainishwa kila jambo la hikima,
+005_00	Jambo litokalo kwetu. Hakika Sisi ndio wenye kutuma.
+006_00	Ni rehema itokayo kwa Mola wako Mlezi. Hakika Yeye ni Mwenye kusikia Mwenye kujua.
+007_00	Mola Mlezi wa mbingu na ardhi na vilio baina yao, ikiwa nyinyi mna yakini.
+008_00	Hakuna mungu ila Yeye; anahuisha na anafisha- Mola Mlezi wenu na Mola Mlezi wa baba zenu wa mwanzo.
+009_00	Lakini wao wanacheza katika shaka.
+010_00	Basi ingoje siku ambayo mbingu zitakapo leta moshi ulio dhaahiri,
+011_00	Utakao wafunika watu: Hii ni adhabu chungu!
+012_00	Mola wetu Mlezi! Tuondolee adhabu hii. Hakika tutaamini.
+013_00	Nini faida ya kukumbuka kwao? Na alikwisha wafikia Mtume mwenye kubainisha.
+014_00	Na wao wakamgeuzia uso, na wakasema: Huyu amefunzwa, naye ni mwendawazimu.
+015_00	Hakika sisi tutaiondoa adhabu kidogo, lakini nyinyi kwa yakini mtarejea vile vile!
+016_00	Siku tutayo yashambulia mashambulio makubwa, bila ya shaka Sisi ni wenye kutesa.
+017_00	Na hakika kabla ya hawa tuliwafanyia mtihani watu wa Firauni, na aliwafikia Mtume Mtukufu.
+018_00	Akasema: Nipeni waja wa Mwenyezi Mungu; kwa hakika mimi kwenu ni Mtume Muaminifu.
+019_00	Na msimfanyie kiburi Mwenyezi Mungu; hakika mimi nitakuleteeni uthibitisho ulio wazi.
+020_00	Nami najikinga kwa Mola wangu Mlezi na ndiye Mola wenu Mlezi pia, ili msinipige mawe.
+021_00	Na ikiwa hamniamini, basi jitengeni nami.
+022_00	Ndipo akamwomba Mola wake Mlezi: Hakika watu hawa ni wakosefu.
+023_00	Mwenyezi Mungu akasema: Basi nenda na waja wangu usiku. Kwa yakini mtafuatwa.
+024_00	Na iache bahari vivyo hivyo imeachana, hakika wao hao ni jeshi litakalo zamishwa.
+025_00	Mabustani mangapi, na chemchem ngapi waliziacha!
+026_00	Na mimea na vyeo vitukufu!
+027_00	Na neema walizo kuwa wakijistareheshea!
+028_00	Ndio hivyo! Na tukawarithisha haya watu wenginewe.
+029_00	La mbingu wala ardhi hazikuwalilia, wala hawakupewa muhula.
+030_00	Na bila ya shaka tuliwaokoa Wana wa Israili katika adhabu ya kuwadhalilisha,
+031_00	Ya Firauni. Hakika yeye alikuwa jeuri katika wenye kupindukia mipaka.
+032_00	Na tuliwakhiari kwa ujuzi wetu kuliko walimwengu wenginewe.
+033_00	Na tukawapa katika ishara zenye majaribio yaliyo wazi.
+034_00	Hakika hawa wanasema:
+035_00	Hapana ila kufa kwetu mara ya kwanza tu, wala sisi hatufufuliwi.
+036_00	Basi warudisheni baba zetu, ikiwa nyinyi mnasema kweli.
+037_00	Je! Ni wao bora au watu wa Tubbaa' na walio kuwa kabla yao? Tuliwaangamiza. Hakika hao walikuwa wakosefu.
+038_00	Na hatukuziumba mbingu na ardhi na vilivyomo baina yake kwa mchezo.
+039_00	Hatukuviumba hivyo ila kwa Haki, lakini wengi wao hawajui.
+040_00	Hakika siku ya Uamuzi ni wakati ulio wekwa kwa wao wote.
+041_00	Siku ambayo rafiki hatamfaa rafiki yake kwa chochote, wala hawatanusuriwa.
+042_00	Isipo kuwa atakaye mrehemu Mwenyezi Mungu. Hakika Yeye ndiye Mwenye nguvu, Mwenye kurehemu.
+043_00	Hakika Mti wa Zaqqum,
+044_00	Ni chakula cha mwenye dhambi.
+045_00	Kama shaba iliyo yayushwa, hutokota matumboni
+046_00	Kama kutokota kwa maji ya moto.
+047_00	(Itasemwa:) Mkamateni na mtupeni katikati ya Jahannamu!
+048_00	Kisha mmwagieni juu ya kichwa chake adhabu ya maji yanayo chemka.
+049_00	Onja! Ati wewe ndiye mwenye nguvu, mtukufu!
+050_00	Hakika haya ndiyo mliyo kuwa mkiyatilia shaka.
+051_00	Hakika wachamngu watakuwa katika mahali pa amani,
+052_00	Katika mabustani na chemchem,
+053_00	Watavaa hariri nyepesi na hariri nzito wakikabiliana,
+054_00	Hivi ndivyo itakavyo kuwa, na tutawaoza mahurilaini.
+055_00	Humo watataka kila aina ya matunda, na wakae kwa amani.
+056_00	Humo hawataonja mauti ila mauti yale ya kwanza, na (Mwenyezi Mungu) atawalinda na adhabu ya Jahannamu,
+057_00	Kuwa ni fadhila zitokazo kwa Mola wako Mlezi. Huko ndiko kufuzu kukubwa.
+058_00	Basi tumeifanya nyepesi hii Qur'ani kwa ulimi wako, ili wapate kukumbuka.
+059_00	Ngoja tu, na wao wangoje pia.

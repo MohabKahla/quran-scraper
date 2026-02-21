@@ -1,0 +1,44 @@
+001_00	Muulizaji aliuliza juu ya adhabu itakayo tokea,
+002_00	Kwa makafiri - ambayo hapana awezaye kuizuia -
+003_00	Kutoka kwa Mwenyezi Mungu Mwenye mbingu za daraja.
+004_00	Malaika na Roho hupanda kwendea kwake katika siku ambayo kadiri yake ni miaka khamsini elfu!
+005_00	Basi subiri kwa subira njema.
+006_00	Hakika wao wanaiona iko mbali,
+007_00	Na Sisi tunaiona iko karibu.
+008_00	Siku ambayo mbingu zitakapo kuwa kama maadeni iliyo yayushwa.
+009_00	Na milima itakuwa kama sufi.
+010_00	Wala jamaa hatamuuliza jamaa yake.
+011_00	Ijapo kuwa wataonyeshwa waonane. Atatamani mkosefu lau ajikomboe na adhabu ya siku hiyo kwa kuwatoa fidia wanawe,
+012_00	Na mkewe, na nduguye,
+013_00	Na jamaa zake walio kuwa wakimkimu,
+014_00	Na wote waliomo duniani, kisha aokoke yeye.
+015_00	La, hasha! Kwa hakika huo ni Moto mkali kabisa,
+016_00	Unao babua ngozi ya kichwa!
+017_00	Utamwita kila aliye geuza mgongo na akageuka.
+018_00	Na akakusanya mali, kisha akayahifadhi.
+019_00	Hakika mtu ameumbwa na papara.
+020_00	Inapo mgusa shari hupapatika.
+021_00	Na inapo mgusa kheri huizuilia.
+022_00	Isipo kuwa wanao sali,
+023_00	Ambao wanadumisha Sala zao,
+024_00	Na ambao katika mali yao iko haki maalumu
+025_00	Kwa mwenye kuomba na anaye jizuilia kuomba;
+026_00	Na ambao wanaisadiki Siku ya Malipo,
+027_00	Na ambao wanaiogopa adhabu itokayo kwa Mola wao Mlezi.
+028_00	Hakika adhabu ya Mola wao Mlezi si ya kuaminika nayo.
+029_00	Na ambao wanahifadhi tupu zao.
+030_00	Isipo kuwa kwa wake zao, au iliyo wamiliki mikono yao ya kuume, basi hao hawalaumiwi -
+031_00	Lakini wanao taka kinyume ya haya, basi hao ndio wanao ruka mipaka.
+032_00	Na ambao wanazichunga amana zao na ahadi zao,
+033_00	Na ambao wanasimama imara katika ushahidi wao,
+034_00	Na ambao wanazihifadhi Sala zao.
+035_00	Hao ndio watakao hishimiwa Peponi.
+036_00	Wana nini wale walio kufuru wanakutumbulia macho tu?
+037_00	Makundi kwa makundi upande wa kulia na upande wa kushoto!
+038_00	Kwani kila mmoja wao anatumai kuingizwa katika Pepo ya neema?
+039_00	La, hasha! Hakika Sisi tumewaumba kutokana na wanacho kijua.
+040_00	Basi naapa kwa Mola Mlezi wa mashariki zote na magharibi zote kwamba Sisi tunaweza
+041_00	Kuwabadili kwa walio bora kuliko wao; na Sisi hatushindwi.
+042_00	Basi waache wapige porojo na wacheze, mpaka wakutane na siku yao wanayo ahidiwa,
+043_00	Siku watakapotoka makaburini kwa upesi kama kwamba wanakimbilia mfundo,
+044_00	Macho yao yatainama, fedheha itawafunika. Hiyo ndiyo Siku waliyo kuwa wakiahidiwa.

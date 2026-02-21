@@ -1,0 +1,8 @@
+001_00	Idan aka girgiza ƙasa, girgizawarta.
+002_00	Kuma ƙasa ta fitar da kayanta, masu nauyi.
+003_00	Kuma mutum ya ce "Mẽ neya same ta?"
+004_00	A rãnar nan, zã ta faɗi lãbãrinta.
+005_00	cewa Ubangijinka Ya yi umurni zuwa gare ta.
+006_00	A rãnar nan mutane za su fito dabam-dabam domin a nuna musu ayyukansu.
+007_00	To, wanda ya aikata (wani aiki) gwargwadon nauyin zarra, na alheri, zai gan shi.
+008_00	Kuma wanda ya aikata gwargwadon nauyin zarra na sharri, zai gan shi.

@@ -1,0 +1,64 @@
+001_00	Inã rantsuwa da taurãron, a lõkacin da ya faku.
+002_00	Ma'abũcinku bai ɓata ba, kuma bai ƙẽtare haddi ba.
+003_00	Kuma bã ya yin magana daga son zuciyarsa.
+004_00	(Maganarsa) ba ta zamo ba, fãce wahayi ne da ake aikõwa.
+005_00	(Malã'ika) mai tsananin ƙarfi ya sanar da shi.
+006_00	Ma'abũcin ƙarfi da kwarjini, sa'an nan ya daidaita.
+007_00	Alhãli kuwa yanã a sararin samã mafi aukaka.
+008_00	Sa'an nan ya kusanta, kuma ya matsa zurõwa.
+009_00	Har ya kasance gwargwadon zirã'i biyu, kõ kuma abin da ya fi kusa.
+010_00	Sa'an nan ya yi wahayi zuwa ga bãwan Allah (Muhammadu) da abin da ya faɗa (masa).
+011_00	Zũciyar (Annabi) bata ƙaryata abin da ya gani ba.
+012_00	Shin, zã ku yi masa musu a kan abin da yake gani?
+013_00	Kuma lalle ya gan shi, haƙĩƙatan, a wani lõkacin saukarsa.
+014_00	A wurin da magaryar tuƙẽwa take.
+015_00	A inda taken, nan Aljannar makoma take.
+016_00	Lõkacin da abin da yake rufe magaryar tuƙẽwa ya rufe ta.
+017_00	Ganinsa bai karkata ba, kuma bai ƙetare haddi ba.
+018_00	Lalle, tabbas, (Annabinku) ya ga waɗanda suka fi girma daga ãyõyin Ubangijinsa.
+019_00	Shin, kun ga Lãta da uzza?
+020_00	Da (wani gunki wai shi) Manãta, na ukunsu?
+021_00	Ashe, kũ ne da ɗa namiji Shĩ (Allah) kuma da ɗiya mace?
+022_00	Wannan fa ya zama rabo naƙasasshe.
+023_00	Waɗannan bã kõme ba ne fãce sũnãye, waɗanda kuka ambace su da su, kũ da uwãyenku. Allah bai saukar da wani dalĩli game da su ba.
+023_01	(Kãfirai) bã su biyar kõme fãce zato da abin da rãyukansu ke so, Alhãli kuwa shiriyar ta daga wajen Ubangijinsu, ta jẽ musu (sai suka bar ta suka kõma wa zaton).
+024_00	Ko (an fai cẽwa) mutum zai sãmi abin da yake gũri?
+025_00	To, Lãhira da dũniya na Allah kawai ne (wanda ya nẽme su daga wani, yã yi kuskure).
+026_00	Akwai malã'iku da yawa a cikin sammai cẽtonsu bã ya wadãtar da kõme fãce bãyan Allah Yã yi izni (da shi) ga wanda Yake so, kuma Yake yarda.
+027_00	Lalle waɗannan da bã su yin ĩmãni da Lãhira, haƙĩƙa sunã kiran malã'iku da sũnan mace.
+028_00	Kuma bã su da wani ilmi game da shi, bã su bin kõme fãce zato alhãli kuwa lalle zato bã ya amfãnar da kõme daga gaskiya.
+029_00	Sabõda haka sai ka kau da kai daga wanda ya jũya bãya daga ambatonMu kuma bai yi nufin kõme ba fãce rãyuwar kusa (dũniya).
+030_00	Wannan ita ce iyãkar abin da suke iya kai gare shi na ilmi. lalle Ubangijinka Shĩ ne Mafi sanin wanda ya ɓace daga hanyarSa, kuma Shi ne Mafi sani ga wanda ya nẽmi shiriya.
+031_00	Kuma abin da ke cikin sammai da abin da yake a cikin ƙasã na Allah kawai ne, dõmin Yã sãka wa waɗanda suka mũnana da abin da suka aikata, kuma Ya sãka wa waɗanda suki kyautata da sakamakon da ya fi kyau.
+032_00	Waɗanda ke nĩsantar manyan zunubai da abũbuwan alfãsha, fãce ƙanãnan laifuffuka, lalle Ubangijinka Mai yalwatattar gãfara ne, Shĩ ne Ya fi sani ga abinda ke gare ku a lõkacin da Ya ƙãga halittarku daga ƙasa, kuma a lõkacin da kuke tãyuna a cikin cikannan uwãyenku.
+032_01	Sabõda haka, kada ku tsarkake kanku, Shĩ ne Mafi sani ga wanda ya yi taƙawa.
+033_00	Shin, ka ga wannan da ya jũya baya?
+034_00	Ya yi kyauta kaɗan, kuma ya yi rowa?
+035_00	Shin, akwai ilmin gaibi a wurinsa, Sabõda haka yanã ganin gaibin?
+036_00	Ko kuwa ba a ba shi lãbãri ba ga abin da yake a cikin Littafan Mũsã?
+037_00	Da Ibrãhĩm wanda ya cika alkawari?
+038_00	Cẽwa wani rai mai kãyan laifi bã ya ɗaukar kãyan laifin wani.
+039_00	Kuma mutum bã shi da kõme fãce abin da ya aikata.
+040_00	Kuma lalle, aikinsa zã a gan shi.
+041_00	Sa'an nan a sãka masa da sakamako wanda yake mafi cikar ma'auni?
+042_00	Kuma lalle, makõmar zuwa Ubangijinka kawai take?
+043_00	Kuma lalle, Shĩ, Shĩ ne Ya sanya dariya, kuma Ya sanya kũka.
+044_00	Kuma lalle, Shĩ, Shĩ ne Ya kashe, kuma Ya rãyar.
+045_00	Kuma lalle Shĩ ne Ya yi halitta nau'i-nau'i, namiji da mace.
+046_00	Daga wani ɗigon ruwa guda a lõkacin da ake jẽfa shi a cikin mahaifa.
+047_00	Kuma a kansa ne ƙãga halitta ta biyu take.
+048_00	Kuma lalle, Shĩ, Shĩ ne Ya azurta, kuma Ya wadãtar.
+049_00	Kuma lalle, Shĩ, Shi ne Ubangijin Shi'ira.
+050_00	Kuma lalle, Shĩ, Shĩ ne Ya halaka Ãdãwa na farko.
+051_00	Da Samũdãwa, sa'an nan bai rage su ba.
+052_00	Da mutãnen Nũhu a gabãnin haka, lalle sũ sun kasance mafi zãlunci kuma mafi girman kai.
+053_00	Da waɗanda aka birkice ƙasarsu, Ya kãyar da su.
+054_00	Sa'an nan abin da ya rufe su, ya rufe su.
+055_00	To, da wace daga ni'imõmin Ubangijinka kake yin shakka?
+056_00	wannan (Muhammadu) mai gargaɗi ne kamar irin mãsu gargaɗi na farko.
+057_00	Makusanciya fa, tã yi kusa.
+058_00	Bãbu wani rai, banda Allah, mai iya bãyani gare ta.
+059_00	Shin, kuma daga wannan lãbãri kuke mãmãki?
+060_00	Kuma kunã yin dãriya, kuma bã ku yin kũka?
+061_00	Alhãli kunã mãsu wãsã?
+062_00	To, ku yi tawãli'u ga Allah, kuma ku bauta (masa).

@@ -1,0 +1,20 @@
+001_00	JAG kallar detta land att vittna -
+002_00	detta land där du är fri att bo -
+003_00	och Jag kallar människorna och deras avkomma!
+004_00	Helt visst har Vi skapat människan för [ett liv av] slit, plågor och prövningar.
+005_00	Tror hon att ingen skall få makt över henne
+006_00	Hon skryter: "Jag har förbrukat en förmögenhet!"
+007_00	Tror hon kanske att ingen har sett henne?
+008_00	Har Vi inte gett henne ögon,
+009_00	tunga och läppar,
+010_00	och visat henne de två huvudvägarna
+011_00	Men hon gör sig ingen brådska att slå in på den väg som bär brant uppför.
+012_00	Vad kan låta dig ana vad det innebär [att slå in på] den väg som bär brant uppför
+013_00	[Det innebär] att befria [en människa] från slaveri,
+014_00	eller att i hungerns tider föda
+015_00	en faderlös anförvant
+016_00	eller en människa som lider nöd.
+017_00	[Det innebär] också att vara en av dem som tror och som uppmanar varandra att ha tålamod och uppmanar varandra att visa medkänsla [med de sämre lottade].
+018_00	Dessa är de rättfärdiga som hör till den högra sidan.
+019_00	Men de som envist framhärdar i att förneka Våra budskap är de orättfärdiga som hör till den vänstra sidan.
+020_00	Eldens [lågor] skall sluta sig omkring dem från alla håll.

@@ -1,0 +1,40 @@
+001_00	Ninaapa kwa Siku ya Kiyama!
+002_00	Na ninaapa kwa nafsi inayo jilaumu!
+003_00	Anadhani mtu kuwa Sisi hatutaikusanya mifupa yake?
+004_00	Kwani! Sisi tunaweza hata kuziweka sawa sawa ncha za vidole vyake!
+005_00	Lakini mtu anataka tu kuendelea na maasi kwa siku zilioko mbele yake.
+006_00	Anauliza: Lini itakuwa hiyo Siku ya Kiyama?
+007_00	Basi jicho litapo dawaa,
+008_00	Na mwezi utapo patwa,
+009_00	Na likakusanywa jua na mwezi,
+010_00	Siku hiyo mtu atasema: Yako wapi makimbilio?
+011_00	La! Hapana pa kukimbilia!
+012_00	Siku hiyo pa kutua ni kwa Mola wako Mlezi tu.
+013_00	Siku hiyo ataambiwa aliyo yatanguliza na aliyo yaakhirisha.
+014_00	Bali mtu ni hoja juu ya nafsi yake.
+015_00	Na ingawa atatoa chungu ya udhuru.
+016_00	Usiutikisie huu wahyi ulimi wako kwa kuufanyia haraka.
+017_00	Hakika ni juu yetu kuukusanya na kuusomesha.
+018_00	Tunapo usoma, basi nawe fuatiliza kusoma kwake.
+019_00	Kisha ni juu yetu kuubainisha.
+020_00	Hasha! Bali nyinyi mnapenda maisha ya duniani,
+021_00	Na mnaacha maisha ya Akhera.
+022_00	Zipo nyuso siku hiyo zitao ng'ara,
+023_00	Zinamwangallia Mola wao Mlezi.
+024_00	Na zipo nyuso siku hiyo zitakao kunjana.
+025_00	Zitajua ya kuwa zitafikiwa na livunjalo uti wa mgongo.
+026_00	La, hasha! (Roho) itakapo fikia kwenye mafupa ya koo,
+027_00	Na pakasemwa: Nani wa kumganga?
+028_00	Na mwenyewe akajua kwa hakika kuwa huko ndiko kufariki;
+029_00	Na utapo ambatishwa muundi kwa muundi,
+030_00	Siku hiyo ndiyo kuchungwa kupelekwa kwa Mola wako Mlezi!
+031_00	Kwa sababu hakusadiki, wala hakusali.
+032_00	Bali alikanusha, na akageuka.
+033_00	Kisha akenda kwa ahali zake kwa matao.
+034_00	Ole wako, ole wako!
+035_00	Kisha Ole wako, ole wako!
+036_00	Ati anadhani binaadamu kuwa ataachwa bure?
+037_00	Kwani hakuwa yeye tone ya manii lilio shushwa?
+038_00	Kisha akawa kidonge cha damu, tena Mwenyezi Mungu akamuumba na akamtengeneza vilivyo.
+039_00	Kisha akamfanya namna mbili, mwanamume na mwanamke.
+040_00	Je! Huyo hakuwa ni Muweza wa kufufua wafu?

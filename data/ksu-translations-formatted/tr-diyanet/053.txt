@@ -1,0 +1,64 @@
+001_00	Batmakta olan yıldıza and olsun ki,
+002_00	Arkadaşınız (Muhammed) sapmamış ve azmamıştır.
+003_00	O, kendiliğinden konuşmamaktadır.
+004_00	Onun konuşması ancak, bildirilen bir vahy iledir.
+005_00	Ona, çetin kuvvetlere sahip ve güçlü olan Cebrail öğretmiştir; en yüksek ufukta iken doğruluvermiş.
+006_00	Ona, çetin kuvvetlere sahip ve güçlü olan Cebrail öğretmiştir; en yüksek ufukta iken doğruluvermiş.
+007_00	Ona, çetin kuvvetlere sahip ve güçlü olan Cebrail öğretmiştir; en yüksek ufukta iken doğruluvermiş.
+008_00	Sonra yaklaşmış ve inmiştir.
+009_00	Araları iki yay aralığı kadar veya daha da yakın oldu.
+010_00	Allah o anda kuluna vahyedeceğini etti.
+011_00	Gözünün gördüğünü gönlü yalanlamadı.
+012_00	Ey inkarcılar! Onun gördüğü şey hakkında kendisi ile tartışır mısınız?
+013_00	And olsun ki o, Cebrail'i sınırın sonunda başka bir inişinde de görmüştür.
+014_00	And olsun ki o, Cebrail'i sınırın sonunda başka bir inişinde de görmüştür.
+015_00	Orada Me'va cenneti vardır.
+016_00	Sidre'yi bürüyen bürüyordu.
+017_00	Gözü oradan ne kaydı ve ne de onu aştı.
+018_00	And olsun ki Rabbinin varlığının büyük delillerini gördü.
+019_00	Ey inkarcılar! Şimdi Lat, Uzza ve bundan başka üçüncüleri olan Menat'ın ne olduğunu söyler misiniz?
+020_00	Ey inkarcılar! Şimdi Lat, Uzza ve bundan başka üçüncüleri olan Menat'ın ne olduğunu söyler misiniz?
+021_00	Demek erkekler sizin, dişiler Allah'ın mı?
+022_00	Öyleyse bu haksız bir paylaşma;
+023_00	Bunlar sizin ve babalarınızın taktığı adlardan başka bir şey değildir. Allah onları destekleyen bir delil indirmemiştir.
+023_01	Onlar sadece sanıya ve canlarının istediğine uymaktadırlar. Oysa onlara Rablerinden and olsun ki doğruluk rehberi gelmiştir.
+024_00	Yoksa, her umduğu şey insanın mıdır?
+025_00	Hayatın ilki de sonu da Allah'ındır.
+026_00	Allah, dilediğine ve hoşnut olduğuna izin vermedikçe, göklerde bulunan nice meleklerin şefaati bir şeye yaramaz.
+027_00	Doğrusu ahirete inanmayanlar, meleklere "dişi" adını takarlar.
+028_00	Oysa onların bu hususta bir bilgileri yoktur, sadece sanıya uyarlar. Sanı ise şüphesiz gerçeği ifade etmez.
+029_00	Bizi anmaktan yüz çevirenlere ve dünya hayatından başka bir şey istemeyenlere aldırma.
+030_00	Bu onların ulaştıkları bilginin seviyesini gösterir. Doğrusu Rabbin yolundan sapmış olanı pek iyi bilir, doğru yolda olanı da çok iyi bilir.
+031_00	Göklerde olanlar ve yerde olanlar Allah'ındır ki O, kötülük yapanlara işlerinin karşılığını verir; iyi davrananlara, ufak tefek kabahatleri bir yana büyük günahlardan ve hayasızlıklardan kaçınanlara işlediklerinden daha iyisiyle karşılığını verir. Doğrusu Rabbinin bağışı boldur. Sizi yerden var ederken ve siz annelerinizin karınlarında cenin halinde iken sizleri çok iyi bilen O'dur. Kendinizi temize çıkarmayın. O, sakınanı çok iyi bilir.
+032_00	Göklerde olanlar ve yerde olanlar Allah'ındır ki O, kötülük yapanlara işlerinin karşılığını verir; iyi davrananlara, ufak tefek kabahatleri bir yana büyük günahlardan ve hayasızlıklardan kaçınanlara işlediklerinden daha iyisiyle karşılığını verir. Doğrusu Rabbinin bağışı boldur.
+032_01	Sizi yerden var ederken ve siz annelerinizin karınlarında cenin halinde iken sizleri çok iyi bilen O'dur. Kendinizi temize çıkarmayın. O, sakınanı çok iyi bilir.
+033_00	Yüz çevireni ve malından biraz verip sonra vermemekte direneni gördün mü?"
+034_00	Yüz çevireni ve malından biraz verip sonra vermemekte direneni gördün mü?"
+035_00	Görülmeyenin ilmi yanında da o mu görüyor?
+036_00	Yoksa Musa'nın ve sözünü yerine getiren İbrahim'in kitablarında olanlar kendisine bildirilmedi mi ki?
+037_00	Yoksa Musa'nın ve sözünü yerine getiren İbrahim'in kitablarında olanlar kendisine bildirilmedi mi ki?
+038_00	Hiç bir günahkar başkasının günah yükünü yüklenmez;
+039_00	İnsan ancak çalıştığına erişir.
+040_00	Onun çalışması şüphesiz görülecektir.
+041_00	Sonra ona karşılığı eksiksiz verilecektir.
+042_00	Doğrusu son varış Rabbinedir.
+043_00	Doğrusu, güldüren de ağlatan da O'dur.
+044_00	Doğrusu dirilten de öldüren de O'dur.
+045_00	Doğrusu, atıldığında meniden erkek ve dişiyi, iki çifti yaratan O'dur.
+046_00	Doğrusu, atıldığında meniden erkek ve dişiyi, iki çifti yaratan O'dur.
+047_00	Doğrusu ölümden sonra tekrar dirilten de O'dur.
+048_00	Doğrusu zengin eden de varlıklı kılan da O'dur.
+049_00	Doğrusu Şira yıldızının Rabbi O'dur.
+050_00	İlk Ad milletini, Semud milletini yok edip geri bırakmayan O'dur.
+051_00	İlk Ad milletini, Semud milletini yok edip geri bırakmayan O'dur.
+052_00	Daha önce de Nuh milletini yok eden O'dur; çünkü onlar çok zalim ve pek taşkın kimselerdi.
+053_00	Lut milletinin kasabalarını yere batıran, onları gömdükçe gömen O'dur.
+054_00	Lut milletinin kasabalarını yere batıran, onları gömdükçe gömen O'dur.
+055_00	Ey kişi! Rabbinin hangi nimetinden şüpheye düşersin?
+056_00	İşte ilk uyaranlar gibi bu da bir uyarandır.
+057_00	Kıyamet yaklaştıkça yaklaşmıştır.
+058_00	Onu Allah'tan başka ortaya koyacak yoktur.
+059_00	Bu söze mi şaşıyorsunuz?
+060_00	Gülüyorsunuz... Ağlamıyorsunuz.
+061_00	Habersiz oyalanmaktasınız.
+062_00	Artık secdeye varın, Allah'a kulluk edin.

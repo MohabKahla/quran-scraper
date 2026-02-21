@@ -1,0 +1,96 @@
+001_00	Idan mai aukuwa ta auku.
+002_00	Bãbu wani (rai) mai ƙaryatãwa ga aukuwarta.
+003_00	(Ita) mai ƙasƙantãwa ce, mai ɗaukakãwa.
+004_00	Idan aka girgiza ƙasã girgizwa.
+005_00	Kuma aka niƙe duwãtsu, niƙẽwa.
+006_00	Sai suka kasance ƙũra da ake wãtsarwa.
+007_00	Kuma kun kasance nau'i uku.
+008_00	Watau mazõwa dãma. Mẽne ne mazõwa dãma?
+009_00	Da mazõwa hagu. Mẽne ne mazõwa hagu?
+010_00	Da waɗanda suka tsẽre. Sũ wɗanda suka tsẽren nan,
+011_00	Waɗancan, sũ ne waɗanda aka kusantar.
+012_00	A ckin Aljannar ni'ima.
+013_00	Jama'a ne daga mutãnen farko.
+014_00	Da kaɗan daga mutãnen ƙarshe.
+015_00	(Sunã) a kan wasu gadãje sãƙaƙƙuu.
+016_00	Sunã gincire a kansu, sunã mãsu kallon jũna.
+017_00	Wasu yara samãri na dindindin gẽwaya a kansu.
+018_00	Da wasu kõfuna da shantula da hinjãlai daga (giya) mai ɓuɓɓuga.
+019_00	Bã a sanya musu cĩwon jirĩ sabõda ita, kuma bã su buguwa.
+020_00	Da wasu 'ya'yan itãcen marmari daga irin waɗanda suke zãɓe.
+021_00	Da nãman tsuntsãye daga wanda suke ganin sha'awa.
+022_00	Da wasu mãtã mãsu fararen idanu da girmansu.
+023_00	Kamar misãlan lu'ulu'u wanda aka ɓõye.
+024_00	A kan sakamakon, dõmin abin da suka kasance sunã aikatãwa.
+025_00	Bã su jin wata yãsassar magana a cikinta, kuma bã su jin sun yi laifi.
+026_00	Sai dai wata magana (mai dãɗi): Salãmun, Salãmun.
+027_00	Da mazõwa dãma. Mẽne ne mazõwa dãma?
+028_00	(Sunã) a cikin itãcen magarya maras ƙaya.
+029_00	Da wata ayaba mai yawan 'ya'ya.
+030_00	Da wata inuwa mĩƙaƙƙiya.
+031_00	Da wani ruwa mai gudãna.
+032_00	Da wasu 'ya'yan itacen marmari mãsu yawa.
+033_00	Bã su yankẽwa kuma bã a hana su.
+034_00	Da wasu shimfiɗu maɗaukaka.
+035_00	Lalle Mũ, Mun ƙãga halittarsu ƙãgãwa.
+036_00	Sa'an nan Muka sanya su budurwai.
+037_00	Mãsu son mazansu, a cikin tsãrã ɗaya.
+038_00	Ga mazõwa dãma.
+039_00	Wata ƙungiya ce daga mutãnen farko.
+040_00	Da wata ƙungiya daga mutãnen ƙarshe.
+041_00	Mazõwa hagu, Mẽne ne mazõwa hagu?
+042_00	Sunã a cikin wata iskar zãfi da wani ruwan zãfi.
+043_00	Da wata inuwa ta hayãƙi mai baƙi.
+044_00	Bã mai sanyi ba, kuma bã mai wata ni'ima ba.
+045_00	Lalle sũ, sun kasance a gabãnin wannan waɗanda aka jiyar dãɗi.
+046_00	Kuma sun kasance sunã dõgẽwa a kan mummũnan zunubi mai girma.
+047_00	Kuma sun kasance sunã cẽwa: "Shin idan mun mutukuma muko kasance turɓãya da ƙasũsuwa shin lalle mũ waɗanda zã a kõma rãyarwa ne haƙĩƙatan?"
+048_00	"Shin, kuma da ubanninmu na farko?"
+049_00	Ka ce: "Lalle mutãnen farko da na ƙarshe."
+050_00	"Tabbas, waɗanda ake tãrãwa ne a cikin wani yini sananne."
+051_00	"Sa'an nan lalle ku, ya kũ ɓatattu, mãsu ƙaryatãwa!"
+052_00	"Lalle mãsu cĩ ne daga wata itãciya ta zaƙƙum (ɗanyen wutã)."
+053_00	"Har za ku zama mãsu cika cikunna daga gare ta."
+054_00	"Sa'an nan kuma mãsu shã ne, a kan wannan abin cin, daga ruwan zãfi."
+055_00	"Ku zama mãsu shã irin shan rãƙuma mãsu ƙishirwa."
+056_00	Wannan ita ce liyãfarsu a rãnar sakamako.
+057_00	Mũ ne Muka halitta ku, to, don me bã zã ku gaskata ba?
+058_00	Shin kuma kun ga abin da kuke fitarwa na maniyyi?
+059_00	Shin kũ ne kuke halitta shi, kõ kuwa mũ ne Mãsu halittãwa?
+060_00	Mũ ne Muka ƙaddara mutuwa a tsakãninku, kuma ba Mu zama Mãsu gajiyãwa ba,
+061_00	A kan Mu musanya waɗansu (mutãne) kamarku, kuma Mu mayar da ku a cikin wata halitta da ba ku sani ba.
+062_00	Kuma lalle, ne haƙĩƙa, kun san halittar farko, to, don me ba zã ku yi tunãni ba?
+063_00	Shin, kuma kun ga abin da kũke nõmãwa?
+064_00	Shin, kũ ne ke tsirar da shi kõ kuwa Mũ ne Mãsu tsirarwa?
+065_00	Dã Munã so lalle, da Mun sanya shi bũsasshiyar ciyãwa, sai ku yini kunã mãmãkin bãƙin ciki.
+066_00	(Kunã cẽwa) "Lalle haƙĩƙa an azã mana tãra!"
+067_00	"Ã'a, mun dai zama waɗanda aka hanã wa!"
+068_00	Shin, kuma kun ga ruwa wannan da kuke sha?
+069_00	Shin, kũ ne kuke saukar da shi daga girgije, kõ kuwa Mũne Mãsu saukarwa?
+070_00	Dã Mun so, dã Mun mayar da shi ruwan zartsi. To don me bã ku gõdẽwa?
+071_00	Shin, kuma kun ga wutã wannan da kuke ƙyastãwa?
+072_00	Shin, kũ ne kuke ƙagã halittar itãciyarta, kõ kuwa Mũ ne Mãsu ƙãgãwa?
+073_00	Mũ ne Muka sanya ta wata abar wa'azi da jin dãɗi ga matafiya a cikin jẽji.
+074_00	Sai ka tsarkake sũnan Ubangijinka Mai girma.
+075_00	To, bã sai Na yi rantsuwa ba da lõkutan fãɗuwar taurãri.
+076_00	Kuma lalle ne' haƙĩƙa, rantsuwa ce mai girma, dã kun sani.
+077_00	Lalle shi (wannan littãfi), haƙĩƙa, abin karantãwa ne mai daraja.
+078_00	A cikin wani littafi tsararre.
+079_00	Bãbu mai shãfa shi fãce waɗanda aka tsarkake.
+080_00	Wanda aka saukar ne daga Ubangijin halitta.
+081_00	Shin, to, wannan lãbãrin ne kuke mãsu wulãkantãwa?
+082_00	Kuma kunã sanya arzikinku (game da shi) lalle kũ, ku ƙaryata (shi)?
+083_00	To, don me idan rai ya kai ga maƙõshi? (Kusa da mutuwa).
+084_00	Alhãli kuwa kũ, a lõklcin nan, kunã kallo.
+085_00	Kuma Mũ ne mafi kusanta gare shi daga gare ku, to, amma kũ bã ku gani.
+086_00	To, don me in dai kun kasance bã waɗanda zã a yi wa sakamako ba?
+087_00	Ku mayar da shi (cikin jikinsa) har idan kun kasance mãsu gaskiya.
+088_00	To, amma idan (mai mutuwar) ya kasance daga makusanta,
+089_00	Sai hũtawa da kyakkyawan abinci da Aljannar ni'ima.
+090_00	Kuma amma idan ya kasance daga mazõwa dãma,
+091_00	Sai (a ce masa) aminci ya tabbata a gare ka daga mazõwa dãma.
+092_00	Kuma amma idan ya kasance daga mãsu ƙaryatãwar, ɓatattun,
+093_00	Sai wata liyãfa ta ruwan zãfi.
+094_00	Da ƙõnuwa da Jahĩm,
+095_00	Lalle wannan, haƙĩƙa, ita ce gaskiya ta yaƙĩni.
+096_00	Sabõda haka, ka tsarkake sũnan Ubangijinka, Mai karimci.

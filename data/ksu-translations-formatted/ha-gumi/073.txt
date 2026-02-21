@@ -1,0 +1,24 @@
+001_00	Yã wanda ya lulluɓe!
+002_00	Ka tsayu domin yin salla a cikin dare (duka) fãce kaɗan.
+003_00	Rabinsa, ko ka rage abu kaɗan daga gare shi.
+004_00	Ko ka ƙara kansa kuma ka kyautata karanta Alƙu'ãni, daki daki.
+005_00	Lalle ne, Mũ, zã Mu jẽfa maka magana mai nauyi.
+006_00	Lalle ne, tashin dare shi ne mafi tsananin natsuwa, kuma mafi daidaituwa ga magana.
+007_00	Lalle ne, kanã da, a cikin yini, wani tasĩhi mai tsawo.
+008_00	Kuma ka ambaci sũnan Ubangijinka, kuma ka yanke (ƙauna daga kowa ka koma) zuwa gare Shi, yankewa.
+009_00	Shi ne Ubangijin mafitar rãnã da mafãɗarta, bãbu abin bautawa fãce Shi. Sabõda haka ka riƙe Shi wakili.
+010_00	Kuma ka yi haƙuri ga abin da suke faɗã, kuma ka ƙaurace musu, ƙauracẽwa mai kyãwo.
+011_00	Kuma ka bar Ni da mãsu ƙaryatãwa, mawadãta, kuma ka jinkirta musu kaɗan.
+012_00	Lalle ne, a wurinMu, akwai wasu marũruwa mãsu nauyi da Jahĩm.
+013_00	Da wani abinci mai mãƙara da azãba mai raɗaɗi.
+014_00	Rãnar da ƙasa ke raurawa, da duwãtsu kuma duwãtsu su kasance tudun rairayi mai malãlã.
+015_00	Lalle ne, Mũ. Mun aika zuwa gare ku, wani Manzo mai shaida a kanku, kamar yadda Muka aika wani Manzo zuwaga Fir'auna,
+016_00	Sai Fir'auna ya saɓa wa Manzon, saboda haka Muka kãma shi kãmu mai tsanani.
+017_00	To, yãya, idan kun kãfirta, zã ku kãre (azabar) wani yini mai mayar da yãra (tsofaffi) mãsu hurhura.
+018_00	Sama za ta tsãge a cikinsa, wa'adinsa yã kasance mai aukuwa.
+019_00	Lalle ne, wannan wata tunãtarwa ce, sai dai wanda ya so, ya kãma hanyar ƙwarai zuwa ga Ubangijinsa.
+020_00	Lalle ne, Ubangijinka Yã sani cẽwa, kai kana tsayuwa a kusan kashi biyu daga uku na dare, da rabinsa, da sulusinsa, tãre da wani ɓangare na waɗanda ke tãre da kai.
+020_01	Allah Yake iya ƙaddara dare da yini, Ya san bã zã ku iya lissafa shi ba, sabõda haka Ya karɓi tubarku sai, ku karanta abin da ya sauƙaƙa na Alƙur'ãni.
+020_02	Ya san wasu daga cikinku, zã su yi cĩwo, kuma wasu zã su yi tafiya cikin ƙasa suna nẽman falalar Allah da fatauci, kuma wasu zã su yi yãƙi a cikin banyar Allah.
+020_03	Sabõda haka ku karanta abin da ya sauƙaƙa daga gare shi, kuma ku tsai da salla kuma ku bãyar da zakka, kumaa ku bai wa Allah rance, rance mai kyãwo.
+020_04	Kuma abin da kuka gabatar dõmin kanku, na alhẽri, zã ku sãme shi a wurin Allah zai kasance mafifici (daga wanda kuka ajiye) kuma zai fi girma ga sakamako, kuma ku rõƙi Allah gãfara; lalle ne Allah Mai gãfara ne, Mai jin ƙai.

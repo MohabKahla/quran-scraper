@@ -1,0 +1,6 @@
+001_00	Di: ¡Incrédulos!
+002_00	Yo no adoro lo que adoráis
+003_00	ni vosotros adoráis lo que yo adoro.
+004_00	Yo no adoraré lo que vosotros adoráis,
+005_00	ni vosotros adoraréis lo que yo adoro.
+006_00	Para vosotros vuestra adoración y para mí la mía.

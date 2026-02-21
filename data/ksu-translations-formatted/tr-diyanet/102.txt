@@ -1,0 +1,8 @@
+001_00	Çoğunluk olmak iddianız sizi o kadar meşgul etti ki, mezarları ziyaretle oradakileri de sayacak kadar oldunuz.
+002_00	Çoğunluk olmak iddianız sizi o kadar meşgul etti ki, mezarları ziyaretle oradakileri de sayacak kadar oldunuz.
+003_00	Hayır; öyle olmayın; yakında bileceksiniz.
+004_00	Hayır; gözünüzü açın; yakında bileceksiniz.
+005_00	Dikkat edin, şayet yaptığınızın sonucunu kesin olarak bir bilseniz!
+006_00	And olsun ki, cehennemi göreceksiniz.
+007_00	And olsun ki, onu gözünüzle kesin olarak göreceksiniz.
+008_00	Sonra o gün, size verilmiş olan her nimetten sorguya çekileceksiniz.

@@ -1,0 +1,19 @@
+001_00	Ka yi karatu da sunan Ubangijinka, wanda Ya yi halitta.
+002_00	Ya hahitta mutum daga gudan jini.
+003_00	Ka yi karatu, kuma UbangiJinka shi ne Mafi karimci.
+004_00	Wanda Ya sanar (da mutum) game da alƙalami.
+005_00	Ya sanar da mutum abin da bai sani ba.
+006_00	A'aha! Lalle, ne mutum haƙĩƙa, yana girman kai (ya ƙi karatu).
+007_00	Dõmin yã ga kansa, yã wadãta.
+008_00	Lalle ne zuwa ga Ubangijinka makoma take.
+009_00	Shin, kã ga wanda ke hana.
+010_00	Bãwã idan yã yi salla?
+011_00	Ashe, kã gani, idan (shi bãwan) ya kasance a kan shiriya?
+012_00	Ko ya yi umurni da taƙawa?
+013_00	Ashe, kã gani, idan (shi mai hanin) ya ƙaryata, kuma ya jũya bãya?
+014_00	Ashe, bai sani ba cewa Allah Yanã gani?
+015_00	A'aha! Lalle ne, idan bai hanu ba, lalle ne zã Mu ja gãshin makwarkwaɗa.
+016_00	Makwarkwaɗa maƙaryaciya, mai laifi.
+017_00	Sai ya kirayi ƙungiyarsa.
+018_00	Zã Mu kirayi zabaniyãwa (mala'iku mãsu girma).
+019_00	A'aha kada ka bĩ shi. Kuma ka yi tawali'u, kuma ka nemi kusanta (zuwa ga Ubangijinka).

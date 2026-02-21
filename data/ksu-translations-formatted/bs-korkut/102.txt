@@ -1,0 +1,8 @@
+001_00	Zaokuplja vas nastojanje da što imućniji budete
+002_00	sve dok grobove ne naselite.
+003_00	A ne valja tako, saznaćete svakako!
+004_00	I još jednom, ne valja tako! Saznaćete sigurno!
+005_00	Ne valja tako, neka znate pouzdano,
+006_00	Džehennem ćete vidjeti jasno!
+007_00	I još jednom, doista ćete ga vidjeti očigledno!
+008_00	Zatim ćete toga dana za sladak život biti pitani sigurno!

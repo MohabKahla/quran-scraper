@@ -1,0 +1,7 @@
+001_00	Tahukah engkau akan orang yang mendustakan ugama (meliputi hari pembalasan)?
+002_00	Orang itu ialah yang menindas serta berlaku zalim kepada anak yatim,
+003_00	Dan ia tidak menggalakkan untuk memberi makanan yang berhak diterima oleh orang miskin.
+004_00	(Kalau orang yang demikian dikira dari bilangan orang-orang yang mendustakan ugama), maka kecelakaan besar bagi orang-orang Ahli Sembahyang -
+005_00	(laitu) mereka yang berkeadaan lalai daripada menyempurnakan sembahyangnya;
+006_00	(Juga bagi) orang-orang yang berkeadaan riak (bangga diri dalam ibadat dan bawaannya),
+007_00	Dan orang-orang yang tidak memberi sedikit pertolongan (kepada orang yang berhak mendapatnya).

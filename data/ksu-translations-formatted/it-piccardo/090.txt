@@ -1,0 +1,20 @@
+001_00	Lo giuro per questa contrada
+002_00	e tu sei un abitante di questa contrada
+003_00	e per chi genera e per chi è generato.
+004_00	In verità abbiamo creato l'uomo perché combatta.
+005_00	Crede forse che nessuno possa prevalere su di lui?
+006_00	Dice: “Ho dilapidato una quantità di beni”.
+007_00	Crede forse che nessuno lo abbia visto?
+008_00	Non gli abbiamo dato due occhi,
+009_00	una lingua e due labbra?
+010_00	Non gli abbiamo indicato le due vie?
+011_00	Segua dunque la via ascendente.
+012_00	E chi ti farà comprendere cos'è la via ascendente?
+013_00	È riscattare uno schiavo,
+014_00	o nutrire, in un giorno di carestia,
+015_00	un parente orfano
+016_00	o un povero prostrato [dalla miseria],
+017_00	ed essere tra coloro che credono e vicendevolmente si invitano alla costanza e vicendevolmente si invitano alla misericordia.
+018_00	Costoro sono i compagni della destra,
+019_00	mentre coloro che non credono nei Nostri segni, sono i compagni della sinistra.
+020_00	Il Fuoco si chiuderà su di loro.

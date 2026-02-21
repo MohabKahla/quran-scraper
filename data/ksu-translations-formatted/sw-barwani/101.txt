@@ -1,0 +1,11 @@
+001_00	Inayo gonga!
+002_00	Nini Inayo gonga?
+003_00	Na nini kitacho kujuilisha nini Inayo gonga?
+004_00	Siku ambayo watu watakuwa kama nondo walio tawanyika;
+005_00	Na milima itakuwa kama sufi zilizo chambuliwa!
+006_00	Basi yule ambaye mizani yake itakuwa nzito,
+007_00	Huyo atakuwa katika maisha ya kupendeza.
+008_00	Na yule ambaye mizani yake itakuwa khafifu,
+009_00	Huyo maskani yake yatakuwa Moto wa Hawiya!
+010_00	Na nini kitacho kujuilisha nini hiyo?
+011_00	Ni Moto mkali!
