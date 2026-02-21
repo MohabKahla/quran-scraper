@@ -40,3 +40,20 @@ docker/
 *.zip
 *.tar.gz
 *.rar
+
+# Data directories (large files, not needed in git)
+data/
+
+# Documentation (can be large or auto-generated)
+docs/
+
+# Node modules
+node_modules/
+
+# Automation scripts
+scripts/automation/
+
+# Individual scraper scripts (if not needed)
+scripts/scrapers/fetch_surah_translated_names.mjs
+scripts/scrapers/scrape_ksu_translations.mjs
+scripts/scrapers/scrape_quran_all.mjs
